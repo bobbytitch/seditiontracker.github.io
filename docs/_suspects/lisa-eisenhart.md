@@ -14,7 +14,7 @@ layout: suspect
 title: Lisa Eisenhart charged on January 16, 2021
 image: https://seditiontracker.com/images/preview/046.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
-quote:
+quote: "We’re going straight to federal prison if we go in there with weapons."
 author: seditiontrack
 published: true
 ---

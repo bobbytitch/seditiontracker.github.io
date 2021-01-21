@@ -9,6 +9,7 @@ layout: suspect
 title: Eric Munchel charged on January 10, 2021
 image: https://seditiontracker.com/images/preview/001.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
+quote: "Probably the last time I’ll be able to enter the building with armor and . . . fucking weapons."
 author: Sedition Tracker
 ---
 
