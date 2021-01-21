@@ -5,7 +5,7 @@ residence: Florida
 status: Charged
 date: 2021-01-20
 age: 37
-occupation:
+occupation: U.S. Marines (Former)
 affiliations: We the People 1776
 jurisdiction: Federal
 before: 091.png
@@ -22,4 +22,4 @@ published: true
 - [News Report](https://www.pnj.com/story/news/2021/01/20/jesus-rivera-pensacola-man-arrested-capitol-siege-grew-agitated-over-summer/4235901001/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357281/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1357276/download)
-- [Court Appearance](https://www.gannett-cdn.com/presto/2021/01/20/PPEN/38e02794-b30f-426d-9a97-c6a344f5de7e-Jesus_D._Rivera-01.jpg)
+- [Court Appearance (Image)](https://www.gannett-cdn.com/presto/2021/01/20/PPEN/38e02794-b30f-426d-9a97-c6a344f5de7e-Jesus_D._Rivera-01.jpg)
