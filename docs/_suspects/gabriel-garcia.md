@@ -5,7 +5,7 @@ residence: Florida
 status: Charged
 date: 2021-01-19
 age: 40
-occupation:
+occupation: U.S. Army (Former)
 affiliations: Proud Boys
 jurisdiction: Federal
 before: 077.png
