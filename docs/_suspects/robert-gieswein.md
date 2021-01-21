@@ -9,7 +9,7 @@ occupation: Founder of Woodland Wild Dogs (Paramilitary Training Group)
 affiliations: Three Percenters
 jurisdiction: Federal
 before: 058.png
-after:
+after: robert-gieswein.jpg
 layout: suspect
 title: Robert Gieswein charged on January 16, 2021
 image: https://seditiontracker.com/images/preview/058.png
