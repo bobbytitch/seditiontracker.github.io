@@ -21,4 +21,4 @@ published: true
 
 - [News Report](https://www.firstcoastnews.com/article/news/crime/jacksonville-man-arrested-charged-in-deadly-capitol-riot/77-c247b5a6-100b-462c-a035-3c458106725d)
 - [FBI Statement](https://news.wjct.org/post/baker-county-man-arrested-charged-connection-siege-us-capitol)
-- [Self Incrimination](https://bakercountypress.com/2021/01/local-man-involved-in-capitol-siege/)
+- [Self Incrimination (Interview)](https://bakercountypress.com/2021/01/local-man-involved-in-capitol-siege/)
