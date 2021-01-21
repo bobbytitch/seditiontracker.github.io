@@ -14,7 +14,7 @@ layout: suspect
 title: Jorden Mink charged on January 19, 2021
 image: https://seditiontracker.com/images/preview/084.png
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
+quote: "The ballot is stronger than the bullet. Well … my magazines will be fully loaded just in case it’s not."
 author: seditiontrack
 published: true
 ---

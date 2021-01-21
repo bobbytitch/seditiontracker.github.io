@@ -5,18 +5,18 @@ residence: Virginia
 status: Charged
 date: 2021-01-19
 age: 66
-occupation:
-affiliations:
+occupation: Navy (retired)
+affiliations: Oath Keepers
 jurisdiction: Federal
-before: 066
+before: 066.png
 after:
 layout: suspect
 title: Thomas Caldwell charged on January 19, 2021
-image: https://seditiontracker.com/images/preview/066.jpg
+image: https://seditiontracker.com/images/preview/066.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "We need to do this at the local level. Let's storm the capitol in Ohio. Tell me when!"
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [News Report](https://www.washingtonpost.com/local/legal-issues/conspiracy-oath-keeper-arrest-capitol-riot/2021/01/19/fb84877a-5a4f-11eb-8bcf-3877871c819d_story.html)
