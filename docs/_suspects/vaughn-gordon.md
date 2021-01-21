@@ -20,3 +20,5 @@ published: true
 ---
 
 - [News Report](https://www.theadvocate.com/acadiana/news/article_489d5514-56b3-11eb-bbbb-2b9a6a6e6984.html)
+- [Complaint](https://www.justice.gov/opa/page/file/1354986/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1354991/download)
