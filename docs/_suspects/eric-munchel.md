@@ -16,3 +16,4 @@ author: Sedition Tracker
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-men-charged-connection-events-us-capitol)
 - [Affidavit](https://www.justice.gov/usao-dc/press-release/file/1352221/download)
 - [Criminal Complaint](https://www.justice.gov/usao-dc/press-release/file/1352226/download)
+- [Detention Memo](https://www.courtlistener.com/recap/gov.uscourts.tnmd.85025/gov.uscourts.tnmd.85025.8.0.pdf)
