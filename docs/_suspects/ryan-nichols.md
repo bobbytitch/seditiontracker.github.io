@@ -5,11 +5,11 @@ residence: Texas
 status: Charged
 date: 2021-01-18
 age: 30
-occupation:
+occupation: U.S. Marines (Former)
 affiliations:
 jurisdiction: Federal
 before: 067.jpg
-after:
+after: ryan-nichols.jpg
 layout: suspect
 title: Ryan Nichols charged on January 18, 2021
 image: https://seditiontracker.com/images/preview/067.jpg
