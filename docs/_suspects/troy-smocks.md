@@ -1,6 +1,6 @@
 ---
 name: Troy Smocks
-aka:
+aka: ColonelTPerez
 residence: Texas
 status: Charged
 date: 2021-01-15
@@ -14,7 +14,7 @@ layout: suspect
 title: Troy Smocks charged on January 15, 2021
 image: https://seditiontracker.com/images/preview/093.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
+quote: "We will come in numbers that no standing army or police agency can match."
 author: seditiontrack
 published: true
 ---
