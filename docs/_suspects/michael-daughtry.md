@@ -8,7 +8,7 @@ age: 58
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 094
+before: 094.png
 after:
 layout: suspect
 title: Michael Daughtry charged on January 15, 2021
