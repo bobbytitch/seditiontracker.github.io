@@ -22,3 +22,5 @@ published: true
 - [News Report](https://www.wxyz.com/news-democracy-under-fire/westland-man-arrested-for-allegedly-assaulting-police-officer-with-hockey-stick-at-capitol-riot)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357476/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1357471/download)
+- [Video of the beating](https://twitter.com/maddow/status/1349130966225330177?s=20)
+- [FBI Statement](https://twitter.com/FBIDetroit/status/1352288123359780866?s=20)

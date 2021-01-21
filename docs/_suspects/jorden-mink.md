@@ -1,0 +1,24 @@
+---
+name: Jorden Mink
+aka:
+residence: Pennsylvania
+status: Charged
+date: 2021-01-19
+age: 27
+occupation:
+affiliations:
+jurisdiction: Federal
+before: 084.png
+after:
+layout: suspect
+title: Jorden Mink charged on January 19, 2021
+image: https://seditiontracker.com/images/preview/084.png
+description: Click for latest case details. Suspects innocent until proven guilty.
+quote:
+author: seditiontrack
+published: true
+---
+
+- [News Report](https://triblive.com/local/feds-oakdale-man-stormed-capitol-with-baseball-bat-stole-chair/)
+- [Complaint](https://www.justice.gov/opa/page/file/1357221/download)
+- [Affidavit](https://www.justice.gov/opa/page/file/1357221/download)
