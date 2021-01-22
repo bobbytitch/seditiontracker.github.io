@@ -10,6 +10,7 @@ affiliations:
 jurisdiction: Federal
 before: 099.jpg
 after:
+raid:
 layout: suspect
 title: Christopher Spencer charged on January 19, 2021
 image: /images/preview/099.jpg
