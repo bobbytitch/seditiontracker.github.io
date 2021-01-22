@@ -11,6 +11,7 @@ jurisdiction: Federal
 before: 105.png
 after:
 booking:
+raid: dominick-madden.jpg
 layout: suspect
 title: Dominick Madden charged on January 22, 2021
 image: /images/preview/105.png

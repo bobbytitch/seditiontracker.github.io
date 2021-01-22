@@ -9,7 +9,8 @@ occupation: "Pickup Artist"
 affiliations:
 jurisdiction: Federal
 before: 081.png
-after: samuel-fisher.jpg
+perpwalk: samuel-fisher.jpg
+raid: samuel-fisher.png
 layout: suspect
 title: Samuel Fisher  charged on January 20, 2021
 image: /images/preview/081.png

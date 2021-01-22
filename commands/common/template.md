@@ -10,6 +10,7 @@ affiliations:
 jurisdiction: Federal
 before: [id]
 after:
+perpwalk:
 booking: [mugShot]
 layout: suspect
 title: [name] [action] on [longDate]
