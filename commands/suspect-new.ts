@@ -64,7 +64,7 @@ const newSuspect = async() => {
   const date = Date.parse(`2021-${result.date}T05:00`);
   const options = { year: 'numeric', month: 'long', day: 'numeric' };
   const dateFormat = new Intl.DateTimeFormat('en-US', options).format(date)
-  const dashName = result.name.replace(/\s/g, "-").toLowerCase().strip();
+  const dashName = result.name.trim().replace(/\s/g, "-").toLowerCase();
   const mugShot = result.mugshot ? dashName : ""
   const action = result.status.toLowerCase();
 
