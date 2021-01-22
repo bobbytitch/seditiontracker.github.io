@@ -5,7 +5,7 @@ residence: Michigan
 status: Charged
 date: 2021-01-21
 age:
-occupation:
+occupation: U.S. Marines (Former)
 affiliations:
 jurisdiction: Federal
 before: 083.png

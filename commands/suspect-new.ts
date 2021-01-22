@@ -13,7 +13,7 @@ cmd.parse(process.argv);
 const newSuspect = async() => {
   // go through and find the last number used
   const files = fs.readdirSync("./docs/images/before");
-  const number = parseInt(files[files.length - 1].replace("0", "")) + 1;
+  const number = parseInt(files[files.length - 1].replace(/^0*/, "")) + 1;
   const id = padStart(number.toString(), 3, "0");
 
   info(`creating new suspect with id: ${id}`);
