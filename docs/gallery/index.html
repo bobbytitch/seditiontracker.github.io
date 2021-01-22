@@ -12,7 +12,7 @@ Click an image to find out
 <table class="gallery">
   {% tablerow suspect in site.suspects cols:4 %}
   <a href="{{ suspect.url }}">
-    <img src="{{ suspect.image }}" alt="{{ suspect.name }}" title="{{ suspect.name }}">
+    <img src="{{ suspect.image | replace: "preview", "cropped" }}" alt="{{ suspect.name }}" title="{{ suspect.name }}">
   </a>
   {% endtablerow %}
 </table>
