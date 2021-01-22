@@ -9,7 +9,8 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: [id]
-after: [mugShot]
+after:
+booking: [mugShot]
 layout: suspect
 title: [name] [action] on [longDate]
 image: /images/preview/[id].jpg
