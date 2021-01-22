@@ -12,7 +12,7 @@ before: 022.jpg
 after:
 layout: suspect
 title: Hunter Seefried charged on January 14, 2021
-image: https://seditiontracker.com/images/preview/026.jpg
+image: /images/preview/026.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack

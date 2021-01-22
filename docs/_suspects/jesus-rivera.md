@@ -12,7 +12,7 @@ before: 091.png
 after:
 layout: suspect
 title: Jesus Rivera charged on January 20, 2021
-image: https://seditiontracker.com/images/preview/091.png
+image: /images/preview/091.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "I’m starting to think they’re afraid of the video showing what really happened at the Capitol"
 author: seditiontrack

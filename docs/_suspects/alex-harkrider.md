@@ -12,7 +12,7 @@ before: 068.jpg
 after: alex-harkrider.jpg
 layout: suspect
 title: Alex Harkrider charged on January 18, 2021
-image: https://seditiontracker.com/images/preview/068.jpg
+image: /images/preview/068.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack

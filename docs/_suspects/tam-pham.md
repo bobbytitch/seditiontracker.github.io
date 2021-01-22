@@ -12,7 +12,7 @@ before: 069.jpg
 after:
 layout: suspect
 title: Tam Pham charged on January 19, 2021
-image: https://seditiontracker.com/images/preview/069.jpg
+image: /images/preview/069.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "I shouldn’t have done it. I was there to take pictures."
 author: seditiontrack

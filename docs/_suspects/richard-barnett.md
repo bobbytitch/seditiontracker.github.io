@@ -12,7 +12,7 @@ before: 020.jpg
 after: richard-barnett.jpg
 layout: suspect
 title: Richard Barnett charged on January 8, 2021
-image: https://seditiontracker.com/images/preview/020.jpg
+image: /images/preview/020.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "I wrote her a nasty note"
 author: seditiontrack

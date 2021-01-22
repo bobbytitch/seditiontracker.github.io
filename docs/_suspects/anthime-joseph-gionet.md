@@ -12,7 +12,7 @@ before: 023.png
 after:
 layout: suspect
 title: Anthime Joseph Gionet charged on January 14, 2021
-image: https://seditiontracker.com/images/preview/023.png
+image: /images/preview/023.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack

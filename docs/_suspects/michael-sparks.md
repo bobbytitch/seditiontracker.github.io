@@ -12,7 +12,7 @@ before: 064.jpg
 after:
 layout: suspect
 title: Michael Sparks charged on January 18, 2021
-image: https://seditiontracker.com/images/preview/064.jpg
+image: /images/preview/064.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "A new dawn is coming. Be ready. Just pray and trust in the Lord."
 author: seditiontrack

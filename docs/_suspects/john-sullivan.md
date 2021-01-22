@@ -12,7 +12,7 @@ before: 031.png
 after:
 layout: suspect
 title: John Sullivan charged on January 13, 2021
-image: https://seditiontracker.com/images/preview/031.png
+image: /images/preview/031.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Let’s burn this shit down."
 author: seditiontrack

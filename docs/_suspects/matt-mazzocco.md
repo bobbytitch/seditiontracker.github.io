@@ -12,7 +12,7 @@ before: 079.png
 after: matt-mazzocco.png
 layout: suspect
 title: Matt Mazzocco charged on January 17, 2021
-image: https://seditiontracker.com/images/preview/079.png
+image: /images/preview/079.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: “We’re probably all going to get in trouble”
 author: seditiontrack

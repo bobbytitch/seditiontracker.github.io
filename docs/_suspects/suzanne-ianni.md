@@ -12,7 +12,7 @@ before: 074.jpg
 after:
 layout: suspect
 title: Suzanne Ianni charged on January 19, 2021
-image: https://seditiontracker.com/images/preview/074.jpg
+image: /images/preview/074.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

@@ -12,7 +12,7 @@ before: 036.png
 after:
 layout: suspect
 title: Edward Hemenway II charged on January 15, 2015
-image: https://seditiontracker.com/images/preview/036.png
+image: /images/preview/036.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack

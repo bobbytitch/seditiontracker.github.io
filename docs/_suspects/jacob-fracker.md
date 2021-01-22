@@ -12,7 +12,7 @@ before: 018.jpg
 after:
 layout: suspect
 title: Jacob Fracker charged on January 13, 2021
-image: https://seditiontracker.com/images/preview/018.jpg
+image: /images/preview/018.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Lol to anyone who’s possibly concerned about the picture of me going around... Sorry I hate freedom? …Not like I did anything illegal"
 author: seditiontrack

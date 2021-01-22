@@ -12,7 +12,7 @@ before: 059.png
 after:
 layout: suspect
 title: Jon Schaffer charged on January 17, 2021
-image: https://seditiontracker.com/images/preview/059.png
+image: /images/preview/059.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "We’re not going to merge into some globalist, communist system, it will not happen. There will be a lot of bloodshed if it comes down to that, trust me."
 author: seditiontrack

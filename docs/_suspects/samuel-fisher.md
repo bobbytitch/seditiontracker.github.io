@@ -12,7 +12,7 @@ before: 081.png
 after: samuel-fisher.jpg
 layout: suspect
 title: Samuel Fisher  charged on January 20, 2021
-image: https://seditiontracker.com/images/preview/081.png
+image: /images/preview/081.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "It’s time to bring the pain upon them."
 author: seditiontrack

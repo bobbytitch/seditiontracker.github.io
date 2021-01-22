@@ -12,7 +12,7 @@ before: 092.jpg
 after:
 layout: suspect
 title: Bradley Weeks charged on January 21, 2021
-image: https://seditiontracker.com/images/preview/092.jpg
+image: /images/preview/092.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

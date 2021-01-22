@@ -12,7 +12,7 @@ before: 066.png
 after:
 layout: suspect
 title: Thomas Caldwell charged on January 19, 2021
-image: https://seditiontracker.com/images/preview/066.png
+image: /images/preview/066.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "We need to do this at the local level. Let's storm the capitol in Ohio. Tell me when!"
 author: seditiontrack

@@ -12,7 +12,7 @@ before: 024.jpg
 after: donovan-crowl.png
 layout: suspect
 title: Donovan Crowl charged on January 17, 2021
-image: https://seditiontracker.com/images/preview/024.jpg
+image: /images/preview/024.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "We protected the fucking Capitol Hill police"
 author: seditiontrack

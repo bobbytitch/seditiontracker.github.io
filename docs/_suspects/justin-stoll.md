@@ -12,7 +12,7 @@ before: 057.jpg
 after:
 layout: suspect
 title: Justin Stoll charged on January 15, 2021
-image: https://seditiontracker.com/images/preview/057.jpg
+image: /images/preview/057.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "You can play that for the D.A. in court, I don’t care. If you ever jeopardize me, from being with my family, you will absolutely meet your mother fucking maker."
 author: seditiontrack

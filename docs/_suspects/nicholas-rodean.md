@@ -10,7 +10,7 @@ jurisdiction: Federal
 before: 014.jpg
 layout: suspect
 title: Nicholas Rodean charged on January 13, 2021
-image: https://seditiontracker.com/images/preview/014.jpg
+image: /images/preview/014.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 ---

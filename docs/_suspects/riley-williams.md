@@ -12,7 +12,7 @@ before: 055.jpg
 after: riley-williams.png
 layout: suspect
 title: Riley Williams charged on January 17, 2021
-image: https://seditiontracker.com/images/preview/055.jpg
+image: /images/preview/055.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Upstairs, upstairs, upstairs"
 author: seditiontrack

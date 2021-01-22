@@ -12,7 +12,7 @@ before: 056.jpg
 after: jessica-watkins.png
 layout: suspect
 title: Jessica Watkins charged on January 17, 2021
-image: https://seditiontracker.com/images/preview/056.jpg
+image: /images/preview/056.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Me before forcing entry into the Capitol Building."
 author: seditiontrack

@@ -12,7 +12,7 @@ before: 086.png
 after:
 layout: suspect
 title: Vitali GossJankowski charged on January 14, 2021
-image: https://seditiontracker.com/images/preview/086.png
+image: /images/preview/086.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "The cops won’t touch me. Lol."
 author: seditiontrack

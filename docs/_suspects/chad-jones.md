@@ -12,7 +12,7 @@ before: 053.png
 after: chad-jones.jpg
 layout: suspect
 title: Chad Jones charged on January 17, 2021
-image: https://seditiontracker.com/images/preview/053.png
+image: /images/preview/053.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack

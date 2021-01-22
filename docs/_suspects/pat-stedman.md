@@ -12,7 +12,7 @@ before: 087.png
 after:
 layout: suspect
 title: Pat Stedman charged on January 21, 2021
-image: https://seditiontracker.com/images/preview/087.png
+image: /images/preview/087.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "I was pretty much in the first wave, and we broke down the doors and climbed up the back part of the Capitol building and got all the way into the chambers"
 author: seditiontrack

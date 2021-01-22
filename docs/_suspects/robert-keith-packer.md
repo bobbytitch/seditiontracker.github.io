@@ -11,7 +11,7 @@ before: 013.jpg
 after: robert-keith-packer.webp
 layout: suspect
 title: Robert Keith Packer charged on January 13, 2021
-image: https://seditiontracker.com/images/preview/013.jpg
+image: /images/preview/013.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 tidbit: Turned in by a local who remembered his racist sweatshirt from a previous visit
 author: seditiontrack

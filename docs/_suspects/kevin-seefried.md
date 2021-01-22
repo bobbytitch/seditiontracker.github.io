@@ -12,7 +12,7 @@ before: 022.jpg
 after: kevin-seefried.jpg
 layout: suspect
 title: Kevin Seefried charged on January 14, 2021
-image: https://seditiontracker.com/images/preview/022.jpg
+image: /images/preview/022.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack

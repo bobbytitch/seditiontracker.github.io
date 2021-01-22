@@ -12,7 +12,7 @@ before: 058.png
 after: robert-gieswein.jpg
 layout: suspect
 title: Robert Gieswein charged on January 16, 2021
-image: https://seditiontracker.com/images/preview/058.png
+image: /images/preview/058.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack

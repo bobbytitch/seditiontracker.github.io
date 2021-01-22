@@ -12,7 +12,7 @@ before: 048.png
 after:
 layout: suspect
 title: Daniel Adams charged on January 16, 2021
-image: https://seditiontracker.com/images/preview/048.png
+image: /images/preview/048.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: “Let’s go. Are you ready to push?”
 author: seditiontrack

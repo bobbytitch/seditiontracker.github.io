@@ -12,7 +12,7 @@ before: 080.jpg
 after:
 layout: suspect
 title: Patrick McCaughey charged on January 19, 2021
-image: https://seditiontracker.com/images/preview/080.jpg
+image: /images/preview/080.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: “Come on man, you are going to get squished”
 author: seditiontrack

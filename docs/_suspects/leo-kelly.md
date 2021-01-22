@@ -12,7 +12,7 @@ before: 062.jpg
 after: leo-kelly.jpg
 layout: suspect
 title: Leo Kelly charged on January 15, 2021
-image: https://seditiontracker.com/images/preview/062.jpg
+image: /images/preview/062.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "There’s enough illegal behavior ... being committed by the elected officials that, you know, what are you supposed to do?"
 author: seditiontrack

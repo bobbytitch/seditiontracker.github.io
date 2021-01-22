@@ -11,7 +11,7 @@ before: 016.jpg
 after: josiah-colt.png
 layout: suspect
 title: Josiah Colt charged on January 12, 2021
-image: https://seditiontracker.com/images/preview/016.jpg
+image: /images/preview/016.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 quote: "I got caught up in the moment and when I saw the door to to the Chamber open, I walked in, hopped down, and sat on the chair."

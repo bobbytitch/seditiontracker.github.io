@@ -12,7 +12,7 @@ before: 029.png
 after:
 layout: suspect
 title: Matthew Black charged on January 14, 2021
-image: https://seditiontracker.com/images/preview/029.png
+image: /images/preview/029.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: “We just wanted to get inside the building. I wanted to get inside the building so I could plead the blood of Jesus over it. That was my goal.”
 author: seditiontrack

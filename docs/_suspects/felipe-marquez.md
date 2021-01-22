@@ -12,7 +12,7 @@ before: 088.png
 after:
 layout: suspect
 title: Felipe Marquez charged on January 19, 2021
-image: https://seditiontracker.com/images/preview/088.png
+image: /images/preview/088.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

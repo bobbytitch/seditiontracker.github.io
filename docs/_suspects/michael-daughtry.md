@@ -12,7 +12,7 @@ before: 094.png
 after:
 layout: suspect
 title: Michael Daughtry charged on January 15, 2021
-image: https://seditiontracker.com/images/preview/094.png
+image: /images/preview/094.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

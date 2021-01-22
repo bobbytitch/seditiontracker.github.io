@@ -12,7 +12,7 @@ before: 027.jpg
 after:
 layout: suspect
 title: Bradley Rukstales charged on January 7, 2021
-image: https://seditiontracker.com/images/preview/027.jpg
+image: /images/preview/027.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "I was in the wrong place at the wrong time and I regret my part in that."
 author: seditiontrack

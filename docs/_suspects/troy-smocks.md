@@ -12,7 +12,7 @@ before: 093.jpg
 after: troy-smocks.jpg
 layout: suspect
 title: Troy Smocks charged on January 15, 2021
-image: https://seditiontracker.com/images/preview/093.jpg
+image: /images/preview/093.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We will come in numbers that no standing army or police agency can match."
 author: seditiontrack

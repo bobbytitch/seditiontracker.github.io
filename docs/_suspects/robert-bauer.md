@@ -12,7 +12,7 @@ before: 035.png
 after:
 layout: suspect
 title: Robert Bauer charged on January 15, 2021
-image: https://seditiontracker.com/images/preview/035.png
+image: /images/preview/035.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack

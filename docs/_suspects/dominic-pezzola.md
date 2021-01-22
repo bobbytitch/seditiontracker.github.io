@@ -12,7 +12,7 @@ before: 033.jpg
 after: dominic-pezzola.png
 layout: suspect
 title: Dominic Pezzola charged on January 15, 2021
-image: https://seditiontracker.com/images/preview/033.jpg
+image: /images/preview/033.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Victory smoke in the Capitol, boys. This is
 fucking awesome. I knew we could take this motherfucker over [if we] just tried hard enough."

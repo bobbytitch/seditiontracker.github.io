@@ -12,7 +12,7 @@ before: 038.jpg
 after:
 layout: suspect
 title: Joshua Lollar charged on January 15, 2021
-image: https://seditiontracker.com/images/preview/038.jpg
+image: /images/preview/038.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Just got gassed and fought with cops that I never thought would happen."
 author: seditiontrack

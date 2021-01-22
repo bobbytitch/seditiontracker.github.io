@@ -12,7 +12,7 @@ before: 032.jpg
 after:
 layout: suspect
 title: Jenna Ryan charged on January 15, 2021
-image: https://seditiontracker.com/images/preview/032.jpg
+image: /images/preview/032.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Can’t face federal charges for exercising my right to freedom of speech and assembly"
 author: seditiontrack

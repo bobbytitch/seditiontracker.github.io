@@ -12,7 +12,7 @@ before: 085.png
 after: jacob-hiles.jpg
 layout: suspect
 title: Jacob Hiles charged on January 19, 2021
-image: https://seditiontracker.com/images/preview/085.png
+image: /images/preview/085.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We need to do this at the local level. Lets [sic] storm the capitol in Ohio. Tell me when!"
 author: seditiontrack
