@@ -1,0 +1,25 @@
+---
+name: Jeffrey Sabol
+aka:
+residence: Colorado
+status: Charged
+date: 2021-01-22
+age: 51
+occupation: Geologist
+affiliations:
+jurisdiction: Federal
+before: 106.jpg
+after:
+perpwalk:
+booking:
+layout: suspect
+title: Jeffrey Sabol charged on January 22, 2021
+image: /images/preview/106.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
+quote:
+author: seditiontrack
+published: true
+---
+
+- [News Report](https://www.cnbc.com/2021/01/22/capitol-riots-man-admits-dragging-cop-to-be-beaten-by-flag-pole.html)
+- [FBI Statement (Twitter)](https://twitter.com/NewYorkFBI/status/1352658310269382656?s=20)

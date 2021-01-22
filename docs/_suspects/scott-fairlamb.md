@@ -5,7 +5,7 @@ residence: New Jersey
 status: Charged
 date: 2021-01-22
 age:
-occupation: Gym Owner
+occupation: Gym Owner (Former MMA Fighter)
 affiliations:
 jurisdiction: Federal
 before: 104.png
