@@ -35,9 +35,6 @@ collections:
     sort_by: date
     output: true
 
-# Google Analytics
-google_analytics: G-P1WR5T25RK
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
