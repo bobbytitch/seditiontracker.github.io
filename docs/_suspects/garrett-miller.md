@@ -17,7 +17,7 @@ layout: suspect
 title: Garrett Miller charged on January 20, 2021
 image: /images/preview/110.png
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote: "Next time we bring guns"
+quote: "Nah we stormed it"
 author: seditiontrack
 published: true
 ---
