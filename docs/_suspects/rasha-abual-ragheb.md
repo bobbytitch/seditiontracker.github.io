@@ -6,7 +6,7 @@ status: Charged
 date: 2021-01-19
 age:
 occupation:
-affiliations:
+affiliations: Three Percenter, American Patriots 3%
 jurisdiction: Federal
 before: 119.png
 after:
