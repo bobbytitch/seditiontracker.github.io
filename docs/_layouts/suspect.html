@@ -42,6 +42,10 @@ layout: default
 
 {% if page.after %}
   <img class="mugshot" src="/images/after/{{page.after}}">
+{% elsif page.booking %}
+  <img class="mugshot" src="/images/booking/{{page.booking}}">
+{% elsif page.courtroom %}
+  <img class="mugshot" src="/images/courtroom/{{page.courtroom}}">
 {% elsif page.raid %}
   <img class="mugshot" src="/images/raid/{{page.raid}}">
 {% else %}

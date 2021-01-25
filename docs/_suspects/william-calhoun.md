@@ -12,7 +12,7 @@ before: 107.jpg
 after:
 perpwalk:
 booking:
-courtroom: /images/courtroom/william-calhoun.png
+courtroom: william-calhoun.png
 layout: suspect
 title: William Calhoun charged on January 15, 2021
 image: /images/preview/107.jpg
