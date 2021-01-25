@@ -1,6 +1,6 @@
 ---
 name: Matthew Caspel
-aka:
+aka: Mateo Q Caspel
 residence:
 status: Charged
 date: 2021-01-19
