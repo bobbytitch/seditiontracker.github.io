@@ -35,7 +35,7 @@ const doPreview = () => {
       const data = readFile(`./docs/_suspects/${suspect}`)
       const previewImage = data.match(/.*image:.*\/preview\/(.*\.png|.*\.jpg|.*\.webp)\n/)[1].trim();
       const file = `docs/images/preview/${previewImage}`;
-      if (fs.existsSync(file)) {
+      if (fs.existsSync(file) || data.match(/published: false/)) {
         continue;
       } else {
         exitWithError(`No preview exists for ${suspect}`)
