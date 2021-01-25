@@ -23,3 +23,5 @@ published: true
 ---
 
 - [News Report](https://www.thedailybeast.com/brandon-straka-right-wing-activist-banned-from-airline-is-charged-in-riots)
+- [Complaint](https://assets.documentcloud.org/documents/20463392/1-20-21-us-v-brandon-straka-complaint-affidavit.pdf)
+- [Affidavit](https://assets.documentcloud.org/documents/20463392/1-20-21-us-v-brandon-straka-complaint-affidavit.pdf)

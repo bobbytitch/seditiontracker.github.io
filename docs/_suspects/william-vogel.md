@@ -22,4 +22,4 @@ author: seditiontrack
 published: true
 ---
 
-- [Statement of Facts](https://assets.documentcloud.org/documents/20463469/williamvogel.pdf )
+- [Statement of Facts](https://assets.documentcloud.org/documents/20463469/williamvogel.pdf)
