@@ -17,7 +17,7 @@ layout: suspect
 title: Brandon Straka charged on January 25, 2021
 image: /images/preview/116.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote: "Take it away from him” and “Take the shield!"
+quote: "“Also—be embarrassed & hide if you need to- but I was there. It was not Antifa at the Capitol."
 author: seditiontrack
 published: true
 ---
