@@ -5,8 +5,8 @@ residence: Washington
 status: Charged
 date: 2021-01-15
 age: 39
-occupation:
-affiliations:
+occupation: U.S. Army (Former)
+affiliations: U.S. Military
 jurisdiction: Federal
 before: 038.jpg
 after:

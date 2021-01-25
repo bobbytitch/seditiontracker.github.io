@@ -12,6 +12,7 @@ before: [id]
 after:
 perpwalk:
 booking: [mugShot]
+courtroom:
 layout: suspect
 title: [name] [action] on [longDate]
 image: /images/preview/[id].jpg
