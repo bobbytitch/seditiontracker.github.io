@@ -1,27 +1,28 @@
 ---
 name: Cindy Fitchett
 aka:
-residence: 
+residence: Virginia
 status: Charged
 date: 2020-01-21
-age: 
+age: 59
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 129
+before: 129.png
 after:
 perpwalk:
-booking: 
+booking: cindy-fitchett.png
 courtroom:
 layout: suspect
 title: Cindy Fitchett charged on January 21st, 2020
-image: /images/preview/129.jpg
+image: /images/preview/129.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
-published: false
+published: true
 ---
 
+- [News Story](https://www.wtvr.com/news/local-news/cindy-fitchett-mathews-virginia-woman-arraigned-on-capitol-riot-charges-pleads-not-guilty)
 - [DOJ Press Release](https://www.justice.gov//opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov//opa/press-release/file/1351716/download)
 - [Statement of Facts](https://www.justice.gov//opa/press-release/file/1351721/download)
