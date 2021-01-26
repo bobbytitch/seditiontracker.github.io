@@ -9,7 +9,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: 042.jpg
-after: jack-griffith.png
+booking: jack-griffith.png
 layout: suspect
 title: Jack Griffith charged on January 16, 2021
 image: /images/preview/042.jpg

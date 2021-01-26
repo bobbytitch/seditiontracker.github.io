@@ -9,7 +9,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: 062.jpg
-after: leo-kelly.jpg
+booking: leo-kelly.jpg
 layout: suspect
 title: Leo Kelly charged on January 15, 2021
 image: /images/preview/062.jpg

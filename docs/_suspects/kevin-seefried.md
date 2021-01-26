@@ -9,7 +9,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: 022.jpg
-after: kevin-seefried.jpg
+booking: kevin-seefried.jpg
 layout: suspect
 title: Kevin Seefried charged on January 14, 2021
 image: /images/preview/022.jpg

@@ -9,7 +9,7 @@ occupation: "Mortgage Loan Ninja"
 affiliations:
 jurisdiction: Federal
 before: 079.png
-after: matt-mazzocco.png
+raid: matt-mazzocco.png
 layout: suspect
 title: Matt Mazzocco charged on January 17, 2021
 image: /images/preview/079.png

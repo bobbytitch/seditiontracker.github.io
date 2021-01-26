@@ -6,7 +6,7 @@ date: 2021-01-11
 age: 34
 jurisdiction: Federal
 before: 008.jpg
-after: aaron-mostofsky.png
+booking: aaron-mostofsky.png
 layout: suspect
 title: Aaron Mostofsky charged on January 11, 2021
 image: /images/preview/008.jpg

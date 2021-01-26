@@ -9,7 +9,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: 020.jpg
-after: richard-barnett.jpg
+booking: richard-barnett.jpg
 layout: suspect
 title: Richard Barnett charged on January 8, 2021
 image: /images/preview/020.jpg

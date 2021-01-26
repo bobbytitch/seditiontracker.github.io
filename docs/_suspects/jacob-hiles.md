@@ -9,7 +9,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: 085.png
-after: jacob-hiles.jpg
+booking: jacob-hiles.jpg
 layout: suspect
 title: Jacob Hiles charged on January 19, 2021
 image: /images/preview/085.png

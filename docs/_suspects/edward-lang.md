@@ -9,7 +9,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: 051.jpg
-after: edward-lang.png
+raid: edward-lang.png
 layout: suspect
 title: Edward Lang charged on January 16, 2021
 image: /images/preview/051.jpg

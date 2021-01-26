@@ -9,7 +9,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: 053.png
-after: chad-jones.jpg
+booking: chad-jones.jpg
 layout: suspect
 title: Chad Jones charged on January 17, 2021
 image: /images/preview/053.png

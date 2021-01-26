@@ -8,7 +8,7 @@ age:
 affiliations:
 jurisdiction: Federal
 before: 013.jpg
-after: robert-keith-packer.webp
+booking: robert-keith-packer.webp
 layout: suspect
 title: Robert Keith Packer charged on January 13, 2021
 image: /images/preview/013.jpg

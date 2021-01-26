@@ -9,7 +9,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: 045.png
-after: peter-harding.jpg
+booking: peter-harding.jpg
 layout: suspect
 title: Peter Harding charged on January 14, 2021
 image: /images/preview/045.png

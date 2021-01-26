@@ -4,7 +4,7 @@ status: Charged
 date: 2021-01-10
 jurisdiction: Federal
 before: 001.jpg
-after: eric-munchel.jpg
+booking: eric-munchel.jpg
 layout: suspect
 title: Eric Munchel charged on January 10, 2021
 image: /images/preview/001.jpg

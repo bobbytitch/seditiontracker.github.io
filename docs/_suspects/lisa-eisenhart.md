@@ -9,7 +9,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: 046.jpg
-after: lisa-eisenhart.png
+booking: lisa-eisenhart.png
 layout: suspect
 title: Lisa Eisenhart charged on January 16, 2021
 image: /images/preview/046.jpg

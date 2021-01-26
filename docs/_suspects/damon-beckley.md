@@ -9,7 +9,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: 047.png
-after: damon-beckley.jpg
+booking: damon-beckley.jpg
 layout: suspect
 title: Damon Beckley charged on January 16, 2021
 image: /images/preview/047.png

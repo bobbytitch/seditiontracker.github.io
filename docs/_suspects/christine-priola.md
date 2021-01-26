@@ -9,7 +9,7 @@ occupation: School Therapist
 affiliations:
 jurisdiction: Federal
 before: 025.jpg
-after: christine-priola.jpg
+raid: christine-priola.jpg
 layout: suspect
 title: Christine Priola charged on January 14, 2021
 image: /images/preview/025.jpg

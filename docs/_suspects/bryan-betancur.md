@@ -9,7 +9,7 @@ occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
 before: 061.jpg
-after: bryan-betancur.jpg
+booking: bryan-betancur.jpg
 layout: suspect
 title: Bryan Betancur charged on January 17, 2021
 image: /images/preview/061.jpg

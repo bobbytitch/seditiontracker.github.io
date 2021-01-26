@@ -9,7 +9,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: 093.jpg
-after: troy-smocks.jpg
+booking: troy-smocks.jpg
 layout: suspect
 title: Troy Smocks charged on January 15, 2021
 image: /images/preview/093.jpg

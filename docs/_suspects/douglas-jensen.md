@@ -6,7 +6,7 @@ date: 2021-01-09
 age: 41
 jurisdiction: Federal
 before: 009.jpg
-after: douglas-jensen.png
+booking: douglas-jensen.png
 layout: suspect
 title: Douglas Jensen charged on January 9, 2021
 image: /images/preview/009.jpg

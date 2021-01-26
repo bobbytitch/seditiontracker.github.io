@@ -9,7 +9,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: 026.png
-after: kevin-lyons.jpg
+booking: kevin-lyons.jpg
 layout: suspect
 title: Kevin Lyons charged on January 13, 2021
 image: /images/preview/026.jpg

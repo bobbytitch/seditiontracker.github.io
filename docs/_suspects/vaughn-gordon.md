@@ -9,7 +9,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: 041.png
-after: vaughn-gordon.jpg
+booking: vaughn-gordon.jpg
 layout: suspect
 title: Vaughn Gordon charged on January 14, 2021
 image: /images/preview/041.jpg

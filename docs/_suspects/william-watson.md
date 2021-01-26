@@ -7,7 +7,7 @@ residence: Alambama
 affiliations:
 jurisdiction: Federal
 before: 007.png
-after: william-watson.png
+booking: william-watson.png
 layout: suspect
 title: William Watson charged on January 11, 2021
 image: /images/preview/007.png

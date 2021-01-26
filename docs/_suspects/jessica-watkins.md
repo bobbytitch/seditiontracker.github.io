@@ -9,7 +9,7 @@ occupation: Former U.S. Military (Army)
 affiliations: Oath Keepers, Ohio Regular Militia
 jurisdiction: Federal
 before: 056.jpg
-after: jessica-watkins.png
+booking: jessica-watkins.png
 layout: suspect
 title: Jessica Watkins charged on January 17, 2021
 image: /images/preview/056.jpg

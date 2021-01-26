@@ -9,7 +9,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: 050.jpg
-after: brandon-fellows.png
+booking: brandon-fellows.png
 layout: suspect
 title: Brandon Fellows charged on January 17, 2021
 image: /images/preview/050.jpg

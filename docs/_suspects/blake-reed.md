@@ -9,7 +9,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: 052.jpg
-after: blake-reed.jpg
+booking: blake-reed.jpg
 layout: suspect
 title: Blake Reed charged on January 17, 2021
 image: /images/preview/052.jpg

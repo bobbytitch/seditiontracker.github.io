@@ -9,7 +9,7 @@ occupation: Sheriff's Deputy
 affiliations: Polk County Sheriff
 jurisdiction: Federal
 before: 095.jpg
-after: peter-heneen.png
+booking: peter-heneen.png
 layout: suspect
 title: Peter Heneen  charged on January 19, 2021
 image: /images/preview/095.jpg

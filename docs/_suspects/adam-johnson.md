@@ -6,7 +6,7 @@ residence: Florida
 age: 36
 jurisdiction: Federal
 before: 004.jpg
-after: adam-johnson.png
+booking: adam-johnson.png
 layout: suspect
 title: Adam Johnson charged on January 7, 2021
 image: /images/preview/004.jpg
