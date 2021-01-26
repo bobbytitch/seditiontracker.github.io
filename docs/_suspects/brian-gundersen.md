@@ -17,7 +17,7 @@ layout: suspect
 title: Brian Gundersen charged on January 25, 2021
 image: /images/preview/121.png
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
+quote: "We all stormed the us capital [sic] and tried to take over the government"
 author: seditiontrack
 published: true
 ---
