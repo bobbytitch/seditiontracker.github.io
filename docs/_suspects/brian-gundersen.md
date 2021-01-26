@@ -1,6 +1,6 @@
 ---
 name: Brian Gundersen
-aka:
+aka: Brian Kristopher
 residence: New York
 status: Charged
 date: 2021-01-25
