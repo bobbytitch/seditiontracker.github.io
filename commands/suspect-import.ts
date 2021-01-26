@@ -1,10 +1,11 @@
 import { Command } from "commander";
-import { info } from "./common/console";
-import fs from "fs";
+import { info, warning } from "./common/console";
+import fs, { link } from "fs";
 import { readFile } from "./common/file";
 import axios from 'axios'
-import { parse } from 'node-html-parser';
+import { HTMLElement, Node, NodeType, parse } from 'node-html-parser';
 import { padStart } from 'lodash';
+import moment from 'moment';
 
 const cmd = new Command();
 cmd.parse(process.argv);
@@ -35,14 +36,20 @@ const importSuspects = async() => {
   const tbody = root.querySelector("tbody");
 
   for (const rowNode of tbody.childNodes) {
-    const name = rowNode.childNodes[2].innerText.trim();
+    const childNodes = rowNode.childNodes.filter( (node:Node) => { return node.nodeType === NodeType.ELEMENT_NODE })
+
+    const name = childNodes[1].innerText.trim();
     const nameToCheck = name.split(",")[0]
+
+    const dateString = childNodes[5].text;
 
     if (!nameSet.has(nameToCheck) && !falsePositives().has(nameToCheck)) {
       const firstName = name.replace(`${nameToCheck}, `, "").split(" ")[0];
       const lastName = capitalized(nameToCheck.toLowerCase());
       maxId++;
-      newSuspect(firstName, lastName, padStart(maxId.toString(), 3, "0"));
+      const links = dojLinks(<HTMLElement>childNodes[3])
+
+      newSuspect(firstName, lastName, padStart(maxId.toString(), 3, "0"), "1/26/21", links);
     }
   }
 }
@@ -55,12 +62,53 @@ const falsePositives = () => {
   return set;
 }
 
+const dojLinks = (element: HTMLElement) => {
+  const links = {}
+  const anchors = element.querySelectorAll("a");
+  for (const anchor of anchors) {
+    const type = linkType(anchor.rawText);
+    if (type) {
+      links[type] = anchor.attributes.href
+    }
+  }
+  return links
+}
+
+const linkType = (description: string) => {
+    switch(true) {
+      case /Indictment/.test(description):
+        return "Indictment"
+      case /Ammended Complaint/.test(description):
+        return "Ammended Complaint"
+      case /Ammended Statement of Facts/.test(description):
+        return "Ammended Statement of Facts"
+      case /Complaint/.test(description):
+        return "Complaint"
+      case /Affidavit/.test(description):
+        return "Affidavit"
+      case /Statement of Fact/.test(description):
+        return "Statement of Facts"
+      default:
+        warning(`unknown link type: ${description}`)
+        return "DOJ Press Release"
+    }
+}
+
+/**
+ * Recurse the nodes children until an anchor tag is found
+ * @param node
+ */
+// const extractAnchor = (node: Node) => {
+
+// }
+
 const capitalized = (input:string) => {
   return input.replace(/(^|[\s-])\S/g, function (match) { return match.toUpperCase(); });
 }
 
-const newSuspect = (firstName, lastName, id) => {
-  console.log(`${id}: ${firstName} ${lastName}`);
+const newSuspect = (firstName, lastName, id, dateString, links) => {
+  const date = moment(dateString, "MM/DD/YY");
+  console.log(`${id}: ${firstName} ${lastName} ${date.format("MM-DD")}`);
   const template = readFile("./commands/common/template.md");
 
   let data = template.replace(/\[name]/g, `${firstName} ${lastName}`,);
@@ -70,7 +118,13 @@ const newSuspect = (firstName, lastName, id) => {
   data = data.replace("[age]", "");
   data = data.replace("[action]", "charged");
   data = data.replace(/\[id]/g, id);
+  data = data.replace("[date]", date.format("YYYY-MM-DD"));
+  data = data.replace("[longDate]", date.format("MMMM Do, YYYY"));
   data = data.replace("published: true", "published: false");
+
+  for (const [type, url] of Object.entries(links)) {
+    data = data + `- [${type}](https://www.justice.gov/${url})\n`
+  }
 
   fs.writeFileSync(`./docs/_suspects/${firstName.toLowerCase()}-${lastName.toLowerCase()}.md`, data.toString());
 

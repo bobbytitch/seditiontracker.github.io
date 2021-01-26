@@ -22,12 +22,3 @@ author: seditiontrack
 published: true
 ---
 
-- [News Report]()
-- [DOJ Press Release]()
-- [Information]()
-- [Statement of Facts]()
-- [Complaint]()
-- [Affidavit]()
-- [Court Appearance]()
-- [Perp Walk]()
-- [Incriminating Evidence]()
