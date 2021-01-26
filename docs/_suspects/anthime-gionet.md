@@ -1,5 +1,5 @@
 ---
-name: Anthime Joseph Gionet
+name: Anthime Gionet
 aka: Tom Gionet, Baked Alaska
 residence: Arizona
 status: Charged

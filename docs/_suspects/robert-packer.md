@@ -1,5 +1,5 @@
 ---
-name: Robert Keith Packer
+name: Robert Packer
 aka:
 residence: Virginia
 status: Charged

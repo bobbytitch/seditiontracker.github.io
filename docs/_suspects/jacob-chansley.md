@@ -1,5 +1,5 @@
 ---
-name: Jacob Anthony Chansley
+name: Jacob Chansley
 aka: Jake Angeli, Q Shaman
 status: Indicted
 date: 2021-01-08

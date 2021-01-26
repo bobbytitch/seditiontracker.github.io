@@ -1,5 +1,5 @@
 ---
-name: Larry Rendall Brock
+name: Larry Brock
 status: Charged
 date: 2021-01-09
 jurisdiction: Federal

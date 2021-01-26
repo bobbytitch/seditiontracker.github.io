@@ -1,5 +1,5 @@
 ---
-name: Samuel Carmargo
+name: Samuel Camargo
 aka:
 residence: Florida
 status: Charged
