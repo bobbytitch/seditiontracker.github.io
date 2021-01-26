@@ -41,15 +41,16 @@ const importSuspects = async() => {
     const name = childNodes[1].innerText.trim();
     const nameToCheck = name.split(",")[0]
 
-    const dateString = childNodes[5].text;
-
     if (!nameSet.has(nameToCheck) && !falsePositives().has(nameToCheck)) {
+      const parseText = childNodes[5].text.trim() || childNodes[6].text.trim();
+
+      const dateString = parseText.match(/\d{1,2}([\/.-])\d{1,2}\1\d{2,4}/)[0]
       const firstName = name.replace(`${nameToCheck}, `, "").split(" ")[0];
       const lastName = capitalized(nameToCheck.toLowerCase());
       maxId++;
       const links = dojLinks(<HTMLElement>childNodes[3])
 
-      newSuspect(firstName, lastName, padStart(maxId.toString(), 3, "0"), "1/26/21", links);
+      newSuspect(firstName, lastName, padStart(maxId.toString(), 3, "0"), dateString, links);
     }
   }
 }
