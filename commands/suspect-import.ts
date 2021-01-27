@@ -1,10 +1,10 @@
 import { Command } from "commander";
 import { info, warning } from "./common/console";
-import fs, { link } from "fs";
+import fs from "fs";
 import { readFile } from "./common/file";
 import axios from 'axios'
 import { HTMLElement, Node, NodeType, parse } from 'node-html-parser';
-import { padStart } from 'lodash';
+import { capitalize } from 'lodash';
 import moment from 'moment';
 
 const cmd = new Command();
@@ -20,8 +20,10 @@ const importSuspects = async() => {
     const data = readFile(`./docs/_suspects/${suspectFile}`)
 
     const name = data.match(/name:\s(.*)\n/)[1];
+    const firstName = name.split(" ")[0];
     const lastName = name.split(" ").slice(1).join(" ");
-    nameSet.add(lastName.toUpperCase());
+
+    nameSet.add(dasherizeName(firstName, lastName));
   }
 
   info("Importing suspects from DOJ site");
@@ -35,14 +37,15 @@ const importSuspects = async() => {
     const childNodes = rowNode.childNodes.filter( (node:Node) => { return node.nodeType === NodeType.ELEMENT_NODE })
 
     const name = childNodes[1].innerText.trim();
-    const nameToCheck = name.split(",")[0]
+    const nameChunks = name.split(",")
+    const lastName = capitalize(nameChunks[0].split(" ")[0]);
+    const firstName = nameChunks[1].trim().split(" ")[0];
+    const nameToCheck = dasherizeName(firstName, lastName);
 
     if (!nameSet.has(nameToCheck) && !falsePositives().has(nameToCheck)) {
       const parseText = childNodes[5].text.trim() || childNodes[6].text.trim();
 
       const dateString = parseText.match(/\d{1,2}([\/.-])\d{1,2}\1\d{2,4}/)[0]
-      const firstName = name.replace(`${nameToCheck}, `, "").split(" ")[0];
-      const lastName = capitalized(nameToCheck.toLowerCase());
       const links = dojLinks(<HTMLElement>childNodes[3])
 
       newSuspect(firstName, lastName, dateString, links);
@@ -111,7 +114,7 @@ const capitalized = (input:string) => {
 const newSuspect = (firstName, lastName, dateString, links) => {
   const date = moment(dateString, "MM/DD/YY");
   console.log(`${firstName} ${lastName} ${date.format("MM-DD")}`);
-  const dashedName = `${firstName} ${lastName}`.replace(/\s/g, "-").toLowerCase();
+  const dashedName = dasherizeName(firstName, lastName)
   const template = readFile("./commands/common/template.md");
 
   let data = template.replace(/\[name]/g, `${firstName} ${lastName}`,);
@@ -131,6 +134,10 @@ const newSuspect = (firstName, lastName, dateString, links) => {
 
   fs.writeFileSync(`./docs/_suspects/${firstName.toLowerCase()}-${lastName.toLowerCase()}.md`, data.toString());
 
+}
+
+const dasherizeName = (firstName:string, lastName:string) => {
+  return `${firstName} ${lastName}`.replace(/\s/g, "-").toLowerCase();
 }
 
 importSuspects();
