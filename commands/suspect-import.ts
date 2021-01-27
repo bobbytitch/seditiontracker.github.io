@@ -1,7 +1,7 @@
 import { Command } from "commander";
 import { info, warning } from "./common/console";
 import fs from "fs";
-import { readFile } from "./common/file";
+import { readFile, writeFile } from "./common/file";
 import axios from 'axios'
 import { HTMLElement, Node, NodeType, parse } from 'node-html-parser';
 import { capitalize } from 'lodash';
@@ -49,6 +49,19 @@ const importSuspects = async() => {
       const links = dojLinks(<HTMLElement>childNodes[3])
 
       newSuspect(firstName, lastName, dateString, links);
+    } else {
+      // see if the links for existing suspects need to be updated
+      const links = dojLinks(<HTMLElement>childNodes[3])
+      for (const [type, url] of Object.entries(links)) {
+        const dashedName = `${firstName} ${lastName}`.replace(/\s/g, "-").toLowerCase();
+        const fileName = `./docs/_suspects/${dashedName}.md`
+        let data = readFile(fileName)
+        if (!data.match(new RegExp(type))) {
+          console.log(`${dashedName}: ${type}`)
+          data = data.trim() + `\n- [${type}](https://www.justice.gov${url})`
+          writeFile(fileName, data)
+        }
+      }
     }
   }
 }
@@ -93,6 +106,10 @@ const linkType = (description: string) => {
         return "Affidavit"
       case /Statement of Fact/.test(description):
         return "Statement of Facts"
+      case /Charged/.test(description):
+      case /Indicted/.test(description):
+      case /Arrested/.test(description):
+        return "DOJ Press Release"
       default:
         warning(`unknown link type: ${description}`)
         return "DOJ Press Release"
@@ -129,7 +146,7 @@ const newSuspect = (firstName, lastName, dateString, links) => {
   data = data.replace("published: true", "published: false");
 
   for (const [type, url] of Object.entries(links)) {
-    data = data + `- [${type}](https://www.justice.gov/${url})\n`
+    data = data + `- [${type}](https://www.justice.gov${url})\n`
   }
 
   fs.writeFileSync(`./docs/_suspects/${firstName.toLowerCase()}-${lastName.toLowerCase()}.md`, data.toString());

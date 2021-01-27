@@ -21,3 +21,5 @@ author: Sedition Tracker
 - [Self Incrimination (VIDEO)](https://nypost.com/2021/01/12/aaron-mostofsky-son-of-brooklyn-judge-spotted-at-capitol-riot-is-arrested/)
 - [FBI Raid (VIDEO)](https://twitter.com/NYScanner/status/1349008081477394435?s=20)
 - [Court Appearance](https://www.the-sun.com/news/2127486/judge-son-stormed-capitol-fur-cries-court-prison/)
+- [DOJ Press Release](/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
+- [Statement of Facts](/usao-dc/press-release/file/1353206/download)
