@@ -8,7 +8,7 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: israel-tutrow
+before: israel-tutrow.png
 after:
 perpwalk:
 booking:

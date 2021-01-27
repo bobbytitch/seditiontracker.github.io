@@ -8,7 +8,7 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: joshua-wagner
+before: joshua-wagner.png
 after:
 perpwalk:
 booking:

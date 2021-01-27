@@ -42,6 +42,7 @@ const doPreview = () => {
         info(`Generating preview for ${suspect}`)
         try {
           execSync(`yarn suspect preview -f ${previewImage}`)
+          execSync(`git add docs/images/preview`)
         } catch (error) {
           exitWithError(`No preview exists for ${suspect}`)
         }
