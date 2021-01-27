@@ -10,6 +10,7 @@ affiliations:
 jurisdiction: Federal
 before: 020.jpg
 booking: richard-barnett.jpg
+raid: richard-barnett.jpg
 layout: suspect
 title: Richard Barnett charged on January 8, 2021
 image: /images/preview/020.jpg
@@ -20,3 +21,4 @@ author: seditiontrack
 
 - [News Report](https://apnews.com/article/donald-trump-arkansas-arrests-little-rock-theft-4837d9bae7988943f126f7a0f3782619)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/man-arrested-illegally-entering-office-speaker-house)
+- [FBI Search](https://katv.com/news/local/fbi-conducts-search-warrant-on-richard-barnetts-home)

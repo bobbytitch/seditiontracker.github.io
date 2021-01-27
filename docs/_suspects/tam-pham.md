@@ -9,7 +9,7 @@ occupation: Police Officer
 affiliations:
 jurisdiction: Federal
 before: 069.jpg
-after:
+courtroom: tam-pham.jpg
 layout: suspect
 title: Tam Pham charged on January 19, 2021
 image: /images/preview/069.jpg

@@ -7,6 +7,7 @@ residence: Arizona
 jurisdiction: Federal
 before: 003.jpg
 after:
+courtroom: jacob-chansley.png
 layout: suspect
 title: Jacob Anthony Chansley charged on January 8, 2021
 image: /images/preview/003.jpg
@@ -19,3 +20,4 @@ author: Sedition Tracker
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jacob%20Anthony%20Chansley%20Statement%20of%20Facts.pdf)
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jacob%20Chansley%20Detention%20Memo.pdf)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jacob%20Anthony%20Chansley%20Indictment.pdf)
+- [Detention Hearing](https://www.news10.com/top-stories/federal-judge-refuses-to-release-man-wearing-horns-and-face-paint-from-custody-after-capitol-riot/)

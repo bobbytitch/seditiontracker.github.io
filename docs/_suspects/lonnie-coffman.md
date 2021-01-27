@@ -1,17 +1,18 @@
 ---
 name: Lonnie Coffman
 aka:
-residence: 
+residence:
 status: Charged
 date: 2021-01-07
-age: 
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
 before: 124
 after:
 perpwalk:
-booking: 
+booking:
+raid: lonnie-coffman.jpg
 courtroom:
 layout: suspect
 title: Lonnie Coffman charged on January 7th, 2021
@@ -26,3 +27,4 @@ published: false
 - [Affidavit](https://www.justice.gov//opa/press-release/file/1351661/download)
 - [Complaint](https://www.justice.gov//opa/press-release/file/1351666/download)
 - [Indictment](https://www.justice.gov//opa/page/file/1352926/download)
+- [FBI Search](https://www.wsfa.com/2021/01/26/federal-agents-home-falkville-man-arrested-connection-us-capitol-violence/)

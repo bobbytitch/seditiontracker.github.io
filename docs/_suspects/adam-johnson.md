@@ -7,6 +7,7 @@ age: 36
 jurisdiction: Federal
 before: 004.jpg
 booking: adam-johnson.png
+steps: adam-johnson.jpg
 layout: suspect
 title: Adam Johnson charged on January 7, 2021
 image: /images/preview/004.jpg
