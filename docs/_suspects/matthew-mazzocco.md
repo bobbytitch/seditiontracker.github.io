@@ -1,5 +1,5 @@
 ---
-name: Matt Mazzocco
+name: Matthew Mazzocco
 aka:
 residence: Texas
 status: Charged
