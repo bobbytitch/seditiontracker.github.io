@@ -1,7 +1,7 @@
 ---
 name: Dana Winn
 aka:
-residence:
+residence: Florida
 status: Charged
 date: 2021-01-26
 age:
