@@ -15,7 +15,6 @@ const importSuspects = async() => {
 
   const suspectFiles = fs.readdirSync('./docs/_suspects');
   const nameSet:Set<string> = new Set();
-  let maxId = 0;
 
   for (const suspectFile of suspectFiles) {
     const data = readFile(`./docs/_suspects/${suspectFile}`)
@@ -23,9 +22,6 @@ const importSuspects = async() => {
     const name = data.match(/name:\s(.*)\n/)[1];
     const lastName = name.split(" ").slice(1).join(" ");
     nameSet.add(lastName.toUpperCase());
-
-    const id = data.match(/before:\s(\d{0,3})(\..{3})?\n/)[1];
-    maxId = parseInt(id) > maxId ? parseInt(id) : maxId;
   }
 
   info("Importing suspects from DOJ site");
@@ -47,10 +43,9 @@ const importSuspects = async() => {
       const dateString = parseText.match(/\d{1,2}([\/.-])\d{1,2}\1\d{2,4}/)[0]
       const firstName = name.replace(`${nameToCheck}, `, "").split(" ")[0];
       const lastName = capitalized(nameToCheck.toLowerCase());
-      maxId++;
       const links = dojLinks(<HTMLElement>childNodes[3])
 
-      newSuspect(firstName, lastName, padStart(maxId.toString(), 3, "0"), dateString, links);
+      newSuspect(firstName, lastName, dateString, links);
     }
   }
 }
@@ -107,9 +102,10 @@ const capitalized = (input:string) => {
   return input.replace(/(^|[\s-])\S/g, function (match) { return match.toUpperCase(); });
 }
 
-const newSuspect = (firstName, lastName, id, dateString, links) => {
+const newSuspect = (firstName, lastName, dateString, links) => {
   const date = moment(dateString, "MM/DD/YY");
-  console.log(`${id}: ${firstName} ${lastName} ${date.format("MM-DD")}`);
+  console.log(`${firstName} ${lastName} ${date.format("MM-DD")}`);
+  const dashedName = `${firstName} ${lastName}`.replace(/\s/g, "-").toLowerCase();
   const template = readFile("./commands/common/template.md");
 
   let data = template.replace(/\[name]/g, `${firstName} ${lastName}`,);
@@ -118,7 +114,7 @@ const newSuspect = (firstName, lastName, id, dateString, links) => {
   data = data.replace("[status]", "Charged");
   data = data.replace("[age]", "");
   data = data.replace("[action]", "charged");
-  data = data.replace(/\[id]/g, id);
+  data = data.replace(/\[dashedName]/g, dashedName);
   data = data.replace("[date]", date.format("YYYY-MM-DD"));
   data = data.replace("[longDate]", date.format("MMMM Do, YYYY"));
   data = data.replace("published: true", "published: false");
