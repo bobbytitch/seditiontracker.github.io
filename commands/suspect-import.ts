@@ -67,6 +67,12 @@ const dojLinks = (element: HTMLElement) => {
       links[type] = anchor.attributes.href
     }
   }
+
+  // sometimes the complaint is combined with statement of facts
+  if (links["Complaint"] && !links["Statement of Facts"] && !links["Affidavit"]) {
+    links["Statement of Facts"] = links["Complaint"];
+  }
+
   return links
 }
 
