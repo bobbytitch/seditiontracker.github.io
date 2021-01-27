@@ -10,17 +10,21 @@ image: /images/sedition-cover.jpg
 ---
 
 {% assign suspects = site.suspects | reverse %}
-{% for suspect in suspects limit: 25 %}
-  <h2 class="listing">
-    <a href="{{suspect.url}}">{{ suspect.name }}</a>
-  </h2>
-  <div class="image-container">
-    <a href="{{suspect.url}}">
-      <img class="before" src="/images/before/{{suspect.before}}">
-      <div class="top-left">{{suspect.status}}</div>
-    </a>
-  </div>
-  <div class="details-link">
-    <a href="{{suspect.url}}">More Details</a>
-  </div>
+{% for suspect in suspects limit: 1 %}
+  <h2 class="listing">Most Recent Suspect</h2>
+  <h3>
+    <div>
+      <a href="{{suspect.url}}">
+        <img class="before" src="{{suspect.image}}">
+      </a>
+    </div>
+    <div class="details-link">
+      <a href="{{suspect.url}}">{{ suspect.name }}</a>
+    </div>
+  </h3>
 {% endfor %}
+
+<h2 class="listing">Browse All Suspects</h2>
+<div><a href="/suspects">By Date</a></div>
+<div><a href="/suspects/by_name">By Name</a></div>
+<div><a href="/suspects/by_state">By State</a></div>
