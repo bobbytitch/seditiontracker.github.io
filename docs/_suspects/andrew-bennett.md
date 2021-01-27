@@ -23,5 +23,5 @@ published: true
 ---
 
 - [News Report](https://baltimore.cbslocal.com/2021/01/26/andrew-ryan-bennet-columbia-maryland-man-linked-us-capitol-riots/)
-- [Complaint](https://www.justice.gov//file/1360786/download)
-- [Statement of Facts](https://www.justice.gov//file/1360786/download)
+- [Complaint](https://www.justice.gov/file/1360786/download)
+- [Statement of Facts](https://www.justice.gov/file/1360786/download)

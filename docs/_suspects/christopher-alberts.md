@@ -23,6 +23,6 @@ published: true
 ---
 
 - [News Story](https://www.baltimoresun.com/news/crime/bs-md-cr-marylanders-arrested-at-capitol-20210107-nd4fjzvmifdxflacbby4mxmyqu-story.html)
-- [DOJ Press Release](https://www.justice.gov//opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
-- [Complaint](https://www.justice.gov//opa/press-release/file/1351681/download)
-- [Statement of Facts](https://www.justice.gov//opa/press-release/file/1351686/download)
+- [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
+- [Complaint](https://www.justice.gov/opa/press-release/file/1351681/download)
+- [Statement of Facts](https://www.justice.gov/opa/press-release/file/1351686/download)

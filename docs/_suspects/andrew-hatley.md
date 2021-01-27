@@ -23,5 +23,5 @@ published: true
 ---
 
 - [News Report](https://abcnews4.com/news/local/fbi-sc-man-suspected-of-attending-capitol-protest-taking-picture-with-calhoun-statue)
-- [Complaint](https://www.justice.gov//file/1360781/download)
-- [Statement of Facts](https://www.justice.gov//file/1360781/download)
+- [Complaint](https://www.justice.gov/file/1360781/download)
+- [Statement of Facts](https://www.justice.gov/file/1360781/download)

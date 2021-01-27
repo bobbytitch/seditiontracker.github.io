@@ -23,5 +23,5 @@ published: true
 ---
 
 - [News Story](https://www.11alive.com/article/news/nation-world/atlanta-area-man-arrested-capitol-riots/85-5a25b7ac-2f66-4580-8a46-d11a15a0e5e0)
-- [Complaint](https://www.justice.gov//opa/page/file/1353306/download)
-- [Statement of Facts](https://www.justice.gov//opa/page/file/1353311/download)
+- [Complaint](https://www.justice.gov/opa/page/file/1353306/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1353311/download)

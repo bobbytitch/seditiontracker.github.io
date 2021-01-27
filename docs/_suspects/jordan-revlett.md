@@ -1,17 +1,17 @@
 ---
 name: Jordan Revlett
 aka:
-residence: 
+residence:
 status: Charged
 date: 2021-01-25
-age: 
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
 before: jordan-revlett
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 layout: suspect
 title: Jordan Revlett charged on January 25th, 2021
@@ -23,5 +23,5 @@ published: false
 ---
 
 - [NewsReport]()
-- [Complaint](https://www.justice.gov//opa/page/file/1361051/download)
-- [Statement of Facts](https://www.justice.gov//opa/page/file/1361051/download)
+- [Complaint](https://www.justice.gov/opa/page/file/1361051/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1361051/download)

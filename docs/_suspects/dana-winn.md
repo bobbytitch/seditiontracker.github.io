@@ -22,6 +22,6 @@ published: true
 ---
 
 - [NewsReport](https://www.thedailybeast.com/florida-couple-rachael-pert-and-dana-joe-winn-charged-in-capitol-riots)
-- [Complaint](https://www.justice.gov//opa/page/file/1360796/download)
-- [Statement of Facts](https://www.justice.gov//opa/page/file/1360796/download)
+- [Complaint](https://www.justice.gov/opa/page/file/1360796/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1360796/download)
 - [Courthouse Appearance (VIDEO)](https://www.actionnewsjax.com/news/local/clay-county/us-capitol-riots-middleburg-couple-granted-supervised-release-ran-out-federal-courthouse/RQCOMRARCRFMBHUEHMUQRASDRI/)

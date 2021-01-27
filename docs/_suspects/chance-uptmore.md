@@ -22,5 +22,5 @@ author: seditiontrack
 published: true
 ---
 
-- [Complaint](https://www.justice.gov//opa/page/file/1360731/download)
-- [Statement of Facts](https://www.justice.gov//opa/page/file/1360731/download)
+- [Complaint](https://www.justice.gov/opa/page/file/1360731/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1360731/download)

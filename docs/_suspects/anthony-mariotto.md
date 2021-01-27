@@ -23,4 +23,4 @@ published: true
 ---
 
 - [News Story](https://floridadailypost.com/fort-pierce-man-faces-capitol-riot-charges-posting-images/)
-- [Complaint](https://www.justice.gov//opa/page/file/1359631/download)
+- [Complaint](https://www.justice.gov/opa/page/file/1359631/download)

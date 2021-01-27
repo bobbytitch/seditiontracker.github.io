@@ -23,5 +23,5 @@ published: true
 ---
 
 - [News Article](https://www.post-gazette.com/news/crime-courts/2021/01/18/Pennsylvania-man-arrested-capitol-riot-Andrew-Wrigley/stories/202101180061)
-- [Complaint](https://www.justice.gov//opa/page/file/1355911/download)
-- [Statement of Facts](https://www.justice.gov//opa/page/file/1355916/download)
+- [Complaint](https://www.justice.gov/opa/page/file/1355911/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1355916/download)

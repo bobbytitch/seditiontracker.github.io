@@ -1,17 +1,17 @@
 ---
 name: Mark Leffingwell
 aka:
-residence: 
+residence:
 status: Charged
 date: 2021-01-07
-age: 
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
 before: 134
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 layout: suspect
 title: Mark Leffingwell charged on January 7th, 2021
@@ -22,7 +22,7 @@ author: seditiontrack
 published: false
 ---
 
-- [DOJ Press Release](https://www.justice.gov//opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
-- [Complaint](https://www.justice.gov//opa/press-release/file/1351671/download)
-- [Statement of Facts](https://www.justice.gov//opa/press-release/file/1351676/download)
-- [Indictment](https://www.justice.gov//opa/page/file/1352921/download)
+- [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
+- [Complaint](https://www.justice.gov/opa/press-release/file/1351671/download)
+- [Statement of Facts](https://www.justice.gov/opa/press-release/file/1351676/download)
+- [Indictment](https://www.justice.gov/opa/page/file/1352921/download)

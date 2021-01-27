@@ -1,17 +1,17 @@
 ---
 name: Hunter Ehmke
 aka:
-residence: 
+residence:
 status: Charged
 date: 2021-01-13
-age: 
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
 before: 127
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 layout: suspect
 title: Hunter Ehmke charged on January 13th, 2021
@@ -22,6 +22,6 @@ author: seditiontrack
 published: false
 ---
 
-- [DOJ Press Release](https://www.justice.gov//usao-dc/pr/california-man-arrested-and-charged-federal-charges-following-events-united-states)
-- [Complaint](https://www.justice.gov//opa/page/file/1353886/download)
-- [Statement of Facts](https://www.justice.gov//opa/page/file/1353881/download)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/california-man-arrested-and-charged-federal-charges-following-events-united-states)
+- [Complaint](https://www.justice.gov/opa/page/file/1353886/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1353881/download)

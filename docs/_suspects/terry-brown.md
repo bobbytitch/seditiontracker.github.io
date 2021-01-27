@@ -1,17 +1,17 @@
 ---
 name: Terry Brown
 aka:
-residence: 
+residence:
 status: Charged
 date: 2021-01-11
-age: 
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
 before: 123
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 layout: suspect
 title: Terry Brown charged on January 11th, 2021
@@ -22,6 +22,6 @@ author: seditiontrack
 published: false
 ---
 
-- [DOJ Press Release](https://www.justice.gov//opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
-- [Complaint](https://www.justice.gov//opa/press-release/file/1351716/download)
-- [Statement of Facts](https://www.justice.gov//opa/press-release/file/1351721/download)
+- [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
+- [Complaint](https://www.justice.gov/opa/press-release/file/1351716/download)
+- [Statement of Facts](https://www.justice.gov/opa/press-release/file/1351721/download)

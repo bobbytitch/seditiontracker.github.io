@@ -23,6 +23,6 @@ published: true
 ---
 
 - [News Story](https://www.wtvr.com/news/local-news/cindy-fitchett-mathews-virginia-woman-arraigned-on-capitol-riot-charges-pleads-not-guilty)
-- [DOJ Press Release](https://www.justice.gov//opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
-- [Complaint](https://www.justice.gov//opa/press-release/file/1351716/download)
-- [Statement of Facts](https://www.justice.gov//opa/press-release/file/1351721/download)
+- [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
+- [Complaint](https://www.justice.gov/opa/press-release/file/1351716/download)
+- [Statement of Facts](https://www.justice.gov/opa/press-release/file/1351721/download)

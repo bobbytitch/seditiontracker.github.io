@@ -1,17 +1,17 @@
 ---
 name: Joshua Black
 aka:
-residence: 
+residence:
 status: Charged
 date: 2020-01-14
-age: 
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
 before: joshua-black
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 layout: suspect
 title: Joshua Black charged on January 14th, 2020
@@ -23,5 +23,5 @@ published: false
 ---
 
 - [NewsReport]()
-- [Complaint](https://www.justice.gov//opa/page/file/1354811/download)
-- [Affidavit](https://www.justice.gov//opa/page/file/1354806/download)
+- [Complaint](https://www.justice.gov/opa/page/file/1354811/download)
+- [Affidavit](https://www.justice.gov/opa/page/file/1354806/download)

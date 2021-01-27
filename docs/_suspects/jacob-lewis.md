@@ -1,17 +1,17 @@
 ---
 name: Jacob Lewis
 aka:
-residence: 
+residence:
 status: Charged
 date: 2020-01-27
-age: 
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
 before: jacob-lewis
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 layout: suspect
 title: Jacob Lewis charged on January 27th, 2020
@@ -23,5 +23,5 @@ published: false
 ---
 
 - [NewsReport]()
-- [Complaint](https://www.justice.gov//opa/page/file/1361031/download)
-- [Statement of Facts](https://www.justice.gov//opa/page/file/1361031/download)
+- [Complaint](https://www.justice.gov/opa/page/file/1361031/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1361031/download)
