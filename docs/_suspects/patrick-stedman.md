@@ -1,5 +1,5 @@
 ---
-name: Pat Stedman
+name: Patrick Stedman
 aka:
 residence: New Jersey
 status: Charged
