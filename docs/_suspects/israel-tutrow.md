@@ -19,7 +19,7 @@ image: /images/preview/israel-tutrow.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [NewsReport](https://www.indystar.com/story/news/crime/2021/01/26/capitol-riot-fbi-insurrection-indiana-men-facing-federal-charges/4269649001/)
