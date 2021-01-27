@@ -15,11 +15,11 @@ booking: cleveland-meredith.png
 courtroom: cleveland-meredith.png
 layout: suspect
 title: Cleveland Meredith charged on January 8th, 2021
-image: /images/preview/cleveland-meredith.jpg
+image: /images/preview/cleveland-meredith.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [News Story](https://www.11alive.com/article/news/nation-world/atlanta-area-man-arrested-capitol-riots/85-5a25b7ac-2f66-4580-8a46-d11a15a0e5e0)

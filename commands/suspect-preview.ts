@@ -38,7 +38,13 @@ const doPreview = () => {
       if (fs.existsSync(file) || data.match(/published: false/)) {
         continue;
       } else {
-        exitWithError(`No preview exists for ${suspect}`)
+        // no preview found, let's try generating one
+        info(`Generating preview for ${suspect}`)
+        try {
+          execSync(`yarn suspect preview -f ${previewImage}`)
+        } catch (error) {
+          exitWithError(`No preview exists for ${suspect}`)
+        }
       }
     }
     return;
