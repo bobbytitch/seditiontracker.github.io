@@ -22,3 +22,4 @@ author: seditiontrack
 published: true
 ---
 
+- [NewsReport]()
