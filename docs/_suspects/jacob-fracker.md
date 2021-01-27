@@ -22,3 +22,4 @@ author: seditiontrack
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-duty-virginia-police-officers-charged-federal-court-following-events-us-capitol)
 - [Criminal Complaint](https://big.assets.huffingtonpost.com/athena/files/2021/01/13/5fff56a5c5b6c77d85ec811b.pdf)
 - [Self Incrimination](https://www.thedailybeast.com/jacob-fracker-bragged-he-pissed-in-nancy-pelosis-toilet-during-capitol-riot-feds-say)
+- [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353461/download)

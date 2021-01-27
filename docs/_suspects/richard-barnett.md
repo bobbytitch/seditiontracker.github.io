@@ -22,3 +22,5 @@ author: seditiontrack
 - [News Report](https://apnews.com/article/donald-trump-arkansas-arrests-little-rock-theft-4837d9bae7988943f126f7a0f3782619)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/man-arrested-illegally-entering-office-speaker-house)
 - [FBI Search](https://katv.com/news/local/fbi-conducts-search-warrant-on-richard-barnetts-home)
+- [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353231/download)
+- [Complaint](https://www.justice.gov/usao-dc/press-release/file/1353191/download)

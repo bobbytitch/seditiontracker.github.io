@@ -23,3 +23,5 @@ published: true
 
 - [News Report](https://brooklyneagle.com/articles/2021/01/22/brooklyn-sanitation-worker-arrested-after-feds-idd-him-as-part-of-capitol-mob/)
 - [FBI Raid](https://abc7ny.com/local-dc-riot-arrests-nyc-sanitation-worker-arrested/9900913/)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1358876/download)
+- [Complaint](https://www.justice.gov/opa/page/file/1359536/download)

@@ -23,3 +23,4 @@ published: true
 - [Complaint](https://www.justice.gov/opa/page/file/1355936/download)
 - [Affidavit](https://www.justice.gov/opa/page/file/1355931/download)
 - [DOJ Statement (Twitter)](https://twitter.com/USAO_MDTN/status/1350818029693763586)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1355931/download)

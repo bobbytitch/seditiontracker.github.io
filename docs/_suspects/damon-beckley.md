@@ -20,3 +20,5 @@ published: true
 ---
 
 - [News Report](https://www.wdrb.com/news/fbi-arrests-man-from-louisville-who-entered-us-capitol-during-riot/article_9dff8ffc-5863-11eb-b21c-5b982889fe2a.html)
+- [Complaint](https://www.justice.gov/opa/page/file/1355856/download)
+- [Affidavit](https://www.justice.gov/opa/page/file/1355861/download)

@@ -20,3 +20,4 @@ quote: "I walked through an open door into the Capitol along with several hundre
 - [News Report](https://www.cbs7.com/2021/01/13/first-on-cbs7-fbi-arrests-jenny-cudd-for-rioting-at-capitol/)
 - [Self Incrimination](https://twitter.com/JoshuaSkinnerTV/status/1349395279179558914?s=20)
 - [Statement of Facts](https://www.scribd.com/document/490745903/Jenny-Cudd-and-Eliel-Rosa-Statement-of-Facts)
+- [Complaint](https://www.justice.gov/opa/page/file/1353431/download)

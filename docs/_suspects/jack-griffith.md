@@ -21,3 +21,5 @@ published: true
 
 - [News Report](https://www.newschannel5.com/news/gallatin-man-arrested-in-connection-with-capitol-riot)
 - [Self Incrimination](https://twitter.com/ndelriego/status/1348468023888392193?s=20)
+- [Statement of Facts](https://www.justice.gov/file/1355781/download)
+- [Complaint](https://www.justice.gov/opa/page/file/1356476/download)

@@ -21,3 +21,4 @@ published: true
 
 - [News Report](https://www.wkrn.com/news/local-news/2nd-tennessee-resident-arrested-for-alleged-involvement-in-capitol-riots/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355126/download)
+- [Complaint](https://www.justice.gov/opa/page/file/1355121/download)

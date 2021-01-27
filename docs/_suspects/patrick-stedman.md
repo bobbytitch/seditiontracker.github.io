@@ -21,3 +21,4 @@ published: true
 
 - [News Report](https://www.nj.com/news/2021/01/nj-man-charged-with-taking-part-in-attack-at-us-capitol-posted-videos-from-inside-feds-say.html)
 - [Affidavit](https://www.justice.gov/file/1357721/download)
+- [Complaint](https://www.justice.gov/opa/page/file/1357726/download)

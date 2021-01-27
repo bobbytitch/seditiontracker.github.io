@@ -23,3 +23,6 @@ published: true
 - [News Report: DC Arrest (VIDEO)](https://chicago.cbslocal.com/2021/01/08/brad-rukstales-of-inverness-arrested-at-u-s-capitol-riot-apologizes-and-expresses-embarrassment/)
 - [Self Incrimination (Twitter Statement)](https://heavy.com/news/brad-rukstales/)
 - [Self Incrimination (VIDEO)](https://chicago.cbslocal.com/2021/01/08/brad-rukstales-of-inverness-arrested-at-u-s-capitol-riot-apologizes-and-expresses-embarrassment/)
+- [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
+- [Complaint](https://www.justice.gov/opa/press-release/file/1351716/download)
+- [Statement of Facts](https://www.justice.gov/opa/press-release/file/1351721/download)

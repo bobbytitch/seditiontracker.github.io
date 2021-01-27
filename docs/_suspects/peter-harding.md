@@ -21,3 +21,4 @@ published: true
 
 - [News Report](https://www.wgrz.com/article/news/local/cheektowaga-man-wanted-by-fbi-taken-into-custody/71-27ec6dc4-ca4c-429f-b0ae-742493622365)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Peter%20Harding%20Statement%20of%20Facts.pdf)
+- [Complaint](https://www.justice.gov/opa/page/file/1354106/download)

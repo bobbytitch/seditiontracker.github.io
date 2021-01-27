@@ -20,3 +20,5 @@ published: true
 ---
 
 - [News Report](https://abc13.com/spring-man-capitol-riot-josh-lollar-joshua-charged-us-protest/9689137/)
+- [Complaint](https://www.justice.gov/opa/page/file/1355471/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1355471/download)

@@ -23,3 +23,4 @@ published: false
 ---
 
 - [Complaint](https://www.justice.gov/file/1360206/download)
+- [Statement of Facts](https://www.justice.gov/file/1360206/download)

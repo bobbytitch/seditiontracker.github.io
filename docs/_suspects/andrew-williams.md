@@ -19,3 +19,5 @@ author: seditiontrack
 - [News Report](https://people.com/crime/fbi-arrests-florida-firefighter-seen-in-videos-at-capitol-riots/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Courthouse Steps [Video]](https://twitter.com/EricMockTV/status/1349127558709866502?s=20)
+- [Complaint](https://www.justice.gov/opa/page/file/1354851/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1354851/download)

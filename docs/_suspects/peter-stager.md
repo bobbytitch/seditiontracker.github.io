@@ -21,3 +21,5 @@ published: true
 
 - [News Report](https://www.wsj.com/livecoverage/trump-impeachment-house-biden/card/BeFqRm1wpv2SEpH3SSLQ)
 - [Self Incrimination [VIDEO]](https://www.youtube.com/watch?v=SVhLKKTUhIg&feature=youtu.be)
+- [Complaint](https://www.justice.gov/opa/page/file/1354981/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1355506/download)

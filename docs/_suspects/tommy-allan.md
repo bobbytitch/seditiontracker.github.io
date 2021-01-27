@@ -23,3 +23,5 @@ published: false
 ---
 
 - [News Report](https://www.sacbee.com/news/local/article248703410.html)
+- [Complaint](https://www.justice.gov/file/1360801/download)
+- [Statement of Facts](https://www.justice.gov/file/1360801/download)

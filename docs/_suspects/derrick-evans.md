@@ -19,3 +19,5 @@ author: Sedition Tracker
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)
 - [Affidavit](https://www.justice.gov/usao-dc/press-release/file/1351946/download)
 - [Perp Walk [VIDEO]](https://www.youtube.com/watch?v=gYauxtRX3P4)
+- [Complaint](https://www.justice.gov/opa/page/file/1355511/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1355511/download)

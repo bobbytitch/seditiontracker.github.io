@@ -19,3 +19,5 @@ author: seditiontrack
 
 - [News Report](https://apnews.com/article/capitol-siege-shootings-new-jersey-c9bcea4917ebe6c07d6e2f45286c5d8a)
 - [Self Incrimination](https://twitter.com/shaunking/status/1347257804244082695?s=20)
+- [Affidavit](https://www.justice.gov/opa/page/file/1355731/download)
+- [Complaint](https://www.justice.gov/opa/page/file/1356466/download)

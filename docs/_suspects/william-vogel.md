@@ -23,3 +23,4 @@ published: true
 ---
 
 - [Statement of Facts](https://assets.documentcloud.org/documents/20463469/williamvogel.pdf)
+- [Complaint](https://www.justice.gov/opa/page/file/1360591/download)

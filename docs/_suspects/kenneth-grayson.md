@@ -23,3 +23,4 @@ published: false
 ---
 
 - [Complaint](https://www.justice.gov/opa/page/file/1360506/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1360506/download)

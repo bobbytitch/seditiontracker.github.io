@@ -22,3 +22,5 @@ published: true
 - [News Report](https://variety.com/2021/music/news/metal-guitarist-john-schaffer-surrenders-fbi-capitol-siege-1234887239/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIIndianapolis/status/1350971493891661829?s=20)
 - [Self Incrimination(Video)](https://youtu.be/wIvjGg3RFyg)
+- [Complaint](https://www.justice.gov/opa/page/file/1356011/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1356006/download)

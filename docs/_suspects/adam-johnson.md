@@ -18,3 +18,4 @@ author: Sedition Tracker
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Johnson%20Information.pdf)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Johnson%20Statement%20of%20Facts.pdf)
+- [Complaint](https://www.justice.gov/opa/page/file/1355516/download)

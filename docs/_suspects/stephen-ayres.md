@@ -23,3 +23,5 @@ published: true
 ---
 
 - [News Report](https://www.wfmj.com/story/43229774/warren-man-arrested-by-fbi-after-involvement-in-us-capitol-riots)
+- [Affidavit](https://www.justice.gov/opa/page/file/1360721/download)
+- [Complaint](https://www.justice.gov/opa/page/file/1360951/download)

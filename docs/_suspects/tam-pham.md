@@ -22,3 +22,5 @@ published: true
 - [News Report](https://abc13.com/houston-protest-inauguration-protests-hpd-officer-tamp-pham-at-us-capitol-safety-plan/9655587/)
 - [Houston Police Statement (Twitter)](https://twitter.com/ArtAcevedo/status/1349759930832662528?s=20)
 - [Self Incrimination (Interview)](https://www.houstonchronicle.com/news/houston-texas/crime/article/HPD-cop-faces-federal-charges-capitol-riot-15867917.php)
+- [Complaint](https://www.justice.gov/opa/page/file/1357331/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1357336/download)

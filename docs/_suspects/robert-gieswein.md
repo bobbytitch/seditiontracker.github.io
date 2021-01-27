@@ -22,3 +22,4 @@ published: true
 - [News Report](https://www.denverpost.com/2021/01/18/colorado-us-capitol-riot-robert-gieswein/)
 - [Affidavit](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Gieswein%20Affidavit%20in%20Support%20of%20Criminal%20Complaint%20and%20Arrest%20Warrant.pdf)
 - [Incriminating Evidence (VIDEO)](https://twitter.com/Cleavon_MD/status/1352172510603689991?s=20)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1360831/download)

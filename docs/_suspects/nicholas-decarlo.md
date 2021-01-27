@@ -21,3 +21,5 @@ published: true
 
 - [Self Incrimination](https://www.rawstory.com/nick-decarlo/)
 - [Self Incrimination](https://www.latimes.com/world-nation/story/2021-01-13/some-who-stormed-the-capitol-insist-what-i-did-was-journalism)
+- [Complaint](https://www.justice.gov/opa/page/file/1360496/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1360496/download)
