@@ -1,5 +1,5 @@
 ---
-name: Dominick Madden
+name: Dominic Madden
 aka:
 residence: New York
 status: Charged
@@ -13,7 +13,7 @@ after:
 booking:
 raid: dominick-madden.jpg
 layout: suspect
-title: Dominick Madden charged on January 22, 2021
+title: Dominic Madden charged on January 22, 2021
 image: /images/preview/105.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:

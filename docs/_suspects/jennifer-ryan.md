@@ -1,6 +1,6 @@
 ---
-name: Jenna Ryan
-aka:
+name: Jennifer Ryan
+aka: Jenna Ryan
 residence: Texas
 status: Charged
 date: 2021-01-15
@@ -11,7 +11,7 @@ jurisdiction: Federal
 before: 032.jpg
 after:
 layout: suspect
-title: Jenna Ryan charged on January 15, 2021
+title: Jennifer Ryan charged on January 15, 2021
 image: /images/preview/032.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Can’t face federal charges for exercising my right to freedom of speech and assembly"

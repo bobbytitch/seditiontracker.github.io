@@ -1,5 +1,5 @@
 ---
-name: Garrett Miller
+name: Garret Miller
 aka:
 residence: Texas
 status: Charged
@@ -14,7 +14,7 @@ perpwalk:
 booking: garrett-miller.jpg
 courtroom:
 layout: suspect
-title: Garrett Miller charged on January 20, 2021
+title: Garret Miller charged on January 20, 2021
 image: /images/preview/110.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Nah we stormed it"

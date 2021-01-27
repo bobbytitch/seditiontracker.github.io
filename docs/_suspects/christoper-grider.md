@@ -1,5 +1,5 @@
 ---
-name: Christopher Grider
+name: Christoper Grider
 aka:
 residence: Texas
 status: Charged
@@ -14,7 +14,7 @@ perpwalk:
 booking:
 courtroom:
 layout: suspect
-title: Christopher Grider charged on January 21, 2021
+title: Christoper Grider charged on January 21, 2021
 image: /images/preview/115.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "I was next to this door next to the Speaker’s chambers"

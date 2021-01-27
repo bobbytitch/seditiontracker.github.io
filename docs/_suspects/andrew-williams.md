@@ -1,5 +1,5 @@
 ---
-name: Andrew James Williams
+name: Andrew Williams
 aka:
 residence: Florida
 status: Charged
@@ -10,7 +10,7 @@ jurisdiction: Federal
 before: 010.jpg
 after: andrew-james-williams-court.jpg
 layout: suspect
-title: Andrew James Williams charged on January 12, 2020
+title: Andrew Williams charged on January 12, 2020
 image: /images/preview/010.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

@@ -1,5 +1,5 @@
 ---
-name: Derek Evans
+name: Derrick Evans
 status: Charged
 date: 2021-01-08
 age: 35
@@ -9,7 +9,7 @@ jurisdiction: Federal
 before: 005.jpg
 after: derek-evans.jpg
 layout: suspect
-title: Derek Evans charged on January 8, 2021
+title: Derrick Evans charged on January 8, 2021
 image: /images/preview/005.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
