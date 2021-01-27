@@ -1,6 +1,7 @@
 ---
 name: Larry Brock
 status: Charged
+residence: Texas
 date: 2021-01-09
 jurisdiction: Federal
 before: 002.jpg

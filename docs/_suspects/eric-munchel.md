@@ -4,6 +4,7 @@ status: Charged
 date: 2021-01-10
 jurisdiction: Federal
 before: 001.jpg
+residence: Tennessee
 booking: eric-munchel.jpg
 layout: suspect
 title: Eric Munchel charged on January 10, 2021

@@ -1,12 +1,12 @@
 ---
 name: Daniel Goodwyn
 aka:
-residence:
+residence: California
 status: Charged
 date: 2021-01-15
 age:
 occupation:
-affiliations:
+affiliations: Proud Boys
 jurisdiction: Federal
 before: 034.png
 after:
@@ -19,4 +19,5 @@ author: seditiontrack
 published: true
 ---
 
+- [News Story](https://www.sfgate.com/crime/article/daniel-goodwyn-sf-proud-boys-capitol-arrests-15877697.php)
 - [Complaint](https://assets.documentcloud.org/documents/20456929/1-15-21-us-v-daniel-goodwyn-complaint-statement.pdf)
