@@ -1,6 +1,6 @@
 ---
 name: Daniel Phipps
-aka:
+aka: Chaz McCurry
 residence: Texas
 status: Charged
 date: 2021-01-26
@@ -19,7 +19,7 @@ image: /images/preview/daniel-phipps.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "I went to DC. I helped take the Hill."
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [News Report](https://www.dallasnews.com/news/crime/2021/01/27/garland-man-who-posted-photo-of-himself-inside-capitol-building-is-arrested/)
