@@ -20,7 +20,7 @@ image: /images/preview/lonnie-coffman.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [News Report](https://www.montgomeryadvertiser.com/story/news/crime/2021/01/27/feds-seize-items-lonnie-coffman-falkville-home-capitol-riot-case/4281963001/)
