@@ -33,6 +33,7 @@ const doPreview = () => {
   if (preview.verify) {
     for (const suspect of suspects) {
       const data = readFile(`./docs/_suspects/${suspect}`)
+      const status = data.match(/status: (.*)/)[1];
       const previewImage = data.match(/.*image:.*\/preview\/(.*\.png|.*\.jpg|.*\.webp)\n/)[1].trim();
       const file = `docs/images/preview/${previewImage}`;
       if (fs.existsSync(file) || data.match(/published: false/)) {
@@ -41,7 +42,7 @@ const doPreview = () => {
         // no preview found, let's try generating one
         info(`Generating preview for ${suspect}`)
         try {
-          execSync(`yarn suspect preview -f ${previewImage}`)
+          execSync(`yarn suspect preview -f ${previewImage} -s ${status}`)
           execSync(`git add docs/images/preview`)
         } catch (error) {
           exitWithError(`No preview exists for ${suspect}`)
@@ -54,7 +55,7 @@ const doPreview = () => {
   info("creating preview images");
 
   if (preview.file) {
-    const status = preview.status || "Charged"
+    const status = preview.status.toUpperCase() || "CHARGED"
     generatePreview(preview.file, status);
   } else {
     for (const suspect of suspects) {

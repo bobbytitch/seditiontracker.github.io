@@ -2,7 +2,7 @@
 name: Guy Reffitt
 aka:
 residence: Texas
-status: Charged
+status: Indicted
 date: 2021-01-15
 age:
 occupation:
