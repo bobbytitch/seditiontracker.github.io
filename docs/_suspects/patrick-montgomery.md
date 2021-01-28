@@ -5,7 +5,7 @@ residence: Colorado
 status: Charged
 date: 2021-01-17
 age: 48
-occupation:
+occupation: Business Owner
 affiliations:
 jurisdiction: Federal
 before: patrick-montgomery.png
@@ -17,9 +17,9 @@ layout: suspect
 title: Patrick Montgomery charged on January 17th, 2021
 image: /images/preview/patrick-montgomery.png
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
+quote: "We stormed the Senate…opened those Chamber door for Transparency!"
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [News Report](https://www.denverpost.com/2021/01/19/us-capitol-riot-colorado-arrest-patrick-montgomery/)
