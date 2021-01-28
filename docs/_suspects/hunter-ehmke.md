@@ -19,7 +19,7 @@ image: /images/preview/arrest.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [News Report](https://www.sandiegotrends.com/2021/01/15/california-man-hunter-ehmke-arrested-in-siege-of-capitol/)
