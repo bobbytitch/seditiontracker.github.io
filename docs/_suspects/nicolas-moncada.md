@@ -3,17 +3,17 @@ name: Nicolas Moncada
 firstName: Nicolas
 lastName: Moncada
 aka:
-residence: 
+residence: New York
 status: Charged
 date: 2021-01-18
-age: 
-occupation:
+age:
+occupation: Student
 affiliations:
 jurisdiction: Federal
-before: nicolas-moncada
+before: nicolas-moncada.jpg
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 layout: suspect
 title: Nicolas Moncada charged on January 18th, 2021
@@ -21,9 +21,11 @@ image: /images/preview/nicolas-moncada.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
-published: false
+published: true
 ---
 
-- [NewsReport]()
+- [NewsReport](https://nypost.com/2021/01/18/staten-island-man-arrested-for-role-in-capitol-riot/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361471/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361471/download)
+- [FBI Arrest (VIDEO)](https://newyork.cbslocal.com/video/5208641-staten-island-man-nicolas-moncada-arrested-in-u-s-capitol-riot/)
+- [FBI Statement (Twitter)](https://twitter.com/NewYorkFBI/status/1351183189201612805?s=20)
