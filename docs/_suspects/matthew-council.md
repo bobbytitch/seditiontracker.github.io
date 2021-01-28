@@ -19,7 +19,7 @@ image: /images/preview/arrest.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [News Report](http://www.innercitypress.com/ddc1insurrectionbluescouncili012121.html)
