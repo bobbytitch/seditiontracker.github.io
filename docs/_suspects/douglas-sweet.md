@@ -19,7 +19,7 @@ image: /images/preview/douglas-sweet.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: “Trump asked all the patriots to show up, so I did.”
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [News Report](https://www.wtkr.com/news/mathews-co-man-arrested-during-capitol-riot-trump-asked-all-the-patriots-to-show-up-so-i-did)
