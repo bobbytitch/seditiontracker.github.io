@@ -3,10 +3,10 @@ name: Christopher Ortiz
 firstName: Christopher
 lastName: Ortiz
 aka:
-residence:
+residence: New York
 status: Charged
 date: 2021-01-27
-age:
+age: 27
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -14,6 +14,7 @@ before: christopher-ortiz.jpg
 after:
 perpwalk:
 booking:
+courthouse: christopher-ortiz.jpg
 courtroom: christopher-ortiz.jpg
 layout: suspect
 title: Christopher Ortiz charged on January 27th, 2021
