@@ -11,9 +11,7 @@ occupation: Student
 affiliations:
 jurisdiction: Federal
 before: nicolas-moncada.jpg
-after:
-perpwalk:
-booking:
+courthouse: nicolas-moncanda.jpg
 courtroom: nicolas-moncanda.jpg
 layout: suspect
 title: Nicolas Moncada charged on January 18th, 2021

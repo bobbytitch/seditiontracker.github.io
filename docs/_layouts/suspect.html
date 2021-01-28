@@ -40,14 +40,28 @@ layout: default
   </small>
 </div>
 
+{% if page.booking %}
+  <img class="mugshot" src="/images/booking/{{page.booking}}">
+{% endif %}
+
+{% if page.perpwalk %}
+  <img class="mugshot" src="/images/raid/{{page.raid}}">
+{% endif %}
+
+{% if page.raid %}
+  <img class="mugshot" src="/images/raid/{{page.raid}}">
+{% endif %}
+
+{% if page.courtroom %}
+  <img class="mugshot" src="/images/courtroom/{{page.courtroom}}">
+{% endif %}
+
+{% if page.courthouse %}
+  <img class="mugshot" src="/images/courthouse/{{page.courtroom}}">
+{% endif %}
+
 {% if page.after %}
   <img class="mugshot" src="/images/after/{{page.after}}">
-{% elsif page.booking %}
-  <img class="mugshot" src="/images/booking/{{page.booking}}">
-{% elsif page.courtroom %}
-  <img class="mugshot" src="/images/courtroom/{{page.courtroom}}">
-{% elsif page.raid %}
-  <img class="mugshot" src="/images/raid/{{page.raid}}">
-{% else %}
-  <img class="mugshot" src="/images/after/mugshot.jpg">
 {% endif %}
+
+
