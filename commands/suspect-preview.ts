@@ -54,7 +54,8 @@ const doPreview = () => {
   info("creating preview images");
 
   if (preview.file) {
-    generatePreview(preview.file, "charged");
+    const status = preview.status || "Charged"
+    generatePreview(preview.file, status);
   } else {
     for (const suspect of suspects) {
       console.log(suspect)

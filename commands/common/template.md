@@ -1,5 +1,7 @@
 ---
 name: [name]
+firstName: [firstName]
+lastName: [lastName]
 aka:
 residence: [residence]
 status: [status]

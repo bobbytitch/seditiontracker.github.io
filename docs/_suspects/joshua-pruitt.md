@@ -26,3 +26,4 @@ published: true
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351696/download)
 - [Statement of Facts](https://www.justice.gov/opa/press-release/file/1351701/download)
+- [Indictment](https://www.justice.gov/opa/page/file/1361266/download)

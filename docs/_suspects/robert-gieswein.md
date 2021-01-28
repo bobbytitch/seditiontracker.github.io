@@ -1,8 +1,8 @@
 ---
 name: Robert Gieswein
-aka:
+aka: Machine Gun Bobby
 residence: Colorado
-status: Charged
+status: Indicted
 date: 2021-01-16
 age: 24
 occupation: Founder of Woodland Wild Dogs (Paramilitary Training Group)
@@ -23,3 +23,4 @@ published: true
 - [Affidavit](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Gieswein%20Affidavit%20in%20Support%20of%20Criminal%20Complaint%20and%20Arrest%20Warrant.pdf)
 - [Incriminating Evidence (VIDEO)](https://twitter.com/Cleavon_MD/status/1352172510603689991?s=20)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360831/download)
+- [Indictment](https://www.justice.gov/opa/page/file/1361206/download)

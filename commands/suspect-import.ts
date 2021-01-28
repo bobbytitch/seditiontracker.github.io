@@ -136,6 +136,8 @@ const newSuspect = (firstName, lastName, dateString, links) => {
   const template = readFile("./commands/common/template.md");
 
   let data = template.replace(/\[name]/g, `${firstName} ${lastName}`,);
+  data = data.replace("[firstName]", firstName);
+  data = data.replace("[lastName]", lastName);
   data = data.replace("[mugShot]", "");
   data = data.replace("[residence]", "");
   data = data.replace("[status]", "Charged");
