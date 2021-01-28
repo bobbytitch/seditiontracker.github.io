@@ -26,6 +26,22 @@ const importSuspects = async() => {
     nameSet.add(dasherizeName(firstName, lastName));
   }
 
+  // await importGw(nameSet);
+  await importDoj(nameSet);
+}
+
+const importGw = async (nameSet: Set<string>) => {
+  info("Importing suspects from GW site");
+
+  // const html = await axios.get("https://extremism.gwu.edu/Capitol-Hill-Cases");
+
+  // const root = parse(html.data);
+  // const tbody = root.querySelector("tbody");
+
+  // console.log({tbod})
+}
+
+const importDoj = async (nameSet: Set<string>) => {
   info("Importing suspects from DOJ site");
 
   const html = await axios.get("https://www.justice.gov/opa/investigations-regarding-violence-capitol");

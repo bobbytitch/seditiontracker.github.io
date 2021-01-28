@@ -1,11 +1,7 @@
 import { Command } from "commander";
-import { info, warning } from "./common/console";
-import fs, { link } from "fs";
+import { info } from "./common/console";
+import fs from "fs";
 import { readFile } from "./common/file";
-import axios from 'axios'
-import { HTMLElement, Node, NodeType, parse } from 'node-html-parser';
-import { padStart } from 'lodash';
-import moment from 'moment';
 
 const cmd = new Command();
 cmd.parse(process.argv);
