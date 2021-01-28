@@ -9,7 +9,7 @@ occupation:
 affiliations: Super Happy Fun America (anti-LQBTQ group)
 jurisdiction: Federal
 before: 074.jpg
-after:
+courthouse: suzanne-ianni.jpg
 layout: suspect
 title: Suzanne Ianni charged on January 19, 2021
 image: /images/preview/074.jpg

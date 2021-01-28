@@ -12,7 +12,7 @@ before: 117.png
 after:
 perpwalk:
 booking:
-courtroom:
+courtroom: william-vogel.jpg
 layout: suspect
 title: William Vogel charged on January 25, 2021
 image: /images/preview/117.png

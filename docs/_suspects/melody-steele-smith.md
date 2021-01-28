@@ -12,7 +12,7 @@ before: 139
 after:
 perpwalk:
 booking:
-courtroom:
+courtroom: melody-stelle-smith.jpg
 layout: suspect
 title: Melody Steele-Smith charged on January 20th, 2020
 image: /images/preview/139.jpg

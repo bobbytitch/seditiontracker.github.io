@@ -10,6 +10,7 @@ affiliations:
 jurisdiction: Federal
 before: 043.jpg
 after:
+courtroo: david-mish.jpg
 layout: suspect
 title: David Mish charged on January 15, 2021
 image: /images/preview/043.jpg
