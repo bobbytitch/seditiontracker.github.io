@@ -19,7 +19,7 @@ image: /images/preview/arrest.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [News Report](https://wjno.iheart.com/featured/florida-news/content/2021-01-08-accused-florida-dc-rioter-has-no-regrets/)
