@@ -24,3 +24,4 @@ published: true
 - [Affidavit](https://www.justice.gov/opa/page/file/1355866/download)
 - [FBI Statement (Twitter)](https://twitter.com/NewYorkFBI/status/1350552028683116545?s=20)
 - [Self-Incrimination](https://lawandcrime.com/u-s-capitol-siege/authorities-arrest-man-who-pointed-himself-out-attacking-officers-at-d-c-insurrection-doj/)
+- [Self-Incrimination (Chat)](https://www.propublica.org/article/this-is-war-inside-the-secret-chat-where-far-right-extremists-devised-their-post-capitol-plans)
