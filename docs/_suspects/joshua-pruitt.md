@@ -2,7 +2,7 @@
 name: Joshua Pruitt
 aka:
 residence: Washington, D.C.
-status: Charged
+status: Indicted
 date: 2021-01-07
 age: 39
 occupation:
@@ -15,7 +15,7 @@ booking:
 courtroom:
 layout: suspect
 title: Joshua Pruitt charged on January 7th, 2021
-image: /images/preview/arrest.jpg
+image: /images/preview/arrest-indicted.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
