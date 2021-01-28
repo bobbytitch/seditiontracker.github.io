@@ -9,9 +9,10 @@ description: Click for latest case details. Suspects considered innocent until p
 image: /images/sedition-cover.jpg
 ---
 
+<h2 class="listing">Most Recent Suspects</h2>
+
 {% assign suspects = site.suspects | reverse %}
-{% for suspect in suspects limit: 1 %}
-  <h2 class="listing">Most Recent Suspect</h2>
+{% for suspect in suspects limit: 10 %}
   <h3>
     <div>
       <a href="{{suspect.url}}">
