@@ -19,7 +19,7 @@ image: /images/preview/arrest.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [News Report](https://www.npr.org/sections/insurrection-at-the-capitol/2021/01/08/954940681/man-who-posed-for-photos-sitting-at-desk-in-pelosis-office-has-been-arrested)
