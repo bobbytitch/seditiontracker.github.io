@@ -19,7 +19,7 @@ image: /images/preview/kenneth-grayson.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: “I left one unconscious so I did my little part and got the fuck out before I got arrested”
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [News Report](https://www.washingtontimes.com/news/2021/jan/26/kenneth-grayson-capitol-riot-suspect-if-trump-tell/)
