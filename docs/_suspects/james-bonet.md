@@ -3,7 +3,7 @@ name: James Bonet
 firstName: James
 lastName: Bonet
 aka:
-residence:
+residence: New York
 status: Charged
 date: 2021-01-27
 age:
