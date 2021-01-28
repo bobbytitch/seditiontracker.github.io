@@ -5,12 +5,12 @@ date: 2021-01-07
 residence: Florida
 age: 36
 jurisdiction: Federal
-before: 004.jpg
+before: adam-johnson.jpg
 booking: adam-johnson.png
-steps: adam-johnson.jpg
+courthouse: adam-johnson.jpg
 layout: suspect
 title: Adam Johnson charged on January 7, 2021
-image: /images/preview/004.jpg
+image: /images/preview/adam-johnson.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
 ---
