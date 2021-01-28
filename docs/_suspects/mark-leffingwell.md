@@ -19,7 +19,7 @@ image: /images/preview/arrest.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [News Report](https://www.seattletimes.com/seattle-news/crime/ex-washington-national-guardsman-among-first-indicted-in-attack-on-u-s-capitol/)
