@@ -22,6 +22,6 @@ author: seditiontrack
 published: true
 ---
 
-- [News Report](https://www.washingtontimes.com/news/2021/jan/26/kenneth-grayson-capitol-riot-suspect-if-trump-tell/)
+- [News Report](https://www.post-gazette.com/news/crime-courts/2021/01/26/Bridgeville-kenneth-grayson-charged-connection-Capitol-riot-insurrection/stories/202101260151)
 - [Complaint](https://www.justice.gov/opa/page/file/1360506/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360506/download)
