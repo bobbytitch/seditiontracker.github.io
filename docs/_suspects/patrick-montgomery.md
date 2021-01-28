@@ -1,26 +1,27 @@
 ---
 name: Patrick Montgomery
 aka:
-residence:
+residence: Colorado
 status: Charged
 date: 2021-01-17
-age:
+age: 48
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 137
+before: patrick-montgomery.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Patrick Montgomery charged on January 17th, 2021
-image: /images/preview/137.jpg
+image: /images/preview/patrick-montgomery.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: false
 ---
 
+- [News Report](https://www.denverpost.com/2021/01/19/us-capitol-riot-colorado-arrest-patrick-montgomery/)
 - [Complaint](https://www.justice.gov/opa/page/file/1357711/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357706/download)

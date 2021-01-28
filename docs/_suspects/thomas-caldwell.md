@@ -2,7 +2,7 @@
 name: Thomas Caldwell
 aka:
 residence: Virginia
-status: Charged
+status: Indicted
 date: 2021-01-19
 age: 66
 occupation: Navy (retired)

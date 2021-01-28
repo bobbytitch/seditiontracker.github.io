@@ -1,7 +1,7 @@
 ---
 name: Douglas Jensen
 residence: Iowa
-status: Charged
+status: Indicted
 date: 2021-01-09
 age: 41
 jurisdiction: Federal

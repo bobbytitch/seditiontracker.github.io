@@ -8,11 +8,11 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 022.jpg
+before: hunter-seefried.png
 after:
 layout: suspect
 title: Hunter Seefried charged on January 14, 2021
-image: /images/preview/026.jpg
+image: /images/preview/hunter-seefried.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack

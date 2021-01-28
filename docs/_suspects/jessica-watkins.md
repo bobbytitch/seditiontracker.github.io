@@ -2,7 +2,7 @@
 name: Jessica Watkins
 aka:
 residence: Ohio
-status: Charged
+status: Indicted
 date: 2021-01-17
 age: 38
 occupation: Former U.S. Military (Army)

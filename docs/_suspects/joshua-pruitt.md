@@ -1,27 +1,28 @@
 ---
 name: Joshua Pruitt
 aka:
-residence:
+residence: Washington, D.C.
 status: Charged
 date: 2021-01-07
-age:
+age: 39
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 138
+before: arrest.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Joshua Pruitt charged on January 7th, 2021
-image: /images/preview/138.jpg
+image: /images/preview/arrest.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: false
 ---
 
+- [News Report](https://www.npr.org/sections/insurrection-at-the-capitol/2021/01/08/954940681/man-who-posed-for-photos-sitting-at-desk-in-pelosis-office-has-been-arrested)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351696/download)
 - [Statement of Facts](https://www.justice.gov/opa/press-release/file/1351701/download)

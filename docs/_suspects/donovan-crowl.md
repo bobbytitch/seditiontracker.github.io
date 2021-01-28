@@ -2,7 +2,7 @@
 name: Donovan Crowl
 aka:
 residence: Ohio
-status: Charged
+status: Indicted
 date: 2021-01-17
 age: 50
 occupation: Former U.S. Military (Marines)
