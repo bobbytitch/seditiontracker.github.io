@@ -19,7 +19,7 @@ image: /images/preview/arrest.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "So if this is what it took … to make the people stand up and listen, then to me it was worth it."
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [NewsReport](https://www.ldnews.com/story/news/2021/01/07/lebanon-county-arrested-during-capitol-siege-has-no-regrets-trump-supporters-election-washington/6588911002/)
