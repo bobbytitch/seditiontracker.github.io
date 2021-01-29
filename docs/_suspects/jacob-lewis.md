@@ -19,7 +19,7 @@ image: /images/preview/jacob-lewis.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [NewsReport](https://losangeles.cbslocal.com/2021/01/28/victorville-man-jacob-lewis-arrested-us-capitol-riot/)
