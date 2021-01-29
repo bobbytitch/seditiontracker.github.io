@@ -26,19 +26,46 @@ const importSuspects = async() => {
     nameSet.add(dasherizeName(firstName, lastName));
   }
 
-  // await importGw(nameSet);
   await importDoj(nameSet);
+  await importGw(nameSet);
 }
 
 const importGw = async (nameSet: Set<string>) => {
   info("Importing suspects from GW site");
 
-  // const html = await axios.get("https://extremism.gwu.edu/Capitol-Hill-Cases");
+  const html = await axios.get("https://extremism.gwu.edu/Capitol-Hill-Cases");
 
-  // const root = parse(html.data);
-  // const tbody = root.querySelector("tbody");
+  const root = parse(html.data);
+  const divs:HTMLElement[] = root.querySelectorAll(".panel-body");
 
-  // console.log({tbod})
+  for (let i=0; i < 6; i++) {
+    const div = divs[i];
+    const entries: HTMLElement[] = div.querySelectorAll("p");
+
+    for (const entry of entries) {
+      const nameText = (entry.querySelector("strong") || entry.querySelector("em") || entry.querySelector("font")).innerText
+
+      const [lastName, rest] = nameText.split(",").map( (chunk:string) => chunk.trim().replace("&nbsp;", ""));
+
+      if (lastName == "Curzio") {
+        // there are some parsing oddities with this one so just skip it
+        continue;
+      }
+      const firstName = rest.split(" ")[0];
+      const nameToCheck = dasherizeName(firstName, lastName);
+
+      if (!nameSet.has(nameToCheck)) {
+        if (falsePositives().has(lastName)) {
+          continue;
+        }
+
+        const residence = entry.innerText.match(/State: (.*)/)[1].replace("Unknown", "");
+        const links = getLinks(entry)
+
+        newSuspect(firstName, lastName, null, links, residence);
+      }
+    }
+  }
 }
 
 const importDoj = async (nameSet: Set<string>) => {
@@ -62,12 +89,12 @@ const importDoj = async (nameSet: Set<string>) => {
       const parseText = childNodes[5].text.trim() || childNodes[6].text.trim();
 
       const dateString = parseText.match(/\d{1,2}([\/.-])\d{1,2}\1\d{2,4}/)[0]
-      const links = dojLinks(<HTMLElement>childNodes[3])
+      const links = getLinks(<HTMLElement>childNodes[3])
 
       newSuspect(firstName, lastName, dateString, links);
     } else {
       // see if the links for existing suspects need to be updated
-      const links = dojLinks(<HTMLElement>childNodes[3])
+      const links = getLinks(<HTMLElement>childNodes[3])
       for (const [type, url] of Object.entries(links)) {
         const dashedName = `${firstName} ${lastName}`.replace(/\s/g, "-").toLowerCase();
         const fileName = `./docs/_suspects/${dashedName}.md`
@@ -87,10 +114,25 @@ const falsePositives = () => {
   set.add("CALHOUN Jr.");
   set.add("MCCAUGHEY III");
   set.add("MISH Jr.");
+  set.add("Calhoun Jr.");
+  set.add("Bentacur");
+  set.add("Capsel");
+  set.add("Courtwright");
+  set.add("DeCarlo");
+  set.add("DeGrave");
+  set.add("Fichett");
+  set.add("Phipps");
+  set.add("Rodean");
+  set.add("Shively");
+  set.add("Sidorsky");
+  set.add("Sparks");
+  set.add("Spencer");
+  set.add("Mazzocco");
+  set.add("Griffin");
   return set;
 }
 
-const dojLinks = (element: HTMLElement) => {
+const getLinks = (element: HTMLElement) => {
   const links = {}
   const anchors = element.querySelectorAll("a");
   for (const anchor of anchors) {
@@ -133,21 +175,13 @@ const linkType = (description: string) => {
     }
 }
 
-/**
- * Recurse the nodes children until an anchor tag is found
- * @param node
- */
-// const extractAnchor = (node: Node) => {
-
-// }
-
 const capitalized = (input:string) => {
   return input.replace(/(^|[\s-])\S/g, function (match) { return match.toUpperCase(); });
 }
 
-const newSuspect = (firstName, lastName, dateString, links) => {
-  const date = moment(dateString, "MM/DD/YY");
-  console.log(`${firstName} ${lastName} ${date.format("MM-DD")}`);
+const newSuspect = (firstName, lastName, dateString, links, residence?: string) => {
+  console.log(`${firstName} ${lastName}`);
+
   const dashedName = dasherizeName(firstName, lastName)
   const template = readFile("./commands/common/template.md");
 
@@ -155,14 +189,19 @@ const newSuspect = (firstName, lastName, dateString, links) => {
   data = data.replace("[firstName]", firstName);
   data = data.replace("[lastName]", lastName);
   data = data.replace("[mugShot]", "");
+  data.replace("[residence]", residence ? residence : "")
   data = data.replace("[residence]", "");
   data = data.replace("[status]", "Charged");
   data = data.replace("[age]", "");
   data = data.replace("[action]", "charged");
   data = data.replace(/\[dashedName]/g, dashedName);
-  data = data.replace("[date]", date.format("YYYY-MM-DD"));
-  data = data.replace("[longDate]", date.format("MMMM Do, YYYY"));
   data = data.replace("published: true", "published: false");
+
+  if (dateString) {
+    const date = moment(dateString, "MM/DD/YY");
+    data = data.replace("[date]", date.format("YYYY-MM-DD"));
+    data = data.replace("[longDate]", date.format("MMMM Do, YYYY"));
+  }
 
   for (const [type, url] of Object.entries(links)) {
     data = data + `- [${type}](https://www.justice.gov${url})\n`

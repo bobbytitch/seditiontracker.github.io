@@ -1,6 +1,6 @@
 ---
 name: Bryan Betancur
-aka:
+aka: Bryan Clooney, Maximo Clooney
 residence: Maryland
 status: Charged
 date: 2021-01-17
