@@ -1,14 +1,14 @@
 ---
 name: Jordan Revlett
 aka:
-residence:
+residence: Kentucky
 status: Charged
 date: 2021-01-25
-age:
+age: 23
 occupation:
 affiliations:
 jurisdiction: Federal
-before: jordan-revlett
+before: jordan-revlett.jpg
 after:
 perpwalk:
 booking:
@@ -22,6 +22,6 @@ author: seditiontrack
 published: false
 ---
 
-- [NewsReport]()
+- [NewsReport](https://www.wkyt.com/2021/01/26/feds-charge-5th-kentucky-resident-in-capitol-violence/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361051/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361051/download)

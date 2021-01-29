@@ -11,7 +11,7 @@ before: 010.jpg
 after: andrew-james-williams-court.jpg
 layout: suspect
 courtroom: andrew-williams.jpg
-title: Andrew Williams charged on January 12, 2020
+title: Andrew Williams charged on January 12, 2021
 image: /images/preview/010.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

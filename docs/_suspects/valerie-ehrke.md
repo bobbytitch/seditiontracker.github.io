@@ -1,26 +1,27 @@
 ---
 name: Valerie Ehrke
 aka:
-residence:
+residence: California
 status: Charged
 date: 2021-01-19
-age:
+age: 53
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 128
+before: valerie-ehrke.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Valerie Ehrke charged on January 19th, 2021
-image: /images/preview/128.jpg
+image: /images/preview/valerie-ehrke.png
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
+quote: "I took off when I felt pepper spray in my throat! Lol."
 author: seditiontrack
 published: false
 ---
 
+- [NewsReport](https://sacramento.cbslocal.com/2021/01/20/fbi-arrest-jorge-riley-valerie-ehrke-capitol/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356641/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356646/download)

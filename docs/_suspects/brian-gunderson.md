@@ -10,14 +10,13 @@ age: 26
 occupation:
 affiliations:
 jurisdiction: Federal
-before: brian-gunderson
-before: 121.png
+before: brian-gunderson.png
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Brian Gunderson charged on January 27th, 2021
-image: /images/preview/121.png
+image: /images/preview/brian-gunderson.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We all stormed the us capital [sic] and tried to take over the government"
 author: seditiontrack

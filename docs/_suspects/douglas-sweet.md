@@ -3,7 +3,7 @@ name: Douglas Sweet
 aka:
 residence: Florida
 status: Charged
-date: 2020-01-21
+date: 2021-01-21
 age:
 occupation:
 affiliations:
@@ -14,7 +14,7 @@ perpwalk:
 booking:
 courtroom:
 layout: suspect
-title: Douglas Sweet charged on January 21st, 2020
+title: Douglas Sweet charged on January 21st, 2021
 image: /images/preview/douglas-sweet.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: “Trump asked all the patriots to show up, so I did.”

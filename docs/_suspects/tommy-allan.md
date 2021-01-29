@@ -8,16 +8,16 @@ age: 52
 occupation: Real Estate (Former)
 affiliations:
 jurisdiction: Federal
-before: 116
+before: tommy-allan.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Tommy Allan charged on January 25, 2021
-image: /images/preview/116.jpg
+image: /images/preview/tommy-allan.png
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
+quote: "Here [sic] my Roar you fucking communist bastards. Give me freedom or give me death."
 author: seditiontrack
 published: false
 ---

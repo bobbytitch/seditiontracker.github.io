@@ -8,10 +8,9 @@ title: Suspects (by Name)
 <table>
   <tr>
     <th>Name</th>
-    <th>Residence</th>
+    <th><a href="/suspects/by_state">Residence</a></th>
     <th>Status</th>
-    <th>Date</th>
-  </tr>
+    <th><a href="/suspects">Date</a></th>  </tr>
   {% assign suspects_by_date = site.suspects | sort: "name" %}
   {% for suspect in suspects_by_date %}
   <tr>

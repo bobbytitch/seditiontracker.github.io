@@ -3,7 +3,7 @@ name: Michael Curzio
 aka:
 residence: Florida
 status: Charged
-date: 2020-01-14
+date: 2021-01-14
 age: 35
 occupation:
 affiliations:
@@ -14,7 +14,7 @@ perpwalk:
 booking:
 courtroom:
 layout: suspect
-title: Michael Curzio charged on January 14th, 2020
+title: Michael Curzio charged on January 14th, 2021
 image: /images/preview/arrest.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:

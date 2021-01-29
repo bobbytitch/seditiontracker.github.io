@@ -2,28 +2,28 @@
 name: Jeffrey Smith
 firstName: Jeffrey
 lastName: Smith
-aka:
-residence: 
+aka: Alex Smith
+residence: California
 status: Charged
 date: 2021-01-27
-age: 
+age: 33
 occupation:
 affiliations:
 jurisdiction: Federal
-before: jeffrey-smith
+before: jeffrey-smith.png
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 layout: suspect
 title: Jeffrey Smith charged on January 27th, 2021
-image: /images/preview/jeffrey-smith.jpg
+image: /images/preview/jeffrey-smith.png
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
+quote: "There is no way in hell I was going to drive 38 hours from San Diego and not walk right through the front of the capital (sic) building."
 author: seditiontrack
 published: false
 ---
 
-- [NewsReport]()
+- [NewsReport](https://www.cbs8.com/article/news/politics/coronado-arrest-capitol-riot/509-740c83a7-f93e-4283-87da-d5a54005906b)
 - [Complaint](https://www.justice.gov/opa/page/file/1361426/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361426/download)

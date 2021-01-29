@@ -7,11 +7,10 @@ title: Suspects (by State)
 
 <table>
   <tr>
-    <th>Name</th>
+    <th><a href="/suspects/by_name">Name</a></th>
     <th>Residence</th>
     <th>Status</th>
-    <th>Date</th>
-  </tr>
+    <th><a href="/suspects">Date</a></th>  </tr>
   {% assign suspects_by_date = site.suspects | sort: "residence" %}
   {% for suspect in suspects_by_date %}
   <tr>

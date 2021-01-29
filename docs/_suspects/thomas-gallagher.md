@@ -1,27 +1,28 @@
 ---
 name: Thomas Gallagher
 aka:
-residence:
+residence: New Hampshire
 status: Charged
-date: 2020-01-21
-age:
+date: 2021-01-21
+age: 61
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 130
+before: thomas-gallagher.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
-title: Thomas Gallagher charged on January 21st, 2020
-image: /images/preview/130.jpg
+title: Thomas Gallagher charged on January 21st, 2021
+image: /images/preview/thomas-gallagher.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: false
 ---
 
+- [NewsReport](https://boston.cbslocal.com/2021/01/14/thomas-gallagher-bridgewater-new-hampshire-charged-arrested-us-capitol-riot/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351716/download)
 - [Statement of Facts](https://www.justice.gov/opa/press-release/file/1351721/download)

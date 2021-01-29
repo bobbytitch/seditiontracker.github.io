@@ -3,7 +3,7 @@ name: Cindy Fitchett
 aka:
 residence: Virginia
 status: Charged
-date: 2020-01-21
+date: 2021-01-21
 age: 59
 occupation:
 affiliations:
@@ -14,7 +14,7 @@ perpwalk:
 booking: cindy-fitchett.png
 courtroom:
 layout: suspect
-title: Cindy Fitchett charged on January 21st, 2020
+title: Cindy Fitchett charged on January 21st, 2021
 image: /images/preview/129.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
