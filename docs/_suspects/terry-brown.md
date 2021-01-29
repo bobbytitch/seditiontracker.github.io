@@ -5,7 +5,7 @@ residence: Pennsylvania
 status: Charged
 date: 2021-01-11
 age: 69
-occupation: Retired Public Safety Officer
+occupation: Public Safety Code Enforcement Officer (Retired)
 affiliations:
 jurisdiction: Federal
 before: arrest.jpg
