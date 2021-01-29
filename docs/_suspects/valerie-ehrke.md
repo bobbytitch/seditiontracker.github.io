@@ -19,7 +19,7 @@ image: /images/preview/valerie-ehrke.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "I took off when I felt pepper spray in my throat! Lol."
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [NewsReport](https://sacramento.cbslocal.com/2021/01/20/fbi-arrest-jorge-riley-valerie-ehrke-capitol/)
