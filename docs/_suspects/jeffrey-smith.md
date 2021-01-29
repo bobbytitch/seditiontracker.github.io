@@ -7,17 +7,17 @@ residence: California
 status: Charged
 date: 2021-01-27
 age: 33
-occupation:
-affiliations:
+occupation: U.S. Army (Former)
+affiliations: military
 jurisdiction: Federal
-before: jeffrey-smith.png
+before: jeffrey-smith.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Jeffrey Smith charged on January 27th, 2021
-image: /images/preview/jeffrey-smith.png
+image: /images/preview/jeffrey-smith.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "There is no way in hell I was going to drive 38 hours from San Diego and not walk right through the front of the capital (sic) building."
 author: seditiontrack
