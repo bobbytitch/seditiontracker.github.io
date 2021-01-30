@@ -3,17 +3,17 @@ name: John Lolos
 firstName: John
 lastName: Lolos
 aka:
-residence: 
+residence:
 status: Charged
-date: [date]
-age: 
+date: 2021-01-09
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
 before: john-lolos
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 layout: suspect
 title: John Lolos charged on [longDate]

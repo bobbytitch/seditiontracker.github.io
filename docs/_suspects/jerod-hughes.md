@@ -3,17 +3,17 @@ name: Jerod Hughes
 firstName: Jerod
 lastName: Hughes
 aka:
-residence: 
+residence:
 status: Charged
-date: [date]
-age: 
+date: 2021-01-28
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
 before: jerod-hughes
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 layout: suspect
 title: Jerod Hughes charged on [longDate]

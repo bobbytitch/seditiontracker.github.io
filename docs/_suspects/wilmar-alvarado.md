@@ -3,17 +3,17 @@ name: Wilmar Alvarado
 firstName: Wilmar
 lastName: Alvarado
 aka:
-residence: 
+residence:
 status: Charged
-date: [date]
-age: 
+date: 2021-01-29
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
 before: wilmar-alvarado
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 layout: suspect
 title: Wilmar Alvarado charged on [longDate]

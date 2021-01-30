@@ -3,17 +3,17 @@ name: Thomas Fee
 firstName: Thomas
 lastName: Fee
 aka:
-residence: 
+residence:
 status: Charged
-date: [date]
-age: 
+date: 2021-01-15
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
 before: thomas-fee
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 layout: suspect
 title: Thomas Fee charged on [longDate]

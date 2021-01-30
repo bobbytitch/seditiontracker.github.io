@@ -6,7 +6,7 @@ status: Charged
 date: 2021-01-12
 age: 31
 employer: MTA
-affiliations:
+affiliations: Proud Boys
 jurisdiction: Federal
 before: 015.jpg
 after:

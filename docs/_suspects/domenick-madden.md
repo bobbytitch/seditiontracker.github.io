@@ -3,17 +3,17 @@ name: Domenick Madden
 firstName: Domenick
 lastName: Madden
 aka:
-residence: 
+residence:
 status: Charged
-date: [date]
-age: 
+date: 2021-01-21
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
 before: domenick-madden
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 layout: suspect
 title: Domenick Madden charged on [longDate]

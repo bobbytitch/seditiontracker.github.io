@@ -3,17 +3,17 @@ name: Christopher Kelly
 firstName: Christopher
 lastName: Kelly
 aka:
-residence: 
+residence:
 status: Charged
-date: [date]
-age: 
+date: 2021-01-20
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
 before: christopher-kelly
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 layout: suspect
 title: Christopher Kelly charged on [longDate]

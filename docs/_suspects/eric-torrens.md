@@ -3,17 +3,17 @@ name: Eric Torrens
 firstName: Eric
 lastName: Torrens
 aka:
-residence: 
+residence:
 status: Charged
-date: [date]
-age: 
+date: 2021-01-27
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
 before: eric-torrens
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 layout: suspect
 title: Eric Torrens charged on [longDate]

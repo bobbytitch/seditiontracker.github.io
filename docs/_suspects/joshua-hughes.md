@@ -3,17 +3,17 @@ name: Joshua Hughes
 firstName: Joshua
 lastName: Hughes
 aka:
-residence: 
+residence:
 status: Charged
-date: [date]
-age: 
+date: 2021-01-28
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
 before: joshua-hughes
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 layout: suspect
 title: Joshua Hughes charged on [longDate]
