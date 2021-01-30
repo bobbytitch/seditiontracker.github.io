@@ -3,16 +3,18 @@ layout: default
 title: Suspects (by Name)
 ---
 
-<h1>{{ page.title }}</h1>
+<h1 class="table">{{ page.title }}</h1>
+{% assign suspects = site.suspects | sort: "date" | reverse %}
+Total Count: {{ suspects.size }}
 
-<table>
+<table class="suspects">
   <tr>
     <th>Name</th>
     <th><a href="/suspects/by_state">Residence</a></th>
     <th>Status</th>
     <th><a href="/suspects">Date</a></th>  </tr>
-  {% assign suspects_by_date = site.suspects | sort: "name" %}
-  {% for suspect in suspects_by_date %}
+  {% assign suspects = site.suspects | sort: "name" %}
+  {% for suspect in suspects %}
   <tr>
     <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
     <td>{{ suspect.residence }}</td>
