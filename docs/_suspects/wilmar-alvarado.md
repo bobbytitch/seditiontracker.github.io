@@ -24,6 +24,7 @@ author: seditiontrack
 published: false
 ---
 
-- [NewsReport]()
-- [Complaint](https://www.justice.govhttps://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Wilmar%20Alvarado%20Criminal%20Complaint%20and%20Affidavit.pdf)
-- [Statement of Facts](https://www.justice.govhttps://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Wilmar%20Alvarado%20Criminal%20Complaint%20and%20Affidavit.pdf)
+- [NewsReport](https://www.houstonchronicle.com/news/houston-texas/crime/article/houston-man-arrested-fbi-capitol-riot-15908343.php)
+- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Wilmar%20Alvarado%20Criminal%20Complaint%20and%20Affidavit.pdf)
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Wilmar%20Alvarado%20Criminal%20Complaint%20and%20Affidavit.pdf)
+- [Courtroom Steps (VIDEO)](https://www.facebook.com/ABC13MiyaShay/videos/1084488068690371/)

@@ -24,3 +24,4 @@ published: true
 - [Self Incrimination (Interview)](https://www.houstonchronicle.com/news/houston-texas/crime/article/HPD-cop-faces-federal-charges-capitol-riot-15867917.php)
 - [Complaint](https://www.justice.gov/opa/page/file/1357331/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357336/download)
+- [Courthouse Steps (VIDEO)](https://abc13.com/houston-protest-inauguration-protests-hpd-officer-tam-pham-at-us-capitol-safety-plan/9882345/)

@@ -203,8 +203,12 @@ const newSuspect = (firstName, lastName, dateString, links, residence?: string) 
     data = data.replace("[longDate]", date.format("MMMM Do, YYYY"));
   }
 
-  for (const [type, url] of Object.entries(links)) {
-    data = data + `- [${type}](https://www.justice.gov${url})\n`
+  for (const [type, url] of Object.entries<string>(links)) {
+    if (url.includes("https")) {
+      data = data + `- [${type}](${url})\n`
+    } else {
+      data = data + `- [${type}](https://www.justice.gov${url})\n`
+    }
   }
 
   fs.writeFileSync(`./docs/_suspects/${firstName.toLowerCase()}-${lastName.toLowerCase()}.md`, data.toString());

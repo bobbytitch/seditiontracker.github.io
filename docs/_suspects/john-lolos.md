@@ -25,4 +25,4 @@ published: false
 ---
 
 - [NewsReport]()
-- [Statement of Facts](https://www.justice.govhttps://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Lolos%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Lolos%20Statement%20of%20Facts.pdf)
