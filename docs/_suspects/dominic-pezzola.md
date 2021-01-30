@@ -9,7 +9,8 @@ occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
 before: 033.jpg
-booking: dominic-pezzola.png
+booking: dominic-pezzola.jpg
+courtroom: dominic-pezzola.png
 layout: suspect
 title: Dominic Pezzola charged on January 15, 2021
 image: /images/preview/033.jpg
