@@ -15,6 +15,7 @@ after:
 perpwalk:
 booking: [mugShot]
 courtroom:
+courthouse:
 layout: suspect
 title: [name] [action] on [longDate]
 image: /images/preview/[dashedName].jpg
