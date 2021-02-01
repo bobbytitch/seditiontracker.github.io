@@ -21,7 +21,7 @@ image: /images/preview/christina-gerding.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Quincy made it inside."
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [NewsReport](https://khqa.com/news/local/justice-department-arrests-quincy-couple-in-connection-to-us-capitol-raid)
