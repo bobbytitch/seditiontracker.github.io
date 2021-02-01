@@ -4,7 +4,7 @@ import fs from "fs";
 import { readFile, writeFile } from "./common/file";
 import axios from 'axios'
 import { HTMLElement, Node, NodeType, parse } from 'node-html-parser';
-import { capitalize, first } from 'lodash';
+import { capitalize, first, isEmpty } from 'lodash';
 import escapeStringRegexp from 'escape-string-regexp'
 import moment from 'moment';
 
@@ -52,22 +52,27 @@ const importGw = async (nameSet: Set<string>) => {
 
       const [lastName, rest] = nameText.split(",").map( (chunk:string) => chunk.trim().replace("&nbsp;", ""));
 
-      if (lastName == "Curzio") {
-        // there are some parsing oddities with this one so just skip it
-        continue;
-      }
       const firstName = rest.split(" ")[0];
       const nameToCheck = dasherizeName(firstName, lastName);
+      const residence = entry.innerText.match(/State: (.*)/)[1].replace("Unknown", "");
+
+      if (falsePositives().has(lastName)) {
+        continue;
+      }
 
       if (!nameSet.has(nameToCheck)) {
-        if (falsePositives().has(lastName)) {
-          continue;
-        }
-
-        const residence = entry.innerText.match(/State: (.*)/)[1].replace("Unknown", "");
         const links = getLinks(entry)
-
         newSuspect(firstName, lastName, null, links, residence);
+      } else {
+        // see if the GW site has missing state/residence
+        let data = getSuspectData(firstName, lastName);
+
+        if (!isEmpty(residence) && data.match(/residence:\s*\n/)) {
+          data = data.replace(/residence:\s*\n/, `residence: ${residence}\n`)
+          console.log(`${firstName} ${lastName}: ${residence}`);
+          const fileName = getFileName(firstName, lastName);
+          writeFile(fileName, data);
+        }
       }
     }
   }
@@ -101,11 +106,11 @@ const importDoj = async (nameSet: Set<string>) => {
       // see if the links for existing suspects need to be updated
       const links = getLinks(<HTMLElement>childNodes[3])
       for (const [type, url] of Object.entries(links)) {
-        const dashedName = `${firstName} ${lastName}`.replace(/\s/g, "-").toLowerCase();
-        const fileName = `./docs/_suspects/${dashedName}.md`
-        let data = readFile(fileName)
 
         const linkMarkdown = `- [${type}](https://www.justice.gov${url})`
+        let data = getSuspectData(firstName, lastName);
+        const dashedName = getDashedName(firstName, lastName);
+        const fileName = getFileName(firstName, lastName);
 
         // add any missing links
         if (!data.match(new RegExp(type))) {
@@ -126,9 +131,17 @@ const importDoj = async (nameSet: Set<string>) => {
   }
 }
 
-const escapeRegEx = (regEx):RegExp => {
-  const escaped = regEx.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
-  return new RegExp(escaped);
+const getFileName = (firstName: string, lastName: string): string => {
+  return `./docs/_suspects/${getDashedName(firstName, lastName)}.md`
+}
+
+const getDashedName = (firstName: string, lastName: string): string => {
+  return `${firstName} ${lastName}`.replace(/\s/g, "-").toLowerCase();
+}
+
+const getSuspectData = (firstName: string, lastName: string): string => {
+  const fileName = getFileName(firstName, lastName);
+  return readFile(fileName)
 }
 
 const falsePositives = () => {
@@ -152,6 +165,7 @@ const falsePositives = () => {
   set.add("Mazzocco");
   set.add("Griffin");
   set.add("McCaughey III");
+  set.add("Curzio");
   return set;
 }
 
