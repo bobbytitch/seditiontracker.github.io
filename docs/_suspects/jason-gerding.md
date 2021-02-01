@@ -3,17 +3,17 @@ name: Jason Gerding
 firstName: Jason
 lastName: Gerding
 aka:
-residence: 
+residence: Illinois
 status: Charged
 date: 2021-01-28
-age: 
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: jason-gerding
+before: jason-gerding.jpg
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 layout: suspect
 title: Jason Gerding charged on January 28th, 2021
@@ -24,6 +24,6 @@ author: seditiontrack
 published: false
 ---
 
-- [NewsReport]()
+- [NewsReport](https://khqa.com/news/local/justice-department-arrests-quincy-couple-in-connection-to-us-capitol-raid)
 - [Complaint](https://www.justice.gov/opa/page/file/1361581/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361581/download)

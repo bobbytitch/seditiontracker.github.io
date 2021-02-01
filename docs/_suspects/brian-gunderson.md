@@ -7,7 +7,7 @@ residence: New York
 status: Charged
 date: 2021-01-27
 age: 26
-occupation:
+occupation: Sanitation Worker
 affiliations:
 jurisdiction: Federal
 before: brian-gunderson.png
