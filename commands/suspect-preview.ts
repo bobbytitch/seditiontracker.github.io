@@ -7,7 +7,6 @@ const { execSync } = require('child_process')
 const preview = new Command()
   .option("-f, --file <file>", "cropped file to use for preview")
   .option("-s, --status <status>", "status of suspect", "CHARGED")
-  .option("-v, --verify", "verify all preview images exist");
 
 preview.parse(process.argv);
 
@@ -29,28 +28,6 @@ const generatePreview = (previewImage, status) => {
 
 const doPreview = () => {
   const suspects = fs.readdirSync('./docs/_suspects');
-
-  if (preview.verify) {
-    for (const suspect of suspects) {
-      const data = readFile(`./docs/_suspects/${suspect}`)
-      const status = data.match(/status: (.*)/)[1];
-      const previewImage = data.match(/.*image:.*\/preview\/(.*\.png|.*\.jpg|.*\.webp)\n/)[1].trim();
-      const file = `docs/images/preview/${previewImage}`;
-      if (fs.existsSync(file) || data.match(/published: false/)) {
-        continue;
-      } else {
-        // no preview found, let's try generating one
-        info(`Generating preview for ${suspect}`)
-        try {
-          execSync(`yarn suspect preview -f ${previewImage} -s ${status}`)
-          execSync(`git add docs/images/preview`)
-        } catch (error) {
-          exitWithError(`No preview exists for ${suspect}`)
-        }
-      }
-    }
-    return;
-  }
 
   info("creating preview images");
 

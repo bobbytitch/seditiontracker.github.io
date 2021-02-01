@@ -8,7 +8,7 @@ status: Charged
 date: 2021-01-28
 age:
 occupation:
-affiliations:
+affiliations: Proud Boys (likely)
 jurisdiction: Federal
 before: joshua-hughes.png
 after:

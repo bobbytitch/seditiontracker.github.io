@@ -16,7 +16,7 @@ perpwalk:
 booking:
 courtroom:
 layout: suspect
-title: Christopher Kelly charged on [longDate]
+title: Christopher Kelly charged on January 20, 2021
 image: /images/preview/christopher-kelly.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
