@@ -13,6 +13,11 @@ cmd.parse(process.argv);
 const importSuspects = async() => {
   info("Reading list of current suspects");
 
+  await importDoj(getNameSet());
+  await importGw(getNameSet());
+}
+
+const getNameSet = (): Set<string> => {
   const suspectFiles = fs.readdirSync('./docs/_suspects');
   const nameSet:Set<string> = new Set();
 
@@ -26,8 +31,7 @@ const importSuspects = async() => {
     nameSet.add(dasherizeName(firstName, lastName));
   }
 
-  await importDoj(nameSet);
-  await importGw(nameSet);
+  return nameSet;
 }
 
 const importGw = async (nameSet: Set<string>) => {
