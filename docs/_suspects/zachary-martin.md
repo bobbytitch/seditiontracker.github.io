@@ -21,7 +21,7 @@ image: /images/preview/zachary-martin.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [NewsReport](https://www.news-leader.com/story/news/local/missouri/2021/01/28/u-s-capitol-riots-document-shows-why-springfield-man-zachary-martin-arrested/4301430001/)
