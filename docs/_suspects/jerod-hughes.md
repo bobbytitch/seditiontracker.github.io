@@ -16,7 +16,7 @@ perpwalk:
 booking:
 courtroom:
 layout: suspect
-title: Jerod Hughes charged on [longDate]
+title: Jerod Hughes charged on January 28, 2021
 image: /images/preview/jerod-hughes.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
