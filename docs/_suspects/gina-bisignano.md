@@ -2,7 +2,7 @@
 name: Gina Bisignano
 aka:
 residence: California
-status: Charged
+status: Indicted
 date: 2021-01-19
 age: 52
 occupation: Salon Owner

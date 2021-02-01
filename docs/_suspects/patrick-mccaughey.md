@@ -2,7 +2,7 @@
 name: Patrick McCaughey
 aka:
 residence: Connecticut
-status: Charged
+status: Indicted
 date: 2021-01-19
 age: 23
 occupation:
