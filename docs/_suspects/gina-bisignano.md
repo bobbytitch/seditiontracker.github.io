@@ -24,3 +24,4 @@ published: true
 - [FBI Statement (Twitter)](https://twitter.com/FBILosAngeles/status/1351604985210040326?s=20)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356556/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356561/download)
+- [Indictment](https://www.justice.gov/opa/page/file/1362886/download)
