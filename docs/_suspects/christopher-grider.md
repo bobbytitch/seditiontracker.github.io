@@ -1,28 +1,30 @@
 ---
-name: Christoper Grider
+name: Christopher Grider
+firstName: Christopher
+lastName: Grider
 aka:
 residence: Texas
 status: Charged
-date: 2021-01-21
-age: 39
-occupation: Business Owner
+date: 2020-01-21
+age: 
+occupation:
 affiliations:
 jurisdiction: Federal
-before: 115.png
+before: christopher-grider
 after:
 perpwalk:
-booking:
+booking: 
 courtroom:
+courthouse:
 layout: suspect
-title: Christoper Grider charged on January 21, 2021
-image: /images/preview/115.png
+title: Christopher Grider charged on January 21st, 2020
+image: /images/preview/christopher-grider.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote: "I was next to this door next to the Speaker’s chambers"
+quote:
 author: seditiontrack
-published: true
+published: false
 ---
 
-- [News Report](https://dfw.cbslocal.com/2021/01/22/texas-christopher-grider-surrenders-fbi-video-rioting-us-capitol/)
+- [NewsReport]()
 - [Complaint](https://www.justice.gov/file/1358251/download)
 - [Affidavit](https://www.justice.gov/opa/page/file/1358246/download)
-- [Self Incrimination (Interview)](https://www.kwtx.com/2021/01/07/central-texas-man-witnessed-deadly-shooting-as-trump-supporters-stormed-us-capitol/)

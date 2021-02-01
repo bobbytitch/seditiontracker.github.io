@@ -25,5 +25,5 @@ published: false
 ---
 
 - [NewsReport]()
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Christopher%20Kelly%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Christopher%20Kelly%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)
+- [Complaint](https://www.justice.gov/opa/page/file/1362961/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1362961/download)

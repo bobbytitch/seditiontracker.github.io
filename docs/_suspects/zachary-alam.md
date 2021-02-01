@@ -1,0 +1,29 @@
+---
+name: Zachary Alam
+firstName: Zachary
+lastName: Alam
+aka:
+residence:
+status: Charged
+date: 2021-01-30
+age:
+occupation:
+affiliations:
+jurisdiction: Federal
+before: zachary-alam.png
+after:
+perpwalk:
+booking:
+courtroom:
+courthouse:
+layout: suspect
+title: Zachary Alam charged on January 30th, 2021
+image: /images/preview/zachary-alam.png
+description: Click for latest case details. Suspects innocent until proven guilty.
+quote: "Fuck the blue!"
+author: seditiontrack
+published: true
+---
+
+- [Complaint](https://www.justice.gov/opa/page/file/1362956/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1362956/download)
