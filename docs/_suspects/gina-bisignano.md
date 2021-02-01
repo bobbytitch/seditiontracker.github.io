@@ -10,6 +10,7 @@ affiliations:
 jurisdiction: Federal
 before: 070.jpg
 after:
+raid: gina-bisignano.jpg
 layout: suspect
 title: Gina Bisigano charged on January 19, 2021
 image: /images/preview/070.jpg
@@ -25,3 +26,4 @@ published: true
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356556/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356561/download)
 - [Indictment](https://www.justice.gov/opa/page/file/1362886/download)
+- [FBI Raid (Video)](https://losangeles.cbslocal.com/2021/01/19/beverly-hills-salon-owner-gina-bisignano-2-others-arrested-for-capitol-riots/)
