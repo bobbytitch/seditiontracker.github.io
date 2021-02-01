@@ -133,6 +133,7 @@ const falsePositives = () => {
   set.add("Spencer");
   set.add("Mazzocco");
   set.add("Griffin");
+  set.add("McCaughey III");
   return set;
 }
 
