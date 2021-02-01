@@ -19,7 +19,7 @@ image: /images/preview/tommy-allan.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Here [sic] my Roar you fucking communist bastards. Give me freedom or give me death."
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [News Report](https://www.sacbee.com/news/local/article248703410.html)

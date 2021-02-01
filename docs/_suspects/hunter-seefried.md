@@ -16,7 +16,7 @@ image: /images/preview/hunter-seefried.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [News Report](https://www.delawareonline.com/story/news/2021/01/14/delaware-father-son-arrested-involvement-capitol-riot-kevin-seefried-confederate-flag/4160104001/)

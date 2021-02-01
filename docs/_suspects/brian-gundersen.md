@@ -20,7 +20,7 @@ image: /images/preview/brian-gunderson.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We all stormed the us capital [sic] and tried to take over the government"
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [NewsReport](https://www.huffpost.com/entry/high-school-varsity-jacket-us-capitol-riot_n_600f365ac5b634dc37378746?63x8)

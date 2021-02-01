@@ -5,7 +5,7 @@ residence: California
 status: Charged
 date: 2021-01-19
 age: 53
-occupation:
+occupation: Home Designer
 affiliations:
 jurisdiction: Federal
 before: valerie-ehrke.png
