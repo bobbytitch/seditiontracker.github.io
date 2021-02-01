@@ -21,3 +21,4 @@ author: seditiontrack
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353216/download)
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1353211/download)
+- [Indictment](https://www.justice.gov/opa/page/file/1362646/download)

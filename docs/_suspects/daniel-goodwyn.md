@@ -21,3 +21,4 @@ published: true
 
 - [News Story](https://www.sfgate.com/crime/article/daniel-goodwyn-sf-proud-boys-capitol-arrests-15877697.php)
 - [Complaint](https://assets.documentcloud.org/documents/20456929/1-15-21-us-v-daniel-goodwyn-complaint-statement.pdf)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1362756/download)

@@ -20,5 +20,5 @@ published: true
 ---
 
 - [News Report](https://people.com/sports/klete-keller-friends-ex-wife-react-participation-capitol-riots/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Klete%20Derik%20Keller%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1354311/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1354311/download)

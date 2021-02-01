@@ -16,5 +16,5 @@ author: Sedition Tracker
 
 - [News Report](https://nypost.com/2021/01/09/proud-boys-leader-nicholas-ochs-arrested-for-seen-smoking-inside-capitol-during-riots-arrested/)
 - [DOJ Press Release](https://www.justice.gov/usao-hi/pr/nicholas-r-ochs-arrested-unlawful-entry-united-states-capitol-building)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nicholas%20Ochs%20Criminal%20Complaint.pdf)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Ochs%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)
+- [Complaint](https://www.justice.gov/opa/page/file/1353341/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1353341/download)

@@ -4,7 +4,8 @@ import fs from "fs";
 import { readFile, writeFile } from "./common/file";
 import axios from 'axios'
 import { HTMLElement, Node, NodeType, parse } from 'node-html-parser';
-import { capitalize } from 'lodash';
+import { capitalize, first } from 'lodash';
+import escapeStringRegexp from 'escape-string-regexp'
 import moment from 'moment';
 
 const cmd = new Command();
@@ -103,14 +104,31 @@ const importDoj = async (nameSet: Set<string>) => {
         const dashedName = `${firstName} ${lastName}`.replace(/\s/g, "-").toLowerCase();
         const fileName = `./docs/_suspects/${dashedName}.md`
         let data = readFile(fileName)
+
+        const linkMarkdown = `- [${type}](https://www.justice.gov${url})`
+
+        // add any missing links
         if (!data.match(new RegExp(type))) {
           console.log(`${dashedName}: ${type}`)
-          data = data.trim() + `\n- [${type}](https://www.justice.gov${url})`
+          data = data.trim() + `\n${linkMarkdown}`
           writeFile(fileName, data)
+        }
+
+        // replace GW links with DOJ links when possible
+        const gwRegEx = new RegExp(`\- \\[${type}\]\\(https:\\/\\/extremism.*\\)`)
+        if (data.match(gwRegEx)) {
+          console.log(`${dashedName}: ${type}`);
+          data = data.replace(gwRegEx, linkMarkdown);
+          writeFile(fileName, data);
         }
       }
     }
   }
+}
+
+const escapeRegEx = (regEx):RegExp => {
+  const escaped = regEx.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+  return new RegExp(escaped);
 }
 
 const falsePositives = () => {
@@ -178,10 +196,6 @@ const linkType = (description: string) => {
         warning(`unknown link type: ${description}`)
         return "DOJ Press Release"
     }
-}
-
-const capitalized = (input:string) => {
-  return input.replace(/(^|[\s-])\S/g, function (match) { return match.toUpperCase(); });
 }
 
 const newSuspect = (firstName, lastName, dateString, links, residence?: string) => {

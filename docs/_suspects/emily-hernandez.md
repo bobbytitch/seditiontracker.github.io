@@ -20,7 +20,7 @@ published: true
 ---
 
 - [News Report](https://www.ksdk.com/article/news/local/missouri-woman-capitol-riot-turns-herself-in/63-8f78e65f-b006-406e-b3d3-6ff3315efb03)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Emily%20Hernandez%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1357301/download)
 - [Perp Walk (PHOTO)](https://www.ksdk.com/article/news/local/missouri-woman-capitol-riot-turns-herself-in/63-8f78e65f-b006-406e-b3d3-6ff3315efb03)
 - [Self Incrimination]()
 - [Complaint](https://www.justice.gov/opa/page/file/1357296/download)
