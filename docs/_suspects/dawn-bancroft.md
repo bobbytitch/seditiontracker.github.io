@@ -3,7 +3,7 @@ name: Dawn Bancroft
 firstName: Dawn
 lastName: Bancroft
 aka:
-residence: 
+residence: Pennsylvania
 status: Charged
 date: 2021-01-29
 age: 

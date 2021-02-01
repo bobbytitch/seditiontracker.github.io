@@ -3,7 +3,7 @@ name: Domenick Madden
 firstName: Domenick
 lastName: Madden
 aka:
-residence:
+residence: New York
 status: Charged
 date: 2021-01-21
 age:

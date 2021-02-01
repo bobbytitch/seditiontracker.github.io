@@ -1,7 +1,7 @@
 ---
 name: Timothy Hale-Cusanelli
 aka:
-residence:
+residence: New Jersey
 status: Charged
 date: 2021-01-17
 age: 30

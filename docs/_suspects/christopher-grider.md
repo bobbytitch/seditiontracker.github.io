@@ -3,7 +3,7 @@ name: Christopher Grider
 firstName: Christopher
 lastName: Grider
 aka:
-residence: 
+residence: Texas
 status: Charged
 date: 2020-01-21
 age: 

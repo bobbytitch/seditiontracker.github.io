@@ -3,7 +3,7 @@ name: Brian Gundersen
 firstName: Brian
 lastName: Gundersen
 aka:
-residence: 
+residence: New York
 status: Charged
 date: 2021-01-27
 age: 

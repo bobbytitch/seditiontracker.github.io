@@ -3,7 +3,7 @@ name: Diana Santos-smith
 firstName: Diana
 lastName: Santos-smith
 aka:
-residence: 
+residence: Pennsylvania
 status: Charged
 date: 2021-01-29
 age: 

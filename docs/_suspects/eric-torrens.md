@@ -3,7 +3,7 @@ name: Eric Torrens
 firstName: Eric
 lastName: Torrens
 aka:
-residence:
+residence: Tennessee
 status: Charged
 date: 2021-01-27
 age:
