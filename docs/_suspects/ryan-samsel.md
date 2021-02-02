@@ -3,28 +3,28 @@ name: Ryan Samsel
 firstName: Ryan
 lastName: Samsel
 aka:
-residence: 
+residence: Pennsylvania
 status: Charged
 date: 2021-01-30
-age: 
+age: 37
 occupation:
 affiliations:
 jurisdiction: Federal
-before: ryan-samsel
+before: ryan-samsel.png
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 courthouse:
 layout: suspect
 title: Ryan Samsel charged on January 30th, 2021
-image: /images/preview/ryan-samsel.jpg
+image: /images/preview/ryan-samsel.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: false
 ---
 
-- [NewsReport]()
+- [NewsReport](https://www.buckscountycouriertimes.com/story/news/2021/02/01/bristol-man-charged-assaulting-officer-during-insurrection/4338235001/)
 - [Complaint](https://www.justice.gov/file/1362781/download)
 - [Statement of Facts](https://www.justice.gov/file/1362781/download)

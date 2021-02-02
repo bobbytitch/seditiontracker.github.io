@@ -6,14 +6,14 @@ aka:
 residence: Pennsylvania
 status: Charged
 date: 2021-01-29
-age: 
-occupation:
+age:
+occupation: Business Owner (CrossFit)
 affiliations:
 jurisdiction: Federal
-before: dawn-bancroft
+before: dawn-bancroft.jpg
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 courthouse:
 layout: suspect
@@ -25,6 +25,6 @@ author: seditiontrack
 published: false
 ---
 
-- [NewsReport]()
+- [NewsReport](https://www.mcall.com/news/police/mc-nws-pennsylvania-women-charged-in-capitol-siege-20210130-zsgjdrfdibgpboyuatcphtlaxq-story.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1362581/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362581/download)

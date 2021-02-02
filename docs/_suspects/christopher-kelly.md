@@ -10,7 +10,7 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: christopher-kelly
+before: christopher-kelly.jpg
 after:
 perpwalk:
 booking:
@@ -19,11 +19,11 @@ layout: suspect
 title: Christopher Kelly charged on January 20, 2021
 image: /images/preview/christopher-kelly.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
+quote: "No worries, I’ll be with ex NYPD and some proud boys"
 author: seditiontrack
 published: false
 ---
 
-- [NewsReport]()
+- [NewsReport](https://www.nydailynews.com/new-york/ny-retired-nypd-brother-capitol-riot-charges-20210121-qnobfub6n5d6vexmco7jhktxem-story.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1362961/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362961/download)

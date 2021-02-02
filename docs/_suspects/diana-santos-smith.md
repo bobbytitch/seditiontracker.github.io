@@ -1,19 +1,19 @@
 ---
-name: Diana Santos-smith
+name: Diana Santos-Smith
 firstName: Diana
-lastName: Santos-smith
+lastName: Santos-Smith
 aka:
 residence: Pennsylvania
 status: Charged
 date: 2021-01-29
-age: 
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: diana-santos-smith
+before: diana-santos-smith.jpg
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 courthouse:
 layout: suspect
@@ -25,6 +25,6 @@ author: seditiontrack
 published: false
 ---
 
-- [NewsReport]()
+- [NewsReport](https://www.mcall.com/news/police/mc-nws-pennsylvania-women-charged-in-capitol-siege-20210130-zsgjdrfdibgpboyuatcphtlaxq-story.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1362581/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362581/download)
