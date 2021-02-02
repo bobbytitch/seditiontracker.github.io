@@ -10,6 +10,7 @@ affiliations:
 jurisdiction: Federal
 before: hunter-seefried.png
 after:
+courthouse: hunter-seefried.jpg
 layout: suspect
 title: Hunter Seefried charged on January 14, 2021
 image: /images/preview/hunter-seefried.png

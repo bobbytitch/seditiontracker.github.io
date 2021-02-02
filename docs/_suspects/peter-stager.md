@@ -10,6 +10,7 @@ affiliations:
 jurisdiction: Federal
 before: 028.jpg
 booking: peter-stager.jpg
+courtroom: peter-stager.jpg
 layout: suspect
 title: Peter Stager charged on January 14, 2021
 image: /images/preview/028.jpg

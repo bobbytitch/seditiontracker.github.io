@@ -15,6 +15,7 @@ after:
 perpwalk:
 booking:
 courtroom:
+courthouse: justin-mcauliffe.jpg
 layout: suspect
 title: Justin Mcauliffe charged on January 28th, 2021
 image: /images/preview/justin-mcauliffe.jpg

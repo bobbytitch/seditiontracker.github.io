@@ -14,7 +14,7 @@ before: jeffrey-smith.jpg
 after:
 perpwalk:
 booking:
-courtroom:
+courtroom: jeffrey-smith.jpg
 layout: suspect
 title: Jeffrey Smith charged on January 27th, 2021
 image: /images/preview/jeffrey-smith.jpg

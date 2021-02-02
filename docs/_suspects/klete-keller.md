@@ -9,6 +9,7 @@ occupation: Olympic Swimmer (Retired)
 affiliations:
 jurisdiction: Federal
 before: 044.png
+booking: klete-keller.jpg
 courtroom: klete-keller.jpg
 layout: suspect
 title: Klete Keller charged on January 13, 2021

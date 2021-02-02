@@ -11,6 +11,7 @@ jurisdiction: Federal
 before: 082.png
 after: joseph-biggs.jpg
 layout: suspect
+courthouse: joseph-biggs.jpg
 title: Joseph Biggs charged on January 20, 2021
 image: /images/preview/082.png
 description: Click for latest case details. Suspects innocent until proven guilty.

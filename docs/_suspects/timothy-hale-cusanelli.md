@@ -12,7 +12,7 @@ before: arrest.jpg
 after:
 perpwalk:
 booking:
-courtroom:
+courtroom: timothy-hale-cusanelli.jpg
 layout: suspect
 title: Timothy Hale-Cusanelli charged on January 17th, 2021
 image: /images/preview/arrest.jpg
