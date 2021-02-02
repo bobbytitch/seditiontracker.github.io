@@ -7,7 +7,7 @@ residence: North Carolina
 status: Charged
 date: 2021-02-01
 age: 32
-occupation: Business Owner (Music Store)
+occupation: Music Teacher
 affiliations: Oath Keepers (likely), Red Elephants (likely)
 jurisdiction: Federal
 before: stephen-baker.png
