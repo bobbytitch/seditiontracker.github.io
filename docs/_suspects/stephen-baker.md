@@ -22,7 +22,7 @@ image: /images/preview/stephen-baker.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [NewsReport](https://www.newsobserver.com/news/politics-government/article248921789.html)

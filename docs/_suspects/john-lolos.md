@@ -21,7 +21,7 @@ image: /images/preview/john-lolos.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [NewsReport](https://nypost.com/2021/01/26/accused-capitol-rioter-idd-after-getting-kicked-off-plane/)

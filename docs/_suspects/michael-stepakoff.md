@@ -21,7 +21,7 @@ image: /images/preview/michael-stepakoff.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [NewsReport](https://www.wfla.com/news/pinellas-county/palm-harbor-rabbi-arrested-accused-of-storming-us-capitol-on-jan-6/)
