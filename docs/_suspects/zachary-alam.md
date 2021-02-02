@@ -25,5 +25,6 @@ author: seditiontrack
 published: true
 ---
 
+- [News Story](https://www.thedailybeast.com/rioter-charged-for-giving-capitol-cop-a-concussion-feds)
 - [Complaint](https://www.justice.gov/opa/page/file/1362956/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362956/download)
