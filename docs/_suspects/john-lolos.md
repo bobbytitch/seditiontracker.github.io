@@ -8,7 +8,7 @@ status: Charged
 date: 2021-01-09
 age:
 occupation:
-affiliations:
+affiliations: U.S. Military (possible former Army - unconfirmed)
 jurisdiction: Federal
 before: john-lolos.jpg
 after:

@@ -7,8 +7,8 @@ residence: Florida
 status: Charged
 date: 2021-01-29
 age:
-occupation: Rabbi
-affiliations:
+occupation: Messianic Rabbi
+affiliations: Temple New Jerusalem
 jurisdiction: Federal
 before: michael-stepakoff.png
 after:

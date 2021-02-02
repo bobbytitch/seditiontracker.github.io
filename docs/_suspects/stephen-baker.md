@@ -7,8 +7,8 @@ residence: North Carolina
 status: Charged
 date: 2021-02-01
 age: 32
-occupation:
-affiliations:
+occupation: Business Owner (Music Store)
+affiliations: Oath Keepers (likely), Red Elephants (likely)
 jurisdiction: Federal
 before: stephen-baker.png
 after:
@@ -20,7 +20,7 @@ layout: suspect
 title: Stephen Baker charged on February 1st, 2021
 image: /images/preview/stephen-baker.png
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
+quote: "I was inside for like an hour, dude. I was one of like the last 10 people in there."
 author: seditiontrack
 published: true
 ---

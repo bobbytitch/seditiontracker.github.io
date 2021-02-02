@@ -20,7 +20,7 @@ layout: suspect
 title: Dawn Bancroft charged on January 29th, 2021
 image: /images/preview/dawn-bancroft.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
+quote: "We were looking for Nancy to shoot her in the friggin’ brain but we didn’t find her."
 author: seditiontrack
 published: true
 ---
