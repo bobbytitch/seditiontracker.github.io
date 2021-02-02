@@ -62,6 +62,7 @@ const importGw = async (nameSet: Set<string>) => {
 
       if (!nameSet.has(nameToCheck)) {
         const links = getLinks(entry)
+        console.log({residence})
         newSuspect(firstName, lastName, null, links, residence);
       } else {
         // see if the GW site has missing state/residence
@@ -222,8 +223,7 @@ const newSuspect = (firstName, lastName, dateString, links, residence?: string) 
   data = data.replace("[firstName]", firstName);
   data = data.replace("[lastName]", lastName);
   data = data.replace("[mugShot]", "");
-  data.replace("[residence]", residence ? residence : "")
-  data = data.replace("[residence]", "");
+  data = data.replace("[residence]", residence ? residence : "")
   data = data.replace("[status]", "Charged");
   data = data.replace("[age]", "");
   data = data.replace("[action]", "charged");
