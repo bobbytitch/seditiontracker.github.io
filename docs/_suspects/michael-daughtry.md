@@ -21,4 +21,4 @@ published: true
 
 - [News Report](https://www.walb.com/2021/01/19/pelham-man-charged-capitol-incident/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356031/download)
-- [Affidavit](https://www.justice.gov/opa/page/file/1356026/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1356026/download)

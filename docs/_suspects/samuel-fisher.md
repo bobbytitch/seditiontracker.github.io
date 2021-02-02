@@ -23,5 +23,5 @@ published: true
 - [News Report](https://www.thedailybeast.com/samuel-fisher-conspiracy-addled-nyc-pickup-artist-arrested-in-capitol-riots)
 - [Perp Walk](https://worldnewsera.com/news/coronavirus/2-more-local-arrests-connected-to-insurrection-at-u-s-capitol/)
 - [Self Incrimination](https://bradholiday.com/?p=2938)
-- [Affidavit](https://www.justice.gov/opa/page/file/1357481/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1357481/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1358941/download)

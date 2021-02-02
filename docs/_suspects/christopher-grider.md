@@ -6,14 +6,14 @@ aka:
 residence: Texas
 status: Charged
 date: 2020-01-21
-age: 
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
 before: christopher-grider
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 courthouse:
 layout: suspect
@@ -27,4 +27,4 @@ published: false
 
 - [NewsReport]()
 - [Complaint](https://www.justice.gov/file/1358251/download)
-- [Affidavit](https://www.justice.gov/opa/page/file/1358246/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1358246/download)

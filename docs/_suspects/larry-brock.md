@@ -17,5 +17,5 @@ author: Sedition Tracker
 - [News Report](https://www.nbcdfw.com/news/local/fbi-arrests-grapevine-man-photographed-in-tactical-gear-on-us-senate-floor/2524718/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-men-charged-connection-events-us-capitol)
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1352016/download)
-- [Affidavit](https://www.justice.gov/usao-dc/press-release/file/1352026/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1352026/download)
 - [Court Appearance](https://www.wfaa.com/article/news/local/texas-larry-brock-first-court-appearance-texas/287-5329fe7d-408e-4645-b274-3ddc5c4bd1a0)

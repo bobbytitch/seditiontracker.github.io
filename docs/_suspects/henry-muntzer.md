@@ -21,4 +21,4 @@ published: true
 
 - [News Report](https://www.usnews.com/news/best-states/montana/articles/2021-01-21/montana-businessman-charged-in-us-capitol-breach)
 - [Complaint](https://www.justice.gov/opa/page/file/1357776/download)
-- [Affidavit](https://www.justice.gov/opa/page/file/1357771/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1357771/download)

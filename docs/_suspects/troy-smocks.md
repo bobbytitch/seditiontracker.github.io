@@ -22,4 +22,4 @@ published: true
 - [News Report](https://dfw.cbslocal.com/2021/01/19/capitol-rioter-dallas-troy-smocks-plans-return-dc-inauguration-day/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/texas-man-arrested-and-charged-making-threats-regarding-events-us-capitol)
 - [Complaint](https://www.justice.gov/opa/page/file/1355891/download)
-- [Affidavit](https://www.justice.gov/opa/page/file/1355896/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1355896/download)

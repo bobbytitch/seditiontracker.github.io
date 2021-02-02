@@ -21,4 +21,4 @@ published: true
 
 - [News Report](https://baltimore.cbslocal.com/2021/01/18/maryland-man-bryan-betancur-arrested-after-gps-monitor-places-him-at-us-capitol-during-riots-prosecutors-say/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355926/download)
-- [Affidavit](https://www.justice.gov/opa/page/file/1355921/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1355921/download)

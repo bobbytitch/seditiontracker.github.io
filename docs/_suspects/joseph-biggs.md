@@ -21,5 +21,5 @@ published: true
 ---
 
 - [News Report](https://www.thedailybeast.com/joseph-biggs-proud-boys-leader-arrested-for-storming-us-capitol)
-- [Affidavit](https://www.justice.gov/opa/page/file/1357251/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1357251/download)
 - [Court Appearance (VIDEO)](https://www.youtube.com/watch?v=G9hkJRbSptI)

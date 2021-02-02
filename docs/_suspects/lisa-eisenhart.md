@@ -23,4 +23,4 @@ published: true
 - [DOJ Twitter](https://twitter.com/USAO_MDTN/status/1350555131494989827?s=20)
 - [Detention Memo](https://www.courtlistener.com/recap/gov.uscourts.tnmd.85025/gov.uscourts.tnmd.85025.8.0.pdf)
 - [Complaint](https://www.justice.gov/file/1355806/download)
-- [Affidavit](https://www.justice.gov/file/1355811/download)
+- [Statement of Facts](https://www.justice.gov/file/1355811/download)

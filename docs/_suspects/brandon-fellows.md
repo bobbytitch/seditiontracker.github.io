@@ -24,7 +24,7 @@ published: true
 - [Information]()
 - [Statement of Facts]()
 - [Complaint]()
-- [Affidavit]()
+- [Statement of Facts]()
 - [Court Appearance]()
 - [Perp Walk]()
 - [Self Incrimination](https://www.bloomberg.com/news/articles/2021-01-12/-no-regrets-a-capitol-rioter-tells-his-story-from-inside)

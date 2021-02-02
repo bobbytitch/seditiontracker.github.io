@@ -24,4 +24,4 @@ published: true
 
 - [News Report](https://www.wfaa.com/article/news/crime/fannin-county-man-arrested-for-participating-in-us-capitol-riots/287-ac08b977-b49e-4aa8-be32-08a2ef1f5b80)
 - [Complaint](https://www.justice.gov/opa/page/file/1358231/download)
-- [Affidavit](https://www.justice.gov/opa/page/file/1358226/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1358226/download)

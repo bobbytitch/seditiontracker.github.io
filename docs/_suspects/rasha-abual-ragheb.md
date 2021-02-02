@@ -24,4 +24,4 @@ published: true
 
 - [News Report](https://www.the961.com/lebanese-charged-us-capitol/)
 - [Complaint](https://www.justice.gov/opa/page/file/1357081/download)
-- [Affidavit](https://www.justice.gov/opa/page/file/1357076/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1357076/download)

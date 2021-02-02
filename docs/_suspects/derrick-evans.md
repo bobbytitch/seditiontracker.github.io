@@ -17,7 +17,7 @@ author: Sedition Tracker
 
 - [News Report](https://apnews.com/article/donald-trump-legislature-crime-west-virginia-electoral-college-b883a7667add0cb54f01ce7ffaa73536)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)
-- [Affidavit](https://www.justice.gov/usao-dc/press-release/file/1351946/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1351946/download)
 - [Perp Walk [VIDEO]](https://www.youtube.com/watch?v=gYauxtRX3P4)
 - [Complaint](https://www.justice.gov/opa/page/file/1355511/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355511/download)

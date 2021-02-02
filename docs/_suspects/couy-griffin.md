@@ -25,4 +25,4 @@ published: true
 - [Criminal Complaint](https://www.scribd.com/document/491071187/Griffin-Complaint-0#fullscreen)
 - [Self Incrimination](https://kvia.com/your-voice-your-vote/new-mexico-politics/2021/01/14/cowboys-for-trump-leader-who-was-present-at-capitol-riot-says-hell-go-to-dc-for-inauguration-with-his-guns/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/new-mexico-county-commissioner-charged-breaching-us-capitol)
-- [Affidavit](https://www.justice.gov/opa/page/file/1355981/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1355981/download)

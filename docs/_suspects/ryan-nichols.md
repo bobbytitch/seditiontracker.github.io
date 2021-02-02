@@ -21,4 +21,4 @@ published: true
 
 - [News Report](https://ksla.com/2021/01/19/east-texans-accused-taking-part-us-capitol-siege-charged-with-federal-crimes/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356241/download)
-- [Affidavit](https://www.justice.gov/opa/page/file/1356236/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1356236/download)

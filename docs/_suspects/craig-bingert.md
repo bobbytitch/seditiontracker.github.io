@@ -20,6 +20,6 @@ published: true
 ---
 
 - [News Report](https://www.mcall.com/news/pennsylvania/capitol-ideas/mc-nws-pa-slatington-man-craig-bingert-arrest-capitol-riots-20210118-zit2jmr6wjarri4gegtaqq5ray-story.html)
-- [Affidavit](https://assets.documentcloud.org/documents/20458362/bingert-affidavit.pdf)
+- [Statement of Facts](https://assets.documentcloud.org/documents/20458362/bingert-affidavit.pdf)
 - [Complaint](https://www.justice.gov/opa/page/file/1356996/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356991/download)

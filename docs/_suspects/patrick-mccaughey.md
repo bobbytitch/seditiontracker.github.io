@@ -24,5 +24,5 @@ published: true
 - [Complaint](https://www.justice.gov/opa/page/file/1356781/download)
 - [FBI Statement (Twitter)](https://twitter.com/FBIWFO/status/1351978524140331008?s=20)
 - [DC Police Wanted Post (Twitter)](https://twitter.com/DCPoliceDept/status/1350239956460036096?s=20)
-- [Affidavit](https://www.justice.gov/opa/page/file/1357246/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1357246/download)
 - [Indictment](https://www.justice.gov/opa/page/file/1362891/download)

@@ -21,6 +21,6 @@ published: true
 
 - [News Report](https://www.tennessean.com/story/news/crime/2021/01/17/nashville-man-blake-austin-reed-charged-fbi-capitol-riot/4196605001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355936/download)
-- [Affidavit](https://www.justice.gov/opa/page/file/1355931/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1355931/download)
 - [DOJ Statement (Twitter)](https://twitter.com/USAO_MDTN/status/1350818029693763586)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355931/download)

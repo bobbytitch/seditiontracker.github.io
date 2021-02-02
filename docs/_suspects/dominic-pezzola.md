@@ -23,7 +23,7 @@ published: true
 
 - [News Report](https://www.vice.com/en/article/epdmva/a-proud-boy-in-disguise-helped-lead-the-insurrection-at-the-capitol)
 - [VIDEO](https://twitter.com/BGOnTheScene/status/1346904244008456193)
-- [Affidavit](https://www.justice.gov/opa/page/file/1355186/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1355186/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/rochester-new-york-man-arrested-and-charged-destroying-property-and-obstruction)
 - [Complaint](https://www.justice.gov/opa/page/file/1355181/download)
 - [Indictment](https://www.justice.gov/opa/page/file/1362646/download)

@@ -20,5 +20,5 @@ published: true
 ---
 
 - [News Report](https://www.wbrc.com/2021/01/14/leeds-man-charged-capitol-riot-identified-by-blood-his-cheek/)
-- [Affidavit](https://www.justice.gov/opa/page/file/1354806/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1354806/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1354811/download)

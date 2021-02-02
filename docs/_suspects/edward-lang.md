@@ -21,7 +21,7 @@ published: true
 
 - [News Report](https://www.nbcnewyork.com/news/local/crime-and-courts/hudson-valley-man-arrested-in-connection-with-capitol-riot-sources/2834919/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355871/download)
-- [Affidavit](https://www.justice.gov/opa/page/file/1355866/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1355866/download)
 - [FBI Statement (Twitter)](https://twitter.com/NewYorkFBI/status/1350552028683116545?s=20)
 - [Self-Incrimination](https://lawandcrime.com/u-s-capitol-siege/authorities-arrest-man-who-pointed-himself-out-attacking-officers-at-d-c-insurrection-doj/)
 - [Self-Incrimination (Chat)](https://www.propublica.org/article/this-is-war-inside-the-secret-chat-where-far-right-extremists-devised-their-post-capitol-plans)
