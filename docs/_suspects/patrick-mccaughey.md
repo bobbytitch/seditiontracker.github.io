@@ -21,7 +21,6 @@ published: true
 
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/connecticut-man-charged-assaulting-officer-during-us-capitol-breach)
 - [News Report](https://www.cnbc.com/2021/01/20/connecticut-man-arrested-for-crushin.html)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1356786/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356781/download)
 - [FBI Statement (Twitter)](https://twitter.com/FBIWFO/status/1351978524140331008?s=20)
 - [DC Police Wanted Post (Twitter)](https://twitter.com/DCPoliceDept/status/1350239956460036096?s=20)
