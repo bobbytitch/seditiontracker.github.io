@@ -20,6 +20,6 @@ published: true
 ---
 
 - [News Report](https://www.nytimes.com/2021/01/18/us/riley-june-williams-emmanuel-jackson.html)
-- [Statement of Facts](https://int.nyt.com/data/documenttools/emanuel-jackson-statement-of-facts/dde86d78bece2390/full.pdf)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1357096/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-charged-federal-court-assaulting-and-impeding-local-and-federal-officers-during-us)
 - [Complaint](https://www.justice.gov/opa/page/file/1357091/download)

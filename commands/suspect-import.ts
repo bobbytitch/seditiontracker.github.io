@@ -271,23 +271,18 @@ const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, re
   }
 
   for (const [type, url] of Object.entries(links)) {
-    const fullUrl = /https:\/\//.test(<string>url) ? url : `https://www.justice.gov${url}`
+    const fullUrl = /https:\/\//.test(<string>url) ? <string>url : `https://www.justice.gov${url}`
 
     if (!data.match(new RegExp(type))) {
       console.log(`${fullName}: ${type}`)
       const linkMarkdown = `- [${type}](${fullUrl})`
       data = data.trim() + `\n${linkMarkdown}`
       writeFile(fileName, data)
-    } else {
-      // replace GW links with DOJ links when possible
-      if (data.match(new RegExp(`[${type}]\(https:\/\/.*\)`))) {
-        console.log(`found GW link: ${RegExp.$1}`)
-      }
     }
 
     // replace GW links with DOJ links when possible
     const gwRegEx = new RegExp(`\- \\[${type}\]\\(https:\\/\\/extremism.*\\)`)
-    if (data.match(gwRegEx)) {
+    if (data.match(gwRegEx) && !fullUrl.match(/https:\/\/extremism.*/)) {
       console.log(`${fullName}: ${type}`);
       data = data.replace(gwRegEx, `- [${type}](${fullUrl})`);
       writeFile(fileName, data);
