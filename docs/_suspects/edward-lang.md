@@ -2,7 +2,7 @@
 name: Edward Lang
 aka:
 residence: New York
-status: Charged
+status: Indicted
 date: 2021-01-16
 age: 25
 occupation:
@@ -25,3 +25,4 @@ published: true
 - [FBI Statement (Twitter)](https://twitter.com/NewYorkFBI/status/1350552028683116545?s=20)
 - [Self-Incrimination](https://lawandcrime.com/u-s-capitol-siege/authorities-arrest-man-who-pointed-himself-out-attacking-officers-at-d-c-insurrection-doj/)
 - [Self-Incrimination (Chat)](https://www.propublica.org/article/this-is-war-inside-the-secret-chat-where-far-right-extremists-devised-their-post-capitol-plans)
+- [Indictment](https://www.justice.gov/file/1364166/download)

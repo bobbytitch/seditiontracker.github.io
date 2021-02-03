@@ -29,3 +29,4 @@ published: true
 - [Complaint](https://www.justice.gov/file/1358251/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1358246/download)
 - [Self Incrimination (Interview)](https://www.kwtx.com/2021/01/07/central-texas-man-witnessed-deadly-shooting-as-trump-supporters-stormed-us-capitol/)
+- [Indictment](https://www.justice.gov/file/1364161/download)

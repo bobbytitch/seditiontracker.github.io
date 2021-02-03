@@ -24,3 +24,4 @@ author: seditiontrack
 - [FBI Search](https://katv.com/news/local/fbi-conducts-search-warrant-on-richard-barnetts-home)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353231/download)
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1353191/download)
+- [Indictment](https://www.justice.gov/file/1364156/download)
