@@ -21,3 +21,5 @@ author: seditiontrack
 - [News Report](https://wqow.com/2021/01/12/what-we-know-about-kevin-loftus-man-charged-for-connection-to-capitol-riot/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Statement of Facts](https://wqow.com/2021/01/12/what-we-know-about-kevin-loftus-man-charged-for-connection-to-capitol-riot/)
+- [Arrest Warrant](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kevin%20Daniel%20Loftus%20Arrest%20Warrant.pdf)
+- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kevin%20Daniel%20Loftus%20Criminal%20Complaint.pdf)

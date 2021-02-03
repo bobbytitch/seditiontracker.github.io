@@ -21,3 +21,4 @@ published: true
 ---
 
 - [Incriminating Evidence](https://jcitytimes.com/hector-vargas-from-unsung-hero-to-insurrectionist/)
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Hector%20Vargas%20Statement%20of%20Facts.pdf)

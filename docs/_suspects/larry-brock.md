@@ -19,3 +19,4 @@ author: Sedition Tracker
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1352016/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1352026/download)
 - [Court Appearance](https://www.wfaa.com/article/news/local/texas-larry-brock-first-court-appearance-texas/287-5329fe7d-408e-4645-b274-3ddc5c4bd1a0)
+- [Detention Exhibits](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Larry%20Rendall%20Brock%20Government%20Detention%20Exhibits.pdf)
