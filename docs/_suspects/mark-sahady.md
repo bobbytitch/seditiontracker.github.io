@@ -5,8 +5,8 @@ residence: Massachusetts
 status: Charged
 date: 2021-01-19
 age: 46
-occupation:
-affiliations: Super Happy Fun America (anti-LQBTQ group)
+occupation: Software Engineer, U.S. Army (Former)
+affiliations: U.S. Military, Super Happy Fun America (anti-LQBTQ group)
 jurisdiction: Federal
 before: 073.jpg
 after:
