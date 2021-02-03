@@ -2,7 +2,7 @@
 name: Richard Barnett
 aka:
 residence: Arkansas
-status: Charged
+status: Indicted
 date: 2021-01-08
 age: 60
 occupation:
