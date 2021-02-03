@@ -25,4 +25,4 @@ published: true
 ---
 
 - [NewsReport](https://www.thedailybeast.com/montana-brothers-who-accosted-lone-black-cop-eugene-goodman-during-capitol-riots-are-arrested)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joshua%20Calvin%20Hughes%20and%20Jerod%20Wade%20Hughes%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1364151/download)
