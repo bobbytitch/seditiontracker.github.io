@@ -1,6 +1,6 @@
 ---
 name: Edward Lang
-aka:
+aka: Jake Lang
 residence: New York
 status: Indicted
 date: 2021-01-16
