@@ -27,3 +27,4 @@ published: true
 
 - [NewsReport](https://nytimes.com/live/2021/02/03/us/biden-administration#federal-officials-arrested-another-leader-of-the-proud-boys-ethan-nordean-in-the-capitol-riot-investigation)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1364196/download)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/member-proud-boys-charged-obstructing-official-proceeding-other-charges-related-jan-6)
