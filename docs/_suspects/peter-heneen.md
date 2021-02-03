@@ -14,7 +14,7 @@ layout: suspect
 title: Peter Heneen  charged on January 19, 2021
 image: /images/preview/095.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote: “Need to make the streets of D.C. run red with blood of the tyrants. The tyrants being the feds."
+quote: "Need to make the streets of D.C. run red with blood of the tyrants. The tyrants being the feds."
 author: seditiontrack
 published: true
 ---

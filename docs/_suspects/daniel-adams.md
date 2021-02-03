@@ -14,7 +14,7 @@ layout: suspect
 title: Daniel Adams charged on January 16, 2021
 image: /images/preview/048.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
-quote: “Let’s go. Are you ready to push?”
+quote: "Let’s go. Are you ready to push?"
 author: seditiontrack
 published: true
 ---

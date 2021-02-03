@@ -14,7 +14,7 @@ layout: suspect
 title: Thomas Robertson charged on January 13, 2021
 image: /images/preview/019.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
-quote: “If you are too much of a coward to risk arrest, being fired, and actual gunfire to secure your rights, you have no words to speak I value.”
+quote: "If you are too much of a coward to risk arrest, being fired, and actual gunfire to secure your rights, you have no words to speak I value."
 author: seditiontrack
 ---
 
