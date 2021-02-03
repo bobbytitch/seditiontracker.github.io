@@ -3,25 +3,13 @@ img.before {
   float: left;
 }
 
-@media screen and (min-width: 320px) {
-  .image-container {
-    position: relative;
-    color: white;
-    font-size: calc(16px + 6 * ((100vw - 320px) / 680));
-    font-weight: 700;
-    text-align: center;
-    text-transform: uppercase;
-  }
-}
-@media screen and (min-width: 800px) {
-  .image-container {
-    position: relative;
-    color: white;
-    font-size: 3.2em;
-    font-weight: 700;
-    text-align: center;
-    text-transform: uppercase;
-  }
+.image-container {
+  position: relative;
+  color: white;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: calc(16px + 6 * ((100vw - 320px) / 680));
 }
 
 .image-container a {
@@ -82,4 +70,12 @@ div.quote {
   color: black;
   padding: 10px;
   margin-top: 10px;
+}
+
+td.charged {
+  color: IndianRed;
+}
+
+td.indicted {
+  color: IndianRed;
 }
