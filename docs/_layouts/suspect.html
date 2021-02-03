@@ -38,6 +38,14 @@ layout: default
   <small>
     {{content}}
   </small>
+  {% if page.quote %}
+    <div>
+      Best Quote:
+    </div>
+    <div class="quote">
+      "{{ page.quote }}"
+    </div>
+  {% endif %}
 </div>
 
 {% if page.booking %}
