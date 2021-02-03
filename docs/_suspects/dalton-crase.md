@@ -20,7 +20,8 @@ layout: suspect
 title: Dalton Crase charged on February 2nd, 2021
 image: /images/preview/dalton-crase.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
+quote: "I didn’t do anything violent, but I went into the building, so I did
+trespass."
 author: seditiontrack
 published: false
 ---
