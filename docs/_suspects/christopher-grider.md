@@ -4,13 +4,13 @@ firstName: Christopher
 lastName: Grider
 aka:
 residence: Texas
-status: Indicted
+status: Charged
 date: 2021-01-21
 age: 39
 occupation:
 affiliations:
 jurisdiction: Federal
-before: christopher-grider.jpg
+before: christopher-grider.png
 after:
 perpwalk:
 booking:
@@ -18,11 +18,11 @@ courtroom:
 courthouse:
 layout: suspect
 title: Christopher Grider charged on January 21st, 2021
-image: /images/preview/christopher-grider.jpg
+image: /images/preview/christopher-grider.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "People are going to get crushed on that other side if they don’t open that door"
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [NewsReport](https://www.kwtx.com/2021/01/28/magistrate-denies-new-hearing-for-local-businessman-charged-in-us-capitol-riot/)
