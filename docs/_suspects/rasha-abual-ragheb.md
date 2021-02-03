@@ -4,7 +4,7 @@ aka:
 residence: New Jersey
 status: Charged
 date: 2021-01-19
-age:
+age: 40
 occupation:
 affiliations: Three Percenter, American Patriots 3%
 jurisdiction: Federal

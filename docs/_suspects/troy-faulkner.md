@@ -6,7 +6,7 @@ aka:
 residence: Ohio
 status: Charged
 date: [date]
-age: 
+age: 39
 occupation:
 affiliations:
 jurisdiction: Federal

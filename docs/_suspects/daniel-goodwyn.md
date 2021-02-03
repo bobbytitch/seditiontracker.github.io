@@ -4,7 +4,7 @@ aka:
 residence: California
 status: Charged
 date: 2021-01-15
-age:
+age: 32
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal

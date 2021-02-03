@@ -4,7 +4,7 @@ aka:
 residence: Washington, DC
 status: Charged
 date: 2021-01-18
-age:
+age: 20
 occupation:
 affiliations:
 jurisdiction: Federal

@@ -4,7 +4,7 @@ aka:
 residence: New York
 status: Charged
 date: 2021-01-17
-age:
+age: 26
 occupation:
 affiliations:
 jurisdiction: Federal

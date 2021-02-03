@@ -4,7 +4,7 @@ aka:
 residence: Arkansas
 status: Charged
 date: 2021-01-14
-age:
+age: 41
 occupation:
 affiliations:
 jurisdiction: Federal

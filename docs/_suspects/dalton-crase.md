@@ -6,7 +6,7 @@ aka:
 residence: Kentucky
 status: Charged
 date: [date]
-age: 
+age: 21
 occupation:
 affiliations:
 jurisdiction: Federal

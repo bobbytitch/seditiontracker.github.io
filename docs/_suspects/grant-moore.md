@@ -6,7 +6,7 @@ aka:
 residence: Georgia
 status: Charged
 date: [date]
-age: 
+age: 65
 occupation:
 affiliations:
 jurisdiction: Federal

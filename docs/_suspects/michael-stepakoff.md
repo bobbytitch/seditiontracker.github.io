@@ -6,7 +6,7 @@ aka:
 residence: Florida
 status: Charged
 date: 2021-01-29
-age:
+age: 55
 occupation: Messianic Rabbi
 affiliations: Temple New Jerusalem
 jurisdiction: Federal

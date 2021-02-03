@@ -4,7 +4,7 @@ aka:
 residence: Kentucky
 status: Charged
 date: 2021-01-16
-age:
+age: 52
 occupation:
 affiliations:
 jurisdiction: Federal

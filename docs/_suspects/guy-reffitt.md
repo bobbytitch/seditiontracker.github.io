@@ -4,7 +4,7 @@ aka:
 residence: Texas
 status: Indicted
 date: 2021-01-15
-age:
+age: 48
 occupation:
 affiliations: Three Percenters, Texas Freedom Force
 jurisdiction: Federal

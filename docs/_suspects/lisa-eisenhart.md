@@ -4,7 +4,7 @@ aka:
 residence: Georgia
 status: Charged
 date: 2021-01-16
-age:
+age: 56
 occupation:
 affiliations:
 jurisdiction: Federal

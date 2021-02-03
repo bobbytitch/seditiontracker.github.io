@@ -4,7 +4,7 @@ aka:
 residence: New Jersey
 status: Charged
 date: 2021-01-22
-age:
+age: 28
 occupation: U.S. Marines (Former)
 affiliations:
 jurisdiction: Federal

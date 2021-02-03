@@ -4,7 +4,7 @@ aka:
 residence: Pennsylvania
 status: Charged
 date: 2021-01-14
-age:
+age: 55
 occupation: Fire Fighter (Retired)
 affiliations:
 jurisdiction: Federal

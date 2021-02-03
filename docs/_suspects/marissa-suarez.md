@@ -4,7 +4,7 @@ aka:
 residence: New Jersey
 status: Charged
 date: 2021-01-22
-age:
+age: 31
 occupation: Corrections Officer
 affiliations:
 jurisdiction: Federal

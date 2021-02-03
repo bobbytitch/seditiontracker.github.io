@@ -4,7 +4,7 @@ aka:
 residence: Idaho
 status: Charged
 date: 2021-01-12
-age:
+age: 34
 affiliations:
 jurisdiction: Federal
 before: 016.jpg

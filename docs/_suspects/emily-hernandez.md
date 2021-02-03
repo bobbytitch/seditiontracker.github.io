@@ -4,7 +4,7 @@ aka:
 residence: Missouri
 status: Charged
 date: 2021-01-15
-age:
+age: 20
 occupation:
 affiliations:
 jurisdiction: Federal

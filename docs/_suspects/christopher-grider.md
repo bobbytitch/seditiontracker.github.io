@@ -6,7 +6,7 @@ aka:
 residence: Texas
 status: Charged
 date: 2020-01-21
-age:
+age: 39
 occupation:
 affiliations:
 jurisdiction: Federal

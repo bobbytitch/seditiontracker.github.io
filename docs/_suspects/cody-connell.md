@@ -4,7 +4,7 @@ aka:
 residence: Louisiana
 status: Charged
 date: 2021-01-16
-age:
+age: 27
 occupation:
 affiliations:
 jurisdiction: Federal

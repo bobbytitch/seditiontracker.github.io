@@ -4,7 +4,7 @@ aka:
 residence: Tennessee
 status: Charged
 date: 2021-01-17
-age:
+age: 35
 occupation:
 affiliations:
 jurisdiction: Federal
