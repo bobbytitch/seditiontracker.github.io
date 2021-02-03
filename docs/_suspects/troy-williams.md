@@ -10,7 +10,7 @@ age: 25
 occupation:
 affiliations:
 jurisdiction: Federal
-before: troy-williams.jpg
+before: troy-williams.png
 after:
 perpwalk:
 booking:
@@ -18,11 +18,11 @@ courtroom:
 courthouse:
 layout: suspect
 title: Troy Williams charged on February 1st, 2021
-image: /images/preview/troy-williams.jpg
+image: /images/preview/troy-williams.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We were a part of something, there’s cops here, they tried to stop us, they are not letting us in, but not fighting us"
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [NewsReport](https://www.wbko.com/2021/02/02/2-kentucky-men-charged-with-entering-capitol-during-riot/)

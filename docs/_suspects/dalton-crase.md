@@ -18,12 +18,12 @@ courtroom:
 courthouse:
 layout: suspect
 title: Dalton Crase charged on February 2nd, 2021
-image: /images/preview/dalton-crase.jpg
+image: /images/preview/dalton-crase.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "I didn’t do anything violent, but I went into the building, so I did
 trespass."
 author: seditiontrack
-published: false
+published: true
 ---
 
 - [NewsReport](https://www.kentucky.com/news/local/crime/article248923359.html)
