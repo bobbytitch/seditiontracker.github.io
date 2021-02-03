@@ -2,7 +2,7 @@
 name: Nicholas DeCarlo
 aka:
 residence: Texas
-status: Charged
+status: Indicted
 date: 2021-01-19
 age:
 occupation:
@@ -23,3 +23,4 @@ published: true
 - [Self Incrimination](https://www.latimes.com/world-nation/story/2021-01-13/some-who-stormed-the-capitol-insist-what-i-did-was-journalism)
 - [Complaint](https://www.justice.gov/opa/page/file/1360496/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360496/download)
+- [DOJ Press Release (Indictment)](https://www.justice.gov/usao-dc/pr/texas-man-self-proclaimed-leader-honolulu-proud-boys-now-indicted-federal-grand-jury)

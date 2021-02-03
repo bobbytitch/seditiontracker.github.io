@@ -1,6 +1,6 @@
 ---
 name: Nicholas Ochs
-status: Charged
+status: Indicted
 date: 2021-01-07
 age: 34
 residence: Hawaii
@@ -18,3 +18,4 @@ author: Sedition Tracker
 - [DOJ Press Release](https://www.justice.gov/usao-hi/pr/nicholas-r-ochs-arrested-unlawful-entry-united-states-capitol-building)
 - [Complaint](https://www.justice.gov/opa/page/file/1353341/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1353341/download)
+- [DOJ Press Release (Indictment)](https://www.justice.gov/usao-dc/pr/texas-man-self-proclaimed-leader-honolulu-proud-boys-now-indicted-federal-grand-jury)
