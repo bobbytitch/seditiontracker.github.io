@@ -77,7 +77,7 @@ const importUSA = async (nameSet: Set<string>) => {
       }
     }
 
-    addData(nameSet, firstName, lastName, null, {}, residence);
+    addData(nameSet, firstName, lastName, null, {}, residence, age);
   }
 }
 
@@ -168,6 +168,8 @@ const falsePositives = (site: string) => {
       set.add("Madden");
       set.add("Capsel");
       set.add("Courtwright");
+      set.add("Bliar"); // state charges
+      set.add("Moore"); // state charges
       break;
     case "GW":
       set.add("Calhoun Jr.");
@@ -267,6 +269,12 @@ const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, re
   if (!isEmpty(residence) && data.match(/residence:\s*\n/)) {
     data = data.replace(/residence:\s*\n/, `residence: ${residence}\n`)
     console.log(`${fullName}: ${residence}`);
+    writeFile(fileName, data);
+  }
+
+  if (!isEmpty(age) && data.match(/age:\s*\n/)) {
+    data = data.replace(/age:\s*\n/, `age: ${age}\n`)
+    console.log(`${fullName}: Age ${age}`);
     writeFile(fileName, data);
   }
 

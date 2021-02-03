@@ -5,7 +5,7 @@ lastName: Williams
 aka:
 residence: Kentucky
 status: Charged
-date: [date]
+date: 2021-02-01
 age: 25
 occupation:
 affiliations:
@@ -13,7 +13,7 @@ jurisdiction: Federal
 before: troy-williams
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 courthouse:
 layout: suspect

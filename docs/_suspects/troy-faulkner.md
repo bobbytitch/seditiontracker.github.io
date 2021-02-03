@@ -5,7 +5,7 @@ lastName: Faulkner
 aka:
 residence: Ohio
 status: Charged
-date: [date]
+date: 2021-01-26
 age: 39
 occupation:
 affiliations:
@@ -13,7 +13,7 @@ jurisdiction: Federal
 before: troy-faulkner
 after:
 perpwalk:
-booking: 
+booking:
 courtroom:
 courthouse:
 layout: suspect
