@@ -4,7 +4,7 @@ firstName: Christopher
 lastName: Grider
 aka:
 residence: Texas
-status: Charged
+status: Indicted
 date: 2021-01-21
 age: 39
 occupation: Teacher (Former), U.S. Military (Former)
