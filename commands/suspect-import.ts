@@ -3,9 +3,8 @@ import { info, warning } from "./common/console";
 import fs from "fs";
 import { readFile, writeFile } from "./common/file";
 import axios from 'axios'
-import { HTMLElement, Node, NodeType, parse } from 'node-html-parser';
-import { capitalize, first, isEmpty } from 'lodash';
-import escapeStringRegexp from 'escape-string-regexp'
+import { HTMLElement, parse } from 'node-html-parser';
+import { capitalize, isEmpty } from 'lodash';
 import moment from 'moment';
 
 const cmd = new Command();
@@ -16,6 +15,7 @@ const importSuspects = async() => {
 
   await importDoj(getNameSet());
   await importGw(getNameSet());
+  await importUSA(getNameSet());
 }
 
 const getNameSet = (): Set<string> => {
@@ -33,6 +33,52 @@ const getNameSet = (): Set<string> => {
   }
 
   return nameSet;
+}
+
+const importUSA = async (nameSet: Set<string>) => {
+  info("Importing suspects from USA Today site");
+
+  const html = await axios.get("https://www.usatoday.com/storytelling/capitol-riot-mob-arrests/");
+  const root = parse(html.data);
+  const divs:HTMLElement[] = root.querySelectorAll(".character.svelte-1b6kbib.svelte-1b6kbib");
+
+  for (const div of divs) {
+    const nameText = div.querySelector("h4").innerText.replace("Jr.", "").replace(",", "").trim();
+    const names = nameText.split(" ");
+    const firstName = names[0];
+    const lastName = names.pop();
+
+    if (falsePositives("USA").has(lastName)) {
+      continue;
+    }
+
+    const lis:HTMLElement[] = div.querySelectorAll("ul li");
+
+    let age = "";
+    let date = "";
+    let residence = "";
+
+    for (const li of lis) {
+      const dateMatch = li.innerText.match(/Arrested or charged on: (.*)/);
+      const ageMatch = li.innerText.match(/Age: (\d{1,2})/);
+      const residenceMatch = li.innerText.match(/Home state: (.*)/);
+
+      if (ageMatch) {
+        age = ageMatch[1];
+      }
+
+      if (dateMatch) {
+        const dateString = dateMatch[1];
+        date = moment(dateString, "M, D, YYYY").format("MM/DD/YY");
+      }
+
+      if (residenceMatch) {
+        residence = residenceMatch[1];
+      }
+    }
+
+    addData(nameSet, firstName, lastName, null, {}, residence);
+  }
 }
 
 const importGw = async (nameSet: Set<string>) => {
@@ -53,27 +99,14 @@ const importGw = async (nameSet: Set<string>) => {
       const [lastName, rest] = nameText.split(",").map( (chunk:string) => chunk.trim().replace("&nbsp;", ""));
 
       const firstName = rest.split(" ")[0];
-      const nameToCheck = dasherizeName(firstName, lastName);
       const residence = entry.innerText.match(/State: (.*)/)[1].replace("Unknown", "");
 
-      if (falsePositives().has(lastName)) {
+      if (falsePositives("GW").has(lastName)) {
         continue;
       }
 
-      if (!nameSet.has(nameToCheck)) {
-        const links = getLinks(entry)
-        newSuspect(firstName, lastName, null, links, residence);
-      } else {
-        // see if the GW site has missing state/residence
-        let data = getSuspectData(firstName, lastName);
-
-        if (!isEmpty(residence) && data.match(/residence:\s*\n/)) {
-          data = data.replace(/residence:\s*\n/, `residence: ${residence}\n`)
-          console.log(`${firstName} ${lastName}: ${residence}`);
-          const fileName = getFileName(firstName, lastName);
-          writeFile(fileName, data);
-        }
-      }
+      const links = getLinks(entry)
+      addData(nameSet, firstName, lastName, null, links, residence)
     }
   }
 }
@@ -85,49 +118,26 @@ const importDoj = async (nameSet: Set<string>) => {
 
   const root = parse(html.data);
   const tbody = root.querySelector("tbody");
+  const rows:HTMLElement[] = tbody.querySelectorAll("tr");
 
-  for (const rowNode of tbody.childNodes) {
-    const childNodes = rowNode.childNodes.filter( (node:Node) => { return node.nodeType === NodeType.ELEMENT_NODE })
+  for (const row of rows) {
+    const cells:HTMLElement[] = row.querySelectorAll("td");
 
-    const name = childNodes[1].innerText.trim();
+    const name = cells[1].innerText.trim();
     const nameChunks = name.split(",")
     const lastName = capitalize(nameChunks[0].split(" ")[0]);
     const firstName = nameChunks[1].trim().split(" ")[0];
-    const nameToCheck = dasherizeName(firstName, lastName);
 
-    if (!nameSet.has(nameToCheck) && !falsePositives().has(nameToCheck)) {
-      const parseText = childNodes[5].text.trim() || childNodes[6].text.trim();
-
-      const dateString = parseText.match(/\d{1,2}([\/.-])\d{1,2}\1\d{2,4}/)[0]
-      const links = getLinks(<HTMLElement>childNodes[3])
-
-      newSuspect(firstName, lastName, dateString, links);
-    } else {
-      // see if the links for existing suspects need to be updated
-      const links = getLinks(<HTMLElement>childNodes[3])
-      for (const [type, url] of Object.entries(links)) {
-
-        const linkMarkdown = `- [${type}](https://www.justice.gov${url})`
-        let data = getSuspectData(firstName, lastName);
-        const dashedName = getDashedName(firstName, lastName);
-        const fileName = getFileName(firstName, lastName);
-
-        // add any missing links
-        if (!data.match(new RegExp(type))) {
-          console.log(`${dashedName}: ${type}`)
-          data = data.trim() + `\n${linkMarkdown}`
-          writeFile(fileName, data)
-        }
-
-        // replace GW links with DOJ links when possible
-        const gwRegEx = new RegExp(`\- \\[${type}\]\\(https:\\/\\/extremism.*\\)`)
-        if (data.match(gwRegEx)) {
-          console.log(`${dashedName}: ${type}`);
-          data = data.replace(gwRegEx, linkMarkdown);
-          writeFile(fileName, data);
-        }
-      }
+    if (falsePositives("DOJ").has(lastName)) {
+      continue;
     }
+
+    const dateRegEx = /\d{1,2}([\/.-])\d{1,2}\1\d{2,4}/;
+    const dateMatch = cells[5].text.match(dateRegEx) || cells[6].text.match(dateRegEx);
+    const dateString = dateMatch ? dateMatch[0] : "";
+    const links = getLinks(<HTMLElement>cells[3]);
+
+    addData(nameSet, firstName, lastName, dateString, links);
   }
 }
 
@@ -144,29 +154,48 @@ const getSuspectData = (firstName: string, lastName: string): string => {
   return readFile(fileName)
 }
 
-const falsePositives = () => {
+const falsePositives = (site: string) => {
   const set:Set<string> = new Set();
-  set.add("CALHOUN Jr.");
-  set.add("MCCAUGHEY III");
-  set.add("MISH Jr.");
-  set.add("Calhoun Jr.");
-  set.add("Bentacur");
-  set.add("Capsel");
-  set.add("Courtwright");
-  set.add("DeCarlo");
-  set.add("DeGrave");
-  set.add("Fichett");
-  set.add("Phipps");
-  set.add("Rodean");
-  set.add("Shively");
-  set.add("Sidorsky");
-  set.add("Sparks");
-  set.add("Spencer");
-  set.add("Mazzocco");
-  set.add("Griffin");
-  set.add("McCaughey III");
-  set.add("Curzio");
-  return set;
+
+  switch(site) {
+    case "USA":
+      set.add("Ryan");
+      set.add("Ochs");
+      set.add("Ianni");
+      set.add("Jensen");
+      set.add("Rodean");
+      set.add("Shively");
+      set.add("Madden");
+      set.add("Capsel");
+      set.add("Courtwright");
+      break;
+    case "GW":
+      set.add("Calhoun Jr.");
+      set.add("Bentacur");
+      set.add("Capsel");
+      set.add("Courtwright");
+      set.add("DeCarlo");
+      set.add("DeGrave");
+      set.add("Fichett");
+      set.add("Phipps");
+      set.add("Rodean");
+      set.add("Shively");
+      set.add("Sidorsky");
+      set.add("Sparks");
+      set.add("Spencer");
+      set.add("Mazzocco");
+      set.add("Griffin");
+      set.add("McCaughey III");
+      set.add("Curzio");
+      break;
+    case "DOJ":
+      set.add("CALHOUN Jr.");
+      set.add("MCCAUGHEY III");
+      set.add("MISH Jr.");
+      break;
+  }
+
+  return set
 }
 
 const getLinks = (element: HTMLElement) => {
@@ -179,37 +208,91 @@ const getLinks = (element: HTMLElement) => {
     }
   }
 
-  // sometimes the complaint is combined with statement of facts
-  if (links["Complaint"] && !links["Statement of Facts"] && !links["Affidavit"]) {
-    links["Statement of Facts"] = links["Complaint"];
-  }
-
   return links
 }
 
 const linkType = (description: string) => {
+    description = description.replace("&nbsp;", " ");
+
     switch(true) {
+      case /Affidavit/.test(description):
+      case /Affidavit in Support of Criminal Complaint/.test(description):
+      case /Statement of Fact/.test(description):
+        return "Statement of Facts"
       case /Indictment/.test(description):
         return "Indictment"
       case /Ammended Complaint/.test(description):
         return "Ammended Complaint"
-      case /Ammended Statement of Facts/.test(description):
-        return "Ammended Statement of Facts"
       case /Complaint/.test(description):
       case /complaint/.test(description):
         return "Complaint"
-      case /Affidavit/.test(description):
-        return "Affidavit"
-      case /Statement of Fact/.test(description):
-        return "Statement of Facts"
       case /Charged/.test(description):
       case /Indicted/.test(description):
       case /Arrested/.test(description):
         return "DOJ Press Release"
+      case /Government Detention Exhibits/.test(description):
+        return "Detention Exhibits"
+      case /Detention Exhibit (\d)/.test(description):
+        return `Detention Exhibit ${RegExp.$1}`;
+      case /Detention Memo/.test(description):
+      case /Government Detention Memorandum/.test(description):
+      case /Memorandum in Support of Pretrial Detention/.test(description):
+        return "Detention Memo"
+      case /Arrest Warrant/.test(description):
+        return "Arrest Warrant"
+      case /Ammended Statement of Facts/.test(description):
+        return "Ammended Statement of Facts"
+      case /^S$/.test(description):
+      case /^tatement of Facts/.test(description):
+        // ignore messed up GW links
+        return null;
       default:
         warning(`unknown link type: ${description}`)
         return "DOJ Press Release"
     }
+}
+
+const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, residence?: string, age?: string) => {
+  const nameToCheck = dasherizeName(firstName, lastName);
+  const fullName = `${firstName} ${lastName}`
+  if (!nameSet.has(nameToCheck)) {
+    // suspect does not yet exist in our database so let's add them
+    newSuspect(firstName, lastName, dateString, links, residence);
+  }
+
+  // suspect exists already but there may be new data to update
+  let data = getSuspectData(firstName, lastName);
+  const fileName = getFileName(firstName, lastName);
+
+  if (!isEmpty(residence) && data.match(/residence:\s*\n/)) {
+    data = data.replace(/residence:\s*\n/, `residence: ${residence}\n`)
+    console.log(`${fullName}: ${residence}`);
+    writeFile(fileName, data);
+  }
+
+  for (const [type, url] of Object.entries(links)) {
+    const fullUrl = /https:\/\//.test(<string>url) ? url : `https://www.justice.gov${url}`
+
+    if (!data.match(new RegExp(type))) {
+      console.log(`${fullName}: ${type}`)
+      const linkMarkdown = `- [${type}](${fullUrl})`
+      data = data.trim() + `\n${linkMarkdown}`
+      writeFile(fileName, data)
+    } else {
+      // replace GW links with DOJ links when possible
+      if (data.match(new RegExp(`[${type}]\(https:\/\/.*\)`))) {
+        console.log(`found GW link: ${RegExp.$1}`)
+      }
+    }
+
+    // replace GW links with DOJ links when possible
+    const gwRegEx = new RegExp(`\- \\[${type}\]\\(https:\\/\\/extremism.*\\)`)
+    if (data.match(gwRegEx)) {
+      console.log(`${fullName}: ${type}`);
+      data = data.replace(gwRegEx, `- [${type}](${fullUrl})`);
+      writeFile(fileName, data);
+    }
+  }
 }
 
 const newSuspect = (firstName, lastName, dateString, links, residence?: string, age?: string) => {
