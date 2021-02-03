@@ -7,8 +7,8 @@ residence: Texas
 status: Charged
 date: 2021-01-21
 age: 39
-occupation:
-affiliations:
+occupation: Teacher (Former), U.S. Military (Former)
+affiliations: U.S. Military
 jurisdiction: Federal
 before: christopher-grider.png
 after:
@@ -28,3 +28,4 @@ published: true
 - [NewsReport](https://www.kwtx.com/2021/01/28/magistrate-denies-new-hearing-for-local-businessman-charged-in-us-capitol-riot/)
 - [Complaint](https://www.justice.gov/file/1358251/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1358246/download)
+- [Self Incrimination (Interview)](https://www.kwtx.com/2021/01/07/central-texas-man-witnessed-deadly-shooting-as-trump-supporters-stormed-us-capitol/)
