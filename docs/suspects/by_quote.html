@@ -1,0 +1,23 @@
+---
+layout: default
+title: Suspects (by Quote)
+---
+
+<h1 class="table">{{ page.title }}</h1>
+
+{% assign suspects = site.suspects | where_exp: "suspect", "suspect.quote" %}
+Total Count: {{ suspects.size }}
+
+<table class="suspects">
+  <tr>
+    <th>Quote</th>
+  {% for suspect in suspects %}
+    <tr>
+      <td class="quote">
+        "{{ suspect.quote }}"
+        <div><a href="{{ suspect.url }}">{{ suspect.name }}</a></div>
+      </td>
+    </tr>
+  {% endfor %}
+</table>
+
