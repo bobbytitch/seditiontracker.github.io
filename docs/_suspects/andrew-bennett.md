@@ -1,19 +1,19 @@
 ---
 name: Andrew Bennett
 lastName: Bennett
-aka: 
-residence: 
+aka:
+residence: Maryland
 status: Charged
 date: 2021-01-26
 age: 22
-occupation: 
+occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
 image: arrest.jpg
 preview: arrest.jpg
-booking: 
-courtroom: 
-courthouse: 
+booking:
+courtroom:
+courthouse:
 quote: "You better be ready chaos is coming and I will be in DC on 1/6/2021 fighting for my freedom!"
 title: Andrew Bennett charged on January 26th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

@@ -1,19 +1,19 @@
 ---
 name: Patrick McCaughey
 lastName: McCaughey
-aka: 
-residence: 
+aka:
+residence: Connecticut
 status: Indicted
 date: 2021-01-19
 age: 23
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
 image: 080.jpg
 preview: 080.jpg
-booking: 
-courtroom: 
-courthouse: 
+booking:
+courtroom:
+courthouse:
 quote: "Taking this back by force now, no more bs"
 title: Patrick McCaughey charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

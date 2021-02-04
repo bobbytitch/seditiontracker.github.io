@@ -2,18 +2,18 @@
 name: Christopher Spencer
 lastName: Spencer
 aka: Stephen Ignoramus
-residence: 
+residence: North Carolina
 status: Charged
 date: 2021-01-19
 age: 40
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
 image: 099.jpg
 preview: 099.jpg
-booking: 
-courtroom: 
-courthouse: 
+booking:
+courtroom:
+courthouse:
 quote: "Where’s Nancy’s office?"
 title: Christopher Spencer charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

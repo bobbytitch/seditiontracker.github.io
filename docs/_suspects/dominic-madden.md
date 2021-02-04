@@ -1,8 +1,8 @@
 ---
 name: Dominic Madden
 lastName: Madden
-aka: 
-residence: 
+aka:
+residence: New York
 status: Charged
 date: 2021-01-22
 age: 43
@@ -11,10 +11,10 @@ affiliations: undefined
 jurisdiction: Federal
 image: 105.png
 preview: 105.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+booking:
+courtroom:
+courthouse:
+quote:
 title: Dominic Madden charged on January 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

@@ -1,19 +1,19 @@
 ---
 name: Nicholas DeCarlo
 lastName: DeCarlo
-aka: 
-residence: 
+aka:
+residence: Texas
 status: Indicted
 date: 2021-01-19
 age: 7
-occupation: 
+occupation:
 affiliations: Proud Boys, Murder the Media
 jurisdiction: Federal
 image: 076.png
 preview: 076.png
-booking: 
-courtroom: 
-courthouse: 
+booking:
+courtroom:
+courthouse:
 quote: "Maybe I smoked some cigarettes, maybe I spat on a riot officer. Maybe I didn't"
 title: Nicholas DeCarlo charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

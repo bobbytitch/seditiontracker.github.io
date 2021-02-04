@@ -1,20 +1,20 @@
 ---
 name: Israel Tutrow
 lastName: Tutrow
-aka: 
-residence: 
+aka:
+residence: Indiana
 status: Charged
 date: 2021-01-27
-age: 
-occupation: 
+age:
+occupation:
 affiliations: undefined
 jurisdiction: Federal
 image: israel-tutrow.png
 preview: israel-tutrow.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+booking:
+courtroom:
+courthouse:
+quote:
 title: Israel Tutrow charged on January 27th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

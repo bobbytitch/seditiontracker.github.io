@@ -2,18 +2,18 @@
 name: Daniel Phipps
 lastName: Phipps
 aka: Chaz McCurry
-residence: 
+residence: Texas
 status: Charged
 date: 2021-01-26
 age: 48
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
 image: daniel-phipps.jpg
 preview: daniel-phipps.jpg
-booking: 
-courtroom: 
-courthouse: 
+booking:
+courtroom:
+courthouse:
 quote: "I went to DC. I helped take the Hill."
 title: Daniel Phipps charged on January 26th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

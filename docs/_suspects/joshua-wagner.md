@@ -1,20 +1,20 @@
 ---
 name: Joshua Wagner
 lastName: Wagner
-aka: 
-residence: 
+aka:
+residence: Indiana
 status: Charged
 date: 2021-01-26
-age: 
-occupation: 
+age:
+occupation:
 affiliations: undefined
 jurisdiction: Federal
 image: joshua-wagner.png
 preview: joshua-wagner.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+booking:
+courtroom:
+courthouse:
+quote:
 title: Joshua Wagner charged on January 26th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

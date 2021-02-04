@@ -1,8 +1,8 @@
 ---
 name: Matthew Mazzocco
 lastName: Mazzocco
-aka: 
-residence: 
+aka:
+residence: Texas
 status: Charged
 date: 2021-01-17
 age: 37
@@ -11,9 +11,9 @@ affiliations: undefined
 jurisdiction: Federal
 image: 079.png
 preview: 079.png
-booking: 
-courtroom: 
-courthouse: 
+booking:
+courtroom:
+courthouse:
 quote: "We’re probably all going to get in trouble"
 title: Matthew Mazzocco charged on January 17, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

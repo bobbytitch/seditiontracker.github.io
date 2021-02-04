@@ -2,19 +2,19 @@
 name: Bryan Betancur
 lastName: Betancur
 aka: Bryan Clooney, Maximo Clooney
-residence: 
+residence: Maryland
 status: Charged
 date: 2021-01-17
 age: 6
-occupation: 
+occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
 image: 061.jpg
 preview: 061.jpg
 booking: bryan-betancur.jpg
-courtroom: 
-courthouse: 
-quote: 
+courtroom:
+courthouse:
+quote:
 title: Bryan Betancur charged on January 17, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

@@ -1,20 +1,20 @@
 ---
 name: Emanuel Jackson
 lastName: Jackson
-aka: 
-residence: 
+aka:
+residence: Washington, DC
 status: Charged
 date: 2021-01-18
 age: 20
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
 image: 066.jpg
 preview: 066.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+booking:
+courtroom:
+courthouse:
+quote:
 title: Emanuel Jackson charged on January 18, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

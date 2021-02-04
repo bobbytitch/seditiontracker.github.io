@@ -1,20 +1,20 @@
 ---
 name: Jordan Revlett
 lastName: Revlett
-aka: 
-residence: 
+aka:
+residence: Kentucky
 status: Charged
 date: 2021-01-25
 age: 23
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
 image: jordan-revlett.jpg
 preview: jordan-revlett.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+booking:
+courtroom:
+courthouse:
+quote:
 title: Jordan Revlett charged on January 25th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

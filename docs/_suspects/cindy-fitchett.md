@@ -2,7 +2,7 @@
 name: Cindy Fitchett
 lastName: Fitchett
 aka:
-residence:
+residence: Virginia
 status: Charged
 date: 2021-01-21
 age: 59

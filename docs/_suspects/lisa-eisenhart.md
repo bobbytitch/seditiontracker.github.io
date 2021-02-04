@@ -1,19 +1,19 @@
 ---
 name: Lisa Eisenhart
 lastName: Eisenhart
-aka: 
-residence: 
+aka:
+residence: Georgia
 status: Charged
 date: 2021-01-16
 age: 56
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
 image: 046.jpg
 preview: 046.jpg
 booking: lisa-eisenhart.png
-courtroom: 
-courthouse: 
+courtroom:
+courthouse:
 quote: "We’re going straight to federal prison if we go in there with weapons."
 title: Lisa Eisenhart charged on January 16, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

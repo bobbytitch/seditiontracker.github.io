@@ -1,19 +1,19 @@
 ---
 name: Michael Sparks
 lastName: Sparks
-aka: 
-residence: 
+aka:
+residence: Kentucky
 status: Charged
 date: 2021-01-18
 age: 6
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
 image: 064.jpg
 preview: 064.jpg
-booking: 
-courtroom: 
-courthouse: 
+booking:
+courtroom:
+courthouse:
 quote: "A new dawn is coming. Be ready. Just pray and trust in the Lord."
 title: Michael Sparks charged on January 18, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

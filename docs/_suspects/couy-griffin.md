@@ -2,7 +2,7 @@
 name: Couy Griffin
 lastName: Griffin
 aka:
-residence:
+residence: New Mexico
 status: Charged
 date: 2021-01-17
 age: 5

@@ -1,8 +1,8 @@
 ---
 name: Vitali GossJankowski
 lastName: GossJankowski
-aka: 
-residence: 
+aka:
+residence: Washington, DC
 status: Charged
 date: 2021-01-14
 age: 8
@@ -11,9 +11,9 @@ affiliations: Gallaudet University
 jurisdiction: Federal
 image: 086.png
 preview: 086.png
-booking: 
-courtroom: 
-courthouse: 
+booking:
+courtroom:
+courthouse:
 quote: "The cops won’t touch me. Lol."
 title: Vitali GossJankowski charged on January 14, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

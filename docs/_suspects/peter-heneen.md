@@ -1,8 +1,8 @@
 ---
 name: Peter Heneen
 lastName: Heneen
-aka: 
-residence: 
+aka:
+residence: Florida
 status: Charged
 date: 2021-01-19
 age: 9
@@ -12,8 +12,8 @@ jurisdiction: Federal
 image: 095.jpg
 preview: 095.jpg
 booking: peter-heneen.png
-courtroom: 
-courthouse: 
+courtroom:
+courthouse:
 quote: "Need to make the streets of D.C. run red with blood of the tyrants. The tyrants being the feds."
 title: Peter Heneen  charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

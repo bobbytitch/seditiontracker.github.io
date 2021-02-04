@@ -1,19 +1,19 @@
 ---
 name: Peter Harding
 lastName: Harding
-aka: 
-residence: 
+aka:
+residence: New York
 status: Charged
 date: 2021-01-14
 age: 47
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
 image: 045.png
 preview: 045.png
 booking: peter-harding.jpg
-courtroom: 
-courthouse: 
+courtroom:
+courthouse:
 quote: "We took the rest of the media equipment that was there. We put it into a pile. That was a symbolic gesture."
 title: Peter Harding charged on January 14, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

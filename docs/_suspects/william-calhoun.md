@@ -1,19 +1,19 @@
 ---
 name: William Calhoun
 lastName: Calhoun
-aka: 
-residence: 
+aka:
+residence: Georgia
 status: Charged
 date: 2021-01-15
 age: 57
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
 image: 107.jpg
 preview: 107.jpg
-booking: 
+booking:
 courtroom: william-calhoun.png
-courthouse: 
+courthouse:
 quote: "We physically took control of the Capitol Building in a hand to hand hostile takeover."
 title: William Calhoun charged on January 15, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

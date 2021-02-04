@@ -1,19 +1,19 @@
 ---
 name: Nathaniel Degrave
 lastName: Degrave
-aka: 
-residence: 
+aka:
+residence: Las Vegas
 status: Charged
 date: 2021-01-28
-age: 
+age:
 occupation: Business Owner ("Adult Model Management Company")
 affiliations: undefined
 jurisdiction: Federal
 image: nathaniel-degrave.jpg
 preview: nathaniel-degrave.jpg
-booking: 
-courtroom: 
-courthouse: 
+booking:
+courtroom:
+courthouse:
 quote: "We are out here protecting our country, if shit goes down, if Pence does what we think he is going to do"
 title: Nathaniel Degrave charged on January 28th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
