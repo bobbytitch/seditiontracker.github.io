@@ -22,4 +22,4 @@ layout: suspect
 published: false
 ---
 - [News Story]()
-- [Statement of Facts](/opa/case-multi-defendant/file/1364676/download)
+- [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1364676/download)

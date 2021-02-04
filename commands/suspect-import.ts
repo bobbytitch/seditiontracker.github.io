@@ -138,7 +138,7 @@ const importDoj = async (nameSet: Set<string>) => {
     const dateRegEx = /\d{1,2}([\/.-])\d{1,2}\1\d{2,4}/;
     const dateMatch = cells[5].text.match(dateRegEx) || cells[6].text.match(dateRegEx);
     const dateString = dateMatch ? dateMatch[0] : "";
-    const links = getLinks(<HTMLElement>cells[3]);
+    const links = getLinks(<HTMLElement>cells[3], "https://www.justice.gov");
 
     addData(nameSet, firstName, lastName, dateString, links);
   }
@@ -201,13 +201,13 @@ const falsePositives = (site: string) => {
   return set
 }
 
-const getLinks = (element: HTMLElement) => {
+const getLinks = (element: HTMLElement, prefix = "") => {
   const links = {}
   const anchors = element.querySelectorAll("a");
   for (const anchor of anchors) {
     const type = linkType(anchor.rawText);
     if (type) {
-      links[type] = anchor.attributes.href
+      links[type] = `${prefix}${anchor.attributes.href}`
     }
   }
 
@@ -305,6 +305,9 @@ const newSuspect = (firstName, lastName, dateString, links, residence?: string, 
     age: parseInt(age),
     status: "Charged",
     links: {"News Story": "", ...links},
+    jurisdiction: "Federal",
+    image: `${dasherizeName(firstName, lastName)}.jpg`,
+    preview: `${dasherizeName(firstName, lastName)}.jpg`,
     title: `${firstName} ${lastName} charged on [longDate]`,
     description: "Click for latest case details. Suspects innocent until proven guilty.",
     published: false

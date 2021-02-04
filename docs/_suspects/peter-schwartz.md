@@ -22,4 +22,4 @@ layout: suspect
 published: false
 ---
 - [News Story]()
-- [Statement of Facts](/usao-dc/case-multi-defendant/file/1364696/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364696/download)
