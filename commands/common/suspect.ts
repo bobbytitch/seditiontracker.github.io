@@ -22,6 +22,7 @@ interface Suspect {
   description?: string
   title?: string
   jurisdiction?: string
+  residence?: string
 }
 
 export const getSuspectByFile = (filename:string) => {
@@ -89,13 +90,48 @@ export const getSuspectByFile = (filename:string) => {
     suspect.quote= RegExp.$1;
   }
 
-  console.log({suspect})
+  // set empty string when shit is not assigned
+  const fields = ["aka", "residence", "date", "age", "occupation", "affiliation", "jurisdiction", "image", "preview", "booking", "courtroom", "courthouse", "quote", "title"]
+  for (const field of fields) {
+    suspect[field] = suspect[field] || ""
+  }
 
   return suspect
 }
 
 export const updateSuspect = (suspect: Suspect) => {
+  const fs = require('fs')
+  const file = fs.createWriteStream(`docs/_suspects/${dasherizeName(suspect)}.md`)
 
+  file.write('---\n')
+  file.write(`name: ${suspect.name}\n`)
+  file.write(`lastName: ${suspect.lastName}\n`)
+  file.write(`aka: ${suspect.aka}\n`)
+  file.write(`residence: ${suspect.residence}\n`)
+  file.write(`status: ${suspect.status}\n`)
+  file.write(`date: ${suspect.date}\n`)
+  file.write(`age: ${suspect.age}\n`)
+  file.write(`occupation: ${suspect.occupation}\n`)
+  file.write(`affiliations: ${suspect.affiliations}\n`)
+  file.write(`jurisdiction: ${suspect.jurisdiction}\n`)
+  file.write(`image: ${suspect.image}\n`)
+  file.write(`preview: ${suspect.preview}\n`)
+  file.write(`booking: ${suspect.booking}\n`)
+  file.write(`courtroom: ${suspect.courtroom}\n`)
+  file.write(`courthouse: ${suspect.courthouse}\n`)
+  file.write(`quote: ${suspect.quote}\n`)
+  file.write(`title: ${suspect.title}\n`)
+  file.write(`description: ${suspect.description}\n`)
+  file.write(`author: seditiontrack\n`)
+  file.write(`layout: suspect\n`)
+  file.write(`published: ${suspect.published}\n`)
+  file.write('---\n')
+
+  for (const [type, url] of Object.entries(suspect.links)) {
+    file.write(`- [${type}](${url})\n`)
+  }
+
+  file.end()
 }
 
 const dasherizeName = (suspect:Suspect) => {
@@ -108,7 +144,7 @@ const getLinks = (data: string) => {
     if (isEmpty(link.trim())) {
       continue;
     }
-    const [,name, url] = link.match(/(\[.*])\((.*)\)/)
+    const [,name, url] = link.match(/\[(.*)]\((.*)\)/)
     links[name] = url
   }
   return links

@@ -22,4 +22,4 @@ layout: suspect
 published: true
 ---
 
-- [News Story]()
+- [News Report]()

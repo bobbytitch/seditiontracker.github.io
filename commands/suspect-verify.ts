@@ -2,7 +2,7 @@ import { Command } from "commander";
 import { exitWithError, info } from "./common/console";
 import fs from "fs";
 import { readFile } from "./common/file";
-import { getSuspectByFile } from "./common/suspect";
+import { getSuspectByFile, updateSuspect } from "./common/suspect";
 const { execSync } = require('child_process')
 import { isEmpty } from "lodash";
 
@@ -14,6 +14,10 @@ const doVerify = () => {
 
   for (const filename of suspects) {
     const suspect = getSuspectByFile(filename);
+
+        // // HACK
+        // updateSuspect(suspect);
+
 
     // ignore unpublished suspects
     if (!suspect.published) {
