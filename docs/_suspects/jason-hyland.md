@@ -21,5 +21,5 @@ author: seditiontrack
 layout: suspect
 published: false
 ---
-- [News Story]()
+- [News Report]()
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1364676/download)

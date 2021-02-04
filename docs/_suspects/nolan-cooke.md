@@ -1,26 +1,26 @@
 ---
 name: Nolan Cooke
 lastName: Cooke
-aka: 
-residence: 
+aka:
+residence:
 status: Charged
-date: 2021-01-21
-age: 22
-occupation: 
-affiliations: undefined
+date: 2020-01-21
+age:
+occupation:
+affiliations:
 jurisdiction: Federal
-image: 111.png
-preview: 111.png
-booking: 
-courtroom: 
-courthouse: 
-quote: "I wouldn’t want anyone other than you with me to take on the revolution."
-title: Nolan Cooke charged on January 21, 2021
+image: nolan-cooke.jpg
+preview: nolan-cooke.jpg
+booking:
+courtroom:
+courthouse:
+quote:
+title: Nolan Cooke charged on January 21st, 2020
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: true
+published: false
 ---
-- [News Report](https://www.wfaa.com/article/news/crime/fannin-county-man-arrested-for-participating-in-us-capitol-riots/287-ac08b977-b49e-4aa8-be32-08a2ef1f5b80)
+- [News Report]()
 - [Complaint](https://www.justice.gov/opa/page/file/1358231/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1358226/download)
