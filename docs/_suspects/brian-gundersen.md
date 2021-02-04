@@ -10,13 +10,13 @@ age: 26
 occupation: Sanitation Worker
 affiliations:
 jurisdiction: Federal
-before: brian-gunderson.png
+image: brian-gunderson.png
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Brian Gundersen charged on January 27th, 2021
-image: /images/preview/brian-gunderson.png
+preview: brian-gunderson.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We all stormed the us capital [sic] and tried to take over the government"
 author: seditiontrack

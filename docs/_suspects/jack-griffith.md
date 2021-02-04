@@ -8,11 +8,11 @@ age: 25
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 042.jpg
+image: 042.jpg
 booking: jack-griffith.png
 layout: suspect
 title: Jack Griffith charged on January 16, 2021
-image: /images/preview/042.jpg
+preview: 042.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "I even helped stormed [sic] the capitol today, but it only made things worse."
 author: seditiontrack

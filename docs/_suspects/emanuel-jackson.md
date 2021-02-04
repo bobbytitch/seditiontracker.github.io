@@ -8,11 +8,11 @@ age: 20
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 066.jpg
+image: 066.jpg
 after:
 layout: suspect
 title: Emanuel Jackson charged on January 18, 2021
-image: /images/preview/066.jpg
+preview: 066.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack

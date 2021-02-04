@@ -8,11 +8,11 @@ age: 44
 occupation: Business Owner (Lawn Service)
 affiliations:
 jurisdiction: Federal
-before: 029.png
+image: 029.png
 after:
 layout: suspect
 title: Joshua Black charged on January 14, 2021
-image: /images/preview/029.png
+preview: 029.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "I wanted to get inside the building so I could plead the blood of Jesus over it. That was my goal."
 author: seditiontrack

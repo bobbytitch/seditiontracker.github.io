@@ -10,7 +10,7 @@ age: 39
 occupation: Business Owner (Faulkner Painting)
 affiliations:
 jurisdiction: Federal
-before: troy-faulkner.jpg
+image: troy-faulkner.jpg
 after:
 perpwalk:
 booking:
@@ -18,7 +18,7 @@ courtroom:
 courthouse:
 layout: suspect
 title: Troy Faulkner charged on January 26th, 2021
-image: /images/preview/troy-faulkner.jpg
+preview: troy-faulkner.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We weren’t fighting against antifa we’re fighting against the government"
 author: seditiontrack

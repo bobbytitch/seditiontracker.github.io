@@ -8,11 +8,11 @@ age: 55
 occupation: Founder of America’s Frontline Doctors (COVID disinformation)
 affiliations:
 jurisdiction: Federal
-before: 071.jpg
+image: 071.jpg
 after:
 layout: suspect
 title: Simone Gold charged on January 18, 2021
-image: /images/preview/071.jpg
+preview: 071.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "I do regret being there"
 author: seditiontrack

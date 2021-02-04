@@ -18,7 +18,7 @@ courtroom:
 courthouse:
 layout: suspect
 title: [name] [action] on [longDate]
-image: /images/preview/[dashedName].jpg
+preview: [dashedName].jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

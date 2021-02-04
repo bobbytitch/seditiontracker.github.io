@@ -8,11 +8,11 @@ age: 20
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 078.jpg
+image: 078.jpg
 after: emily-hernandez.jpg
 layout: suspect
 title: Emily Hernandez charged on January 15, 2021
-image: /images/preview/078.jpg
+preview: 078.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

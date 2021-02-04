@@ -8,11 +8,11 @@ age: 30
 occupation: U.S. Marines (Former)
 affiliations:
 jurisdiction: Federal
-before: 067.jpg
+image: 067.jpg
 booking: ryan-nichols.jpg
 layout: suspect
 title: Ryan Nichols charged on January 18, 2021
-image: /images/preview/067.jpg
+preview: 067.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "If you have a weapon, you need to get your weapon!"
 author: seditiontrack

@@ -8,14 +8,14 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: israel-tutrow.png
+image: israel-tutrow.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Israel Tutrow charged on January 27th, 2021
-image: /images/preview/israel-tutrow.png
+preview: israel-tutrow.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

@@ -8,11 +8,11 @@ age: 33
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 068.jpg
+image: 068.jpg
 booking: alex-harkrider.jpg
 layout: suspect
 title: Alex Harkrider charged on January 18, 2021
-image: /images/preview/068.jpg
+preview: 068.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack

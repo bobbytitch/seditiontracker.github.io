@@ -8,11 +8,11 @@ age:
 occupation: U.S. Marines (Former)
 affiliations:
 jurisdiction: Federal
-before: 098.png
+image: 098.png
 raid: barton-shivley.jpg
 layout: suspect
 title: Barton Shivley charged on January 19, 2021
-image: /images/preview/098.png
+preview: 098.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

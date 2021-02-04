@@ -8,11 +8,11 @@ age:
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-before: 061.jpg
+image: 061.jpg
 booking: bryan-betancur.jpg
 layout: suspect
 title: Bryan Betancur charged on January 17, 2021
-image: /images/preview/061.jpg
+preview: 061.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack

@@ -8,11 +8,11 @@ age: 52
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 017.png
+image: 017.png
 after:
 layout: suspect
 title: Kevin Loftus charged on January 12, 2021
-image: /images/preview/017.png
+preview: 017.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack

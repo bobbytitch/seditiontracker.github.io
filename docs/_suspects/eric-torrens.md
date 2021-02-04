@@ -10,14 +10,14 @@ age: 28
 occupation:
 affiliations:
 jurisdiction: Federal
-before: eric-torrens.png
+image: eric-torrens.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Eric Torrens charged on January 27, 2021
-image: /images/preview/eric-torrens.png
+preview: eric-torrens.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

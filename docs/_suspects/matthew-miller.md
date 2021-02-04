@@ -8,14 +8,14 @@ age: 22
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 120.png
+image: 120.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Matthew Miller charged on January 25, 2021
-image: /images/preview/120.png
+preview: 120.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

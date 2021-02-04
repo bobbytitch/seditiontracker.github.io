@@ -8,14 +8,14 @@ age: 53
 occupation: Home Designer
 affiliations:
 jurisdiction: Federal
-before: valerie-ehrke.png
+image: valerie-ehrke.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Valerie Ehrke charged on January 19th, 2021
-image: /images/preview/valerie-ehrke.png
+preview: valerie-ehrke.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "I took off when I felt pepper spray in my throat! Lol."
 author: seditiontrack

@@ -8,14 +8,14 @@ age: 51
 occupation:
 affiliations:
 jurisdiction: Federal
-before: kenneth-grayson.png
+image: kenneth-grayson.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Kenneth Grayson charged on January 26th, 2021
-image: /images/preview/kenneth-grayson.png
+preview: kenneth-grayson.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "I left one unconscious so I did my little part and got the fuck out before I got arrested"
 author: seditiontrack

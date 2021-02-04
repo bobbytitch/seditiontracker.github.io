@@ -8,14 +8,14 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 135.png
+image: 135.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Anthony Mariotto charged on January 22nd, 2021
-image: /images/preview/135.png
+preview: 135.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

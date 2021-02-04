@@ -8,14 +8,14 @@ age: 48
 occupation: Business Owner
 affiliations:
 jurisdiction: Federal
-before: patrick-montgomery.jpg
+image: patrick-montgomery.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Patrick Montgomery charged on January 17th, 2021
-image: /images/preview/patrick-montgomery.jpg
+preview: patrick-montgomery.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We stormed the Senate ... opened those Chamber door for Transparency!"
 author: seditiontrack

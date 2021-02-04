@@ -10,14 +10,14 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: jason-gerding.jpg
+image: jason-gerding.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Jason Gerding charged on January 28th, 2021
-image: /images/preview/jason-gerding.jpg
+preview: jason-gerding.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

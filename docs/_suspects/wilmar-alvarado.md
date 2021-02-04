@@ -10,14 +10,14 @@ age: 37
 occupation:
 affiliations:
 jurisdiction: Federal
-before: wilmar-alvarado.png
+image: wilmar-alvarado.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Wilmar Alvarado charged on January 29, 2021gs
-image: /images/preview/wilmar-alvarado.png
+preview: wilmar-alvarado.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "I’m not part of this. I’m trying to get out."
 author: seditiontrack

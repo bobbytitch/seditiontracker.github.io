@@ -10,14 +10,14 @@ age:
 occupation:
 affiliations: Proud Boys (likely)
 jurisdiction: Federal
-before: jerod-hughes.jpg
+image: jerod-hughes.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Jerod Hughes charged on January 28, 2021
-image: /images/preview/jerod-hughes.jpg
+preview: jerod-hughes.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

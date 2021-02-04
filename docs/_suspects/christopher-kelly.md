@@ -10,14 +10,14 @@ age: 44
 occupation:
 affiliations:
 jurisdiction: Federal
-before: christopher-kelly.jpg
+image: christopher-kelly.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Christopher Kelly charged on January 20, 2021
-image: /images/preview/christopher-kelly.jpg
+preview: christopher-kelly.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "No worries, I’ll be with ex NYPD and some proud boys"
 author: seditiontrack

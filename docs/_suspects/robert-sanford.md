@@ -8,11 +8,11 @@ age: 55
 occupation: Fire Fighter (Retired)
 affiliations:
 jurisdiction: Federal
-before: 021.jpg
+image: 021.jpg
 after:
 layout: suspect
 title: Robert Sanford charged on January 14, 2021
-image: /images/preview/021.jpg
+preview: 021.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack

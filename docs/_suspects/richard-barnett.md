@@ -8,12 +8,12 @@ age: 60
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 020.jpg
+image: 020.jpg
 booking: richard-barnett.jpg
 raid: richard-barnett.jpg
 layout: suspect
 title: Richard Barnett charged on January 8, 2021
-image: /images/preview/020.jpg
+preview: 020.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "I wrote her a nasty note"
 author: seditiontrack

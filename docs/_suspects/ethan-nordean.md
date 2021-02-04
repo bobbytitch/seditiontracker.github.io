@@ -10,7 +10,7 @@ age: 30
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-before: ethan-nordean.png
+image: ethan-nordean.png
 after:
 perpwalk:
 booking:
@@ -18,7 +18,7 @@ courtroom:
 courthouse:
 layout: suspect
 title: Ethan Nordean charged on February 3rd, 2021
-image: /images/preview/ethan-nordean.png
+preview: ethan-nordean.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "If you feel bad for the police, you are part of the problem."
 author: seditiontrack

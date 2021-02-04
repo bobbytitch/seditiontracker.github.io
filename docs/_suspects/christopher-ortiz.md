@@ -10,7 +10,7 @@ age: 27
 occupation:
 affiliations:
 jurisdiction: Federal
-before: christopher-ortiz.jpg
+image: christopher-ortiz.jpg
 after:
 perpwalk:
 booking:
@@ -18,7 +18,7 @@ courthouse: christopher-ortiz.jpg
 courtroom: christopher-ortiz.jpg
 layout: suspect
 title: Christopher Ortiz charged on January 27th, 2021
-image: /images/preview/christopher-ortiz.jpg
+preview: christopher-ortiz.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "[I'd] storm the Capitol for you any day"
 author: seditiontrack

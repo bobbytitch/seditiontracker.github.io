@@ -8,11 +8,11 @@ age:
 occupation: Student
 affiliations: Gallaudet University
 jurisdiction: Federal
-before: 086.png
+image: 086.png
 after:
 layout: suspect
 title: Vitali GossJankowski charged on January 14, 2021
-image: /images/preview/086.png
+preview: 086.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "The cops won’t touch me. Lol."
 author: seditiontrack

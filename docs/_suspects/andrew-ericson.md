@@ -8,14 +8,14 @@ age: 23
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 112.png
+image: 112.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Andrew Ericson charged on January 22, 2021
-image: /images/preview/112.png
+preview: 112.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

@@ -8,14 +8,14 @@ age: 49
 occupation:
 affiliations:
 jurisdiction: Federal
-before: arrest.jpg
+image: arrest.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Matthew Council charged on January 14th, 2021
-image: /images/preview/arrest.jpg
+preview: arrest.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

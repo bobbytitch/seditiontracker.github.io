@@ -8,14 +8,14 @@ age: 57
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 107.jpg
+image: 107.jpg
 after:
 perpwalk:
 booking:
 courtroom: william-calhoun.png
 layout: suspect
 title: William Calhoun charged on January 15, 2021
-image: /images/preview/107.jpg
+preview: 107.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We physically took control of the Capitol Building in a hand to hand hostile takeover."
 author: seditiontrack

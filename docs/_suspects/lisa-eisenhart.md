@@ -8,11 +8,11 @@ age: 56
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 046.jpg
+image: 046.jpg
 booking: lisa-eisenhart.png
 layout: suspect
 title: Lisa Eisenhart charged on January 16, 2021
-image: /images/preview/046.jpg
+preview: 046.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "We’re going straight to federal prison if we go in there with weapons."
 author: seditiontrack

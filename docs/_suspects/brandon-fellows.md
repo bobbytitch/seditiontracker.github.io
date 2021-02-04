@@ -8,11 +8,11 @@ age: 26
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 050.jpg
+image: 050.jpg
 booking: brandon-fellows.png
 layout: suspect
 title: Brandon Fellows charged on January 17, 2021
-image: /images/preview/050.jpg
+preview: 050.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "I didn’t hurt anyone, I didn’t break anything. I did trespass though, I guess."
 author: seditiontrack

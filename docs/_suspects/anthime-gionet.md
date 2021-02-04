@@ -8,11 +8,11 @@ age: 33
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 023.png
+image: 023.png
 after:
 layout: suspect
 title: Anthime Joseph Gionet charged on January 14, 2021
-image: /images/preview/023.png
+preview: 023.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack

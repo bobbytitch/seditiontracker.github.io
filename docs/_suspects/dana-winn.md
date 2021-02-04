@@ -8,12 +8,12 @@ age: 45
 occupation:
 affiliations:
 jurisdiction: Federal
-before: dana-winn.png
+image: dana-winn.png
 booking: dana-winn.png
 courtroom: dana-winn.jpg
 layout: suspect
 title: Dana Winn charged on January 26th, 2021
-image: /images/preview/dana-winn.png
+preview: dana-winn.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Got her flags, come with her flagpole, that way I can hit antifa in
 the head if need be"

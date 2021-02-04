@@ -8,11 +8,11 @@ age: 32
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 040.png
+image: 040.png
 after:
 layout: suspect
 title: Kash Kelly charged on January 14, 2021
-image: /images/preview/040.png
+preview: 040.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack

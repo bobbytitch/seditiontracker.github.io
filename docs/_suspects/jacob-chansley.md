@@ -5,12 +5,12 @@ status: Indicted
 date: 2021-01-08
 residence: Arizona
 jurisdiction: Federal
-before: 003.jpg
+image: 003.jpg
 after:
 courtroom: jacob-chansley.png
 layout: suspect
 title: Jacob Anthony Chansley charged on January 8, 2021
-image: /images/preview/003.jpg
+preview: 003.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
 ---

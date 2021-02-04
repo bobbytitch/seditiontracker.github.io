@@ -8,11 +8,11 @@ age: 52
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 100.png
+image: 100.png
 booking: henry-muntzer.jpg
 layout: suspect
 title: Henry Muntzer charged on January 18, 2021
-image: /images/preview/100.png
+preview: 100.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Here’s the video when we storm the capitol and got above the guards."
 author: seditiontrack

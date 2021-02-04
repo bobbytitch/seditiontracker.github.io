@@ -5,11 +5,11 @@ status: Indicted
 date: 2021-01-09
 age: 41
 jurisdiction: Federal
-before: 009.jpg
+image: 009.jpg
 booking: douglas-jensen.png
 layout: suspect
 title: Douglas Jensen charged on January 9, 2021
-image: /images/preview/009.jpg
+preview: 009.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
 ---

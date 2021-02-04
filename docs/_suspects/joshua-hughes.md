@@ -10,14 +10,14 @@ age:
 occupation:
 affiliations: Proud Boys (likely)
 jurisdiction: Federal
-before: joshua-hughes.png
+image: joshua-hughes.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Joshua Hughes charged on January 28, 2021
-image: /images/preview/joshua-hughes.png
+preview: joshua-hughes.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

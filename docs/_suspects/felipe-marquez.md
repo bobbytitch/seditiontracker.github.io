@@ -8,11 +8,11 @@ age: 25
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 088.png
+image: 088.png
 after:
 layout: suspect
 title: Felipe Marquez charged on January 19, 2021
-image: /images/preview/088.png
+preview: 088.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

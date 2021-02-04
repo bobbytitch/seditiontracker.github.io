@@ -8,11 +8,11 @@ age: 52
 occupation: CEO
 affiliations:
 jurisdiction: Federal
-before: 027.jpg
+image: 027.jpg
 after:
 layout: suspect
 title: Bradley Rukstales charged on January 7, 2021
-image: /images/preview/027.jpg
+preview: 027.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "I was in the wrong place at the wrong time and I regret my part in that."
 author: seditiontrack

@@ -8,11 +8,11 @@ age: 27
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 084.png
+image: 084.png
 after:
 layout: suspect
 title: Jordan Mink charged on January 19, 2021
-image: /images/preview/084.png
+preview: 084.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "The ballot is stronger than the bullet. Well … my magazines will be fully loaded just in case it’s not."
 author: seditiontrack

@@ -8,11 +8,11 @@ age: 59
 occupation:
 affiliations: Super Happy Fun America (anti-LQBTQ group)
 jurisdiction: Federal
-before: 074.jpg
+image: 074.jpg
 courthouse: suzanne-ianni.jpg
 layout: suspect
 title: Suzanne Ianni charged on January 19, 2021
-image: /images/preview/074.jpg
+preview: 074.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

@@ -8,11 +8,11 @@ age: 50
 occupation: Former U.S. Military (Marines)
 affiliations: Oath Keepers, Ohio Regular Militia
 jurisdiction: Federal
-before: 024.jpg
+image: 024.jpg
 booking: donovan-crowl.png
 layout: suspect
 title: Donovan Crowl charged on January 17, 2021
-image: /images/preview/024.jpg
+preview: 024.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "We protected the fucking Capitol Hill police"
 author: seditiontrack

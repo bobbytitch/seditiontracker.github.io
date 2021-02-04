@@ -10,14 +10,14 @@ age: 36
 occupation:
 affiliations:
 jurisdiction: Federal
-before: dustin-thompson.jpg
+image: dustin-thompson.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Dustin Thompson charged on January 25th, 2021
-image: /images/preview/dustin-thompson.jpg
+preview: dustin-thompson.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Wooooo! ’Merica Hey! This is our house!"
 author: seditiontrack

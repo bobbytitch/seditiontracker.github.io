@@ -8,11 +8,11 @@ age: 40
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 096.jpg
+image: 096.jpg
 after:
 layout: suspect
 title: Karl Dresch charged on January 20, 2021
-image: /images/preview/096.jpg
+preview: 096.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Took a lil gas ...wtf I love masks now!"
 author: seditiontrack

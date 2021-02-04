@@ -8,11 +8,11 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 085.png
+image: 085.png
 booking: jacob-hiles.jpg
 layout: suspect
 title: Jacob Hiles charged on January 19, 2021
-image: /images/preview/085.png
+preview: 085.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We need to do this at the local level. Lets [sic] storm the capitol in Ohio. Tell me when!"
 author: seditiontrack

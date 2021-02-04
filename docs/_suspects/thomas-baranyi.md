@@ -8,10 +8,10 @@ age: 28
 occupation: Peace Corps
 affiliations:
 jurisdiction: Federal
-before: 012.jpg
+image: 012.jpg
 layout: suspect
 title: Thomas Baranyi charged on January 12, 2021
-image: /images/preview/012.jpg
+preview: 012.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "It could have been me, but she went in first"
 author: seditiontrack

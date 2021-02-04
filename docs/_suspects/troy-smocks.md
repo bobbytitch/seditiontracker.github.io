@@ -8,11 +8,11 @@ age: 58
 occupation:
 affiliations:
 jurisdiction: Federal
-before: troy-smocks.png
+image: troy-smocks.png
 booking: troy-smocks.jpg
 layout: suspect
 title: Troy Smocks charged on January 15, 2021
-image: /images/preview/troy-smocks.png
+preview: troy-smocks.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We will come in numbers that no standing army or police agency can match."
 author: seditiontrack

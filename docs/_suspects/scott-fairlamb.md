@@ -8,12 +8,12 @@ age: 43
 occupation: Gym Owner (Former MMA Fighter)
 affiliations:
 jurisdiction: Federal
-before: 104.png
+image: 104.png
 after:
 booking:
 layout: suspect
 title: Scott Fairlamb  charged on January 22, 2021
-image: /images/preview/104.png
+preview: 104.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "What Patriots do? We fuckin' disarm them and then we storm fuckin' the Capitol"
 author: seditiontrack

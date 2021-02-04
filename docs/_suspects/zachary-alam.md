@@ -10,7 +10,7 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: zachary-alam.png
+image: zachary-alam.png
 after:
 perpwalk:
 booking:
@@ -18,7 +18,7 @@ courtroom:
 courthouse:
 layout: suspect
 title: Zachary Alam charged on January 30th, 2021
-image: /images/preview/zachary-alam.png
+preview: zachary-alam.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Fuck the blue!"
 author: seditiontrack

@@ -10,7 +10,7 @@ age:
 occupation: Business Owner (CrossFit)
 affiliations:
 jurisdiction: Federal
-before: dawn-bancroft.jpg
+image: dawn-bancroft.jpg
 after:
 perpwalk:
 booking:
@@ -18,7 +18,7 @@ courtroom:
 courthouse:
 layout: suspect
 title: Dawn Bancroft charged on January 29th, 2021
-image: /images/preview/dawn-bancroft.jpg
+preview: dawn-bancroft.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We were looking for Nancy to shoot her in the friggin’ brain but we didn’t find her."
 author: seditiontrack

@@ -10,14 +10,14 @@ age: 55
 occupation: Messianic Rabbi
 affiliations: Temple New Jerusalem
 jurisdiction: Federal
-before: michael-stepakoff.png
+image: michael-stepakoff.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Michael Stepakoff charged on January 29th, 2021
-image: /images/preview/michael-stepakoff.png
+preview: michael-stepakoff.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

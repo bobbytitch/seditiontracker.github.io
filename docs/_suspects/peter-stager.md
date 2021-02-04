@@ -8,12 +8,12 @@ age: 41
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 028.jpg
+image: 028.jpg
 booking: peter-stager.jpg
 courtroom: peter-stager.jpg
 layout: suspect
 title: Peter Stager charged on January 14, 2021
-image: /images/preview/028.jpg
+preview: 028.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Everybody in there is a treasonous traitor. Death is the only remedy for what’s in that building."
 author: seditiontrack

@@ -7,12 +7,12 @@ date: 2021-01-12
 age:
 occupation: Fire Fighter
 jurisdiction: Federal
-before: 010.jpg
+image: 010.jpg
 after: andrew-james-williams-court.jpg
 layout: suspect
 courtroom: andrew-williams.jpg
 title: Andrew Williams charged on January 12, 2021
-image: /images/preview/010.jpg
+preview: 010.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 ---

@@ -8,12 +8,12 @@ age: 43
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-before: 033.jpg
+image: 033.jpg
 booking: dominic-pezzola.jpg
 courtroom: dominic-pezzola.png
 layout: suspect
 title: Dominic Pezzola charged on January 15, 2021
-image: /images/preview/033.jpg
+preview: 033.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Victory smoke in the Capitol, boys. This is
 fucking awesome. I knew we could take this motherfucker over [if we] just tried hard enough."

@@ -8,11 +8,11 @@ age: 37
 occupation: Model
 affiliations:
 jurisdiction: Federal
-before: 072.png
+image: 072.png
 after:
 layout: suspect
 title: John Strand charged on January 18, 2021
-image: /images/preview/072.png
+preview: 072.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

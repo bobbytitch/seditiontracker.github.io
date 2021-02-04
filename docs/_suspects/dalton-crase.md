@@ -10,7 +10,7 @@ age: 21
 occupation:
 affiliations:
 jurisdiction: Federal
-before: dalton-crase.png
+image: dalton-crase.png
 after:
 perpwalk:
 booking:
@@ -18,7 +18,7 @@ courtroom:
 courthouse:
 layout: suspect
 title: Dalton Crase charged on February 2nd, 2021
-image: /images/preview/dalton-crase.png
+preview: dalton-crase.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "I didn’t do anything violent, but I went into the building, so I did
 trespass."

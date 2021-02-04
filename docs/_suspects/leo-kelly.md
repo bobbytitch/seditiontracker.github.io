@@ -8,11 +8,11 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 062.jpg
+image: 062.jpg
 booking: leo-kelly.jpg
 layout: suspect
 title: Leo Kelly charged on January 15, 2021
-image: /images/preview/062.jpg
+preview: 062.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "There’s enough illegal behavior ... being committed by the elected officials that, you know, what are you supposed to do?"
 author: seditiontrack

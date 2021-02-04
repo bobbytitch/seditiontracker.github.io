@@ -8,11 +8,11 @@ age: 32
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-before: 034.png
+image: 034.png
 after:
 layout: suspect
 title: Daniel Goodwyn charged on January 15, 2021
-image: /images/preview/034.png
+preview: 034.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack

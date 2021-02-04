@@ -8,14 +8,14 @@ age: 37
 occupation: Gym Owner
 affiliations:
 jurisdiction: Federal
-before: jacob-lewis.png
+image: jacob-lewis.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Jacob Lewis charged on January 27th, 2021
-image: /images/preview/jacob-lewis.png
+preview: jacob-lewis.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

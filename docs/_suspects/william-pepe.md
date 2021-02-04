@@ -8,11 +8,11 @@ age: 31
 employer: MTA
 affiliations: Proud Boys
 jurisdiction: Federal
-before: 015.jpg
+image: 015.jpg
 after:
 layout: suspect
 title: William Pepe charged on January 12, 2021
-image: /images/preview/015.jpg
+preview: 015.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 ---

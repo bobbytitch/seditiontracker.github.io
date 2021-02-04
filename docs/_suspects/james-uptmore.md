@@ -8,14 +8,14 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: james-uptmore.png
+image: james-uptmore.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: James Uptmore charged on January 26th, 2021
-image: /images/preview/james-uptmore.png
+preview: james-uptmore.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

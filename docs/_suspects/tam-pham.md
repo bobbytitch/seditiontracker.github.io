@@ -8,11 +8,11 @@ age: 48
 occupation: Police Officer
 affiliations:
 jurisdiction: Federal
-before: 069.jpg
+image: 069.jpg
 courtroom: tam-pham.jpg
 layout: suspect
 title: Tam Pham charged on January 19, 2021
-image: /images/preview/069.jpg
+preview: 069.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "I shouldn’t have done it. I was there to take pictures."
 author: seditiontrack

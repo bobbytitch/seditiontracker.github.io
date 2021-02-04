@@ -8,14 +8,14 @@ age: 61
 occupation:
 affiliations:
 jurisdiction: Federal
-before: thomas-gallagher.png
+image: thomas-gallagher.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Thomas Gallagher charged on January 21st, 2021
-image: /images/preview/thomas-gallagher.png
+preview: thomas-gallagher.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

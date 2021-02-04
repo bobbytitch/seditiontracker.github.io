@@ -8,11 +8,11 @@ age: 47
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 045.png
+image: 045.png
 booking: peter-harding.jpg
 layout: suspect
 title: Peter Harding charged on January 14, 2021
-image: /images/preview/045.png
+preview: 045.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "We took the rest of the media equipment that was there. We put it into a pile. That was a symbolic gesture."
 author: seditiontrack

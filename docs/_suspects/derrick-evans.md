@@ -6,11 +6,11 @@ age: 35
 residence: West Virginia
 occupation: West Viriginia Delegate
 jurisdiction: Federal
-before: 005.jpg
+image: 005.jpg
 after: derek-evans.jpg
 layout: suspect
 title: Derrick Evans charged on January 8, 2021
-image: /images/preview/005.jpg
+preview: 005.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
 ---

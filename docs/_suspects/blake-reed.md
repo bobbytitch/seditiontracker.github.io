@@ -8,11 +8,11 @@ age: 35
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 052.jpg
+image: 052.jpg
 booking: blake-reed.jpg
 layout: suspect
 title: Blake Reed charged on January 17, 2021
-image: /images/preview/052.jpg
+preview: 052.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "We The People took the Capitol!"
 author: seditiontrack

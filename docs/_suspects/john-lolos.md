@@ -10,14 +10,14 @@ age:
 occupation:
 affiliations: U.S. Military (possible former Army - unconfirmed)
 jurisdiction: Federal
-before: john-lolos.jpg
+image: john-lolos.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: John Lolos charged on January 9th, 2021
-image: /images/preview/john-lolos.jpg
+preview: john-lolos.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

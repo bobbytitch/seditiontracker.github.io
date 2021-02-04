@@ -8,11 +8,11 @@ age: 46
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 090.png
+image: 090.png
 after:
 layout: suspect
 title: Dennis Sidorski charged on January 20, 2021
-image: /images/preview/090.png
+preview: 090.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

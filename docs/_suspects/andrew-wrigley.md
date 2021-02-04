@@ -8,14 +8,14 @@ age: 50
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 141.png
+image: 141.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Andrew Wrigley charged on January 15th, 2021
-image: /images/preview/141.png
+preview: 141.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "At the protest in D.C., I went inside the capitol building and got teargassed"
 author: seditiontrack

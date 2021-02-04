@@ -8,12 +8,12 @@ age: 52
 occupation: Salon Owner
 affiliations:
 jurisdiction: Federal
-before: 070.jpg
+image: 070.jpg
 after:
 raid: gina-bisignano.jpg
 layout: suspect
 title: Gina Bisigano charged on January 19, 2021
-image: /images/preview/070.jpg
+preview: 070.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Everybody, we need gas masks, we need weapons."
 author: seditiontrack

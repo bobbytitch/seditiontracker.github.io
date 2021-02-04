@@ -8,11 +8,11 @@ age: 38
 occupation: Former U.S. Military (Army)
 affiliations: Oath Keepers, Ohio Regular Militia
 jurisdiction: Federal
-before: 056.jpg
+image: 056.jpg
 booking: jessica-watkins.png
 layout: suspect
 title: Jessica Watkins charged on January 17, 2021
-image: /images/preview/056.jpg
+preview: 056.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Me before forcing entry into the Capitol Building."
 author: seditiontrack

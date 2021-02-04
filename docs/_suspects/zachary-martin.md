@@ -10,14 +10,14 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: zachary-martin.jpg
+image: zachary-martin.jpg
 after:
 perpwalk:
 booking: zachary-martin.jpg
 courtroom:
 layout: suspect
 title: Zachary Martin charged on January 28th, 2021
-image: /images/preview/zachary-martin.jpg
+preview: zachary-martin.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

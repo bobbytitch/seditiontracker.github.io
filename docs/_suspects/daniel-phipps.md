@@ -8,14 +8,14 @@ age: 48
 occupation:
 affiliations:
 jurisdiction: Federal
-before: daniel-phipps.jpg
+image: daniel-phipps.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Daniel Phipps charged on January 26th, 2021
-image: /images/preview/daniel-phipps.jpg
+preview: daniel-phipps.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "I went to DC. I helped take the Hill."
 author: seditiontrack

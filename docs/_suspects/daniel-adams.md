@@ -8,11 +8,11 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 048.png
+image: 048.png
 after:
 layout: suspect
 title: Daniel Adams charged on January 16, 2021
-image: /images/preview/048.png
+preview: 048.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Let’s go. Are you ready to push?"
 author: seditiontrack

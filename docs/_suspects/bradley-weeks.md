@@ -8,11 +8,11 @@ age: 43
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 092.jpg
+image: 092.jpg
 courtroom: bradley-weeks.jpg
 layout: suspect
 title: Bradley Weeks charged on January 21, 2021
-image: /images/preview/092.jpg
+preview: 092.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

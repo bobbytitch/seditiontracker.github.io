@@ -8,7 +8,7 @@ age: 70
 occupation:
 affiliations:
 jurisdiction: Federal
-before: lonnie-coffman.jpg
+image: lonnie-coffman.jpg
 after:
 perpwalk:
 booking:
@@ -16,7 +16,7 @@ raid: lonnie-coffman.jpg
 courtroom:
 layout: suspect
 title: Lonnie Coffman charged on January 7th, 2021
-image: /images/preview/lonnie-coffman.jpg
+preview: lonnie-coffman.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

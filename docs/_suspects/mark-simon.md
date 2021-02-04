@@ -10,14 +10,14 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: mark-simon.png
+image: mark-simon.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Mark Simon charged on January 28th, 2021
-image: /images/preview/mark-simon.png
+preview: mark-simon.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "In the Capitol baby, yeah!"
 author: seditiontrack

@@ -17,7 +17,7 @@ booking:
 courtroom:
 layout: suspect
 title: Domenick Madden charged on [longDate]
-image: /images/preview/domenick-madden.jpg
+preview: domenick-madden.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

@@ -10,7 +10,7 @@ age: 53
 occupation: Fire Figther (Retired)
 affiliations:
 jurisdiction: Federal
-before: thomas-fee.jpg
+image: thomas-fee.jpg
 after:
 perpwalk:
 booking:
@@ -18,7 +18,7 @@ courtroom:
 courthouse: thomas-fee.jpg
 layout: suspect
 title: Thomas Fee charged on January 15, 2021
-image: /images/preview/thomas-fee.jpg
+preview: thomas-fee.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

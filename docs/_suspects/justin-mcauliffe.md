@@ -10,7 +10,7 @@ age: 39
 occupation: Accountant (CPA)
 affiliations:
 jurisdiction: Federal
-before: justin-mcauliffe.jpg
+image: justin-mcauliffe.jpg
 after:
 perpwalk:
 booking:
@@ -18,7 +18,7 @@ courtroom:
 courthouse: justin-mcauliffe.jpg
 layout: suspect
 title: Justin Mcauliffe charged on January 28th, 2021
-image: /images/preview/justin-mcauliffe.jpg
+preview: justin-mcauliffe.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Yeah, I was in one of the offices"
 author: seditiontrack

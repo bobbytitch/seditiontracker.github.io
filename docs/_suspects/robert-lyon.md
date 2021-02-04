@@ -10,14 +10,14 @@ age: 27
 occupation:
 affiliations:
 jurisdiction: Federal
-before: robert-lyon.png
+image: robert-lyon.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Robert Lyon charged on January 25th, 2021
-image: /images/preview/robert-lyon.png
+preview: robert-lyon.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

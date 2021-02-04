@@ -8,12 +8,12 @@ age: 42
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 043.jpg
+image: 043.jpg
 after:
 courtroo: david-mish.jpg
 layout: suspect
 title: David Mish charged on January 15, 2021
-image: /images/preview/043.jpg
+preview: 043.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Because I entered the Capitol Building are you guys gonna take me to jail?"
 author: seditiontrack

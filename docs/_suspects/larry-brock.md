@@ -4,12 +4,12 @@ status: Charged
 residence: Texas
 date: 2021-01-09
 jurisdiction: Federal
-before: 002.jpg
+image: 002.jpg
 booking: larry-rendall-brock.jpg
 layout: suspect
 courtroom: larry-brock.jpg
 title: Larry Rendall Brock charged on January 9, 2021
-image: /images/preview/002.jpg
+preview: 002.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
 ---

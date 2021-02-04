@@ -8,14 +8,14 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 109.png
+image: 109.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Patricia Todisco  charged on January 22, 2021
-image: /images/preview/109.png
+preview: 109.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

@@ -10,14 +10,14 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: christina-gerding.jpg
+image: christina-gerding.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Christina Gerding charged on January 28th, 2021
-image: /images/preview/christina-gerding.jpg
+preview: christina-gerding.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Quincy made it inside."
 author: seditiontrack

@@ -8,11 +8,11 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 032.jpg
+image: 032.jpg
 after:
 layout: suspect
 title: Jennifer Ryan charged on January 15, 2021
-image: /images/preview/032.jpg
+preview: 032.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Can’t face federal charges for exercising my right to freedom of speech and assembly"
 author: seditiontrack

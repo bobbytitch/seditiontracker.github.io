@@ -10,7 +10,7 @@ age: 37
 occupation:
 affiliations:
 jurisdiction: Federal
-before: ryan-samsel.png
+image: ryan-samsel.png
 after:
 perpwalk:
 booking:
@@ -18,7 +18,7 @@ courtroom:
 courthouse:
 layout: suspect
 title: Ryan Samsel charged on January 30th, 2021
-image: /images/preview/ryan-samsel.png
+preview: ryan-samsel.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We don't have to hurt you. Why are you standing in our way?"
 author: seditiontrack

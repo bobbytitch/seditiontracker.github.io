@@ -8,11 +8,11 @@ age: 23
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 065.png
+image: 065.png
 after:
 layout: suspect
 title: Gracyn Courtright charged on January 16, 2021
-image: /images/preview/065.png
+preview: 065.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Can't wait to tell my grandkids I was here!"
 author: seditiontrack

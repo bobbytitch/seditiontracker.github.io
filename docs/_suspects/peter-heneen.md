@@ -8,11 +8,11 @@ age:
 occupation: Sheriff's Deputy
 affiliations: Polk County Sheriff
 jurisdiction: Federal
-before: 095.jpg
+image: 095.jpg
 booking: peter-heneen.png
 layout: suspect
 title: Peter Heneen  charged on January 19, 2021
-image: /images/preview/095.jpg
+preview: 095.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Need to make the streets of D.C. run red with blood of the tyrants. The tyrants being the feds."
 author: seditiontrack

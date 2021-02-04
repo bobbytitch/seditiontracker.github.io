@@ -8,14 +8,14 @@ age: 31
 occupation: Corrections Officer
 affiliations:
 jurisdiction: Federal
-before: 108.png
+image: 108.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Marissa Suarez charged on January 22, 2021
-image: /images/preview/108.png
+preview: 108.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

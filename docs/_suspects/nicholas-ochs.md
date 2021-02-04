@@ -6,10 +6,10 @@ age: 34
 residence: Hawaii
 affiliations: Proud Boys, Murder the Media
 jurisdiction: Federal
-before: 006.jpg
+image: 006.jpg
 layout: suspect
 title: Nicholas Ochs charged on January 7, 2021
-image: /images/preview/006.jpg
+preview: 006.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
 ---

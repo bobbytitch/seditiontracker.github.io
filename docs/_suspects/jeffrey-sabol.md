@@ -8,13 +8,13 @@ age: 51
 occupation: Geologist
 affiliations:
 jurisdiction: Federal
-before: 106.jpg
+image: 106.jpg
 after:
 perpwalk:
 booking:
 layout: suspect
 title: Jeffrey Sabol charged on January 22, 2021
-image: /images/preview/106.jpg
+preview: 106.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

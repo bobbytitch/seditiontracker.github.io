@@ -7,11 +7,11 @@ date: 2021-01-13
 age: 56
 affiliations:
 jurisdiction: Federal
-before: 013.jpg
+image: 013.jpg
 booking: robert-keith-packer.webp
 layout: suspect
 title: Robert Keith Packer charged on January 13, 2021
-image: /images/preview/013.jpg
+preview: 013.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 tidbit: Turned in by a local who remembered his racist sweatshirt from a previous visit
 author: seditiontrack

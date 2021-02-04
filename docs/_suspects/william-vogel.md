@@ -8,14 +8,14 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 117.png
+image: 117.png
 after:
 perpwalk:
 booking:
 courtroom: william-vogel.jpg
 layout: suspect
 title: William Vogel charged on January 25, 2021
-image: /images/preview/117.png
+preview: 117.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

@@ -8,11 +8,11 @@ age: 25
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 051.jpg
+image: 051.jpg
 raid: edward-lang.png
 layout: suspect
 title: Edward Lang charged on January 16, 2021
-image: /images/preview/051.jpg
+preview: 051.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "I was the leader of Liberty today. Arrest me. You are on the wrong side of history"
 author: seditiontrack

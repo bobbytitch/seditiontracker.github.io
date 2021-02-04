@@ -8,14 +8,14 @@ age: 22
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 111.png
+image: 111.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Nolan Cooke charged on January 21, 2021
-image: /images/preview/111.png
+preview: 111.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "I wouldn’t want anyone other than you with me to take on the revolution."
 author: seditiontrack

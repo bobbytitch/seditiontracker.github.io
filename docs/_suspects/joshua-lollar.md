@@ -8,11 +8,11 @@ age: 39
 occupation: U.S. Army (Former)
 affiliations: U.S. Military
 jurisdiction: Federal
-before: 038.jpg
+image: 038.jpg
 courtroom: joshua-lollar.jpg
 layout: suspect
 title: Joshua Lollar charged on January 15, 2021
-image: /images/preview/038.jpg
+preview: 038.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Just got gassed and fought with cops that I never thought would happen."
 author: seditiontrack

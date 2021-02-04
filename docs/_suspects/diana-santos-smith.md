@@ -10,7 +10,7 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: diana-santos-smith.jpg
+image: diana-santos-smith.jpg
 after:
 perpwalk:
 booking:
@@ -18,7 +18,7 @@ courtroom:
 courthouse:
 layout: suspect
 title: Diana Santos-smith charged on January 29th, 2021
-image: /images/preview/diana-santos-smith.jpg
+preview: diana-santos-smith.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

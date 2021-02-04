@@ -10,14 +10,14 @@ age: 29
 occupation:
 affiliations:
 jurisdiction: Federal
-before: james-bonet.jpg
+image: james-bonet.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: James Bonet charged on January 27th, 2021
-image: /images/preview/james-bonet.jpg
+preview: james-bonet.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Capitol building smoking with all my people!"
 author: seditiontrack

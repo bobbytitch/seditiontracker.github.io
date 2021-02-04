@@ -8,14 +8,14 @@ age: 34
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 110.png
+image: 110.png
 after:
 perpwalk:
 booking: garrett-miller.jpg
 courtroom:
 layout: suspect
 title: Garret Miller charged on January 20, 2021
-image: /images/preview/110.png
+preview: 110.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Nah we stormed it"
 author: seditiontrack

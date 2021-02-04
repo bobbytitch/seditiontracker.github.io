@@ -8,11 +8,11 @@ age: 40
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 026.png
+image: 026.png
 booking: kevin-lyons.jpg
 layout: suspect
 title: Kevin Lyons charged on January 13, 2021
-image: /images/preview/026.jpg
+preview: 026.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Wow you are pretty good that was up for only an hour"
 author: seditiontrack

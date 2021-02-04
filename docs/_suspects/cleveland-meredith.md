@@ -8,14 +8,14 @@ age: 53
 occupation: Business Owner
 affiliations:
 jurisdiction: Federal
-before: cleveland-meredith.png
+image: cleveland-meredith.png
 after:
 perpwalk:
 booking: cleveland-meredith.png
 courtroom: cleveland-meredith.png
 layout: suspect
 title: Cleveland Meredith charged on January 8th, 2021
-image: /images/preview/cleveland-meredith.png
+preview: cleveland-meredith.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Thinking about heading over to Pelosi CUNT’s speech and putting a bullet in her noggin on Live TV [purple devil emoji]."
 author: seditiontrack

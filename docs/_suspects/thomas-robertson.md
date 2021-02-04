@@ -8,11 +8,11 @@ age: 47
 occupation: Police Officer (Sergeant)
 affiliations: Rocky Mount Police Department
 jurisdiction: Federal
-before: 019.jpg
+image: 019.jpg
 after:
 layout: suspect
 title: Thomas Robertson charged on January 13, 2021
-image: /images/preview/019.jpg
+preview: 019.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "If you are too much of a coward to risk arrest, being fired, and actual gunfire to secure your rights, you have no words to speak I value."
 author: seditiontrack

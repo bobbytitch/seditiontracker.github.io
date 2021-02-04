@@ -8,14 +8,14 @@ age: 39
 occupation:
 affiliations:
 jurisdiction: Federal
-before: arrest.jpg
+image: arrest.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Joshua Pruitt charged on January 7th, 2021
-image: /images/preview/arrest-indicted.jpg
+preview: arrest-indicted.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

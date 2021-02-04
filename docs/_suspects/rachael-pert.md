@@ -8,12 +8,12 @@ age: 40
 occupation:
 affiliations:
 jurisdiction: Federal
-before: rachael-pert.png
+image: rachael-pert.png
 courtoom: rachael-pert.jpg
 booking: rachael-pert.jpg
 layout: suspect
 title: Rachael Pert charged on January 26th, 2021
-image: /images/preview/rachael-pert.png
+preview: rachael-pert.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

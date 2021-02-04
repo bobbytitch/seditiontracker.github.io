@@ -8,14 +8,14 @@ age: 33
 occupation:
 affiliations:
 jurisdiction: Federal
-before: arrest.jpg
+image: arrest.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Christopher Alberts charged on January 7th, 2021
-image: /images/preview/arrest.jpg
+preview: arrest.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

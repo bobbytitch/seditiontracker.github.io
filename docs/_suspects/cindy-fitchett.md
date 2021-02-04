@@ -8,14 +8,14 @@ age: 59
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 129.png
+image: 129.png
 after:
 perpwalk:
 booking: cindy-fitchett.png
 courtroom:
 layout: suspect
 title: Cindy Fitchett charged on January 21st, 2021
-image: /images/preview/129.png
+preview: 129.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

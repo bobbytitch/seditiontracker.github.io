@@ -10,14 +10,14 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: ronald-sandlin.jpg
+image: ronald-sandlin.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Ronald Sandlin charged on January 28th, 2021
-image: /images/preview/ronald-sandlin.jpg
+preview: ronald-sandlin.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We are not terrorists. We occupied and for the most part left that place relatively put together all things considered"
 author: seditiontrack

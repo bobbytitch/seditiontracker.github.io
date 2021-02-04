@@ -8,12 +8,12 @@ age:
 occupation:
 affiliations: New Jersey for Medical Freedom
 jurisdiction: Federal
-before: 101.png
+image: 101.png
 after:
 booking:
 layout: suspect
 title: Stephanie Hazelton charged on January 22, 2021
-image: /images/preview/101.png
+preview: 101.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We need more men!"
 author: seditiontrack

@@ -8,11 +8,11 @@ age: 49
 occupation: School Therapist
 affiliations:
 jurisdiction: Federal
-before: 025.jpg
+image: 025.jpg
 raid: christine-priola.jpg
 layout: suspect
 title: Christine Priola charged on January 14, 2021
-image: /images/preview/025.jpg
+preview: 025.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "I will be switching paths to expose the global evil of human trafficking and pedophilia, including in our government agencies and children’s services agencies."
 author: seditiontrack

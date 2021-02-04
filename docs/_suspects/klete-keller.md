@@ -8,12 +8,12 @@ age: 38
 occupation: Olympic Swimmer (Retired)
 affiliations:
 jurisdiction: Federal
-before: 044.png
+image: 044.png
 booking: klete-keller.jpg
 courtroom: klete-keller.jpg
 layout: suspect
 title: Klete Keller charged on January 13, 2021
-image: /images/preview/044.png
+preview: 044.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack

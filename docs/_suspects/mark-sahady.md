@@ -8,11 +8,11 @@ age: 46
 occupation: Software Engineer, U.S. Army (Former)
 affiliations: U.S. Military, Super Happy Fun America (anti-LQBTQ group)
 jurisdiction: Federal
-before: 073.jpg
+image: 073.jpg
 after:
 layout: suspect
 title: Mark Sahady charged on January 19, 2021
-image: /images/preview/073.jpg
+preview: 073.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

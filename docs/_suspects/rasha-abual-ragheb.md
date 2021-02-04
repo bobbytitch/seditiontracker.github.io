@@ -8,14 +8,14 @@ age: 40
 occupation:
 affiliations: Three Percenter, American Patriots 3%
 jurisdiction: Federal
-before: 119.png
+image: 119.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Rash Abual-Ragheb charged on January 19, 2021
-image: /images/preview/119.png
+preview: 119.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

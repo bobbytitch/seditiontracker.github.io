@@ -8,12 +8,12 @@ age: 28
 occupation: U.S. Marines (Former)
 affiliations:
 jurisdiction: Federal
-before: 102.jpg
+image: 102.jpg
 after:
 booking:
 layout: suspect
 title: Hector Vargas  charged on January 22, 2021
-image: /images/preview/102.jpg
+preview: 102.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

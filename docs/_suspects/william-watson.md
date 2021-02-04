@@ -6,11 +6,11 @@ age: 23
 residence: Alambama
 affiliations:
 jurisdiction: Federal
-before: 007.png
+image: 007.png
 booking: william-watson.png
 layout: suspect
 title: William Watson charged on January 11, 2021
-image: /images/preview/007.png
+preview: 007.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
 ---

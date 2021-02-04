@@ -10,12 +10,12 @@ age: 20
 occupation: Student
 affiliations:
 jurisdiction: Federal
-before: nicolas-moncada.jpg
+image: nicolas-moncada.jpg
 courthouse: nicolas-moncanda.jpg
 courtroom: nicolas-moncanda.jpg
 layout: suspect
 title: Nicolas Moncada charged on January 18th, 2021
-image: /images/preview/nicolas-moncada.jpg
+preview: nicolas-moncada.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

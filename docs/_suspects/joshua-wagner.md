@@ -8,14 +8,14 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: joshua-wagner.png
+image: joshua-wagner.png
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Joshua Wagner charged on January 26th, 2021
-image: /images/preview/joshua-wagner.png
+preview: joshua-wagner.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

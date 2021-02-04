@@ -8,11 +8,11 @@ age: 23
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 080.jpg
+image: 080.jpg
 after:
 layout: suspect
 title: Patrick McCaughey charged on January 19, 2021
-image: /images/preview/080.jpg
+preview: 080.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Taking this back by force now, no more bs"
 author: seditiontrack

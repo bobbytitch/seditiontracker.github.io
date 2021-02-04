@@ -8,14 +8,14 @@ age: 69
 occupation: Public Safety Code Enforcement Officer (Retired)
 affiliations:
 jurisdiction: Federal
-before: arrest.jpg
+image: arrest.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Terry Brown charged on January 11th, 2021
-image: /images/preview/arrest.jpg
+preview: arrest.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "So if this is what it took … to make the people stand up and listen, then to me it was worth it."
 author: seditiontrack

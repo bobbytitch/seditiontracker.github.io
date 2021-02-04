@@ -8,11 +8,11 @@ age: 48
 occupation:
 affiliations: Three Percenters, Texas Freedom Force
 jurisdiction: Federal
-before: 063.jpg
+image: 063.jpg
 after:
 layout: suspect
 title: Guy Reffitt charged on January 15, 2021
-image: /images/preview/063.jpg
+preview: 063.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "If you turn me in, you’re a traitor and you know what happens to traitors … traitors get shot"
 author: seditiontrack

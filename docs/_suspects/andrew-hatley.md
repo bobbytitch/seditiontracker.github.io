@@ -8,14 +8,14 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-before: andrew-hatley.jpg
+image: andrew-hatley.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Andrew Hatley charged on January 19th, 2021
-image: /images/preview/andrew-hatley.jpg
+preview: andrew-hatley.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "It has come to my attention that there was someone who looks like me at the Capitol."
 author: seditiontrack

@@ -8,11 +8,11 @@ age:
 occupation: U.S. Marines (Former)
 affiliations:
 jurisdiction: Federal
-before: 083.png
+image: 083.png
 after:
 layout: suspect
 title: Michael Foy charged on January 21, 2021
-image: /images/preview/083.png
+preview: 083.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

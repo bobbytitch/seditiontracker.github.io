@@ -8,14 +8,14 @@ age: 23
 occupation:
 affiliations:
 jurisdiction: Federal
-before: jordan-revlett.jpg
+image: jordan-revlett.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Jordan Revlett charged on January 25th, 2021
-image: /images/preview/jordan-revlett.jpg
+preview: jordan-revlett.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

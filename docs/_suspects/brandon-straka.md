@@ -8,14 +8,14 @@ age: 43
 occupation: Hair Stylist (Former)
 affiliations:
 jurisdiction: Federal
-before: 116.jpg
+image: 116.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Brandon Straka charged on January 25, 2021
-image: /images/preview/116.jpg
+preview: 116.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Also—be embarrassed & hide if you need to- but I was there. It was not Antifa at the Capitol."
 author: seditiontrack

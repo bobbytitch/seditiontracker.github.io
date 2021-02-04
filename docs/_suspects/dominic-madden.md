@@ -8,13 +8,13 @@ age: 43
 occupation: Sanitation Worker
 affiliations:
 jurisdiction: Federal
-before: 105.png
+image: 105.png
 after:
 booking:
 raid: dominick-madden.jpg
 layout: suspect
 title: Dominic Madden charged on January 22, 2021
-image: /images/preview/105.png
+preview: 105.png
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

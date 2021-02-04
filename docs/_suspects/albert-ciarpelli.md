@@ -8,14 +8,14 @@ age: 65
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 118.jpg
+image: 118.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Albert Ciarpelli charged on January 21, 2021
-image: /images/preview/118.jpg
+preview: 118.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack

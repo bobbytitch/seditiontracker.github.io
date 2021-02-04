@@ -5,12 +5,12 @@ status: Charged
 date: 2021-01-11
 age: 34
 jurisdiction: Federal
-before: 008.jpg
+image: 008.jpg
 booking: aaron-mostofsky.png
 layout: suspect
 courtoom: aaron-mostofsky.webp
 title: Aaron Mostofsky charged on January 11, 2021
-image: /images/preview/008.jpg
+preview: 008.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
 ---

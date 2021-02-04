@@ -8,11 +8,11 @@ age: 42
 occupation:
 affiliations:
 jurisdiction: Federal
-before: 097.jpg
+image: 097.jpg
 after:
 layout: suspect
 title: Jorge Riley charged on January 19, 2021
-image: /images/preview/097.jpg
+preview: 097.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We broke windows. We went into the door. We pushed our way in."
 author: seditiontrack

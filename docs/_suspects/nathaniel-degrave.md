@@ -10,14 +10,14 @@ age:
 occupation: Business Owner ("Adult Model Management Company")
 affiliations:
 jurisdiction: Federal
-before: nathaniel-degrave.jpg
+image: nathaniel-degrave.jpg
 after:
 perpwalk:
 booking:
 courtroom:
 layout: suspect
 title: Nathaniel Degrave charged on January 28th, 2021
-image: /images/preview/nathaniel-degrave.jpg
+preview: nathaniel-degrave.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We are out here protecting our country, if shit goes down, if Pence does what we think he is going to do"
 author: seditiontrack
