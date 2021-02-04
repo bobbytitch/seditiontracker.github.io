@@ -24,5 +24,5 @@ published: true
 - [News Report](https://fox17.com/news/local/suspected-tennessee-man-who-stormed-the-us-capitol-arrested)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-men-charged-connection-events-us-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1352221/download)
-- [Criminal Complaint](https://www.justice.gov/usao-dc/press-release/file/1352226/download)
+- [Complaint](https://www.justice.gov/usao-dc/press-release/file/1352226/download)
 - [Detention Memo](https://www.courtlistener.com/recap/gov.uscourts.tnmd.85025/gov.uscourts.tnmd.85025.8.0.pdf)
