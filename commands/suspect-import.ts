@@ -281,19 +281,19 @@ const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, re
   }
 
   // pick up any new links
-  // for (const [type, url] of Object.entries(links)) {
-  //   if (!suspect.links[type]) {
-  //     console.log(`${suspect.name}: ${type}`);
-  //     suspect.links[type] = <string>url
+  for (const [type, url] of Object.entries(links)) {
+    if (!suspect.links[type]) {
+      console.log(`${suspect.name}: ${type}`);
+      suspect.links[type] = <string>url
 
-  //     if (type == "Indictment") {
-  //       suspect.status = "Indicted"
-  //       execSync(`yarn suspect preview -f ${suspect.preview} -s ${suspect.status}`)
-  //     }
+      if (type == "Indictment") {
+        suspect.status = "Indicted"
+        execSync(`yarn suspect preview -f ${suspect.preview} -s ${suspect.status}`)
+      }
 
-  //     updateSuspect(suspect)
-  //   }
-  // }
+      updateSuspect(suspect)
+    }
+  }
 
   // TODO - replace non DOJ links
 }

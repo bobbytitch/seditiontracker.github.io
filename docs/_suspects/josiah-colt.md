@@ -3,7 +3,7 @@ name: Josiah Colt
 lastName: Colt
 aka: 
 residence: Idaho
-status: Charged
+status: Indicted
 date: 2021-01-12
 age: 34
 occupation: 
@@ -27,3 +27,4 @@ published: true
 - [Self Incrimination Pt. 2](https://www.facebook.com/watch/?v=2810471175876452)
 - [Complaint](https://www.justice.gov/opa/page/file/1355476/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355481/download)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Josiah%20Colt%20Indictment.pdf)
