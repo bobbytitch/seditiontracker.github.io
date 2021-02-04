@@ -1,27 +1,26 @@
 ---
 name: Stephen Ayres
-aka:
-residence: Ohio
+lastName: Ayres
+aka: 
+residence: 
 status: Charged
 date: 2021-01-25
 age: 38
-occupation:
-affiliations:
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: 114.jpg
-after:
-perpwalk:
-booking:
-courtroom:
-layout: suspect
-title: Stephen Ayres charged on January 25, 2021
 preview: 114.jpg
+booking: 
+courtroom: 
+courthouse: 
+quote: 
+title: Stephen Ayres charged on January 25, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [News Report](https://www.wfmj.com/story/43229774/warren-man-arrested-by-fbi-after-involvement-in-us-capitol-riots)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360721/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1360951/download)

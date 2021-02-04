@@ -1,25 +1,26 @@
 ---
 name: Samuel Fisher
+lastName: Fisher
 aka: Brad Holiday
-residence: New York
+residence: 
 status: Charged
 date: 2021-01-20
 age: 35
 occupation: "Pickup Artist"
-affiliations:
+affiliations: undefined
 jurisdiction: Federal
 image: 081.png
-perpwalk: samuel-fisher.jpg
-raid: samuel-fisher.png
-layout: suspect
-title: Samuel Fisher  charged on January 20, 2021
 preview: 081.png
-description: Click for latest case details. Suspects innocent until proven guilty.
+booking: 
+courtroom: 
+courthouse: 
 quote: "It’s time to bring the pain upon them."
+title: Samuel Fisher  charged on January 20, 2021
+description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [News Report](https://www.thedailybeast.com/samuel-fisher-conspiracy-addled-nyc-pickup-artist-arrested-in-capitol-riots)
 - [Perp Walk](https://worldnewsera.com/news/coronavirus/2-more-local-arrests-connected-to-insurrection-at-u-s-capitol/)
 - [Self Incrimination](https://bradholiday.com/?p=2938)

@@ -1,24 +1,26 @@
 ---
 name: Bradley Weeks
-aka:
-residence: Florida
+lastName: Weeks
+aka: 
+residence: 
 status: Charged
 date: 2021-01-21
 age: 43
-occupation:
-affiliations:
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: 092.jpg
-courtroom: bradley-weeks.jpg
-layout: suspect
-title: Bradley Weeks charged on January 21, 2021
 preview: 092.jpg
+booking: 
+courtroom: bradley-weeks.jpg
+courthouse: 
+quote: 
+title: Bradley Weeks charged on January 21, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [News Report](https://www.firstcoastnews.com/article/news/crime/jacksonville-man-arrested-charged-in-deadly-capitol-riot/77-c247b5a6-100b-462c-a035-3c458106725d)
 - [FBI Statement](https://news.wjct.org/post/baker-county-man-arrested-charged-connection-siege-us-capitol)
 - [Self Incrimination (Interview)](https://bakercountypress.com/2021/01/local-man-involved-in-capitol-siege/)

@@ -1,26 +1,27 @@
 ---
 name: Blake Reed
-aka:
-residence: Tennessee
+lastName: Reed
+aka: 
+residence: 
 status: Charged
 date: 2021-01-17
 age: 35
-occupation:
-affiliations:
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: 052.jpg
-booking: blake-reed.jpg
-layout: suspect
-title: Blake Reed charged on January 17, 2021
 preview: 052.jpg
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+booking: blake-reed.jpg
+courtroom: 
+courthouse: 
 quote: "We The People took the Capitol!"
+title: Blake Reed charged on January 17, 2021
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [News Report](https://www.tennessean.com/story/news/crime/2021/01/17/nashville-man-blake-austin-reed-charged-fbi-capitol-riot/4196605001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355936/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355931/download)
 - [DOJ Statement (Twitter)](https://twitter.com/USAO_MDTN/status/1350818029693763586)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1355931/download)

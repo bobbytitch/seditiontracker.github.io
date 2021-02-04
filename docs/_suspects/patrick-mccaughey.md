@@ -1,24 +1,26 @@
 ---
 name: Patrick McCaughey
-aka:
-residence: Connecticut
+lastName: McCaughey
+aka: 
+residence: 
 status: Indicted
 date: 2021-01-19
 age: 23
-occupation:
-affiliations:
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: 080.jpg
-after:
-layout: suspect
-title: Patrick McCaughey charged on January 19, 2021
 preview: 080.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
+booking: 
+courtroom: 
+courthouse: 
 quote: "Taking this back by force now, no more bs"
+title: Patrick McCaughey charged on January 19, 2021
+description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/connecticut-man-charged-assaulting-officer-during-us-capitol-breach)
 - [News Report](https://www.cnbc.com/2021/01/20/connecticut-man-arrested-for-crushin.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1356781/download)

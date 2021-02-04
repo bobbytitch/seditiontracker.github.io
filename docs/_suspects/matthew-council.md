@@ -1,27 +1,26 @@
 ---
 name: Matthew Council
-aka:
-residence: Florida
+lastName: Council
+aka: 
+residence: 
 status: Charged
 date: 2021-01-14
 age: 49
-occupation:
-affiliations:
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: arrest.jpg
-after:
-perpwalk:
-booking:
-courtroom:
-layout: suspect
-title: Matthew Council charged on January 14th, 2021
 preview: arrest.jpg
+booking: 
+courtroom: 
+courthouse: 
+quote: 
+title: Matthew Council charged on January 14th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [News Report](http://www.innercitypress.com/ddc1insurrectionbluescouncili012121.html)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351706/download)

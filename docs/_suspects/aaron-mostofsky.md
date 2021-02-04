@@ -1,20 +1,26 @@
 ---
 name: Aaron Mostofsky
-residence: New York
+lastName: Mostofsky
+aka: 
+residence: 
 status: Charged
 date: 2021-01-11
 age: 34
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: 008.jpg
-booking: aaron-mostofsky.png
-layout: suspect
-courtoom: aaron-mostofsky.webp
-title: Aaron Mostofsky charged on January 11, 2021
 preview: 008.jpg
+booking: aaron-mostofsky.png
+courtroom: 
+courthouse: 
+quote: 
+title: Aaron Mostofsky charged on January 11, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
-author: Sedition Tracker
+author: seditiontrack
+layout: suspect
+published: true
 ---
-
 - [News Report](https://www.nbcnewyork.com/news/local/brooklyn-judges-son-arrested-for-participating-in-capitol-riots-source-says/2826102/?_osource=db_npd_nbc_wnbc_twt_shr)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353206/download)
 - [Criminal Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Aaron%20Mostofsky%20Statement%20of%20Facts.pdf)
@@ -22,4 +28,3 @@ author: Sedition Tracker
 - [FBI Raid (VIDEO)](https://twitter.com/NYScanner/status/1349008081477394435?s=20)
 - [Court Appearance](https://www.the-sun.com/news/2127486/judge-son-stormed-capitol-fur-cries-court-prison/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
-- [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353206/download)

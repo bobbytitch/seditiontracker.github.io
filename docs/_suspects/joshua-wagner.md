@@ -1,27 +1,26 @@
 ---
 name: Joshua Wagner
-aka:
-residence: Indiana
+lastName: Wagner
+aka: 
+residence: 
 status: Charged
 date: 2021-01-26
-age:
-occupation:
-affiliations:
+age: 
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: joshua-wagner.png
-after:
-perpwalk:
-booking:
-courtroom:
-layout: suspect
-title: Joshua Wagner charged on January 26th, 2021
 preview: joshua-wagner.png
+booking: 
+courtroom: 
+courthouse: 
+quote: 
+title: Joshua Wagner charged on January 26th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [NewsReport](https://www.indystar.com/story/news/crime/2021/01/26/capitol-riot-fbi-insurrection-indiana-men-facing-federal-charges/4269649001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1360941/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360941/download)

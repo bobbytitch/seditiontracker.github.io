@@ -1,28 +1,26 @@
 ---
 name: Brandon Straka
-aka:
-residence: Nebraska
+lastName: Straka
+aka: 
+residence: 
 status: Charged
 date: 2021-01-25
 age: 43
 occupation: Hair Stylist (Former)
-affiliations:
+affiliations: undefined
 jurisdiction: Federal
 image: 116.jpg
-after:
-perpwalk:
-booking:
-courtroom:
-layout: suspect
-title: Brandon Straka charged on January 25, 2021
 preview: 116.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
+booking: 
+courtroom: 
+courthouse: 
 quote: "Also—be embarrassed & hide if you need to- but I was there. It was not Antifa at the Capitol."
+title: Brandon Straka charged on January 25, 2021
+description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [News Report](https://www.thedailybeast.com/brandon-straka-right-wing-activist-banned-from-airline-is-charged-in-riots)
 - [Complaint](https://assets.documentcloud.org/documents/20463392/1-20-21-us-v-brandon-straka-complaint-affidavit.pdf)
-- [Statement of Facts](https://assets.documentcloud.org/documents/20463392/1-20-21-us-v-brandon-straka-complaint-affidavit.pdf)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360091/download)

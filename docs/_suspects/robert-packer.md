@@ -1,22 +1,26 @@
 ---
 name: Robert Packer
-aka:
-residence: Virginia
+lastName: Packer
+aka: 
+residence: 
 status: Charged
 date: 2021-01-13
 age: 56
-affiliations:
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: 013.jpg
-booking: robert-keith-packer.webp
-layout: suspect
-title: Robert Keith Packer charged on January 13, 2021
 preview: 013.jpg
+booking: robert-keith-packer.webp
+courtroom: 
+courthouse: 
+quote: 
+title: Robert Keith Packer charged on January 13, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
-tidbit: Turned in by a local who remembered his racist sweatshirt from a previous visit
 author: seditiontrack
+layout: suspect
+published: true
 ---
-
 - [News Report](https://www.cbsnews.com/news/camp-auschwitz-shirt-robert-packer-arrested-virginia/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353201/download)

@@ -1,28 +1,25 @@
 ---
 name: Joshua Hughes
-firstName: Joshua
 lastName: Hughes
-aka:
-residence: Montana
+aka: 
+residence: 
 status: Charged
 date: 2021-01-28
-age:
-occupation:
+age: 
+occupation: 
 affiliations: Proud Boys (likely)
 jurisdiction: Federal
 image: joshua-hughes.png
-after:
-perpwalk:
-booking:
-courtroom:
-layout: suspect
-title: Joshua Hughes charged on January 28, 2021
 preview: joshua-hughes.png
+booking: 
+courtroom: 
+courthouse: 
+quote: 
+title: Joshua Hughes charged on January 28, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [NewsReport](https://www.thedailybeast.com/montana-brothers-who-accosted-lone-black-cop-eugene-goodman-during-capitol-riots-are-arrested)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1364151/download)

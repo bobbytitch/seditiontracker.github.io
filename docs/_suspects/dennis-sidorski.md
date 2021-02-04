@@ -1,21 +1,23 @@
 ---
 name: Dennis Sidorski
-aka:
-residence: Virginia
+lastName: Sidorski
+aka: 
+residence: 
 status: Charged
 date: 2021-01-20
 age: 46
-occupation:
-affiliations:
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: 090.png
-after:
-layout: suspect
-title: Dennis Sidorski charged on January 20, 2021
 preview: 090.png
+booking: 
+courtroom: 
+courthouse: 
+quote: 
+title: Dennis Sidorski charged on January 20, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
 author: seditiontrack
+layout: suspect
 published: true
 ---
-

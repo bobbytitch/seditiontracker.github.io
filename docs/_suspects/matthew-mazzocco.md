@@ -1,24 +1,26 @@
 ---
 name: Matthew Mazzocco
-aka:
-residence: Texas
+lastName: Mazzocco
+aka: 
+residence: 
 status: Charged
 date: 2021-01-17
 age: 37
 occupation: "Mortgage Loan Ninja"
-affiliations:
+affiliations: undefined
 jurisdiction: Federal
 image: 079.png
-raid: matt-mazzocco.png
-layout: suspect
-title: Matthew Mazzocco charged on January 17, 2021
 preview: 079.png
-description: Click for latest case details. Suspects innocent until proven guilty.
+booking: 
+courtroom: 
+courthouse: 
 quote: "We’re probably all going to get in trouble"
+title: Matthew Mazzocco charged on January 17, 2021
+description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [News Report](https://www.expressnews.com/news/local/article/San-Antonio-suspect-in-CapitolMazzocco-texas-15882523.php)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356786/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356781/download)

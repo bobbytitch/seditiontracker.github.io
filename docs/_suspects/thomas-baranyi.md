@@ -1,22 +1,26 @@
 ---
 name: Thomas Baranyi
-aka:
-residence: New Jersey
+lastName: Baranyi
+aka: 
+residence: 
 status: Charged
 date: 2021-01-12
 age: 28
 occupation: Peace Corps
-affiliations:
+affiliations: undefined
 jurisdiction: Federal
 image: 012.jpg
-layout: suspect
-title: Thomas Baranyi charged on January 12, 2021
 preview: 012.jpg
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+booking: 
+courtroom: 
+courthouse: 
 quote: "It could have been me, but she went in first"
+title: Thomas Baranyi charged on January 12, 2021
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
+layout: suspect
+published: true
 ---
-
 - [News Report](https://apnews.com/article/capitol-siege-shootings-new-jersey-c9bcea4917ebe6c07d6e2f45286c5d8a)
 - [Self Incrimination](https://twitter.com/shaunking/status/1347257804244082695?s=20)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355731/download)

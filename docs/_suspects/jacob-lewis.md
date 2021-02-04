@@ -1,27 +1,26 @@
 ---
 name: Jacob Lewis
-aka:
-residence: California
+lastName: Lewis
+aka: 
+residence: 
 status: Charged
 date: 2021-01-27
 age: 37
 occupation: Gym Owner
-affiliations:
+affiliations: undefined
 jurisdiction: Federal
 image: jacob-lewis.png
-after:
-perpwalk:
-booking:
-courtroom:
-layout: suspect
-title: Jacob Lewis charged on January 27th, 2021
 preview: jacob-lewis.png
+booking: 
+courtroom: 
+courthouse: 
+quote: 
+title: Jacob Lewis charged on January 27th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [NewsReport](https://www.washingtonpost.com/nation/2021/01/29/jacob-lewis-capitol-riot-gym/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361031/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361031/download)

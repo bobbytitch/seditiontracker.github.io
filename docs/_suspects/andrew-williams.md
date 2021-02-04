@@ -1,22 +1,26 @@
 ---
 name: Andrew Williams
-aka:
-residence: Florida
+lastName: Williams
+aka: 
+residence: 
 status: Charged
 date: 2021-01-12
-age:
+age: 1
 occupation: Fire Fighter
+affiliations: undefined
 jurisdiction: Federal
 image: 010.jpg
-after: andrew-james-williams-court.jpg
-layout: suspect
-courtroom: andrew-williams.jpg
-title: Andrew Williams charged on January 12, 2021
 preview: 010.jpg
+booking: 
+courtroom: andrew-williams.jpg
+courthouse: 
+quote: 
+title: Andrew Williams charged on January 12, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
+layout: suspect
+published: true
 ---
-
 - [News Report](https://people.com/crime/fbi-arrests-florida-firefighter-seen-in-videos-at-capitol-riots/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Courthouse Steps [Video]](https://twitter.com/EricMockTV/status/1349127558709866502?s=20)

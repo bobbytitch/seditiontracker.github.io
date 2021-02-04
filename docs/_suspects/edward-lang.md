@@ -1,24 +1,26 @@
 ---
 name: Edward Lang
+lastName: Lang
 aka: Jake Lang
-residence: New York
+residence: 
 status: Indicted
 date: 2021-01-16
 age: 25
-occupation:
-affiliations:
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: 051.jpg
-raid: edward-lang.png
-layout: suspect
-title: Edward Lang charged on January 16, 2021
 preview: 051.jpg
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+booking: 
+courtroom: 
+courthouse: 
 quote: "I was the leader of Liberty today. Arrest me. You are on the wrong side of history"
+title: Edward Lang charged on January 16, 2021
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [News Report](https://www.nbcnewyork.com/news/local/crime-and-courts/hudson-valley-man-arrested-in-connection-with-capitol-riot-sources/2834919/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355871/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355866/download)

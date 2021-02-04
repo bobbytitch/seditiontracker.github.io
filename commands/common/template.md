@@ -1,6 +1,5 @@
 ---
 name: [name]
-firstName: [firstName]
 lastName: [lastName]
 aka:
 residence: [residence]
@@ -10,19 +9,17 @@ age: [age]
 occupation:
 affiliations:
 jurisdiction: Federal
-before: [dashedName]
-after:
-perpwalk:
+image: [dashedName].jpg
+preview: [dashedName].jpg
 booking: [mugShot]
 courtroom:
 courthouse:
-layout: suspect
-title: [name] [action] on [longDate]
-preview: [dashedName].jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
+title: [name] [action] on [longDate]
+description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
+layout: suspect
 published: true
 ---
 
-- [NewsReport]()
+- [News Story]()

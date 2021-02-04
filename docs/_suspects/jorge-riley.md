@@ -1,24 +1,26 @@
 ---
 name: Jorge Riley
-aka:
-residence: California
+lastName: Riley
+aka: 
+residence: 
 status: Charged
 date: 2021-01-19
 age: 42
-occupation:
-affiliations:
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: 097.jpg
-after:
-layout: suspect
-title: Jorge Riley charged on January 19, 2021
 preview: 097.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
+booking: 
+courtroom: 
+courthouse: 
 quote: "We broke windows. We went into the door. We pushed our way in."
+title: Jorge Riley charged on January 19, 2021
+description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [News Report](https://nypost.com/2021/01/19/gop-activist-jorge-riley-arrested-in-capitol-hill-attack/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357041/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1357046/download)

@@ -1,27 +1,26 @@
 ---
 name: Terry Brown
-aka:
-residence: Pennsylvania
+lastName: Brown
+aka: 
+residence: 
 status: Charged
 date: 2021-01-11
 age: 69
 occupation: Public Safety Code Enforcement Officer (Retired)
-affiliations:
+affiliations: undefined
 jurisdiction: Federal
 image: arrest.jpg
-after:
-perpwalk:
-booking:
-courtroom:
-layout: suspect
-title: Terry Brown charged on January 11th, 2021
 preview: arrest.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
+booking: 
+courtroom: 
+courthouse: 
 quote: "So if this is what it took … to make the people stand up and listen, then to me it was worth it."
+title: Terry Brown charged on January 11th, 2021
+description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [NewsReport](https://www.ldnews.com/story/news/2021/01/07/lebanon-county-arrested-during-capitol-siege-has-no-regrets-trump-supporters-election-washington/6588911002/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351716/download)

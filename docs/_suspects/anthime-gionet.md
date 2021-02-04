@@ -1,25 +1,26 @@
 ---
 name: Anthime Gionet
+lastName: Gionet
 aka: Tom Gionet, Baked Alaska
-residence: Arizona
+residence: 
 status: Charged
 date: 2021-01-16
 age: 33
-occupation:
-affiliations:
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: 023.png
-after:
-layout: suspect
-title: Anthime Joseph Gionet charged on January 14, 2021
 preview: 023.png
-description: Click for latest case details. Suspects considered innocent until proven guilty.
-quote:
-author: seditiontrack
+booking: 
+courtroom: 
+courthouse: 
 quote: "You're not allowed to shove me"
+title: Anthime Joseph Gionet charged on January 14, 2021
+description: Click for latest case details. Suspects considered innocent until proven guilty.
+author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [News Report](https://apnews.com/article/joe-biden-donald-trump-capitol-siege-alaska-crime-6666c735165a19a6ee019e412235bd8d)
 - [Self Incrimination](https://twitter.com/Cleavon_MD/status/1348194351172603906?s=20)
 - [Self Incrimination (Cont'd)](https://twitter.com/nathanTbernard/status/1346937960005062661?s=20)

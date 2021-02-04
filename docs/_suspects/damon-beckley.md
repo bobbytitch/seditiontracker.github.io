@@ -1,24 +1,26 @@
 ---
 name: Damon Beckley
-aka:
-residence: Kentucky
+lastName: Beckley
+aka: 
+residence: 
 status: Charged
 date: 2021-01-16
 age: 52
-occupation:
-affiliations:
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: 047.png
-booking: damon-beckley.jpg
-layout: suspect
-title: Damon Beckley charged on January 16, 2021
 preview: 047.png
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+booking: damon-beckley.jpg
+courtroom: 
+courthouse: 
 quote: "If we're going to come back here and start a revolution and take all of these traitors out, which is what should be done, then we will!"
+title: Damon Beckley charged on January 16, 2021
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [News Report](https://www.wdrb.com/news/fbi-arrests-man-from-louisville-who-entered-us-capitol-during-riot/article_9dff8ffc-5863-11eb-b21c-5b982889fe2a.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1355856/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355861/download)

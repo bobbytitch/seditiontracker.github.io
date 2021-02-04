@@ -1,29 +1,26 @@
 ---
 name: Wilmar Alvarado
-firstName: Wilmar
 lastName: Alvarado
 aka: Wilmar Montaro
-residence: Texas
+residence: 
 status: Charged
 date: 2021-01-29
 age: 37
-occupation:
-affiliations:
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: wilmar-alvarado.png
-after:
-perpwalk:
-booking:
-courtroom:
-layout: suspect
-title: Wilmar Alvarado charged on January 29, 2021gs
 preview: wilmar-alvarado.png
-description: Click for latest case details. Suspects innocent until proven guilty.
+booking: 
+courtroom: 
+courthouse: 
 quote: "I’m not part of this. I’m trying to get out."
+title: Wilmar Alvarado charged on January 29, 2021gs
+description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [NewsReport](https://www.houstonchronicle.com/news/houston-texas/crime/article/houston-man-arrested-fbi-capitol-riot-15908343.php)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Wilmar%20Alvarado%20Criminal%20Complaint%20and%20Affidavit.pdf)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Wilmar%20Alvarado%20Criminal%20Complaint%20and%20Affidavit.pdf)

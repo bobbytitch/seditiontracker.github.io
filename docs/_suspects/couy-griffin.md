@@ -1,24 +1,26 @@
 ---
 name: Couy Griffin
-aka:
-residence: New Mexico
+lastName: Griffin
+aka: 
+residence: 
 status: Charged
 date: 2021-01-17
-age:
+age: 5
 occupation: County Commissioner
 affiliations: Cowboys for Trump
 jurisdiction: Federal
 image: 054.jpg
-after: couy-griffin.png
-layout: suspect
-title: Couy Griffin charged on January 17, 2021
 preview: 054.jpg
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+booking: 
+courtroom: 
+courthouse: 
 quote: "I didn't break anything. I didn't assault anybody."
+title: Couy Griffin charged on January 17, 2021
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [News Report](https://www.thedailybeast.com/cowboys-for-trump-leader-couy-griffin-arrested-by-fbi-for-capitol-riot-threat-to-bring-guns-to-inauguration?via=twitter_page)
 - [Perp Walk (Image)](/images/after/couy-griffin.png)
 - [Perp Walk (VIDEO)](https://www.nbcwashington.com/news/local/new-mexico-county-commissioner-arrested-in-dc-for-involvement-in-capitol-riot/2544645/)

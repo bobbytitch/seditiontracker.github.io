@@ -1,24 +1,26 @@
 ---
 name: Barton Shivley
-aka:
-residence: Pennsylvania
+lastName: Shivley
+aka: 
+residence: 
 status: Charged
 date: 2021-01-19
-age:
+age: 9
 occupation: U.S. Marines (Former)
-affiliations:
+affiliations: undefined
 jurisdiction: Federal
 image: 098.png
-raid: barton-shivley.jpg
-layout: suspect
-title: Barton Shivley charged on January 19, 2021
 preview: 098.png
+booking: 
+courtroom: 
+courthouse: 
+quote: 
+title: Barton Shivley charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [News Report](https://www.fox43.com/article/news/local/central-pennsylvania-man-arrested-for-role-in-riot-at-us-capitol/521-578d8b83-fed6-4768-95a5-29526f1ebe90)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357006/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1357011/download)

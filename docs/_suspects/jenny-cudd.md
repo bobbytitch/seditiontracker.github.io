@@ -1,22 +1,26 @@
 ---
 name: Jenny Cudd
-aka:
-residence: Texas
+lastName: Cudd
+aka: 
+residence: 
 status: Indicted
 date: 2021-01-13
 age: 36
-affiliations:
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: 011.jpg
-after:
-layout: suspect
-title: Jenny Cudd charged on January 13, 2021
 preview: 011.jpg
+booking: 
+courtroom: 
+courthouse: 
+quote: "I walked through an open door into the Capitol along with several hundred other people"
+title: Jenny Cudd charged on January 13, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
-quote: "I walked through an open door into the Capitol along with several hundred other people"
+layout: suspect
+published: true
 ---
-
 - [News Report](https://www.cbs7.com/2021/01/13/first-on-cbs7-fbi-arrests-jenny-cudd-for-rioting-at-capitol/)
 - [Self Incrimination](https://twitter.com/JoshuaSkinnerTV/status/1349395279179558914?s=20)
 - [Statement of Facts](https://www.scribd.com/document/490745903/Jenny-Cudd-and-Eliel-Rosa-Statement-of-Facts)

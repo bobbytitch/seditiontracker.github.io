@@ -1,19 +1,26 @@
 ---
 name: Larry Brock
+lastName: Brock
+aka: 
+residence: 
 status: Charged
-residence: Texas
 date: 2021-01-09
+age: 
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: 002.jpg
-booking: larry-rendall-brock.jpg
-layout: suspect
-courtroom: larry-brock.jpg
-title: Larry Rendall Brock charged on January 9, 2021
 preview: 002.jpg
+booking: larry-rendall-brock.jpg
+courtroom: larry-brock.jpg
+courthouse: 
+quote: 
+title: Larry Rendall Brock charged on January 9, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
-author: Sedition Tracker
+author: seditiontrack
+layout: suspect
+published: true
 ---
-
 - [News Report](https://www.nbcdfw.com/news/local/fbi-arrests-grapevine-man-photographed-in-tactical-gear-on-us-senate-floor/2524718/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-men-charged-connection-events-us-capitol)
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1352016/download)

@@ -1,7 +1,8 @@
 ---
 name: Timothy Hale-Cusanelli
+lastName: Hale-Cusanelli
 aka: Based Hermes
-residence: New Jersey
+residence: 
 status: Indicted
 date: 2021-01-17
 age: 30
@@ -9,19 +10,17 @@ occupation: U.S. Army Reserves, U.S. Navy Contractor
 affiliations: U.S. Military
 jurisdiction: Federal
 image: timothy-hale-cusanelli.jpg
-after:
-perpwalk:
-booking:
-courtroom: timothy-hale-cusanelli.jpg
-layout: suspect
-title: Timothy Hale-Cusanelli charged on January 17th, 2021
 preview: timothy-hale-cusanelli.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
+booking: 
+courtroom: timothy-hale-cusanelli.jpg
+courthouse: 
 quote: "Trust the plan, major announcement soon."
+title: Timothy Hale-Cusanelli charged on January 17th, 2021
+description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [NewsReport](https://www.app.com/story/news/crime/2021/01/17/timothy-louis-hale-cusanelli-colts-neck-man-military-contractor-capitol-pro-trump-mob/4199037001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356061/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356066/download)

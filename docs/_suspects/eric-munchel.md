@@ -1,19 +1,26 @@
 ---
 name: Eric Munchel
+lastName: Munchel
+aka: 
+residence: 
 status: Charged
 date: 2021-01-10
+age: 
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: 001.jpg
-residence: Tennessee
-booking: eric-munchel.jpg
-layout: suspect
-title: Eric Munchel charged on January 10, 2021
 preview: 001.jpg
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+booking: eric-munchel.jpg
+courtroom: 
+courthouse: 
 quote: "Probably the last time I’ll be able to enter the building with armor and . . . fucking weapons."
-author: Sedition Tracker
+title: Eric Munchel charged on January 10, 2021
+description: Click for latest case details. Suspects considered innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: true
 ---
-
 - [News Report](https://fox17.com/news/local/suspected-tennessee-man-who-stormed-the-us-capitol-arrested)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-men-charged-connection-events-us-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1352221/download)

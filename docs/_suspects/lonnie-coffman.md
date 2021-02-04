@@ -1,28 +1,26 @@
 ---
 name: Lonnie Coffman
-aka:
-residence: Alabama
+lastName: Coffman
+aka: 
+residence: 
 status: Indicted
 date: 2021-01-07
 age: 70
-occupation:
-affiliations:
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: lonnie-coffman.jpg
-after:
-perpwalk:
-booking:
-raid: lonnie-coffman.jpg
-courtroom:
-layout: suspect
-title: Lonnie Coffman charged on January 7th, 2021
 preview: lonnie-coffman.jpg
+booking: 
+courtroom: 
+courthouse: 
+quote: 
+title: Lonnie Coffman charged on January 7th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [News Report](https://www.montgomeryadvertiser.com/story/news/crime/2021/01/27/feds-seize-items-lonnie-coffman-falkville-home-capitol-riot-case/4281963001/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Statement of Facts](https://www.justice.gov/opa/press-release/file/1351661/download)

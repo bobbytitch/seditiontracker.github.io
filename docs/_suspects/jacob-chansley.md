@@ -1,20 +1,26 @@
 ---
 name: Jacob Chansley
+lastName: Chansley
 aka: Jake Angeli, Q Shaman
+residence: 
 status: Indicted
 date: 2021-01-08
-residence: Arizona
+age: 
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: 003.jpg
-after:
-courtroom: jacob-chansley.png
-layout: suspect
-title: Jacob Anthony Chansley charged on January 8, 2021
 preview: 003.jpg
+booking: 
+courtroom: jacob-chansley.png
+courthouse: 
+quote: 
+title: Jacob Anthony Chansley charged on January 8, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
-author: Sedition Tracker
+author: seditiontrack
+layout: suspect
+published: true
 ---
-
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)
 - [News Report](https://www.azcentral.com/story/news/local/arizona-breaking/2021/01/11/jake-angeli-arizona-seen-us-capitol-raid-fur-hat-horns-federal-court-hearing/6625619002/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1351941/download)

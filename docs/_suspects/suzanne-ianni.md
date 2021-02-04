@@ -1,24 +1,26 @@
 ---
 name: Suzanne Ianni
-aka:
-residence: Massachusetts
+lastName: Ianni
+aka: 
+residence: 
 status: Charged
 date: 2021-01-19
 age: 59
-occupation:
+occupation: 
 affiliations: Super Happy Fun America (anti-LQBTQ group)
 jurisdiction: Federal
 image: 074.jpg
-courthouse: suzanne-ianni.jpg
-layout: suspect
-title: Suzanne Ianni charged on January 19, 2021
 preview: 074.jpg
+booking: 
+courtroom: 
+courthouse: suzanne-ianni.jpg
+quote: 
+title: Suzanne Ianni charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-massachusetts-residents-charged-connection-capitol-breach)
 - [News Report](https://www.bostonherald.com/2021/01/19/boston-straight-pride-parade-organizer-mark-sahady-natick-politician-sue-ianni-arrested-for-us-capitol-siege/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIBoston/status/1351560718915612672?s=20)

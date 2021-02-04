@@ -1,30 +1,26 @@
 ---
 name: Christopher Ortiz
-firstName: Christopher
 lastName: Ortiz
-aka:
-residence: New York
+aka: 
+residence: 
 status: Charged
 date: 2021-01-27
 age: 27
-occupation:
-affiliations:
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: christopher-ortiz.jpg
-after:
-perpwalk:
-booking:
-courthouse: christopher-ortiz.jpg
-courtroom: christopher-ortiz.jpg
-layout: suspect
-title: Christopher Ortiz charged on January 27th, 2021
 preview: christopher-ortiz.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
+booking: 
+courtroom: christopher-ortiz.jpg
+courthouse: christopher-ortiz.jpg
 quote: "[I'd] storm the Capitol for you any day"
+title: Christopher Ortiz charged on January 27th, 2021
+description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [NewsReport](https://nypost.com/2021/01/27/instagram-dm-leads-to-capitol-rioters-arrest/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361296/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361296/download)

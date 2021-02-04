@@ -1,25 +1,26 @@
 ---
 name: Rachael Pert
-aka:
-residence: Florida
+lastName: Pert
+aka: 
+residence: 
 status: Charged
 date: 2021-01-26
 age: 40
-occupation:
-affiliations:
+occupation: 
+affiliations: undefined
 jurisdiction: Federal
 image: rachael-pert.png
-courtoom: rachael-pert.jpg
-booking: rachael-pert.jpg
-layout: suspect
-title: Rachael Pert charged on January 26th, 2021
 preview: rachael-pert.png
+booking: rachael-pert.jpg
+courtroom: 
+courthouse: 
+quote: 
+title: Rachael Pert charged on January 26th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
-quote:
 author: seditiontrack
+layout: suspect
 published: true
 ---
-
 - [NewsReport](https://www.thedailybeast.com/florida-couple-rachael-pert-and-dana-joe-winn-charged-in-capitol-riots)
 - [Complaint](https://www.justice.gov/opa/page/file/1360796/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360796/download)
