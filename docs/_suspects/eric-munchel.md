@@ -1,20 +1,20 @@
 ---
 name: Eric Munchel
 lastName: Munchel
-aka: 
-residence: 
+aka:
+residence:
 status: Charged
 date: 2021-01-10
-age: 
-occupation: 
+age:
+occupation:
 affiliations: undefined
 jurisdiction: Federal
 image: 001.jpg
 preview: 001.jpg
 booking: eric-munchel.jpg
-courtroom: 
-courthouse: 
-quote: "Probably the last time I’ll be able to enter the building with armor and . . . fucking weapons."
+courtroom:
+courthouse:
+quote: "Probably the last time I’ll be able to enter the building with armor and ... fucking weapons."
 title: Eric Munchel charged on January 10, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

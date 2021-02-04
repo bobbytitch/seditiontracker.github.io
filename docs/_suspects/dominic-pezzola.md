@@ -2,19 +2,19 @@
 name: Dominic Pezzola
 lastName: Pezzola
 aka: Spaz
-residence: 
+residence:
 status: Charged
 date: 2021-01-15
 age: 43
-occupation: 
+occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
 image: 033.jpg
 preview: 033.jpg
 booking: dominic-pezzola.jpg
 courtroom: dominic-pezzola.png
-courthouse: 
-quote: "Victory smoke in the Capitol, boys. This is
+courthouse:
+quote: "Victory smoke in the Capitol, boys. This is fucking awesome. I knew we could take this motherfucker over [if we] just tried hard enough."
 title: Dominic Pezzola charged on January 15, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
