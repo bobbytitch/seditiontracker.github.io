@@ -25,3 +25,4 @@ published: true
 - [Complaint](https://www.justice.gov/opa/page/file/1360496/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360496/download)
 - [DOJ Press Release (Indictment)](https://www.justice.gov/usao-dc/pr/texas-man-self-proclaimed-leader-honolulu-proud-boys-now-indicted-federal-grand-jury)
+- [Indictment](/usao-dc/case-multi-defendant/file/1364446/download)

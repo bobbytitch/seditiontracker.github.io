@@ -101,7 +101,7 @@ export const getSuspectByFile = (filename:string) => {
 
 export const updateSuspect = (suspect: Suspect) => {
   const fs = require('fs')
-  const file = fs.createWriteStream(`docs/_suspects/${dasherizeName(suspect)}.md`)
+  const file = fs.createWriteStream(`docs/_suspects/${dasherizeName(suspect.name)}.md`)
 
   file.write('---\n')
   file.write(`name: ${suspect.name}\n`)
@@ -134,9 +134,15 @@ export const updateSuspect = (suspect: Suspect) => {
   file.end()
 }
 
-const dasherizeName = (suspect:Suspect) => {
-  return suspect.name.replace(/\s/g, "-").toLowerCase();
+export const getSuspect = (firstName: string, lastName: string) => {
+  const dashedName = dasherizeName(`${firstName} ${lastName}`)
+  return getSuspectByFile(`${dashedName}.md`)
 }
+
+const dasherizeName = (name: string) => {
+  return name.replace(/\s/g, "-").toLowerCase();
+}
+
 
 const getLinks = (data: string) => {
   const links = {}

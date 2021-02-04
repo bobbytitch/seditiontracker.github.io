@@ -6,6 +6,9 @@ import axios from 'axios'
 import { HTMLElement, parse } from 'node-html-parser';
 import { capitalize, isEmpty } from 'lodash';
 import moment from 'moment';
+import { getSuspect, updateSuspect } from "./common/suspect";
+import { exec } from "child_process";
+const { execSync } = require('child_process')
 
 const cmd = new Command();
 cmd.parse(process.argv);
@@ -14,8 +17,8 @@ const importSuspects = async() => {
   info("Reading list of current suspects");
 
   await importDoj(getNameSet());
-  await importGw(getNameSet());
-  await importUSA(getNameSet());
+  // await importGw(getNameSet());
+  // await importUSA(getNameSet());
 }
 
 const getNameSet = (): Set<string> => {
@@ -164,7 +167,6 @@ const falsePositives = (site: string) => {
       set.add("Ianni");
       set.add("Jensen");
       set.add("Rodean");
-      set.add("Shively");
       set.add("Madden");
       set.add("Capsel");
       set.add("Courtwright");
@@ -181,7 +183,6 @@ const falsePositives = (site: string) => {
       set.add("Fichett");
       set.add("Phipps");
       set.add("Rodean");
-      set.add("Shively");
       set.add("Sidorsky");
       set.add("Sparks");
       set.add("Spencer");
@@ -256,46 +257,44 @@ const linkType = (description: string) => {
 
 const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, residence?: string, age?: string) => {
   const nameToCheck = dasherizeName(firstName, lastName);
-  const fullName = `${firstName} ${lastName}`
+
   if (!nameSet.has(nameToCheck)) {
     // suspect does not yet exist in our database so let's add them
-    newSuspect(firstName, lastName, dateString, links, residence);
+    // newSuspect(firstName, lastName, dateString, links, residence);
+    return;
   }
 
   // suspect exists already but there may be new data to update
-  let data = getSuspectData(firstName, lastName);
-  const fileName = getFileName(firstName, lastName);
+  const suspect = getSuspect(firstName, lastName)
 
-  if (!isEmpty(residence) && data.match(/residence:\s*\n/)) {
-    data = data.replace(/residence:\s*\n/, `residence: ${residence}\n`)
-    console.log(`${fullName}: ${residence}`);
-    writeFile(fileName, data);
+  if (isEmpty(suspect.residence) && !isEmpty(residence)) {
+    console.log(`${suspect.name}: ${residence}`)
+    suspect.residence = residence
+    updateSuspect(suspect)
   }
 
-  if (!isEmpty(age) && data.match(/age:\s*\n/)) {
-    data = data.replace(/age:\s*\n/, `age: ${age}\n`)
-    console.log(`${fullName}: Age ${age}`);
-    writeFile(fileName, data);
+  if (isEmpty(suspect.age) && !isEmpty(age)) {
+    console.log(`${suspect.name}: Age ${age}`)
+    suspect.age = parseInt(age)
+    updateSuspect(suspect)
   }
 
+  // pick up any new links
   for (const [type, url] of Object.entries(links)) {
-    const fullUrl = /https:\/\//.test(<string>url) ? <string>url : `https://www.justice.gov${url}`
+    if (!suspect.links[type]) {
+      console.log(`${suspect.name}: ${type}`);
+      suspect.links[type] = <string>url
 
-    if (!data.match(new RegExp(type))) {
-      console.log(`${fullName}: ${type}`)
-      const linkMarkdown = `- [${type}](${fullUrl})`
-      data = data.trim() + `\n${linkMarkdown}`
-      writeFile(fileName, data)
-    }
+      if (type == "Indictment") {
+        suspect.status = "Indicted"
+        execSync(`yarn suspect preview -f ${suspect.preview} -s ${suspect.status}`)
+      }
 
-    // replace GW links with DOJ links when possible
-    const gwRegEx = new RegExp(`\- \\[${type}\]\\(https:\\/\\/extremism.*\\)`)
-    if (data.match(gwRegEx) && !fullUrl.match(/https:\/\/extremism.*/)) {
-      console.log(`${fullName}: ${type}`);
-      data = data.replace(gwRegEx, `- [${type}](${fullUrl})`);
-      writeFile(fileName, data);
+      updateSuspect(suspect)
     }
   }
+
+  // TODO - replace non DOJ links
 }
 
 const newSuspect = (firstName, lastName, dateString, links, residence?: string, age?: string) => {
