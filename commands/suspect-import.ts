@@ -6,7 +6,7 @@ import axios from 'axios'
 import { HTMLElement, parse } from 'node-html-parser';
 import { capitalize, isEmpty } from 'lodash';
 import moment from 'moment';
-import { getSuspect, updateSuspect } from "./common/suspect";
+import { getSuspect, Suspect, updateSuspect } from "./common/suspect";
 import { exec } from "child_process";
 const { execSync } = require('child_process')
 
@@ -260,7 +260,7 @@ const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, re
 
   if (!nameSet.has(nameToCheck)) {
     // suspect does not yet exist in our database so let's add them
-    // newSuspect(firstName, lastName, dateString, links, residence);
+    newSuspect(firstName, lastName, dateString, links, residence);
     return;
   }
 
@@ -298,39 +298,26 @@ const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, re
 }
 
 const newSuspect = (firstName, lastName, dateString, links, residence?: string, age?: string) => {
-  console.log(`${firstName} ${lastName}`);
-
-  const dashedName = dasherizeName(firstName, lastName)
-  const template = readFile("./commands/common/template.md");
-
-  let data = template.replace(/\[name]/g, `${firstName} ${lastName}`,);
-  data = data.replace("[firstName]", firstName);
-  data = data.replace("[lastName]", lastName);
-  data = data.replace("[mugShot]", "");
-  data = data.replace("[residence]", residence ? residence : "")
-  data = data.replace("[age]", age ? age : "")
-  data = data.replace("[status]", "Charged");
-  data = data.replace("[age]", "");
-  data = data.replace("[action]", "charged");
-  data = data.replace(/\[dashedName]/g, dashedName);
-  data = data.replace("published: true", "published: false");
+  const suspect:Suspect = {
+    name: `${firstName} ${lastName}`,
+    lastName,
+    residence,
+    age: parseInt(age),
+    status: "Charged",
+    links: {"News Story": "", ...links},
+    title: `${firstName} ${lastName} charged on [longDate]`,
+    description: "Click for latest case details. Suspects innocent until proven guilty.",
+    published: false
+  }
 
   if (dateString) {
     const date = moment(dateString, "MM/DD/YY");
-    data = data.replace("[date]", date.format("YYYY-MM-DD"));
-    data = data.replace("[longDate]", date.format("MMMM Do, YYYY"));
+    suspect.date = date.format("YYYY-MM-DD");
+    suspect.title = suspect.title.replace("[longDate]", date.format("MMMM Do, YYYY"))
   }
 
-  for (const [type, url] of Object.entries<string>(links)) {
-    if (url.includes("https")) {
-      data = data + `- [${type}](${url})\n`
-    } else {
-      data = data + `- [${type}](https://www.justice.gov${url})\n`
-    }
-  }
-
-  fs.writeFileSync(`./docs/_suspects/${firstName.toLowerCase()}-${lastName.toLowerCase()}.md`, data.toString());
-
+  console.log(`${suspect.name}`);
+  updateSuspect(suspect)
 }
 
 const dasherizeName = (firstName:string, lastName:string) => {

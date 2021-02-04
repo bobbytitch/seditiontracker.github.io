@@ -1,7 +1,7 @@
 import { readFile, writeFile } from "./file";
 import { isEmpty} from 'lodash';
 
-interface Suspect {
+export interface Suspect {
   published: boolean
   status?: string
   date?: string
@@ -90,18 +90,27 @@ export const getSuspectByFile = (filename:string) => {
     suspect.quote= RegExp.$1;
   }
 
-  // set empty string when shit is not assigned
-  const fields = ["aka", "residence", "date", "age", "occupation", "affiliation", "jurisdiction", "image", "preview", "booking", "courtroom", "courthouse", "quote", "title"]
-  for (const field of fields) {
-    suspect[field] = suspect[field] || ""
-  }
+  cleanSuspect(suspect)
 
   return suspect
+}
+
+const cleanSuspect = (suspect: Suspect) => {
+  // set empty string when shit is not assigned
+  const fields = ["aka", "residence", "date", "age", "occupation", "affiliation", "jurisdiction", "image", "preview", "booking", "courtroom", "courthouse", "quote", "affiliations"]
+  for (const field of fields) {
+    if (isEmpty(suspect[field])) {
+      suspect[field] = ""
+    }
+    // suspect[field] = suspect[field] || ""
+  }
 }
 
 export const updateSuspect = (suspect: Suspect) => {
   const fs = require('fs')
   const file = fs.createWriteStream(`docs/_suspects/${dasherizeName(suspect.name)}.md`)
+
+  cleanSuspect(suspect)
 
   file.write('---\n')
   file.write(`name: ${suspect.name}\n`)
