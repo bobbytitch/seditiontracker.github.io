@@ -2,7 +2,7 @@
 name: Brandon Straka
 lastName: Straka
 aka: 
-residence: 
+residence: New England
 status: Charged
 date: 2021-01-25
 age: 43

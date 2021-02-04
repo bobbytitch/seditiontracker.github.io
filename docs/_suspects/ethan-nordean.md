@@ -2,7 +2,7 @@
 name: Ethan Nordean
 lastName: Nordean
 aka: Rufio Panman
-residence: 
+residence: Washington
 status: Charged
 date: 2021-02-03
 age: 30

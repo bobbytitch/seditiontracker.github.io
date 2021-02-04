@@ -2,7 +2,7 @@
 name: William Pepe
 lastName: Pepe
 aka: 
-residence: 
+residence: New York
 status: Charged
 date: 2021-01-12
 age: 31

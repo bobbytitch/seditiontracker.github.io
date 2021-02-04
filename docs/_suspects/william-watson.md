@@ -2,7 +2,7 @@
 name: William Watson
 lastName: Watson
 aka: 
-residence: 
+residence: Alabama
 status: Charged
 date: 2021-01-11
 age: 23

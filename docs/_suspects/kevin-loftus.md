@@ -2,7 +2,7 @@
 name: Kevin Loftus
 lastName: Loftus
 aka: 
-residence: 
+residence: Wisconsin
 status: Charged
 date: 2021-01-12
 age: 52

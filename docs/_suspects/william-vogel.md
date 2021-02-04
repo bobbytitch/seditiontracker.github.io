@@ -2,7 +2,7 @@
 name: William Vogel
 lastName: Vogel
 aka: 
-residence: 
+residence: New York
 status: Charged
 date: 2021-01-25
 age: 11

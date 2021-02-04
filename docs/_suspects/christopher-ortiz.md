@@ -2,7 +2,7 @@
 name: Christopher Ortiz
 lastName: Ortiz
 aka: 
-residence: 
+residence: New York
 status: Charged
 date: 2021-01-27
 age: 27

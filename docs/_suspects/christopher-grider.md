@@ -2,7 +2,7 @@
 name: Christopher Grider
 lastName: Grider
 aka: 
-residence: 
+residence: Texas
 status: Indicted
 date: 2021-01-21
 age: 39

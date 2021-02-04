@@ -2,7 +2,7 @@
 name: James Uptmore
 lastName: Uptmore
 aka: Sonny Uptmore
-residence: 
+residence: Texas
 status: Charged
 date: 2021-01-26
 age: 

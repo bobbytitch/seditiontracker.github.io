@@ -2,7 +2,7 @@
 name: Stephen Ayres
 lastName: Ayres
 aka: 
-residence: 
+residence: Ohio
 status: Charged
 date: 2021-01-25
 age: 38

@@ -2,7 +2,7 @@
 name: Lonnie Coffman
 lastName: Coffman
 aka: 
-residence: 
+residence: Alabama
 status: Indicted
 date: 2021-01-07
 age: 70

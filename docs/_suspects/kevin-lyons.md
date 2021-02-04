@@ -2,7 +2,7 @@
 name: Kevin Lyons
 lastName: Lyons
 aka: 
-residence: 
+residence: Illinois
 status: Charged
 date: 2021-01-13
 age: 40

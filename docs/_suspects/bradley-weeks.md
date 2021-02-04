@@ -2,7 +2,7 @@
 name: Bradley Weeks
 lastName: Weeks
 aka: 
-residence: 
+residence: Florida
 status: Charged
 date: 2021-01-21
 age: 43

@@ -2,7 +2,7 @@
 name: Matthew Perna
 lastName: Perna
 aka: 
-residence: 
+residence: Pennsylvania
 status: Charged
 date: 2021-01-19
 age: 7

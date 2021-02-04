@@ -2,7 +2,7 @@
 name: Daniel Adams
 lastName: Adams
 aka: 
-residence: 
+residence: Texas
 status: Charged
 date: 2021-01-16
 age: 4

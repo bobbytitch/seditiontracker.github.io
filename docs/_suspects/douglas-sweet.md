@@ -2,7 +2,7 @@
 name: Douglas Sweet
 lastName: Sweet
 aka: 
-residence: 
+residence: Virginia
 status: Charged
 date: 2021-01-21
 age: 58

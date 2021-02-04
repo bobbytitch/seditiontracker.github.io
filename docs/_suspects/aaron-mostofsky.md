@@ -1,20 +1,20 @@
 ---
 name: Aaron Mostofsky
 lastName: Mostofsky
-aka:
-residence:
+aka: 
+residence: New York
 status: Charged
 date: 2021-01-11
 age: 34
-occupation:
+occupation: 
 affiliations: undefined
 jurisdiction: Federal
 image: 008.jpg
 preview: 008.jpg
 booking: aaron-mostofsky.png
-courtroom:
-courthouse:
-quote:
+courtroom: 
+courthouse: 
+quote: 
 title: Aaron Mostofsky charged on January 11, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

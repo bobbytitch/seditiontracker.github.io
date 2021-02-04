@@ -2,7 +2,7 @@
 name: Kevin Strong
 lastName: Strong
 aka: 
-residence: 
+residence: California
 status: Charged
 date: 2021-01-22
 age: 44

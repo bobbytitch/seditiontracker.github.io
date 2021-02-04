@@ -2,7 +2,7 @@
 name: Stephen Baker
 lastName: Baker
 aka: Stephen Ignoramus
-residence: 
+residence: North Carolina
 status: Charged
 date: 2021-02-01
 age: 32

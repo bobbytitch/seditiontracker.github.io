@@ -2,7 +2,7 @@
 name: Jon Schaffer
 lastName: Schaffer
 aka: 
-residence: 
+residence: Indiana
 status: Charged
 date: 2021-01-17
 age: 52

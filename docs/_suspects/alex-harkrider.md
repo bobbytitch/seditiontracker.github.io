@@ -2,7 +2,7 @@
 name: Alex Harkrider
 lastName: Harkrider
 aka: 
-residence: 
+residence: Texas
 status: Charged
 date: 2021-01-18
 age: 33

@@ -2,7 +2,7 @@
 name: Chance Uptmore
 lastName: Uptmore
 aka: 
-residence: 
+residence: Texas
 status: Charged
 date: 2021-01-26
 age: 

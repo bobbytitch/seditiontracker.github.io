@@ -2,7 +2,7 @@
 name: Thomas Fee
 lastName: Fee
 aka: 
-residence: 
+residence: New York
 status: Charged
 date: 2021-01-15
 age: 53

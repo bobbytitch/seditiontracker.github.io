@@ -2,7 +2,7 @@
 name: Andrew Ericson
 lastName: Ericson
 aka: 
-residence: 
+residence: Oklahoma
 status: Charged
 date: 2021-01-22
 age: 23

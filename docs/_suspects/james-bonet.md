@@ -2,7 +2,7 @@
 name: James Bonet
 lastName: Bonet
 aka: 
-residence: 
+residence: New&nbsp;York
 status: Charged
 date: 2021-01-27
 age: 29

@@ -2,7 +2,7 @@
 name: Nicolas Moncada
 lastName: Moncada
 aka: 
-residence: 
+residence: New York
 status: Charged
 date: 2021-01-18
 age: 20

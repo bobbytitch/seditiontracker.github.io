@@ -2,7 +2,7 @@
 name: Patrick Stedman
 lastName: Stedman
 aka: 
-residence: 
+residence: New Jersey
 status: Charged
 date: 2021-01-21
 age: 32

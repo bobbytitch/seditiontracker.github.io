@@ -2,7 +2,7 @@
 name: Jeffrey Sabol
 lastName: Sabol
 aka: 
-residence: 
+residence: New York
 status: Charged
 date: 2021-01-22
 age: 51

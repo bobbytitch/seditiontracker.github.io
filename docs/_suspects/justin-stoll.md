@@ -2,7 +2,7 @@
 name: Justin Stoll
 lastName: Stoll
 aka: Th3Real Huckleberry
-residence: 
+residence: Ohio
 status: Charged
 date: 2021-01-15
 age: 40

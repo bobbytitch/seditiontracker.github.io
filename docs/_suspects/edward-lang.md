@@ -2,7 +2,7 @@
 name: Edward Lang
 lastName: Lang
 aka: Jake Lang
-residence: 
+residence: Washington
 status: Indicted
 date: 2021-01-16
 age: 25

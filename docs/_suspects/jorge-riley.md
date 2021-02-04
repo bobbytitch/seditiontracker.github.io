@@ -2,7 +2,7 @@
 name: Jorge Riley
 lastName: Riley
 aka: 
-residence: 
+residence: California
 status: Charged
 date: 2021-01-19
 age: 42

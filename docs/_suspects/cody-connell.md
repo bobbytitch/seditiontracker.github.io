@@ -2,7 +2,7 @@
 name: Cody Connell
 lastName: Connell
 aka: 
-residence: 
+residence: Louisiana
 status: Charged
 date: 2021-01-16
 age: 27

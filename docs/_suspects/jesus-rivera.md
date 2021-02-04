@@ -2,7 +2,7 @@
 name: Jesus Rivera
 lastName: Rivera
 aka: JD Rivera, Jesus Delmora Rivera
-residence: 
+residence: Florida
 status: Charged
 date: 2021-01-20
 age: 37

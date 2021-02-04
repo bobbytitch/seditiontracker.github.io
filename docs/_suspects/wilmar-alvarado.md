@@ -2,7 +2,7 @@
 name: Wilmar Alvarado
 lastName: Alvarado
 aka: Wilmar Montaro
-residence: 
+residence: Texas
 status: Charged
 date: 2021-01-29
 age: 37

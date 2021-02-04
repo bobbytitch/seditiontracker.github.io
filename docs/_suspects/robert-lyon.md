@@ -2,7 +2,7 @@
 name: Robert Lyon
 lastName: Lyon
 aka: 
-residence: 
+residence: Ohio
 status: Charged
 date: 2021-01-25
 age: 27

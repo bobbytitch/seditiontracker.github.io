@@ -2,7 +2,7 @@
 name: Dustin Thompson
 lastName: Thompson
 aka: 
-residence: 
+residence: Ohio
 status: Charged
 date: 2021-01-25
 age: 36

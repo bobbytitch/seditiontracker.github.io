@@ -2,7 +2,7 @@
 name: Edward Hemenway
 lastName: Hemenway
 aka: 
-residence: 
+residence: Virginia
 status: Charged
 date: 2021-01-15
 age: 3

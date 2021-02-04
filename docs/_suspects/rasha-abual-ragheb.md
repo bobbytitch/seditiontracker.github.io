@@ -2,7 +2,7 @@
 name: Rasha Abual-Ragheb
 lastName: Abual-Ragheb
 aka: 
-residence: 
+residence: New Jersey
 status: Charged
 date: 2021-01-19
 age: 40

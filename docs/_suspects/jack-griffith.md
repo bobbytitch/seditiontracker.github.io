@@ -2,7 +2,7 @@
 name: Jack Griffith
 lastName: Griffith
 aka: Juan Bibiano
-residence: 
+residence: Tennessee
 status: Charged
 date: 2021-01-16
 age: 25

@@ -2,7 +2,7 @@
 name: Jeffrey Smith
 lastName: Smith
 aka: Alex Smith
-residence: 
+residence: California
 status: Charged
 date: 2021-01-27
 age: 33

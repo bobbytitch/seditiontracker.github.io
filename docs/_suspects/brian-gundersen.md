@@ -2,7 +2,7 @@
 name: Brian Gundersen
 lastName: Gundersen
 aka: Brian Kristopher
-residence: 
+residence: New York
 status: Charged
 date: 2021-01-27
 age: 26

@@ -2,7 +2,7 @@
 name: David Mish
 lastName: Mish
 aka: 
-residence: 
+residence: Wisconsin
 status: Charged
 date: 2021-01-15
 age: 42

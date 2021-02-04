@@ -2,7 +2,7 @@
 name: Blake Reed
 lastName: Reed
 aka: 
-residence: 
+residence: Tennesee
 status: Charged
 date: 2021-01-17
 age: 35

@@ -1,19 +1,19 @@
 ---
 name: Dalton Crase
 lastName: Crase
-aka:
-residence:
+aka: 
+residence: Kentucky
 status: Charged
 date: 2021-02-01
 age: 21
-occupation:
+occupation: 
 affiliations: undefined
 jurisdiction: Federal
 image: dalton-crase.png
 preview: dalton-crase.png
-booking:
-courtroom:
-courthouse:
+booking: 
+courtroom: 
+courthouse: 
 quote: "I didn’t do anything violent, but I went into the building, so I did trespass."
 title: Dalton Crase charged on February 2nd, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

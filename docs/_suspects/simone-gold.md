@@ -2,7 +2,7 @@
 name: Simone Gold
 lastName: Gold
 aka: 
-residence: 
+residence: California
 status: Charged
 date: 2021-01-18
 age: 55

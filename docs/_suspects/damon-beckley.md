@@ -2,7 +2,7 @@
 name: Damon Beckley
 lastName: Beckley
 aka: 
-residence: 
+residence: Kentucky
 status: Charged
 date: 2021-01-16
 age: 52

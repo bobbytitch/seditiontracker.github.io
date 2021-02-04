@@ -2,7 +2,7 @@
 name: Garret Miller
 lastName: Miller
 aka: 
-residence: 
+residence: Texas
 status: Charged
 date: 2021-01-20
 age: 34

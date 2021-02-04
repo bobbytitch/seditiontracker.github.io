@@ -2,7 +2,7 @@
 name: Mark Leffingwell
 lastName: Leffingwell
 aka: 
-residence: 
+residence: Washington
 status: Indicted
 date: 2021-01-07
 age: 51

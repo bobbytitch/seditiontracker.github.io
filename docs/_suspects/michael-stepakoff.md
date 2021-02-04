@@ -2,7 +2,7 @@
 name: Michael Stepakoff
 lastName: Stepakoff
 aka: 
-residence: 
+residence: Florida
 status: Charged
 date: 2021-01-29
 age: 55

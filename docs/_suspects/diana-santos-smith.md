@@ -2,7 +2,7 @@
 name: Diana Santos-Smith
 lastName: Santos-Smith
 aka: 
-residence: 
+residence: Pennsylvania
 status: Charged
 date: 2021-01-29
 age: 

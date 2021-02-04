@@ -2,7 +2,7 @@
 name: Andrew Hatley
 lastName: Hatley
 aka: 
-residence: 
+residence: South Carolina
 status: Charged
 date: 2021-01-19
 age: 

@@ -2,7 +2,7 @@
 name: Samuel Fisher
 lastName: Fisher
 aka: Brad Holiday
-residence: 
+residence: New York
 status: Charged
 date: 2021-01-20
 age: 35

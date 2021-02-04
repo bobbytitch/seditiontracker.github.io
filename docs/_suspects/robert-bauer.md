@@ -2,7 +2,7 @@
 name: Robert Bauer
 lastName: Bauer
 aka: 
-residence: 
+residence: Kentucky
 status: Charged
 date: 2021-01-15
 age: 3

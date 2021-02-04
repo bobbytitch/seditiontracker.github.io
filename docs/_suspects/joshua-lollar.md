@@ -2,7 +2,7 @@
 name: Joshua Lollar
 lastName: Lollar
 aka: 
-residence: 
+residence: Texas
 status: Charged
 date: 2021-01-15
 age: 39

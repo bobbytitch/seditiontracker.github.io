@@ -2,10 +2,10 @@
 name: Jacob Chansley
 lastName: Chansley
 aka: Jake Angeli, Q Shaman
-residence: 
+residence: Arizona
 status: Indicted
 date: 2021-01-08
-age: 
+age: 0
 occupation: 
 affiliations: undefined
 jurisdiction: Federal

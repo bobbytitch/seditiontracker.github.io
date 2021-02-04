@@ -2,7 +2,7 @@
 name: Hunter Ehmke
 lastName: Ehmke
 aka: 
-residence: 
+residence: California
 status: Charged
 date: 2021-01-13
 age: 20

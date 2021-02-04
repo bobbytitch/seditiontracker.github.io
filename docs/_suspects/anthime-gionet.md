@@ -2,7 +2,7 @@
 name: Anthime Gionet
 lastName: Gionet
 aka: Tom Gionet, Baked Alaska
-residence: 
+residence: Arizona
 status: Charged
 date: 2021-01-16
 age: 33

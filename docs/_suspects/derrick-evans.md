@@ -2,7 +2,7 @@
 name: Derrick Evans
 lastName: Evans
 aka: 
-residence: 
+residence: West Virginia
 status: Charged
 date: 2021-01-08
 age: 35

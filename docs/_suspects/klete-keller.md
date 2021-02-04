@@ -2,7 +2,7 @@
 name: Klete Keller
 lastName: Keller
 aka: 
-residence: 
+residence: Colorado
 status: Charged
 date: 2021-01-13
 age: 38

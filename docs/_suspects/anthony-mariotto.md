@@ -1,20 +1,20 @@
 ---
 name: Anthony Mariotto
 lastName: Mariotto
-aka:
-residence:
+aka: 
+residence: Florida
 status: Charged
 date: 2021-01-22
 age: 13
-occupation:
+occupation: 
 affiliations: undefined
 jurisdiction: Federal
 image: 135.png
 preview: 135.png
-booking:
-courtroom:
-courthouse:
-quote:
+booking: 
+courtroom: 
+courthouse: 
+quote: 
 title: Anthony Mariotto charged on January 22nd, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

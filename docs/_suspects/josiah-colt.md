@@ -2,7 +2,7 @@
 name: Josiah Colt
 lastName: Colt
 aka: 
-residence: 
+residence: Idaho
 status: Charged
 date: 2021-01-12
 age: 34

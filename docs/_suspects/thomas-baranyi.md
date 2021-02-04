@@ -2,7 +2,7 @@
 name: Thomas Baranyi
 lastName: Baranyi
 aka: 
-residence: 
+residence: New Jersey
 status: Charged
 date: 2021-01-12
 age: 28

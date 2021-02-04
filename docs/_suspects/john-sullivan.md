@@ -2,7 +2,7 @@
 name: John Sullivan
 lastName: Sullivan
 aka: 
-residence: 
+residence: Utah
 status: Charged
 date: 2021-01-13
 age: 26

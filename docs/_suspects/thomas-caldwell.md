@@ -2,7 +2,7 @@
 name: Thomas Caldwell
 lastName: Caldwell
 aka: 
-residence: 
+residence: Virginia
 status: Indicted
 date: 2021-01-19
 age: 66

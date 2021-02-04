@@ -2,7 +2,7 @@
 name: Jacob Lewis
 lastName: Lewis
 aka: 
-residence: 
+residence: California
 status: Charged
 date: 2021-01-27
 age: 37

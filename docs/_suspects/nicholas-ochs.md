@@ -2,7 +2,7 @@
 name: Nicholas Ochs
 lastName: Ochs
 aka: 
-residence: 
+residence: Hawaii
 status: Indicted
 date: 2021-01-07
 age: 34

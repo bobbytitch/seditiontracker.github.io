@@ -2,7 +2,7 @@
 name: Melody Steele-Smith
 lastName: Steele-Smith
 aka: 
-residence: 
+residence: Virginia
 status: Charged
 date: 2021-01-20
 age: 

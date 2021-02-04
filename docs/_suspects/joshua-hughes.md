@@ -2,7 +2,7 @@
 name: Joshua Hughes
 lastName: Hughes
 aka: 
-residence: 
+residence: Montana
 status: Charged
 date: 2021-01-28
 age: 

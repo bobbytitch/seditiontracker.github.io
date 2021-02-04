@@ -2,7 +2,7 @@
 name: Gina Bisignano
 lastName: Bisignano
 aka: 
-residence: 
+residence: California
 status: Indicted
 date: 2021-01-19
 age: 52

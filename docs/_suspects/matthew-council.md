@@ -2,7 +2,7 @@
 name: Matthew Council
 lastName: Council
 aka: 
-residence: 
+residence: Florida
 status: Charged
 date: 2021-01-14
 age: 49

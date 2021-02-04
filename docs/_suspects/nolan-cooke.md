@@ -1,20 +1,20 @@
 ---
 name: Nolan Cooke
 lastName: Cooke
-aka:
-residence:
+aka: 
+residence: Texas
 status: Charged
 date: 2020-01-21
-age:
-occupation:
-affiliations:
+age: 
+occupation: 
+affiliations: 
 jurisdiction: Federal
 image: nolan-cooke.jpg
 preview: nolan-cooke.jpg
-booking:
-courtroom:
-courthouse:
-quote:
+booking: 
+courtroom: 
+courthouse: 
+quote: 
 title: Nolan Cooke charged on January 21st, 2020
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

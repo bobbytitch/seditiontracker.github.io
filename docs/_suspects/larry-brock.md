@@ -2,10 +2,10 @@
 name: Larry Brock
 lastName: Brock
 aka: 
-residence: 
+residence: Texas
 status: Charged
 date: 2021-01-09
-age: 
+age: 0
 occupation: 
 affiliations: undefined
 jurisdiction: Federal

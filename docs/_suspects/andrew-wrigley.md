@@ -2,7 +2,7 @@
 name: Andrew Wrigley
 lastName: Wrigley
 aka: 
-residence: 
+residence: Pennsylvania
 status: Charged
 date: 2021-01-15
 age: 50

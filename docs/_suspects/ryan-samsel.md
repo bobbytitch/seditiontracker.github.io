@@ -2,7 +2,7 @@
 name: Ryan Samsel
 lastName: Samsel
 aka: 
-residence: 
+residence: Pennsylvania&nbsp;
 status: Charged
 date: 2021-01-30
 age: 37

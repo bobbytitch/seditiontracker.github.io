@@ -2,7 +2,7 @@
 name: Robert Gieswein
 lastName: Gieswein
 aka: Machine Gun Bobby
-residence: 
+residence: Colorado
 status: Indicted
 date: 2021-01-16
 age: 24

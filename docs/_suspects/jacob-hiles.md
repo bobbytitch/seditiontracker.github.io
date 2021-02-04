@@ -2,7 +2,7 @@
 name: Jacob Hiles
 lastName: Hiles
 aka: 
-residence: 
+residence: Virginia
 status: Charged
 date: 2021-01-19
 age: 8

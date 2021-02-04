@@ -2,7 +2,7 @@
 name: Mark Simon
 lastName: Simon
 aka: 
-residence: 
+residence: California
 status: Charged
 date: 2021-01-28
 age: 

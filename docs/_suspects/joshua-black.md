@@ -2,7 +2,7 @@
 name: Joshua Black
 lastName: Black
 aka: 
-residence: 
+residence: Alabama
 status: Charged
 date: 2021-01-14
 age: 44

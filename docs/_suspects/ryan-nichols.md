@@ -2,7 +2,7 @@
 name: Ryan Nichols
 lastName: Nichols
 aka: 
-residence: 
+residence: Texas
 status: Charged
 date: 2021-01-18
 age: 30

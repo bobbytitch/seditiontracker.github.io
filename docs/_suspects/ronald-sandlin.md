@@ -2,7 +2,7 @@
 name: Ronald Sandlin
 lastName: Sandlin
 aka: 
-residence: 
+residence: Tennessee
 status: Charged
 date: 2021-01-28
 age: 

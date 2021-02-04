@@ -2,7 +2,7 @@
 name: Albert Ciarpelli
 lastName: Ciarpelli
 aka: 
-residence: 
+residence: New York
 status: Charged
 date: 2021-01-21
 age: 65

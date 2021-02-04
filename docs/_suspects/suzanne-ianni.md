@@ -2,7 +2,7 @@
 name: Suzanne Ianni
 lastName: Ianni
 aka: 
-residence: 
+residence: Massachusetts
 status: Charged
 date: 2021-01-19
 age: 59

@@ -2,7 +2,7 @@
 name: Henry Muntzer
 lastName: Muntzer
 aka: 
-residence: 
+residence: Montana
 status: Charged
 date: 2021-01-18
 age: 52

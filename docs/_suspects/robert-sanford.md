@@ -2,7 +2,7 @@
 name: Robert Sanford
 lastName: Sanford
 aka: 
-residence: 
+residence: Pennsylvania
 status: Charged
 date: 2021-01-14
 age: 55

@@ -2,7 +2,7 @@
 name: Riley Williams
 lastName: Williams
 aka: 
-residence: 
+residence: Pennsylvania
 status: Charged
 date: 2021-01-17
 age: 22

@@ -2,7 +2,7 @@
 name: Andrew Williams
 lastName: Williams
 aka: 
-residence: 
+residence: Florida
 status: Charged
 date: 2021-01-12
 age: 1

@@ -2,7 +2,7 @@
 name: Michael Foy
 lastName: Foy
 aka: 
-residence: 
+residence: Michigan
 status: Charged
 date: 2021-01-21
 age: 8

@@ -2,7 +2,7 @@
 name: John Strand
 lastName: Strand
 aka: 
-residence: 
+residence: California
 status: Charged
 date: 2021-01-18
 age: 37

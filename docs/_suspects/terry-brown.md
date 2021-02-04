@@ -2,7 +2,7 @@
 name: Terry Brown
 lastName: Brown
 aka: 
-residence: 
+residence: Pennsylvania
 status: Charged
 date: 2021-01-11
 age: 69

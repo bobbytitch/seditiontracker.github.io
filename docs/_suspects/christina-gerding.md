@@ -2,7 +2,7 @@
 name: Christina Gerding
 lastName: Gerding
 aka: 
-residence: 
+residence: Illinois
 status: Charged
 date: 2021-01-28
 age: 

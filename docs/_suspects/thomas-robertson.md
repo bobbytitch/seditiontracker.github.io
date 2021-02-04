@@ -2,7 +2,7 @@
 name: Thomas Robertson
 lastName: Robertson
 aka: TJ Robertson
-residence:
+residence: Virginia
 status: Charged
 date: 2021-01-13
 age: 47
@@ -11,9 +11,9 @@ affiliations: Rocky Mount Police Department
 jurisdiction: Federal
 image: 019.jpg
 preview: 019.jpg
-booking:
-courtroom:
-courthouse:
+booking: 
+courtroom: 
+courthouse: 
 quote: "If you are too much of a coward to risk arrest, being fired, and actual gunfire to secure your rights, you have no words to speak I value."
 title: Thomas Robertson charged on January 13, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

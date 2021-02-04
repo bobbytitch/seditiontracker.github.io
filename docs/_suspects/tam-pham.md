@@ -2,7 +2,7 @@
 name: Tam Pham
 lastName: Pham
 aka: 
-residence: 
+residence: Texas
 status: Charged
 date: 2021-01-19
 age: 48

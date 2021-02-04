@@ -2,7 +2,7 @@
 name: Patrick Montgomery
 lastName: Montgomery
 aka: 
-residence: 
+residence: Colorado
 status: Charged
 date: 2021-01-17
 age: 48

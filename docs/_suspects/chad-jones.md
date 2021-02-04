@@ -2,7 +2,7 @@
 name: Chad Jones
 lastName: Jones
 aka: 
-residence: 
+residence: Kentucky
 status: Charged
 date: 2021-01-16
 age: 42

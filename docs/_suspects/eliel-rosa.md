@@ -2,7 +2,7 @@
 name: Eliel Rosa
 lastName: Rosa
 aka: 
-residence: 
+residence: Texas
 status: Charged
 date: 2021-01-13
 age: 3

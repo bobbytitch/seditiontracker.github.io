@@ -2,7 +2,7 @@
 name: Bradley Rukstales
 lastName: Rukstales
 aka: Brad Rukstales
-residence: 
+residence: Illinois
 status: Charged
 date: 2021-01-07
 age: 52

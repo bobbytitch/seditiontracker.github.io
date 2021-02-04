@@ -2,7 +2,7 @@
 name: Troy Williams
 lastName: Williams
 aka: 
-residence: 
+residence: Kentucky
 status: Charged
 date: 2021-02-01
 age: 25

@@ -2,7 +2,7 @@
 name: Thomas Gallagher
 lastName: Gallagher
 aka: 
-residence: 
+residence: New Hampshire
 status: Charged
 date: 2021-01-21
 age: 61

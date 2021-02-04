@@ -2,7 +2,7 @@
 name: Troy Faulkner
 lastName: Faulkner
 aka: 
-residence: 
+residence: Ohio
 status: Charged
 date: 2021-01-26
 age: 39

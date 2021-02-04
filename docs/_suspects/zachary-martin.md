@@ -2,7 +2,7 @@
 name: Zachary Martin
 lastName: Martin
 aka: Zac Martin
-residence: 
+residence: Missouri
 status: Charged
 date: 2021-01-28
 age: 

@@ -2,7 +2,7 @@
 name: Matthew Bledsoe
 lastName: Bledsoe
 aka: 
-residence: 
+residence: Tennessee
 status: Charged
 date: 2021-01-15
 age: 3

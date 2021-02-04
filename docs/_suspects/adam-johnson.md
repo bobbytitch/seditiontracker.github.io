@@ -2,7 +2,7 @@
 name: Adam Johnson
 lastName: Johnson
 aka: 
-residence: 
+residence: Florida
 status: Charged
 date: 2021-01-07
 age: 36

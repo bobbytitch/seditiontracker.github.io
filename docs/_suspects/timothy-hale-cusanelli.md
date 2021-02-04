@@ -2,7 +2,7 @@
 name: Timothy Hale-Cusanelli
 lastName: Hale-Cusanelli
 aka: Based Hermes
-residence: 
+residence: New Jersey
 status: Indicted
 date: 2021-01-17
 age: 30

@@ -2,7 +2,7 @@
 name: Kenneth Grayson
 lastName: Grayson
 aka: 
-residence: 
+residence: Pennsylvania
 status: Charged
 date: 2021-01-26
 age: 51

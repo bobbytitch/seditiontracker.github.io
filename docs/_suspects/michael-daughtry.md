@@ -2,7 +2,7 @@
 name: Michael Daughtry
 lastName: Daughtry
 aka: 
-residence: 
+residence: Georgia
 status: Charged
 date: 2021-01-15
 age: 58

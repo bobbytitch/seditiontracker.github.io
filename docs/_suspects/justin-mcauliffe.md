@@ -2,7 +2,7 @@
 name: Justin Mcauliffe
 lastName: Mcauliffe
 aka: 
-residence: 
+residence: New York
 status: Charged
 date: 2021-01-28
 age: 39

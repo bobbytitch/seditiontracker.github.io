@@ -2,7 +2,7 @@
 name: Robert Packer
 lastName: Packer
 aka: 
-residence: 
+residence: Virginia
 status: Charged
 date: 2021-01-13
 age: 56

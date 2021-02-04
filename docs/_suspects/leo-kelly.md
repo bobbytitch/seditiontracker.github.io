@@ -2,7 +2,7 @@
 name: Leo Kelly
 lastName: Kelly
 aka: 
-residence: 
+residence: Iowa
 status: Charged
 date: 2021-01-18
 age: 6

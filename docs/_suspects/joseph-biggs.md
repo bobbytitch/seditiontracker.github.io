@@ -2,7 +2,7 @@
 name: Joseph Biggs
 lastName: Biggs
 aka: 
-residence: 
+residence: Florida
 status: Charged
 date: 2021-01-20
 age: 37

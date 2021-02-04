@@ -2,7 +2,7 @@
 name: Samuel Camargo
 lastName: Camargo
 aka: 
-residence: 
+residence: Florida
 status: Charged
 date: 2021-01-20
 age: 8

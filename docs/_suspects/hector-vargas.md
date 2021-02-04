@@ -2,7 +2,7 @@
 name: Hector Vargas
 lastName: Vargas
 aka: 
-residence: 
+residence: New Jersey
 status: Charged
 date: 2021-01-22
 age: 28

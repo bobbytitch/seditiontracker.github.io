@@ -2,7 +2,7 @@
 name: Troy Smocks
 lastName: Smocks
 aka: ColonelTPerez
-residence: 
+residence: Texas
 status: Charged
 date: 2021-01-15
 age: 58

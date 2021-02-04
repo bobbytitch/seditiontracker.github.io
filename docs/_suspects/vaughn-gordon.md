@@ -2,7 +2,7 @@
 name: Vaughn Gordon
 lastName: Gordon
 aka: 
-residence: 
+residence: Louisiana
 status: Charged
 date: 2021-01-14
 age: 50

@@ -1,8 +1,8 @@
 ---
 name: Donovan Crowl
 lastName: Crowl
-aka:
-residence:
+aka: 
+residence: Ohio
 status: Indicted
 date: 2021-01-17
 age: 50
@@ -12,8 +12,8 @@ jurisdiction: Federal
 image: 024.jpg
 preview: 024.jpg
 booking: donovan-crowl.png
-courtroom:
-courthouse:
+courtroom: 
+courthouse: 
 quote: "We protected the fucking Capitol Hill police"
 title: Donovan Crowl charged on January 17, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

@@ -2,7 +2,7 @@
 name: Douglas Jensen
 lastName: Jensen
 aka: 
-residence: 
+residence: Iowa
 status: Indicted
 date: 2021-01-09
 age: 41

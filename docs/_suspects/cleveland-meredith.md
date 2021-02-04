@@ -1,8 +1,8 @@
 ---
 name: Cleveland Meredith
 lastName: Meredith
-aka:
-residence:
+aka: 
+residence: Colorado
 status: Charged
 date: 2021-01-08
 age: 53
@@ -13,7 +13,7 @@ image: cleveland-meredith.png
 preview: cleveland-meredith.png
 booking: cleveland-meredith.png
 courtroom: cleveland-meredith.png
-courthouse:
+courthouse: 
 quote: "Thinking about heading over to Pelosi CUNT’s speech and putting a bullet in her noggin on Live TV [purple devil emoji]."
 title: Cleveland Meredith charged on January 8th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

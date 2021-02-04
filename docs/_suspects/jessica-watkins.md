@@ -2,7 +2,7 @@
 name: Jessica Watkins
 lastName: Watkins
 aka: 
-residence: 
+residence: Ohio
 status: Indicted
 date: 2021-01-17
 age: 38

@@ -2,7 +2,7 @@
 name: Jenny Cudd
 lastName: Cudd
 aka: 
-residence: 
+residence: Texas
 status: Indicted
 date: 2021-01-13
 age: 36

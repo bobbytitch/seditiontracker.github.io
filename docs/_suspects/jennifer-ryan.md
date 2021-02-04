@@ -2,7 +2,7 @@
 name: Jennifer Ryan
 lastName: Ryan
 aka: Jenna Ryan
-residence: 
+residence: Texas
 status: Charged
 date: 2021-01-15
 age: 3
