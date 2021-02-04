@@ -1,20 +1,20 @@
 ---
 name: Jason Hyland
 lastName: Hyland
-aka: 
-residence: 
+aka:
+residence:
 status: Charged
 date: 2021-02-02
-age: 
-occupation: 
-affiliations: 
-jurisdiction: 
-image: 
-preview: 
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+age:
+occupation:
+affiliations:
+jurisdiction: Federal
+image: jason-hyland.jpg
+preview: jason-hyland.jpg
+booking:
+courtroom:
+courthouse:
+quote:
 title: Jason Hyland charged on February 2nd, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

@@ -1,20 +1,20 @@
 ---
 name: Peter Schwartz
 lastName: Schwartz
-aka: 
-residence: 
+aka:
+residence:
 status: Charged
 date: 2021-02-04
-age: 
-occupation: 
-affiliations: 
-jurisdiction: 
-image: 
-preview: 
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+age:
+occupation:
+affiliations:
+jurisdiction: Federal
+image: pete-schwartz.jpg
+preview: pete-schwartz.jpg
+booking:
+courtroom:
+courthouse:
+quote:
 title: Peter Schwartz charged on February 4th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
