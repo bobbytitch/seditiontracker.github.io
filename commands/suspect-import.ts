@@ -17,7 +17,7 @@ const importSuspects = async() => {
   info("Reading list of current suspects");
 
   await importDoj(getNameSet());
-  // await importGw(getNameSet());
+  await importGw(getNameSet());
   // await importUSA(getNameSet());
 }
 
@@ -181,6 +181,7 @@ const falsePositives = (site: string) => {
       set.add("DeCarlo");
       set.add("DeGrave");
       set.add("Fichett");
+      set.add("Madden");
       set.add("Phipps");
       set.add("Rodean");
       set.add("Sidorsky");
@@ -280,19 +281,19 @@ const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, re
   }
 
   // pick up any new links
-  for (const [type, url] of Object.entries(links)) {
-    if (!suspect.links[type]) {
-      console.log(`${suspect.name}: ${type}`);
-      suspect.links[type] = <string>url
+  // for (const [type, url] of Object.entries(links)) {
+  //   if (!suspect.links[type]) {
+  //     console.log(`${suspect.name}: ${type}`);
+  //     suspect.links[type] = <string>url
 
-      if (type == "Indictment") {
-        suspect.status = "Indicted"
-        execSync(`yarn suspect preview -f ${suspect.preview} -s ${suspect.status}`)
-      }
+  //     if (type == "Indictment") {
+  //       suspect.status = "Indicted"
+  //       execSync(`yarn suspect preview -f ${suspect.preview} -s ${suspect.status}`)
+  //     }
 
-      updateSuspect(suspect)
-    }
-  }
+  //     updateSuspect(suspect)
+  //   }
+  // }
 
   // TODO - replace non DOJ links
 }

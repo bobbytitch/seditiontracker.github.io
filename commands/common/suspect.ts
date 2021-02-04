@@ -100,9 +100,11 @@ const cleanSuspect = (suspect: Suspect) => {
   const fields = ["aka", "residence", "date", "age", "occupation", "affiliation", "jurisdiction", "image", "preview", "booking", "courtroom", "courthouse", "quote", "affiliations"]
   for (const field of fields) {
     if (isEmpty(suspect[field])) {
+      if (Number.isInteger(suspect[field])) {
+        continue;
+      }
       suspect[field] = ""
     }
-    // suspect[field] = suspect[field] || ""
   }
 }
 
