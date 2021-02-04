@@ -16,7 +16,6 @@ courtroom:
 layout: suspect
 title: Anthony Mariotto charged on January 22nd, 2021
 preview: 135.png
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

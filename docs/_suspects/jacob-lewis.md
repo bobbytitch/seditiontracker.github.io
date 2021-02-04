@@ -16,7 +16,6 @@ courtroom:
 layout: suspect
 title: Jacob Lewis charged on January 27th, 2021
 preview: jacob-lewis.png
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

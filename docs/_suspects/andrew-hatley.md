@@ -16,7 +16,6 @@ courtroom:
 layout: suspect
 title: Andrew Hatley charged on January 19th, 2021
 preview: andrew-hatley.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "It has come to my attention that there was someone who looks like me at the Capitol."
 author: seditiontrack
 published: true

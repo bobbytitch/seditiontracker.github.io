@@ -11,7 +11,6 @@ courtroom: jacob-chansley.png
 layout: suspect
 title: Jacob Anthony Chansley charged on January 8, 2021
 preview: 003.jpg
-description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
 ---
 

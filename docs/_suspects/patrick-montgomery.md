@@ -16,7 +16,6 @@ courtroom:
 layout: suspect
 title: Patrick Montgomery charged on January 17th, 2021
 preview: patrick-montgomery.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We stormed the Senate ... opened those Chamber door for Transparency!"
 author: seditiontrack
 published: true

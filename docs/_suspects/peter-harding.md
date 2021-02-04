@@ -13,7 +13,6 @@ booking: peter-harding.jpg
 layout: suspect
 title: Peter Harding charged on January 14, 2021
 preview: 045.png
-description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "We took the rest of the media equipment that was there. We put it into a pile. That was a symbolic gesture."
 author: seditiontrack
 published: true

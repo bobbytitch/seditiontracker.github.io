@@ -19,7 +19,6 @@ courthouse:
 layout: suspect
 title: Diana Santos-smith charged on January 29th, 2021
 preview: diana-santos-smith.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

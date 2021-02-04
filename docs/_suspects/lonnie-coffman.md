@@ -17,7 +17,6 @@ courtroom:
 layout: suspect
 title: Lonnie Coffman charged on January 7th, 2021
 preview: lonnie-coffman.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

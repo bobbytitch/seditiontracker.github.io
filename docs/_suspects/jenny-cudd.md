@@ -12,7 +12,6 @@ after:
 layout: suspect
 title: Jenny Cudd charged on January 13, 2021
 preview: 011.jpg
-description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 quote: "I walked through an open door into the Capitol along with several hundred other people"
 ---

@@ -16,7 +16,6 @@ courtroom:
 layout: suspect
 title: Patricia Todisco  charged on January 22, 2021
 preview: 109.png
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

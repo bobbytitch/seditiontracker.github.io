@@ -14,7 +14,6 @@ courtroom: dominic-pezzola.png
 layout: suspect
 title: Dominic Pezzola charged on January 15, 2021
 preview: 033.jpg
-description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Victory smoke in the Capitol, boys. This is
 fucking awesome. I knew we could take this motherfucker over [if we] just tried hard enough."
 author: seditiontrack

@@ -13,7 +13,6 @@ after:
 layout: suspect
 title: Emanuel Jackson charged on January 18, 2021
 preview: 066.jpg
-description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

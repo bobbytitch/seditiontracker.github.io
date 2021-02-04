@@ -16,7 +16,6 @@ courtroom:
 layout: suspect
 title: Hunter Ehmke charged on January 13th, 2021
 preview: arrest.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

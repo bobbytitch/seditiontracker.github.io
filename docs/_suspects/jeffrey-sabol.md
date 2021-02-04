@@ -15,7 +15,6 @@ booking:
 layout: suspect
 title: Jeffrey Sabol charged on January 22, 2021
 preview: 106.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

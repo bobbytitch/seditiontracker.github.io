@@ -13,7 +13,6 @@ booking: bryan-betancur.jpg
 layout: suspect
 title: Bryan Betancur charged on January 17, 2021
 preview: 061.jpg
-description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

@@ -16,7 +16,6 @@ courtroom:
 layout: suspect
 title: Albert Ciarpelli charged on January 21, 2021
 preview: 118.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

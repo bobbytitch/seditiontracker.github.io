@@ -19,7 +19,6 @@ courthouse:
 layout: suspect
 title: Troy Faulkner charged on January 26th, 2021
 preview: troy-faulkner.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We weren’t fighting against antifa we’re fighting against the government"
 author: seditiontrack
 published: true

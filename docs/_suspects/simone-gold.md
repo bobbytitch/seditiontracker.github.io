@@ -13,7 +13,6 @@ after:
 layout: suspect
 title: Simone Gold charged on January 18, 2021
 preview: 071.jpg
-description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "I do regret being there"
 author: seditiontrack
 published: true

@@ -13,7 +13,6 @@ after:
 layout: suspect
 title: William Pepe charged on January 12, 2021
 preview: 015.jpg
-description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 ---
 

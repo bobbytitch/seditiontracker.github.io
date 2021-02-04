@@ -16,7 +16,6 @@ courtroom:
 layout: suspect
 title: Joshua Wagner charged on January 26th, 2021
 preview: joshua-wagner.png
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

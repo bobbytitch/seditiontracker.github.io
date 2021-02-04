@@ -18,7 +18,6 @@ courtroom:
 layout: suspect
 title: Jerod Hughes charged on January 28, 2021
 preview: jerod-hughes.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

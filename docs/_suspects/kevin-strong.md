@@ -14,7 +14,6 @@ booking:
 layout: suspect
 title: Kevin Strong charged on January 22, 2021
 preview: 103.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

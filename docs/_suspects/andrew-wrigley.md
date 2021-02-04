@@ -16,7 +16,6 @@ courtroom:
 layout: suspect
 title: Andrew Wrigley charged on January 15th, 2021
 preview: 141.png
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "At the protest in D.C., I went inside the capitol building and got teargassed"
 author: seditiontrack
 published: true

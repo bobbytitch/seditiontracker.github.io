@@ -16,7 +16,6 @@ courtroom: william-calhoun.png
 layout: suspect
 title: William Calhoun charged on January 15, 2021
 preview: 107.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We physically took control of the Capitol Building in a hand to hand hostile takeover."
 author: seditiontrack
 published: true

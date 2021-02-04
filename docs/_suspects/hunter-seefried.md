@@ -14,7 +14,6 @@ courthouse: hunter-seefried.jpg
 layout: suspect
 title: Hunter Seefried charged on January 14, 2021
 preview: hunter-seefried.png
-description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

@@ -11,7 +11,6 @@ after: derek-evans.jpg
 layout: suspect
 title: Derrick Evans charged on January 8, 2021
 preview: 005.jpg
-description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
 ---
 

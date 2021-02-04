@@ -14,7 +14,6 @@ courtroo: david-mish.jpg
 layout: suspect
 title: David Mish charged on January 15, 2021
 preview: 043.jpg
-description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Because I entered the Capitol Building are you guys gonna take me to jail?"
 author: seditiontrack
 published: true

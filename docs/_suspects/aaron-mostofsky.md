@@ -11,7 +11,6 @@ layout: suspect
 courtoom: aaron-mostofsky.webp
 title: Aaron Mostofsky charged on January 11, 2021
 preview: 008.jpg
-description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
 ---
 

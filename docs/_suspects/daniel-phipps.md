@@ -16,7 +16,6 @@ courtroom:
 layout: suspect
 title: Daniel Phipps charged on January 26th, 2021
 preview: daniel-phipps.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "I went to DC. I helped take the Hill."
 author: seditiontrack
 published: true

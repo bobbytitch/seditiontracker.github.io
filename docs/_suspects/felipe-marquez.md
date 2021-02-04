@@ -13,7 +13,6 @@ after:
 layout: suspect
 title: Felipe Marquez charged on January 19, 2021
 preview: 088.png
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

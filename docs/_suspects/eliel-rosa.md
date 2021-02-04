@@ -13,7 +13,6 @@ after:
 layout: suspect
 title: Eliel Rosa charged on January 13, 2021
 preview: 030.png
-description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

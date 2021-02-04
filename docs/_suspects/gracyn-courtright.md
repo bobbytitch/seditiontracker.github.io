@@ -13,7 +13,6 @@ after:
 layout: suspect
 title: Gracyn Courtright charged on January 16, 2021
 preview: 065.png
-description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Can't wait to tell my grandkids I was here!"
 author: seditiontrack
 published: true

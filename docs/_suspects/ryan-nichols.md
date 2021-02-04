@@ -13,7 +13,6 @@ booking: ryan-nichols.jpg
 layout: suspect
 title: Ryan Nichols charged on January 18, 2021
 preview: 067.jpg
-description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "If you have a weapon, you need to get your weapon!"
 author: seditiontrack
 published: true

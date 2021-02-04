@@ -13,7 +13,6 @@ courtroom: tam-pham.jpg
 layout: suspect
 title: Tam Pham charged on January 19, 2021
 preview: 069.jpg
-description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "I shouldn’t have done it. I was there to take pictures."
 author: seditiontrack
 published: true

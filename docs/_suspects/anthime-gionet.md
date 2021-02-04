@@ -13,7 +13,6 @@ after:
 layout: suspect
 title: Anthime Joseph Gionet charged on January 14, 2021
 preview: 023.png
-description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack
 quote: "You're not allowed to shove me"

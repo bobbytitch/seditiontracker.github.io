@@ -13,7 +13,6 @@ after:
 layout: suspect
 title: Joshua Black charged on January 14, 2021
 preview: 029.png
-description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "I wanted to get inside the building so I could plead the blood of Jesus over it. That was my goal."
 author: seditiontrack
 published: true

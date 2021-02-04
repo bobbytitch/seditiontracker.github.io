@@ -16,7 +16,6 @@ courtroom:
 layout: suspect
 title: Jordan Revlett charged on January 25th, 2021
 preview: jordan-revlett.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

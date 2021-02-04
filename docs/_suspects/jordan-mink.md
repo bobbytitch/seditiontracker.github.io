@@ -13,7 +13,6 @@ after:
 layout: suspect
 title: Jordan Mink charged on January 19, 2021
 preview: 084.png
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "The ballot is stronger than the bullet. Well … my magazines will be fully loaded just in case it’s not."
 author: seditiontrack
 published: true

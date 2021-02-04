@@ -16,7 +16,6 @@ courtroom:
 layout: suspect
 title: Nolan Cooke charged on January 21, 2021
 preview: 111.png
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "I wouldn’t want anyone other than you with me to take on the revolution."
 author: seditiontrack
 published: true

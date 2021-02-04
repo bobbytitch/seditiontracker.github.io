@@ -18,7 +18,6 @@ courtroom:
 layout: suspect
 title: Nathaniel Degrave charged on January 28th, 2021
 preview: nathaniel-degrave.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We are out here protecting our country, if shit goes down, if Pence does what we think he is going to do"
 author: seditiontrack
 published: true

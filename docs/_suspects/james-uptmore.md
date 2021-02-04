@@ -16,7 +16,6 @@ courtroom:
 layout: suspect
 title: James Uptmore charged on January 26th, 2021
 preview: james-uptmore.png
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

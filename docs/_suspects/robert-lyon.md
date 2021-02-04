@@ -18,7 +18,6 @@ courtroom:
 layout: suspect
 title: Robert Lyon charged on January 25th, 2021
 preview: robert-lyon.png
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

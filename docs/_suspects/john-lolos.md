@@ -18,7 +18,6 @@ courtroom:
 layout: suspect
 title: John Lolos charged on January 9th, 2021
 preview: john-lolos.jpg
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

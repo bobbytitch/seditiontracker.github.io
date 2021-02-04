@@ -18,7 +18,6 @@ courtroom:
 layout: suspect
 title: Michael Stepakoff charged on January 29th, 2021
 preview: michael-stepakoff.png
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

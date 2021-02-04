@@ -16,7 +16,6 @@ courtroom:
 layout: suspect
 title: Valerie Ehrke charged on January 19th, 2021
 preview: valerie-ehrke.png
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "I took off when I felt pepper spray in my throat! Lol."
 author: seditiontrack
 published: true

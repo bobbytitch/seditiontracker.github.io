@@ -19,7 +19,6 @@ courthouse:
 layout: suspect
 title: Zachary Alam charged on January 30th, 2021
 preview: zachary-alam.png
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Fuck the blue!"
 author: seditiontrack
 published: true

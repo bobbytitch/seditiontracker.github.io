@@ -16,7 +16,6 @@ courtroom:
 layout: suspect
 title: Garret Miller charged on January 20, 2021
 preview: 110.png
-description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Nah we stormed it"
 author: seditiontrack
 published: true
