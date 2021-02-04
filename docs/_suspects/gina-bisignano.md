@@ -14,6 +14,7 @@ raid: gina-bisignano.jpg
 layout: suspect
 title: Gina Bisigano charged on January 19, 2021
 preview: 070.jpg
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Everybody, we need gas masks, we need weapons."
 author: seditiontrack
 published: true

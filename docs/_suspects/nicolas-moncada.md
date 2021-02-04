@@ -16,6 +16,7 @@ courtroom: nicolas-moncanda.jpg
 layout: suspect
 title: Nicolas Moncada charged on January 18th, 2021
 preview: nicolas-moncada.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

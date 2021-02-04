@@ -13,6 +13,7 @@ after:
 layout: suspect
 title: Robert Sanford charged on January 14, 2021
 preview: 021.jpg
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack
 ---

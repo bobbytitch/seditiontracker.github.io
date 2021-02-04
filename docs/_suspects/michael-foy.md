@@ -13,6 +13,7 @@ after:
 layout: suspect
 title: Michael Foy charged on January 21, 2021
 preview: 083.png
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

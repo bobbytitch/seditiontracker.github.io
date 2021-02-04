@@ -16,6 +16,7 @@ courtroom:
 layout: suspect
 title: Thomas Gallagher charged on January 21st, 2021
 preview: thomas-gallagher.png
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

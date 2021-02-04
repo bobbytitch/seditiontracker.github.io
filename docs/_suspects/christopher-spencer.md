@@ -14,6 +14,7 @@ raid:
 layout: suspect
 title: Christopher Spencer charged on January 19, 2021
 preview: 099.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Where’s Nancy’s office?"
 author: seditiontrack
 published: true

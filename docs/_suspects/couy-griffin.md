@@ -13,6 +13,7 @@ after: couy-griffin.png
 layout: suspect
 title: Couy Griffin charged on January 17, 2021
 preview: 054.jpg
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "I didn't break anything. I didn't assault anybody."
 author: seditiontrack
 published: true

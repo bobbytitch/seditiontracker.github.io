@@ -13,6 +13,7 @@ after:
 layout: suspect
 title: Kash Kelly charged on January 14, 2021
 preview: 040.png
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

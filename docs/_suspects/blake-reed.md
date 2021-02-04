@@ -13,6 +13,7 @@ booking: blake-reed.jpg
 layout: suspect
 title: Blake Reed charged on January 17, 2021
 preview: 052.jpg
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "We The People took the Capitol!"
 author: seditiontrack
 published: true

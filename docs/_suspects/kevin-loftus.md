@@ -13,6 +13,7 @@ after:
 layout: suspect
 title: Kevin Loftus charged on January 12, 2021
 preview: 017.png
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack
 ---

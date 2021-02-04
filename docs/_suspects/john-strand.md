@@ -13,6 +13,7 @@ after:
 layout: suspect
 title: John Strand charged on January 18, 2021
 preview: 072.png
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

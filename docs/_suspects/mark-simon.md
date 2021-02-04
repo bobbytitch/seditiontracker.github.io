@@ -18,6 +18,7 @@ courtroom:
 layout: suspect
 title: Mark Simon charged on January 28th, 2021
 preview: mark-simon.png
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "In the Capitol baby, yeah!"
 author: seditiontrack
 published: true

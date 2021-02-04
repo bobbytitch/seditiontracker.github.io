@@ -16,6 +16,7 @@ courtroom:
 layout: suspect
 title: Cindy Fitchett charged on January 21st, 2021
 preview: 129.png
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

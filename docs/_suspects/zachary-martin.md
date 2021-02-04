@@ -18,6 +18,7 @@ courtroom:
 layout: suspect
 title: Zachary Martin charged on January 28th, 2021
 preview: zachary-martin.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

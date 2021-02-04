@@ -13,6 +13,7 @@ booking: vaughn-gordon.jpg
 layout: suspect
 title: Vaughn Gordon charged on January 14, 2021
 preview: 041.jpg
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "You’re looking at what by mandate is a felon because I entered into the Capitol during the riot"
 author: seditiontrack
 published: true

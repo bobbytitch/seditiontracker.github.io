@@ -14,6 +14,7 @@ booking:
 layout: suspect
 title: Scott Fairlamb  charged on January 22, 2021
 preview: 104.png
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "What Patriots do? We fuckin' disarm them and then we storm fuckin' the Capitol"
 author: seditiontrack
 published: true

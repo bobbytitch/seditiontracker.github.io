@@ -16,6 +16,7 @@ courtroom:
 layout: suspect
 title: Matthew Council charged on January 14th, 2021
 preview: arrest.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

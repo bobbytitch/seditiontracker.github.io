@@ -13,6 +13,7 @@ after:
 layout: suspect
 title: Matthew Perna charged on January 19, 2021
 preview: 075.png
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "I foolishly allowed myself to get drawn into the negative energy emanating from that building."
 author: seditiontrack
 published: true

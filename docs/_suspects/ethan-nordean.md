@@ -19,6 +19,7 @@ courthouse:
 layout: suspect
 title: Ethan Nordean charged on February 3rd, 2021
 preview: ethan-nordean.png
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "If you feel bad for the police, you are part of the problem."
 author: seditiontrack
 published: true

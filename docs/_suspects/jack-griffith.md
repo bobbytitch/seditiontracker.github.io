@@ -13,6 +13,7 @@ booking: jack-griffith.png
 layout: suspect
 title: Jack Griffith charged on January 16, 2021
 preview: 042.jpg
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "I even helped stormed [sic] the capitol today, but it only made things worse."
 author: seditiontrack
 published: true

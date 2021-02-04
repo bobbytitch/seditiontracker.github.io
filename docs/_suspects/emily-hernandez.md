@@ -13,6 +13,7 @@ after: emily-hernandez.jpg
 layout: suspect
 title: Emily Hernandez charged on January 15, 2021
 preview: 078.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

@@ -13,6 +13,7 @@ after:
 layout: suspect
 title: Matthew Bledsoe charged on January 15, 2021
 preview: 037.png
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "This is our house. We pay for this shit. Where’s those pieces of shit at?"
 author: seditiontrack
 published: true

@@ -13,6 +13,7 @@ layout: suspect
 courtroom: andrew-williams.jpg
 title: Andrew Williams charged on January 12, 2021
 preview: 010.jpg
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 ---
 

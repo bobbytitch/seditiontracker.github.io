@@ -19,6 +19,7 @@ courthouse:
 layout: suspect
 title: Stephen Baker charged on February 1st, 2021
 preview: stephen-baker.png
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "I was inside for like an hour, dude. I was one of like the last 10 people in there."
 author: seditiontrack
 published: true

@@ -16,6 +16,7 @@ courtroom:
 layout: suspect
 title: Stephen Ayres charged on January 25, 2021
 preview: 114.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

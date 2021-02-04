@@ -13,6 +13,7 @@ after:
 layout: suspect
 title: Craig Bingert charged on January 17, 2021
 preview: 060.jpg
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "Fuck the Police."
 author: seditiontrack
 published: true

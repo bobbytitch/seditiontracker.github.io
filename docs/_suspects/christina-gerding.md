@@ -18,6 +18,7 @@ courtroom:
 layout: suspect
 title: Christina Gerding charged on January 28th, 2021
 preview: christina-gerding.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Quincy made it inside."
 author: seditiontrack
 published: true

@@ -14,6 +14,7 @@ courtroom: klete-keller.jpg
 layout: suspect
 title: Klete Keller charged on January 13, 2021
 preview: 044.png
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

@@ -13,6 +13,7 @@ after:
 layout: suspect
 title: Karl Dresch charged on January 20, 2021
 preview: 096.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Took a lil gas ...wtf I love masks now!"
 author: seditiontrack
 published: true

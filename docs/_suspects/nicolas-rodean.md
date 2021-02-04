@@ -11,6 +11,7 @@ image: 014.jpg
 layout: suspect
 title: Nicolas Rodean charged on January 13, 2021
 preview: 014.jpg
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 ---
 

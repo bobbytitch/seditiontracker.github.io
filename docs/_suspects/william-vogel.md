@@ -16,6 +16,7 @@ courtroom: william-vogel.jpg
 layout: suspect
 title: William Vogel charged on January 25, 2021
 preview: 117.png
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

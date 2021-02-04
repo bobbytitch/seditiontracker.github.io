@@ -18,6 +18,7 @@ courtroom:
 layout: suspect
 title: Dustin Thompson charged on January 25th, 2021
 preview: dustin-thompson.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Wooooo! ’Merica Hey! This is our house!"
 author: seditiontrack
 published: true

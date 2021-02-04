@@ -19,6 +19,7 @@ courthouse:
 layout: suspect
 title: Christopher Grider charged on January 21st, 2021
 preview: christopher-grider.png
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "People are going to get crushed on that other side if they don’t open that door"
 author: seditiontrack
 published: true

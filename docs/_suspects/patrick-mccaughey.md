@@ -13,6 +13,7 @@ after:
 layout: suspect
 title: Patrick McCaughey charged on January 19, 2021
 preview: 080.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Taking this back by force now, no more bs"
 author: seditiontrack
 published: true

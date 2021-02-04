@@ -11,6 +11,7 @@ courthouse: adam-johnson.jpg
 layout: suspect
 title: Adam Johnson charged on January 7, 2021
 preview: adam-johnson.jpg
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
 ---
 

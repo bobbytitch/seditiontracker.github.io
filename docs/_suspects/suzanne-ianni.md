@@ -13,6 +13,7 @@ courthouse: suzanne-ianni.jpg
 layout: suspect
 title: Suzanne Ianni charged on January 19, 2021
 preview: 074.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

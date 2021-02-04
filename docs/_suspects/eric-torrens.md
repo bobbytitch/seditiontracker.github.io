@@ -18,6 +18,7 @@ courtroom:
 layout: suspect
 title: Eric Torrens charged on January 27, 2021
 preview: eric-torrens.png
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

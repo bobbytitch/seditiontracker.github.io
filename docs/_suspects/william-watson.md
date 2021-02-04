@@ -11,6 +11,7 @@ booking: william-watson.png
 layout: suspect
 title: William Watson charged on January 11, 2021
 preview: 007.png
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
 ---
 

@@ -16,6 +16,7 @@ courtroom:
 layout: suspect
 title: Andrew Bennett charged on January 26th, 2021
 preview: arrest.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "You better be ready chaos is coming and I will be in DC on 1/6/2021 fighting for my freedom!"
 author: seditiontrack
 published: true

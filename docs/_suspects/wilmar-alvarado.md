@@ -18,6 +18,7 @@ courtroom:
 layout: suspect
 title: Wilmar Alvarado charged on January 29, 2021gs
 preview: wilmar-alvarado.png
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "I’m not part of this. I’m trying to get out."
 author: seditiontrack
 published: true

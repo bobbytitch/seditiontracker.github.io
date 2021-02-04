@@ -19,6 +19,7 @@ courthouse: thomas-fee.jpg
 layout: suspect
 title: Thomas Fee charged on January 15, 2021
 preview: thomas-fee.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

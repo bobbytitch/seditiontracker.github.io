@@ -13,6 +13,7 @@ booking: henry-muntzer.jpg
 layout: suspect
 title: Henry Muntzer charged on January 18, 2021
 preview: 100.png
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Here’s the video when we storm the capitol and got above the guards."
 author: seditiontrack
 published: true

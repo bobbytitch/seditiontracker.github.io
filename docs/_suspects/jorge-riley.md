@@ -13,6 +13,7 @@ after:
 layout: suspect
 title: Jorge Riley charged on January 19, 2021
 preview: 097.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We broke windows. We went into the door. We pushed our way in."
 author: seditiontrack
 published: true

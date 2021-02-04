@@ -10,6 +10,7 @@ booking: douglas-jensen.png
 layout: suspect
 title: Douglas Jensen charged on January 9, 2021
 preview: 009.jpg
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
 ---
 

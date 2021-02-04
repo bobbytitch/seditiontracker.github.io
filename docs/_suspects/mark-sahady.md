@@ -13,6 +13,7 @@ after:
 layout: suspect
 title: Mark Sahady charged on January 19, 2021
 preview: 073.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

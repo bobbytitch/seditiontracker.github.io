@@ -13,6 +13,7 @@ after:
 layout: suspect
 title: Guy Reffitt charged on January 15, 2021
 preview: 063.jpg
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote: "If you turn me in, you’re a traitor and you know what happens to traitors … traitors get shot"
 author: seditiontrack
 published: true

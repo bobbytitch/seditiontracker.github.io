@@ -19,6 +19,7 @@ courthouse: justin-mcauliffe.jpg
 layout: suspect
 title: Justin Mcauliffe charged on January 28th, 2021
 preview: justin-mcauliffe.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Yeah, I was in one of the offices"
 author: seditiontrack
 published: true

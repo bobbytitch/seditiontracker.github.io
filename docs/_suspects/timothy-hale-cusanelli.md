@@ -16,6 +16,7 @@ courtroom: timothy-hale-cusanelli.jpg
 layout: suspect
 title: Timothy Hale-Cusanelli charged on January 17th, 2021
 preview: timothy-hale-cusanelli.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Trust the plan, major announcement soon."
 author: seditiontrack
 published: true

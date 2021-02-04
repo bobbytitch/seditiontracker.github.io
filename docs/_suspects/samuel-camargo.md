@@ -13,6 +13,7 @@ after:
 layout: suspect
 title: Samuel Carmargo charged on January 20, 2021
 preview: 089.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "Just finished speaking to an FBI agent, I believe I've been cleared"
 author: seditiontrack
 published: true

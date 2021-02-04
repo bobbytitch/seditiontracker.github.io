@@ -14,6 +14,7 @@ booking: rachael-pert.jpg
 layout: suspect
 title: Rachael Pert charged on January 26th, 2021
 preview: rachael-pert.png
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

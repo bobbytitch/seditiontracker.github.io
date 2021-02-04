@@ -13,6 +13,7 @@ booking: chad-jones.jpg
 layout: suspect
 title: Chad Jones charged on January 17, 2021
 preview: 053.png
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

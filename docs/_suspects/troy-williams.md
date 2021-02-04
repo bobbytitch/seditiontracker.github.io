@@ -19,6 +19,7 @@ courthouse:
 layout: suspect
 title: Troy Williams charged on February 1st, 2021
 preview: troy-williams.png
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "We were a part of something, there’s cops here, they tried to stop us, they are not letting us in, but not fighting us"
 author: seditiontrack
 published: true

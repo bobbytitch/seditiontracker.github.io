@@ -16,6 +16,7 @@ courtroom:
 layout: suspect
 title: Rash Abual-Ragheb charged on January 19, 2021
 preview: 119.png
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

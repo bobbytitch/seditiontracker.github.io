@@ -16,6 +16,7 @@ courtroom:
 layout: suspect
 title: Marissa Suarez charged on January 22, 2021
 preview: 108.png
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

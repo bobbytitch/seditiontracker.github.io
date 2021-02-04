@@ -18,6 +18,7 @@ courtroom:
 layout: suspect
 title: Joshua Hughes charged on January 28, 2021
 preview: joshua-hughes.png
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

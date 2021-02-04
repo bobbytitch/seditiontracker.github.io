@@ -16,6 +16,7 @@ courtroom:
 layout: suspect
 title: Joshua Pruitt charged on January 7th, 2021
 preview: arrest-indicted.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true

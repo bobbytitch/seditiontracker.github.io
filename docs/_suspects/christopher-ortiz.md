@@ -19,6 +19,7 @@ courtroom: christopher-ortiz.jpg
 layout: suspect
 title: Christopher Ortiz charged on January 27th, 2021
 preview: christopher-ortiz.jpg
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote: "[I'd] storm the Capitol for you any day"
 author: seditiontrack
 published: true
