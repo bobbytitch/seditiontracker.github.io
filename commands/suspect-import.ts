@@ -15,8 +15,8 @@ cmd.parse(process.argv);
 const importSuspects = async() => {
   info("Reading list of current suspects");
 
-  // await importDoj(getNameSet());
-  // await importGw(getNameSet());
+  await importDoj(getNameSet());
+  await importGw(getNameSet());
   await importUSA(getNameSet());
 }
 
@@ -283,6 +283,11 @@ const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, re
   // pick up any new links
   for (const [type, url] of Object.entries(links)) {
     if (!suspect.links[type]) {
+      // make sure there is not a similar link already
+      if (type == "Complaint" && suspect.links["Statement of Facts"]) {
+        continue;
+      }
+
       console.log(`${suspect.name}: ${type}`);
       suspect.links[type] = <string>url
 
