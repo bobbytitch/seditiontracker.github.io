@@ -288,7 +288,8 @@ const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, re
 
       if (type == "Indictment") {
         suspect.status = "Indicted"
-        execSync(`yarn suspect preview -f ${suspect.image} -s ${suspect.status}`)
+        const previewImage = suspect.image.replace("/images/preview/", "")
+        execSync(`yarn suspect preview -f ${previewImage} -s ${suspect.status}`)
       }
 
       updateSuspect(suspect)
