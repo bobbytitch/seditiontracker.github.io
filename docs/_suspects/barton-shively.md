@@ -7,7 +7,7 @@ status: Charged
 date: 2021-01-19
 charged: 2021-01-19
 indicted:
-age: 9
+age: 53
 occupation: U.S. Marines (Former)
 affiliations:
 jurisdiction: Federal
@@ -16,6 +16,7 @@ suspect: 098.png
 booking:
 courtroom:
 courthouse:
+raid:
 quote:
 title: Barton Shively charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

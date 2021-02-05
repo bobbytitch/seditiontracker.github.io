@@ -7,8 +7,7 @@ status: Charged
 date: 2021-01-21
 charged: 2021-01-21
 indicted:
-age: 8
-occupation: U.S. Marines (Former)
+age:occupation: U.S. Marines (Former)
 affiliations:
 jurisdiction: Federal
 image: /images/preview/083.png

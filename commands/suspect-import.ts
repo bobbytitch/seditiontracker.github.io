@@ -15,8 +15,8 @@ cmd.parse(process.argv);
 const importSuspects = async() => {
   info("Reading list of current suspects");
 
-  await importDoj(getNameSet());
-  await importGw(getNameSet());
+  // await importDoj(getNameSet());
+  // await importGw(getNameSet());
   await importUSA(getNameSet());
 }
 

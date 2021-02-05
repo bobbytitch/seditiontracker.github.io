@@ -7,8 +7,7 @@ status: Charged
 date: 2021-01-12
 charged: 2021-01-12
 indicted:
-age: 1
-occupation: Fire Fighter
+age:occupation: Fire Fighter
 affiliations:
 jurisdiction: Federal
 image: /images/preview/010.jpg
