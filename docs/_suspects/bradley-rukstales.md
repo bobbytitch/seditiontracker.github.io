@@ -3,7 +3,7 @@ name: Bradley Rukstales
 lastName: Rukstales
 aka: Brad Rukstales
 residence: Illinois
-status: Charged
+status: Indicted
 date: 2021-01-07
 age: 52
 occupation: CEO
@@ -11,9 +11,9 @@ affiliations: undefined
 jurisdiction: Federal
 image: /images/preview/027.jpg
 suspect: 027.jpg
-booking:
-courtroom:
-courthouse:
+booking: 
+courtroom: 
+courthouse: 
 quote: "I was in the wrong place at the wrong time and I regret my part in that."
 title: Bradley Rukstales charged on January 7, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
@@ -28,3 +28,4 @@ published: true
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351716/download)
 - [Statement of Facts](https://www.justice.gov/opa/press-release/file/1351721/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364786/download)
