@@ -9,7 +9,7 @@ charged: 2021-01-14
 indicted:
 age: 44
 occupation: Business Owner (Lawn Service)
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/029.png
 suspect: 029.png

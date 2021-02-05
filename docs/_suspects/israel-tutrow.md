@@ -9,7 +9,7 @@ charged: 2021-01-27
 indicted:
 age:
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/israel-tutrow.png
 suspect: israel-tutrow.png

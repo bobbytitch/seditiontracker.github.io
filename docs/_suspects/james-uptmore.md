@@ -9,7 +9,7 @@ charged: 2021-01-26
 indicted:
 age:
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/james-uptmore.png
 suspect: james-uptmore.png

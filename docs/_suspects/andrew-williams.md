@@ -9,7 +9,7 @@ charged: 2021-01-12
 indicted:
 age: 1
 occupation: Fire Fighter
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/010.jpg
 suspect: 010.jpg

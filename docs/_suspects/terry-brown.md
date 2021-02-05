@@ -9,7 +9,7 @@ charged: 2021-01-11
 indicted: 2021-01-15
 age: 69
 occupation: Public Safety Code Enforcement Officer (Retired)
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/arrest.jpg
 suspect: arrest.jpg

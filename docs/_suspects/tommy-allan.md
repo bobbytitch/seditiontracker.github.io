@@ -9,7 +9,7 @@ charged: 2021-01-22
 indicted:
 age: 52
 occupation: Real Estate (Former)
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/tommy-allan.png
 suspect: tommy-allan.png

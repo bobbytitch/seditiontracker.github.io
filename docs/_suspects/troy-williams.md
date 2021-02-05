@@ -9,7 +9,7 @@ charged: 2021-02-01
 indicted:
 age: 25
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/troy-williams.png
 suspect: troy-williams.png

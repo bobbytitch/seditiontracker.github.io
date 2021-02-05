@@ -9,7 +9,7 @@ charged: 2021-01-07
 indicted:
 age: 36
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/adam-johnson.jpg
 suspect: adam-johnson.jpg

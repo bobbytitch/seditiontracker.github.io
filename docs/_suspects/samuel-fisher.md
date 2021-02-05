@@ -9,7 +9,7 @@ charged: 2021-01-20
 indicted:
 age: 35
 occupation: "Pickup Artist"
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/081.png
 suspect: 081.png

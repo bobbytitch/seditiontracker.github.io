@@ -9,7 +9,7 @@ charged: 2021-01-15
 indicted:
 age: 53
 occupation: Fire Figther (Retired)
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/thomas-fee.jpg
 suspect: thomas-fee.jpg

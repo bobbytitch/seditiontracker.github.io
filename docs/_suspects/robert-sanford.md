@@ -9,7 +9,7 @@ charged: 2021-01-14
 indicted:
 age: 55
 occupation: Fire Fighter (Retired)
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/021.jpg
 suspect: 021.jpg

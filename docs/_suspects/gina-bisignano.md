@@ -9,7 +9,7 @@ charged: 2021-01-19
 indicted: 2021-01-29
 age: 52
 occupation: Salon Owner
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/070.jpg
 suspect: 070.jpg

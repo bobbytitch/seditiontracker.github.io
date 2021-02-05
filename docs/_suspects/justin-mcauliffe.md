@@ -9,7 +9,7 @@ charged: 2021-01-28
 indicted:
 age: 39
 occupation: Accountant (CPA)
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/justin-mcauliffe.jpg
 suspect: justin-mcauliffe.jpg

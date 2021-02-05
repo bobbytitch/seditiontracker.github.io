@@ -9,7 +9,7 @@ charged: 2021-01-19
 indicted:
 age: 9
 occupation: U.S. Marines (Former)
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/098.png
 suspect: 098.png

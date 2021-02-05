@@ -9,7 +9,7 @@ charged: 2021-01-20
 indicted:
 age: 44
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/christopher-kelly.jpg
 suspect: christopher-kelly.jpg

@@ -9,7 +9,7 @@ charged: 2021-01-26
 indicted:
 age: 40
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/rachael-pert.png
 suspect: rachael-pert.png

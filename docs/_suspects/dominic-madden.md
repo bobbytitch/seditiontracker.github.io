@@ -9,7 +9,7 @@ charged: 2021-01-22
 indicted:
 age: 43
 occupation: Sanitation Worker
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/105.png
 suspect: 105.png

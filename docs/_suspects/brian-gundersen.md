@@ -9,7 +9,7 @@ charged: 2021-01-27
 indicted:
 age: 26
 occupation: Sanitation Worker
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/brian-gunderson.png
 suspect: brian-gunderson.png

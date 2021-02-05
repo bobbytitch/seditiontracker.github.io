@@ -9,7 +9,7 @@ charged: 2021-01-17
 indicted:
 age: 37
 occupation: "Mortgage Loan Ninja"
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/079.png
 suspect: 079.png

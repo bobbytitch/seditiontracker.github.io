@@ -9,7 +9,7 @@ charged: 2021-01-19
 indicted:
 age: 48
 occupation: Police Officer
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/069.jpg
 suspect: 069.jpg

@@ -9,7 +9,7 @@ charged: 2021-01-19
 indicted:
 age: 53
 occupation: Home Designer
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/valerie-ehrke.png
 suspect: valerie-ehrke.png

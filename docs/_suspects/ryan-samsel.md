@@ -9,7 +9,7 @@ charged: 2021-01-30
 indicted:
 age: 37
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/ryan-samsel.png
 suspect: ryan-samsel.png

@@ -9,7 +9,7 @@ charged: 2021-02-01
 indicted:
 age: 21
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/dalton-crase.png
 suspect: dalton-crase.png

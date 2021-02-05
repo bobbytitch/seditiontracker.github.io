@@ -9,7 +9,7 @@ charged: 2021-01-21
 indicted: 2021-01-15
 age: 61
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/thomas-gallagher.png
 suspect: thomas-gallagher.png

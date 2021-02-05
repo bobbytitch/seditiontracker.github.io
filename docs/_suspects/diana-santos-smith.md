@@ -9,7 +9,7 @@ charged: 2021-01-29
 indicted:
 age:
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/diana-santos-smith.jpg
 suspect: diana-santos-smith.jpg

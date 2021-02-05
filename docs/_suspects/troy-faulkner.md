@@ -9,7 +9,7 @@ charged: 2021-01-26
 indicted:
 age: 39
 occupation: Business Owner (Faulkner Painting)
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/troy-faulkner.jpg
 suspect: troy-faulkner.jpg

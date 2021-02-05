@@ -9,7 +9,7 @@ charged: 2021-01-26
 indicted:
 age:
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/chance-uptmore.png
 suspect: chance-uptmore.png

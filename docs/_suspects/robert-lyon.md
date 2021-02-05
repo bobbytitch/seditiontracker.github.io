@@ -9,7 +9,7 @@ charged: 2021-01-25
 indicted:
 age: 27
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/robert-lyon.png
 suspect: robert-lyon.png

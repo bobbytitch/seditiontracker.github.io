@@ -9,7 +9,7 @@ charged: 2021-01-28
 indicted:
 age:
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/jason-gerding.jpg
 suspect: jason-gerding.jpg

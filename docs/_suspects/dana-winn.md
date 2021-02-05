@@ -9,7 +9,7 @@ charged: 2021-01-26
 indicted:
 age: 45
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/dana-winn.png
 suspect: dana-winn.png

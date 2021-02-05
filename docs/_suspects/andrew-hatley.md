@@ -9,7 +9,7 @@ charged: 2021-01-19
 indicted:
 age:
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/andrew-hatley.jpg
 suspect: andrew-hatley.jpg

@@ -9,7 +9,7 @@ charged: 2021-01-08
 indicted:
 age: 53
 occupation: Business Owner
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/cleveland-meredith.png
 suspect: cleveland-meredith.png

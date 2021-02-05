@@ -9,7 +9,7 @@ charged: 2021-01-28
 indicted:
 age:
 occupation: Business Owner ("Adult Model Management Company")
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/nathaniel-degrave.jpg
 suspect: nathaniel-degrave.jpg

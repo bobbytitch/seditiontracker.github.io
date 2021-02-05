@@ -9,7 +9,7 @@ charged: 2021-01-22
 indicted:
 age: 51
 occupation: Geologist
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/106.jpg
 suspect: 106.jpg

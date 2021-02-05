@@ -9,7 +9,7 @@ charged: 2021-01-27
 indicted:
 age: 29
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/james-bonet.jpg
 suspect: james-bonet.jpg

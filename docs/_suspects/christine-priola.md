@@ -9,7 +9,7 @@ charged: 2021-01-14
 indicted:
 age: 49
 occupation: School Therapist
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/025.jpg
 suspect: 025.jpg

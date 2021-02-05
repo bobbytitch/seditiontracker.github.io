@@ -9,7 +9,7 @@ charged: 2021-01-28
 indicted:
 age:
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/christina-gerding.jpg
 suspect: christina-gerding.jpg

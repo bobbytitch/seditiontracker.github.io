@@ -9,7 +9,7 @@ charged: 2021-01-30
 indicted:
 age:
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/zachary-alam.png
 suspect: zachary-alam.png

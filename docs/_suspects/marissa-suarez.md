@@ -9,7 +9,7 @@ charged: 2021-01-22
 indicted:
 age: 31
 occupation: Corrections Officer
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/108.png
 suspect: 108.png

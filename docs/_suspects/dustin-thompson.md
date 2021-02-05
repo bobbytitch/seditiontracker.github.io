@@ -9,7 +9,7 @@ charged: 2021-01-25
 indicted:
 age: 36
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/dustin-thompson.jpg
 suspect: dustin-thompson.jpg

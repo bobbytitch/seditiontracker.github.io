@@ -9,7 +9,7 @@ charged: 2021-01-18
 indicted:
 age: 55
 occupation: Founder of America’s Frontline Doctors (COVID disinformation)
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/071.jpg
 suspect: 071.jpg

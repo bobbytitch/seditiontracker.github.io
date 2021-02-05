@@ -9,7 +9,7 @@ charged: 2021-01-13
 indicted:
 age: 38
 occupation: Olympic Swimmer (Retired)
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/044.png
 suspect: 044.png

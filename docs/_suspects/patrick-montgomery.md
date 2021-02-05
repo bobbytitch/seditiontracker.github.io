@@ -9,7 +9,7 @@ charged: 2021-01-17
 indicted: 2021-01-21
 age: 48
 occupation: Business Owner
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/patrick-montgomery.jpg
 suspect: patrick-montgomery.jpg

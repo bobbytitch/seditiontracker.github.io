@@ -9,7 +9,7 @@ charged: 2021-01-07
 indicted: 2021-01-15
 age: 52
 occupation: CEO
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/027.jpg
 suspect: 027.jpg

@@ -9,7 +9,7 @@ charged: 2021-01-25
 indicted:
 age: 43
 occupation: Hair Stylist (Former)
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/116.jpg
 suspect: 116.jpg

@@ -9,7 +9,7 @@ charged: 2021-01-22
 indicted:
 age: 43
 occupation: Gym Owner (Former MMA Fighter)
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/104.png
 suspect: 104.png

@@ -9,7 +9,7 @@ charged: 2021-01-29
 indicted:
 age: 37
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/wilmar-alvarado.png
 suspect: wilmar-alvarado.png

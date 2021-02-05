@@ -9,7 +9,7 @@ charged: 2021-01-14
 indicted:
 age: 23
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/hunter-seefried.png
 suspect: hunter-seefried.png

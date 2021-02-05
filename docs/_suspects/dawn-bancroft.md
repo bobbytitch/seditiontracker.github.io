@@ -9,7 +9,7 @@ charged: 2021-01-29
 indicted:
 age:
 occupation: Business Owner (CrossFit)
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/dawn-bancroft.jpg
 suspect: dawn-bancroft.jpg

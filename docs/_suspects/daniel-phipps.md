@@ -9,7 +9,7 @@ charged: 2021-01-26
 indicted:
 age: 48
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/daniel-phipps.jpg
 suspect: daniel-phipps.jpg

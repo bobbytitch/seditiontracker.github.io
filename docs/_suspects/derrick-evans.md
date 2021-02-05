@@ -9,7 +9,7 @@ charged: 2021-01-08
 indicted:
 age: 35
 occupation: West Viriginia Delegate
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/005.jpg
 suspect: 005.jpg

@@ -9,7 +9,7 @@ charged: 2021-01-25
 indicted:
 age: 23
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/jordan-revlett.jpg
 suspect: jordan-revlett.jpg

@@ -9,7 +9,7 @@ charged: 2021-01-27
 indicted:
 age: 37
 occupation: Gym Owner
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/jacob-lewis.png
 suspect: jacob-lewis.png

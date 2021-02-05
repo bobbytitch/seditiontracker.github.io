@@ -9,7 +9,7 @@ charged: 2021-01-12
 indicted: 2021-02-02
 age: 28
 occupation: Peace Corps
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/012.jpg
 suspect: 012.jpg

@@ -9,7 +9,7 @@ charged: 2021-01-27
 indicted:
 age: 27
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/christopher-ortiz.jpg
 suspect: christopher-ortiz.jpg

@@ -9,7 +9,7 @@ charged: 2021-01-26
 indicted:
 age:
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/joshua-wagner.png
 suspect: joshua-wagner.png

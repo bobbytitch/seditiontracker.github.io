@@ -9,7 +9,7 @@ charged: 2021-01-22
 indicted:
 age: 44
 occupation: FAA
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/103.jpg
 suspect: 103.jpg

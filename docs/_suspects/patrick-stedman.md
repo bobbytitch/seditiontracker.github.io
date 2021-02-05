@@ -9,7 +9,7 @@ charged: 2021-01-21
 indicted:
 age: 32
 occupation: Dating + Relationship Strategist
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/087.png
 suspect: 087.png

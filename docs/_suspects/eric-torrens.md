@@ -9,7 +9,7 @@ charged: 2021-01-27
 indicted:
 age: 28
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/eric-torrens.png
 suspect: eric-torrens.png

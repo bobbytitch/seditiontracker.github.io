@@ -9,7 +9,7 @@ charged: 2021-01-18
 indicted:
 age: 20
 occupation: Student
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/nicolas-moncada.jpg
 suspect: nicolas-moncada.jpg

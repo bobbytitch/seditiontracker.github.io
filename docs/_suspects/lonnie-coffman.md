@@ -9,7 +9,7 @@ charged: 2021-01-07
 indicted: 2021-01-11
 age: 70
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/lonnie-coffman.jpg
 suspect: lonnie-coffman.jpg

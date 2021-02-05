@@ -9,7 +9,7 @@ charged: 2021-01-22
 indicted:
 age: 10
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/109.png
 suspect: 109.png
