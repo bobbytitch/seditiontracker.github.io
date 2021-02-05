@@ -1,20 +1,20 @@
 ---
 name: Matthew Miller
 lastName: Miller
-aka: 
+aka:
 residence: Maryland
 status: Indicted
 date: 2021-01-25
 age: 22
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 120.png
-preview: 120.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/120.png
+suspect: 120.png
+booking:
+courtroom:
+courthouse:
+quote:
 title: Matthew Miller charged on January 25, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

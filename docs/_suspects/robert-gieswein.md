@@ -9,12 +9,12 @@ age: 24
 occupation: Founder of Woodland Wild Dogs (Paramilitary Training Group)
 affiliations: Three Percenters
 jurisdiction: Federal
-image: 058.png
-preview: 058.png
+image: /images/preview/058.png
+suspect: 058.png
 booking: robert-gieswein.jpg
-courtroom: 
-courthouse: 
-quote: 
+courtroom:
+courthouse:
+quote:
 title: Robert Gieswein charged on January 16, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

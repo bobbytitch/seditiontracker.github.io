@@ -6,14 +6,14 @@ residence: Tennessee
 status: Charged
 date: 2021-01-16
 age: 25
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 042.jpg
-preview: 042.jpg
+image: /images/preview/042.jpg
+suspect: 042.jpg
 booking: jack-griffith.png
-courtroom: 
-courthouse: 
+courtroom:
+courthouse:
 quote: "I even helped stormed [sic] the capitol today, but it only made things worse."
 title: Jack Griffith charged on January 16, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

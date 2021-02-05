@@ -9,11 +9,11 @@ age: 30
 occupation: U.S. Army Reserves, U.S. Navy Contractor
 affiliations: U.S. Military
 jurisdiction: Federal
-image: timothy-hale-cusanelli.jpg
-preview: timothy-hale-cusanelli.jpg
-booking: 
+image: /images/preview/timothy-hale-cusanelli.jpg
+suspect: timothy-hale-cusanelli.jpg
+booking:
 courtroom: timothy-hale-cusanelli.jpg
-courthouse: 
+courthouse:
 quote: "Trust the plan, major announcement soon."
 title: Timothy Hale-Cusanelli charged on January 17th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

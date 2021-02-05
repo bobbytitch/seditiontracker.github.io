@@ -1,19 +1,19 @@
 ---
 name: Riley Williams
 lastName: Williams
-aka: 
+aka:
 residence: Pennsylvania
 status: Charged
 date: 2021-01-17
 age: 22
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 055.jpg
-preview: 055.jpg
+image: /images/preview/055.jpg
+suspect: 055.jpg
 booking: riley-williams.png
-courtroom: 
-courthouse: 
+courtroom:
+courthouse:
 quote: "Upstairs, upstairs, upstairs"
 title: Riley Williams charged on January 17, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

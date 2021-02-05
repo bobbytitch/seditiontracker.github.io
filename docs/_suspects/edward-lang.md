@@ -6,14 +6,14 @@ residence: Washington
 status: Indicted
 date: 2021-01-16
 age: 25
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 051.jpg
-preview: 051.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/051.jpg
+suspect: 051.jpg
+booking:
+courtroom:
+courthouse:
 quote: "I was the leader of Liberty today. Arrest me. You are on the wrong side of history"
 title: Edward Lang charged on January 16, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

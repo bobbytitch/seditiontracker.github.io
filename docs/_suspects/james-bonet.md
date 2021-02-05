@@ -1,19 +1,19 @@
 ---
 name: James Bonet
 lastName: Bonet
-aka: 
+aka:
 residence: New&nbsp;York
 status: Charged
 date: 2021-01-27
 age: 29
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: james-bonet.jpg
-preview: james-bonet.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/james-bonet.jpg
+suspect: james-bonet.jpg
+booking:
+courtroom:
+courthouse:
 quote: "Capitol building smoking with all my people!"
 title: James Bonet charged on January 27th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

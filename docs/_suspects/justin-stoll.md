@@ -6,14 +6,14 @@ residence: Ohio
 status: Charged
 date: 2021-01-15
 age: 40
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 057.jpg
-preview: 057.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/057.jpg
+suspect: 057.jpg
+booking:
+courtroom:
+courthouse:
 quote: "You can play that for the D.A. in court, I don’t care. If you ever jeopardize me, from being with my family, you will absolutely meet your mother fucking maker."
 title: Justin Stoll charged on January 15, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

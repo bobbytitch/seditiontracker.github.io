@@ -1,20 +1,20 @@
 ---
 name: Chance Uptmore
 lastName: Uptmore
-aka: 
+aka:
 residence: Texas
 status: Charged
 date: 2021-01-26
-age: 
-occupation: 
+age:
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: chance-uptmore.png
-preview: chance-uptmore.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/chance-uptmore.png
+suspect: chance-uptmore.png
+booking:
+courtroom:
+courthouse:
+quote:
 title: Chance Uptmore charged on January 26th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

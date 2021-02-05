@@ -1,20 +1,20 @@
 ---
 name: Chad Jones
 lastName: Jones
-aka: 
+aka:
 residence: Kentucky
 status: Charged
 date: 2021-01-16
 age: 42
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 053.png
-preview: 053.png
+image: /images/preview/053.png
+suspect: 053.png
 booking: chad-jones.jpg
-courtroom: 
-courthouse: 
-quote: 
+courtroom:
+courthouse:
+quote:
 title: Chad Jones charged on January 17, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

@@ -1,20 +1,20 @@
 ---
 name: Robert Lyon
 lastName: Lyon
-aka: 
+aka:
 residence: Ohio
 status: Charged
 date: 2021-01-25
 age: 27
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: robert-lyon.png
-preview: robert-lyon.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/robert-lyon.png
+suspect: robert-lyon.png
+booking:
+courtroom:
+courthouse:
+quote:
 title: Robert Lyon charged on January 25th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

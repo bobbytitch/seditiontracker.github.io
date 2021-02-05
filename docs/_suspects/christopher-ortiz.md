@@ -1,17 +1,17 @@
 ---
 name: Christopher Ortiz
 lastName: Ortiz
-aka: 
+aka:
 residence: New York
 status: Charged
 date: 2021-01-27
 age: 27
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: christopher-ortiz.jpg
-preview: christopher-ortiz.jpg
-booking: 
+image: /images/preview/christopher-ortiz.jpg
+suspect: christopher-ortiz.jpg
+booking:
 courtroom: christopher-ortiz.jpg
 courthouse: christopher-ortiz.jpg
 quote: "[I'd] storm the Capitol for you any day"

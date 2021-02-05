@@ -9,8 +9,8 @@ age: 5
 occupation: County Commissioner
 affiliations: Cowboys for Trump
 jurisdiction: Federal
-image: 054.jpg
-preview: 054.jpg
+image: /images/preview/054.jpg
+suspect: 054.jpg
 booking:
 courtroom:
 courthouse:

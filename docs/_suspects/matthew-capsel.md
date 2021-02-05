@@ -9,8 +9,8 @@ age: 27
 occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 113.png
-preview: 113.png
+image: /images/preview/113.png
+suspect: 113.png
 booking:
 courtroom:
 courthouse:

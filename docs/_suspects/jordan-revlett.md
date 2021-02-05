@@ -9,8 +9,8 @@ age: 23
 occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: jordan-revlett.jpg
-preview: jordan-revlett.jpg
+image: /images/preview/jordan-revlett.jpg
+suspect: jordan-revlett.jpg
 booking:
 courtroom:
 courthouse:

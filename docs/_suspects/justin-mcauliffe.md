@@ -1,7 +1,7 @@
 ---
 name: Justin Mcauliffe
 lastName: Mcauliffe
-aka: 
+aka:
 residence: New York
 status: Charged
 date: 2021-01-28
@@ -9,10 +9,10 @@ age: 39
 occupation: Accountant (CPA)
 affiliations: undefined
 jurisdiction: Federal
-image: justin-mcauliffe.jpg
-preview: justin-mcauliffe.jpg
-booking: 
-courtroom: 
+image: /images/preview/justin-mcauliffe.jpg
+suspect: justin-mcauliffe.jpg
+booking:
+courtroom:
 courthouse: justin-mcauliffe.jpg
 quote: "Yeah, I was in one of the offices"
 title: Justin Mcauliffe charged on January 28th, 2021

@@ -1,7 +1,7 @@
 ---
 name: Michael Stepakoff
 lastName: Stepakoff
-aka: 
+aka:
 residence: Florida
 status: Charged
 date: 2021-01-29
@@ -9,12 +9,12 @@ age: 55
 occupation: Messianic Rabbi
 affiliations: Temple New Jerusalem
 jurisdiction: Federal
-image: michael-stepakoff.png
-preview: michael-stepakoff.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/michael-stepakoff.png
+suspect: michael-stepakoff.png
+booking:
+courtroom:
+courthouse:
+quote:
 title: Michael Stepakoff charged on January 29th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

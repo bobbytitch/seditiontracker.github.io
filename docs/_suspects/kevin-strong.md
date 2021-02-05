@@ -1,7 +1,7 @@
 ---
 name: Kevin Strong
 lastName: Strong
-aka: 
+aka:
 residence: California
 status: Charged
 date: 2021-01-22
@@ -9,12 +9,12 @@ age: 44
 occupation: FAA
 affiliations: undefined
 jurisdiction: Federal
-image: 103.jpg
-preview: 103.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/103.jpg
+suspect: 103.jpg
+booking:
+courtroom:
+courthouse:
+quote:
 title: Kevin Strong charged on January 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

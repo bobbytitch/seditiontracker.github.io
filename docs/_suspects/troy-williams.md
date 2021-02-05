@@ -1,19 +1,19 @@
 ---
 name: Troy Williams
 lastName: Williams
-aka: 
+aka:
 residence: Kentucky
 status: Charged
 date: 2021-02-01
 age: 25
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: troy-williams.png
-preview: troy-williams.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/troy-williams.png
+suspect: troy-williams.png
+booking:
+courtroom:
+courthouse:
 quote: "We were a part of something, there’s cops here, they tried to stop us, they are not letting us in, but not fighting us"
 title: Troy Williams charged on February 1st, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

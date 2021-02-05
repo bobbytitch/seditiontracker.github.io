@@ -1,20 +1,20 @@
 ---
 name: Robert Packer
 lastName: Packer
-aka: 
+aka:
 residence: Virginia
 status: Charged
 date: 2021-01-13
 age: 56
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 013.jpg
-preview: 013.jpg
+image: /images/preview/013.jpg
+suspect: 013.jpg
 booking: robert-keith-packer.webp
-courtroom: 
-courthouse: 
-quote: 
+courtroom:
+courthouse:
+quote:
 title: Robert Keith Packer charged on January 13, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

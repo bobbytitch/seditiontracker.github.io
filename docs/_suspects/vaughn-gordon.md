@@ -1,19 +1,19 @@
 ---
 name: Vaughn Gordon
 lastName: Gordon
-aka: 
+aka:
 residence: Louisiana
 status: Charged
 date: 2021-01-14
 age: 50
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 041.png
-preview: 041.jpg
+image: /images/preview/041.png
+suspect: 041.jpg
 booking: vaughn-gordon.jpg
-courtroom: 
-courthouse: 
+courtroom:
+courthouse:
 quote: "You’re looking at what by mandate is a felon because I entered into the Capitol during the riot"
 title: Vaughn Gordon charged on January 14, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

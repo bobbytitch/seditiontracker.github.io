@@ -1,20 +1,20 @@
 ---
 name: Emily Hernandez
 lastName: Hernandez
-aka: 
+aka:
 residence: Missouri
 status: Charged
 date: 2021-01-15
 age: 20
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 078.jpg
-preview: 078.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/078.jpg
+suspect: 078.jpg
+booking:
+courtroom:
+courthouse:
+quote:
 title: Emily Hernandez charged on January 15, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

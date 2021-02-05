@@ -1,19 +1,19 @@
 ---
 name: Garret Miller
 lastName: Miller
-aka: 
+aka:
 residence: Texas
 status: Charged
 date: 2021-01-20
 age: 34
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 110.png
-preview: 110.png
+image: /images/preview/110.png
+suspect: 110.png
 booking: garrett-miller.jpg
-courtroom: 
-courthouse: 
+courtroom:
+courthouse:
 quote: "Nah we stormed it"
 title: Garret Miller charged on January 20, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

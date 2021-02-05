@@ -288,7 +288,7 @@ const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, re
 
       if (type == "Indictment") {
         suspect.status = "Indicted"
-        execSync(`yarn suspect preview -f ${suspect.preview} -s ${suspect.status}`)
+        execSync(`yarn suspect preview -f ${suspect.image} -s ${suspect.status}`)
       }
 
       updateSuspect(suspect)
@@ -307,8 +307,8 @@ const newSuspect = (firstName, lastName, dateString, links, residence?: string, 
     status: "Charged",
     links: {"News Report": "", ...links},
     jurisdiction: "Federal",
-    image: `${dasherizeName(firstName, lastName)}.jpg`,
-    preview: `${dasherizeName(firstName, lastName)}.jpg`,
+    image: `/images/preview/${dasherizeName(firstName, lastName)}.jpg`,
+    suspect: `${dasherizeName(firstName, lastName)}.jpg`,
     title: `${firstName} ${lastName} charged on [longDate]`,
     description: "Click for latest case details. Suspects innocent until proven guilty.",
     published: false

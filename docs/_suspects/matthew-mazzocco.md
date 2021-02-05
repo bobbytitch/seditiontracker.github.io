@@ -9,8 +9,8 @@ age: 37
 occupation: "Mortgage Loan Ninja"
 affiliations: undefined
 jurisdiction: Federal
-image: 079.png
-preview: 079.png
+image: /images/preview/079.png
+suspect: 079.png
 booking:
 courtroom:
 courthouse:

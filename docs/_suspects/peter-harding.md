@@ -9,8 +9,8 @@ age: 47
 occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 045.png
-preview: 045.png
+image: /images/preview/045.png
+suspect: 045.png
 booking: peter-harding.jpg
 courtroom:
 courthouse:

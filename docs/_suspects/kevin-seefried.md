@@ -1,20 +1,20 @@
 ---
 name: Kevin Seefried
 lastName: Seefried
-aka: 
+aka:
 residence: Delaware
 status: Charged
 date: 2021-01-14
 age: 51
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 022.jpg
-preview: 022.jpg
+image: /images/preview/022.jpg
+suspect: 022.jpg
 booking: kevin-seefried.jpg
-courtroom: 
-courthouse: 
-quote: 
+courtroom:
+courthouse:
+quote:
 title: Kevin Seefried charged on January 14, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

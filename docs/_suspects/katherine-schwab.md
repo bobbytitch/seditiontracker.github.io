@@ -9,8 +9,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: katherine-schwab.jpg
-preview: katherine-schwab.jpg
+image: /images/preview/katherine-schwab.jpg
+suspect: katherine-schwab.jpg
 booking:
 courtroom:
 courthouse:

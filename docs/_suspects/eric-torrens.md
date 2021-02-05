@@ -1,20 +1,20 @@
 ---
 name: Eric Torrens
 lastName: Torrens
-aka: 
+aka:
 residence: Tennessee
 status: Charged
 date: 2021-01-27
 age: 28
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: eric-torrens.png
-preview: eric-torrens.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/eric-torrens.png
+suspect: eric-torrens.png
+booking:
+courtroom:
+courthouse:
+quote:
 title: Eric Torrens charged on January 27, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

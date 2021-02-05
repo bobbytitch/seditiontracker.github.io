@@ -9,11 +9,11 @@ age: 37
 occupation: U.S. Marines (Former)
 affiliations: We the People 1776
 jurisdiction: Federal
-image: 091.png
-preview: 091.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/091.png
+suspect: 091.png
+booking:
+courtroom:
+courthouse:
 quote: "I’m starting to think they’re afraid of the video showing what really happened at the Capitol"
 title: Jesus Rivera charged on January 20, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

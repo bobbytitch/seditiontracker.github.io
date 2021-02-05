@@ -6,14 +6,14 @@ residence: Washington
 status: Charged
 date: 2021-02-03
 age: 30
-occupation: 
+occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-image: ethan-nordean.png
-preview: ethan-nordean.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/ethan-nordean.png
+suspect: ethan-nordean.png
+booking:
+courtroom:
+courthouse:
 quote: "If you feel bad for the police, you are part of the problem."
 title: Ethan Nordean charged on February 3rd, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

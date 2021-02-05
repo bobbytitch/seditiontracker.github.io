@@ -1,19 +1,19 @@
 ---
 name: Dawn Bancroft
 lastName: Bancroft
-aka: 
+aka:
 residence: Pennsylvania
 status: Charged
 date: 2021-01-29
-age: 
+age:
 occupation: Business Owner (CrossFit)
 affiliations: undefined
 jurisdiction: Federal
-image: dawn-bancroft.jpg
-preview: dawn-bancroft.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/dawn-bancroft.jpg
+suspect: dawn-bancroft.jpg
+booking:
+courtroom:
+courthouse:
 quote: "We were looking for Nancy to shoot her in the friggin’ brain but we didn’t find her."
 title: Dawn Bancroft charged on January 29th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

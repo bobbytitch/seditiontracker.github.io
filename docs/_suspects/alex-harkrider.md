@@ -1,20 +1,20 @@
 ---
 name: Alex Harkrider
 lastName: Harkrider
-aka: 
+aka:
 residence: Texas
 status: Charged
 date: 2021-01-18
 age: 33
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 068.jpg
-preview: 068.jpg
+image: /images/preview/068.jpg
+suspect: 068.jpg
 booking: alex-harkrider.jpg
-courtroom: 
-courthouse: 
-quote: 
+courtroom:
+courthouse:
+quote:
 title: Alex Harkrider charged on January 18, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

@@ -1,7 +1,7 @@
 ---
 name: Valerie Ehrke
 lastName: Ehrke
-aka: 
+aka:
 residence: California
 status: Charged
 date: 2021-01-19
@@ -9,11 +9,11 @@ age: 53
 occupation: Home Designer
 affiliations: undefined
 jurisdiction: Federal
-image: valerie-ehrke.png
-preview: valerie-ehrke.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/valerie-ehrke.png
+suspect: valerie-ehrke.png
+booking:
+courtroom:
+courthouse:
 quote: "I took off when I felt pepper spray in my throat! Lol."
 title: Valerie Ehrke charged on January 19th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

@@ -9,8 +9,8 @@ age: 8
 occupation: Student
 affiliations: Gallaudet University
 jurisdiction: Federal
-image: 086.png
-preview: 086.png
+image: /images/preview/086.png
+suspect: 086.png
 booking:
 courtroom:
 courthouse:

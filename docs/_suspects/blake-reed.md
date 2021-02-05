@@ -1,19 +1,19 @@
 ---
 name: Blake Reed
 lastName: Reed
-aka: 
+aka:
 residence: Tennesee
 status: Charged
 date: 2021-01-17
 age: 35
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 052.jpg
-preview: 052.jpg
+image: /images/preview/052.jpg
+suspect: 052.jpg
 booking: blake-reed.jpg
-courtroom: 
-courthouse: 
+courtroom:
+courthouse:
 quote: "We The People took the Capitol!"
 title: Blake Reed charged on January 17, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

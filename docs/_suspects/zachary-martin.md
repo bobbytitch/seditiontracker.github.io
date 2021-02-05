@@ -5,16 +5,16 @@ aka: Zac Martin
 residence: Missouri
 status: Charged
 date: 2021-01-28
-age: 
-occupation: 
+age:
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: zachary-martin.jpg
-preview: zachary-martin.jpg
+image: /images/preview/zachary-martin.jpg
+suspect: zachary-martin.jpg
 booking: zachary-martin.jpg
-courtroom: 
-courthouse: 
-quote: 
+courtroom:
+courthouse:
+quote:
 title: Zachary Martin charged on January 28th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

@@ -1,20 +1,20 @@
 ---
 name: Suzanne Ianni
 lastName: Ianni
-aka: 
+aka:
 residence: Massachusetts
 status: Charged
 date: 2021-01-19
 age: 59
-occupation: 
+occupation:
 affiliations: Super Happy Fun America (anti-LQBTQ group)
 jurisdiction: Federal
-image: 074.jpg
-preview: 074.jpg
-booking: 
-courtroom: 
+image: /images/preview/074.jpg
+suspect: 074.jpg
+booking:
+courtroom:
 courthouse: suzanne-ianni.jpg
-quote: 
+quote:
 title: Suzanne Ianni charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

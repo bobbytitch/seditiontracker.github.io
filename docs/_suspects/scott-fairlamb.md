@@ -1,7 +1,7 @@
 ---
 name: Scott Fairlamb
 lastName: Fairlamb
-aka: 
+aka:
 residence: New Jersey
 status: Charged
 date: 2021-01-22
@@ -9,11 +9,11 @@ age: 43
 occupation: Gym Owner (Former MMA Fighter)
 affiliations: undefined
 jurisdiction: Federal
-image: 104.png
-preview: 104.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/104.png
+suspect: 104.png
+booking:
+courtroom:
+courthouse:
 quote: "What Patriots do? We fuckin' disarm them and then we storm fuckin' the Capitol"
 title: Scott Fairlamb  charged on January 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

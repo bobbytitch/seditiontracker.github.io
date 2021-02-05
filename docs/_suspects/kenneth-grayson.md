@@ -1,19 +1,19 @@
 ---
 name: Kenneth Grayson
 lastName: Grayson
-aka: 
+aka:
 residence: Pennsylvania
 status: Charged
 date: 2021-01-26
 age: 51
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: kenneth-grayson.png
-preview: kenneth-grayson.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/kenneth-grayson.png
+suspect: kenneth-grayson.png
+booking:
+courtroom:
+courthouse:
 quote: "I left one unconscious so I did my little part and got the fuck out before I got arrested"
 title: Kenneth Grayson charged on January 26th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

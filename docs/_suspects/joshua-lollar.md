@@ -1,7 +1,7 @@
 ---
 name: Joshua Lollar
 lastName: Lollar
-aka: 
+aka:
 residence: Texas
 status: Charged
 date: 2021-01-15
@@ -9,11 +9,11 @@ age: 39
 occupation: U.S. Army (Former)
 affiliations: U.S. Military
 jurisdiction: Federal
-image: 038.jpg
-preview: 038.jpg
-booking: 
+image: /images/preview/038.jpg
+suspect: 038.jpg
+booking:
 courtroom: joshua-lollar.jpg
-courthouse: 
+courthouse:
 quote: "Just got gassed and fought with cops that I never thought would happen."
 title: Joshua Lollar charged on January 15, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

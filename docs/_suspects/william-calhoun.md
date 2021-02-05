@@ -9,8 +9,8 @@ age: 57
 occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 107.jpg
-preview: 107.jpg
+image: /images/preview/107.jpg
+suspect: 107.jpg
 booking:
 courtroom: william-calhoun.png
 courthouse:

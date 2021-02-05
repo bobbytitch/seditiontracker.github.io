@@ -1,20 +1,20 @@
 ---
 name: Larry Brock
 lastName: Brock
-aka: 
+aka:
 residence: Texas
 status: Charged
 date: 2021-01-09
 age: 0
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 002.jpg
-preview: 002.jpg
+image: /images/preview/002.jpg
+suspect: 002.jpg
 booking: larry-rendall-brock.jpg
 courtroom: larry-brock.jpg
-courthouse: 
-quote: 
+courthouse:
+quote:
 title: Larry Rendall Brock charged on January 9, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

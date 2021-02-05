@@ -1,19 +1,19 @@
 ---
 name: Richard Barnett
 lastName: Barnett
-aka: 
+aka:
 residence: Arkansas
 status: Indicted
 date: 2021-01-08
 age: 60
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 020.jpg
-preview: 020.jpg
+image: /images/preview/020.jpg
+suspect: 020.jpg
 booking: richard-barnett.jpg
-courtroom: 
-courthouse: 
+courtroom:
+courthouse:
 quote: "I wrote her a nasty note"
 title: Richard Barnett charged on January 8, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

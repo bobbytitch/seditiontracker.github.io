@@ -1,19 +1,19 @@
 ---
 name: Jacob Hiles
 lastName: Hiles
-aka: 
+aka:
 residence: Virginia
 status: Charged
 date: 2021-01-19
 age: 8
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 085.png
-preview: 085.png
+image: /images/preview/085.png
+suspect: 085.png
 booking: jacob-hiles.jpg
-courtroom: 
-courthouse: 
+courtroom:
+courthouse:
 quote: "We need to do this at the local level. Lets [sic] storm the capitol in Ohio. Tell me when!"
 title: Jacob Hiles charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

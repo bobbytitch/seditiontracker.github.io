@@ -1,19 +1,19 @@
 ---
 name: Cody Connell
 lastName: Connell
-aka: 
+aka:
 residence: Louisiana
 status: Charged
 date: 2021-01-16
 age: 27
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 049.png
-preview: 049.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/049.png
+suspect: 049.png
+booking:
+courtroom:
+courthouse:
 quote: "We pushed the cops against the wall, they dropped all their gear and left"
 title: Cody Connell charged on January 16, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

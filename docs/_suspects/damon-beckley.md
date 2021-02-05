@@ -1,19 +1,19 @@
 ---
 name: Damon Beckley
 lastName: Beckley
-aka: 
+aka:
 residence: Kentucky
 status: Charged
 date: 2021-01-16
 age: 52
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 047.png
-preview: 047.png
+image: /images/preview/047.png
+suspect: 047.png
 booking: damon-beckley.jpg
-courtroom: 
-courthouse: 
+courtroom:
+courthouse:
 quote: "If we're going to come back here and start a revolution and take all of these traitors out, which is what should be done, then we will!"
 title: Damon Beckley charged on January 16, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

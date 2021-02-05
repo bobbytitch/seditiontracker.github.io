@@ -9,11 +9,11 @@ age: 52
 occupation: CEO
 affiliations: undefined
 jurisdiction: Federal
-image: 027.jpg
-preview: 027.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/027.jpg
+suspect: 027.jpg
+booking:
+courtroom:
+courthouse:
 quote: "I was in the wrong place at the wrong time and I regret my part in that."
 title: Bradley Rukstales charged on January 7, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

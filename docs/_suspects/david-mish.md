@@ -1,19 +1,19 @@
 ---
 name: David Mish
 lastName: Mish
-aka: 
+aka:
 residence: Wisconsin
 status: Charged
 date: 2021-01-15
 age: 42
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 043.jpg
-preview: 043.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/043.jpg
+suspect: 043.jpg
+booking:
+courtroom:
+courthouse:
 quote: "Because I entered the Capitol Building are you guys gonna take me to jail?"
 title: David Mish charged on January 15, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

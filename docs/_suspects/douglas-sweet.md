@@ -1,19 +1,19 @@
 ---
 name: Douglas Sweet
 lastName: Sweet
-aka: 
+aka:
 residence: Virginia
 status: Charged
 date: 2021-01-21
 age: 58
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: douglas-sweet.jpg
-preview: douglas-sweet.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/douglas-sweet.jpg
+suspect: douglas-sweet.jpg
+booking:
+courtroom:
+courthouse:
 quote: "Trump asked all the patriots to show up, so I did."
 title: Douglas Sweet charged on January 21st, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

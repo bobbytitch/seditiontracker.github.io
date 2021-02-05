@@ -1,20 +1,20 @@
 ---
 name: Jerod Hughes
 lastName: Hughes
-aka: 
+aka:
 residence: Montana
 status: Charged
 date: 2021-01-28
-age: 
-occupation: 
+age:
+occupation:
 affiliations: Proud Boys (likely)
 jurisdiction: Federal
-image: jerod-hughes.jpg
-preview: jerod-hughes.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/jerod-hughes.jpg
+suspect: jerod-hughes.jpg
+booking:
+courtroom:
+courthouse:
+quote:
 title: Jerod Hughes charged on January 28, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

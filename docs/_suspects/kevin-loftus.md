@@ -1,20 +1,20 @@
 ---
 name: Kevin Loftus
 lastName: Loftus
-aka: 
+aka:
 residence: Wisconsin
 status: Charged
 date: 2021-01-12
 age: 52
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 017.png
-preview: 017.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/017.png
+suspect: 017.png
+booking:
+courtroom:
+courthouse:
+quote:
 title: Kevin Loftus charged on January 12, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

@@ -1,7 +1,7 @@
 ---
 name: John Strand
 lastName: Strand
-aka: 
+aka:
 residence: California
 status: Charged
 date: 2021-01-18
@@ -9,12 +9,12 @@ age: 37
 occupation: Model
 affiliations: undefined
 jurisdiction: Federal
-image: 072.png
-preview: 072.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/072.png
+suspect: 072.png
+booking:
+courtroom:
+courthouse:
+quote:
 title: John Strand charged on January 18, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

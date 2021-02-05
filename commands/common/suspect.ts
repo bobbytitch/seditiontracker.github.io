@@ -10,7 +10,7 @@ export interface Suspect {
   links?: { [type:string]: string }
   age?: number
   image?: string
-  preview?: string
+  suspect?: string
   booking?: string
   courtroom?: string
   courthouse?: string
@@ -58,8 +58,8 @@ export const getSuspectByFile = (filename:string) => {
     suspect.image = RegExp.$1;
   }
 
-  if (data.match(/preview: (.*)/)) {
-    suspect.preview = RegExp.$1;
+  if (data.match(/suspect: (.*)/)) {
+    suspect.suspect = RegExp.$1;
   }
 
   if (data.match(/booking: (.*)/)) {
@@ -130,7 +130,7 @@ export const updateSuspect = (suspect: Suspect) => {
   file.write(`affiliations: ${suspect.affiliations}\n`)
   file.write(`jurisdiction: ${suspect.jurisdiction}\n`)
   file.write(`image: ${suspect.image}\n`)
-  file.write(`preview: ${suspect.preview}\n`)
+  file.write(`suspect: ${suspect.suspect}\n`)
   file.write(`booking: ${suspect.booking}\n`)
   file.write(`courtroom: ${suspect.courtroom}\n`)
   file.write(`courthouse: ${suspect.courthouse}\n`)

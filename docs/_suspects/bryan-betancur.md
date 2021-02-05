@@ -9,8 +9,8 @@ age: 6
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-image: 061.jpg
-preview: 061.jpg
+image: /images/preview/061.jpg
+suspect: 061.jpg
 booking: bryan-betancur.jpg
 courtroom:
 courthouse:

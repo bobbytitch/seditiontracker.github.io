@@ -6,14 +6,14 @@ residence: Texas
 status: Charged
 date: 2021-01-15
 age: 58
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: troy-smocks.png
-preview: troy-smocks.png
+image: /images/preview/troy-smocks.png
+suspect: troy-smocks.png
 booking: troy-smocks.jpg
-courtroom: 
-courthouse: 
+courtroom:
+courthouse:
 quote: "We will come in numbers that no standing army or police agency can match."
 title: Troy Smocks charged on January 15, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

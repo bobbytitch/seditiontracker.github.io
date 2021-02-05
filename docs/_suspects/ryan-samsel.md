@@ -1,19 +1,19 @@
 ---
 name: Ryan Samsel
 lastName: Samsel
-aka: 
+aka:
 residence: Pennsylvania&nbsp;
 status: Charged
 date: 2021-01-30
 age: 37
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: ryan-samsel.png
-preview: ryan-samsel.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/ryan-samsel.png
+suspect: ryan-samsel.png
+booking:
+courtroom:
+courthouse:
 quote: "We don't have to hurt you. Why are you standing in our way?"
 title: Ryan Samsel charged on January 30th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

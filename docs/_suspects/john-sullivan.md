@@ -1,19 +1,19 @@
 ---
 name: John Sullivan
 lastName: Sullivan
-aka: 
+aka:
 residence: Utah
 status: Indicted
 date: 2021-01-13
 age: 26
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 031.png
-preview: 031.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/031.png
+suspect: 031.png
+booking:
+courtroom:
+courthouse:
 quote: "Let’s burn this shit down."
 title: John Sullivan charged on January 13, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

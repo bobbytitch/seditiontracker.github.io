@@ -1,20 +1,20 @@
 ---
 name: Douglas Jensen
 lastName: Jensen
-aka: 
+aka:
 residence: Iowa
 status: Indicted
 date: 2021-01-09
 age: 41
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 009.jpg
-preview: 009.jpg
+image: /images/preview/009.jpg
+suspect: 009.jpg
 booking: douglas-jensen.png
-courtroom: 
-courthouse: 
-quote: 
+courtroom:
+courthouse:
+quote:
 title: Douglas Jensen charged on January 9, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

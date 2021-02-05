@@ -1,7 +1,7 @@
 ---
 name: Klete Keller
 lastName: Keller
-aka: 
+aka:
 residence: Colorado
 status: Charged
 date: 2021-01-13
@@ -9,12 +9,12 @@ age: 38
 occupation: Olympic Swimmer (Retired)
 affiliations: undefined
 jurisdiction: Federal
-image: 044.png
-preview: 044.png
+image: /images/preview/044.png
+suspect: 044.png
 booking: klete-keller.jpg
 courtroom: klete-keller.jpg
-courthouse: 
-quote: 
+courthouse:
+quote:
 title: Klete Keller charged on January 13, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

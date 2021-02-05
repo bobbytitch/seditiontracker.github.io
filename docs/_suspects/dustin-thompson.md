@@ -1,19 +1,19 @@
 ---
 name: Dustin Thompson
 lastName: Thompson
-aka: 
+aka:
 residence: Ohio
 status: Charged
 date: 2021-01-25
 age: 36
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: dustin-thompson.jpg
-preview: dustin-thompson.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/dustin-thompson.jpg
+suspect: dustin-thompson.jpg
+booking:
+courtroom:
+courthouse:
 quote: "Wooooo! ’Merica Hey! This is our house!"
 title: Dustin Thompson charged on January 25th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

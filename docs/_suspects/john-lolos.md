@@ -1,20 +1,20 @@
 ---
 name: John Lolos
 lastName: Lolos
-aka: 
-residence: 
+aka:
+residence:
 status: Charged
 date: 2021-01-09
-age: 
-occupation: 
+age:
+occupation:
 affiliations: U.S. Military (possible former Army - unconfirmed)
 jurisdiction: Federal
-image: john-lolos.jpg
-preview: john-lolos.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/john-lolos.jpg
+suspect: john-lolos.jpg
+booking:
+courtroom:
+courthouse:
+quote:
 title: John Lolos charged on January 9th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

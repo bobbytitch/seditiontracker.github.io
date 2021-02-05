@@ -1,7 +1,7 @@
 ---
 name: Thomas Caldwell
 lastName: Caldwell
-aka: 
+aka:
 residence: Virginia
 status: Indicted
 date: 2021-01-19
@@ -9,11 +9,11 @@ age: 66
 occupation: Navy (retired)
 affiliations: Oath Keepers
 jurisdiction: Federal
-image: 066.png
-preview: 066.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/066.png
+suspect: 066.png
+booking:
+courtroom:
+courthouse:
 quote: "We need to do this at the local level. Let's storm the capitol in Ohio. Tell me when!"
 title: Thomas Caldwell charged on January 19, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

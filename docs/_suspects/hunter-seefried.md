@@ -1,20 +1,20 @@
 ---
 name: Hunter Seefried
 lastName: Seefried
-aka: 
+aka:
 residence: Delaware
 status: Charged
 date: 2021-01-14
 age: 23
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: hunter-seefried.png
-preview: hunter-seefried.png
-booking: 
-courtroom: 
+image: /images/preview/hunter-seefried.png
+suspect: hunter-seefried.png
+booking:
+courtroom:
 courthouse: hunter-seefried.jpg
-quote: 
+quote:
 title: Hunter Seefried charged on January 14, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

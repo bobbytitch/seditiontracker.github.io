@@ -6,14 +6,14 @@ residence: New Jersey
 status: Charged
 date: 2021-01-22
 age: 10
-occupation: 
+occupation:
 affiliations: New Jersey for Medical Freedom
 jurisdiction: Federal
-image: 101.png
-preview: 101.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/101.png
+suspect: 101.png
+booking:
+courtroom:
+courthouse:
 quote: "We need more men!"
 title: Stephanie Hazelton charged on January 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

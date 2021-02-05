@@ -9,8 +9,8 @@ age:
 occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: joshua-wagner.png
-preview: joshua-wagner.png
+image: /images/preview/joshua-wagner.png
+suspect: joshua-wagner.png
 booking:
 courtroom:
 courthouse:

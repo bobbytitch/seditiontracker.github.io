@@ -9,8 +9,8 @@ age: 56
 occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 046.jpg
-preview: 046.jpg
+image: /images/preview/046.jpg
+suspect: 046.jpg
 booking: lisa-eisenhart.png
 courtroom:
 courthouse:

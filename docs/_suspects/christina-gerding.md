@@ -1,19 +1,19 @@
 ---
 name: Christina Gerding
 lastName: Gerding
-aka: 
+aka:
 residence: Illinois
 status: Charged
 date: 2021-01-28
-age: 
-occupation: 
+age:
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: christina-gerding.jpg
-preview: christina-gerding.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/christina-gerding.jpg
+suspect: christina-gerding.jpg
+booking:
+courtroom:
+courthouse:
 quote: "Quincy made it inside."
 title: Christina Gerding charged on January 28th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

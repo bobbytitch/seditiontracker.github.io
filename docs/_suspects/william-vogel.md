@@ -1,20 +1,20 @@
 ---
 name: William Vogel
 lastName: Vogel
-aka: 
+aka:
 residence: New York
 status: Charged
 date: 2021-01-25
 age: 11
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 117.png
-preview: 117.png
-booking: 
+image: /images/preview/117.png
+suspect: 117.png
+booking:
 courtroom: william-vogel.jpg
-courthouse: 
-quote: 
+courthouse:
+quote:
 title: William Vogel charged on January 25, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

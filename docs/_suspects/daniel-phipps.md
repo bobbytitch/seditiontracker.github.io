@@ -9,8 +9,8 @@ age: 48
 occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: daniel-phipps.jpg
-preview: daniel-phipps.jpg
+image: /images/preview/daniel-phipps.jpg
+suspect: daniel-phipps.jpg
 booking:
 courtroom:
 courthouse:

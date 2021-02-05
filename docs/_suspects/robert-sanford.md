@@ -1,7 +1,7 @@
 ---
 name: Robert Sanford
 lastName: Sanford
-aka: 
+aka:
 residence: Pennsylvania
 status: Charged
 date: 2021-01-14
@@ -9,12 +9,12 @@ age: 55
 occupation: Fire Fighter (Retired)
 affiliations: undefined
 jurisdiction: Federal
-image: 021.jpg
-preview: 021.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/021.jpg
+suspect: 021.jpg
+booking:
+courtroom:
+courthouse:
+quote:
 title: Robert Sanford charged on January 14, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

@@ -1,19 +1,19 @@
 ---
 name: Andrew Wrigley
 lastName: Wrigley
-aka: 
+aka:
 residence: Pennsylvania
 status: Charged
 date: 2021-01-15
 age: 50
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 141.png
-preview: 141.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/141.png
+suspect: 141.png
+booking:
+courtroom:
+courthouse:
 quote: "At the protest in D.C., I went inside the capitol building and got teargassed"
 title: Andrew Wrigley charged on January 15th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

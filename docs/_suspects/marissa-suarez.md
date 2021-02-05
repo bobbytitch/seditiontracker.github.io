@@ -1,7 +1,7 @@
 ---
 name: Marissa Suarez
 lastName: Suarez
-aka: 
+aka:
 residence: New Jersey
 status: Charged
 date: 2021-01-22
@@ -9,12 +9,12 @@ age: 31
 occupation: Corrections Officer
 affiliations: undefined
 jurisdiction: Federal
-image: 108.png
-preview: 108.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/108.png
+suspect: 108.png
+booking:
+courtroom:
+courthouse:
+quote:
 title: Marissa Suarez charged on January 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

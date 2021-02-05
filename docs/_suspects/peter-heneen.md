@@ -9,8 +9,8 @@ age: 9
 occupation: Sheriff's Deputy
 affiliations: Polk County Sheriff
 jurisdiction: Federal
-image: 095.jpg
-preview: 095.jpg
+image: /images/preview/095.jpg
+suspect: 095.jpg
 booking: peter-heneen.png
 courtroom:
 courthouse:

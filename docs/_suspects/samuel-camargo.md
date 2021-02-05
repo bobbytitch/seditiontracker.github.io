@@ -1,19 +1,19 @@
 ---
 name: Samuel Camargo
 lastName: Camargo
-aka: 
+aka:
 residence: Florida
 status: Charged
 date: 2021-01-20
 age: 8
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 089.jpg
-preview: 089.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/089.jpg
+suspect: 089.jpg
+booking:
+courtroom:
+courthouse:
 quote: "Just finished speaking to an FBI agent, I believe I've been cleared"
 title: Samuel Carmargo charged on January 20, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

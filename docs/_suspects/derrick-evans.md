@@ -1,7 +1,7 @@
 ---
 name: Derrick Evans
 lastName: Evans
-aka: 
+aka:
 residence: West Virginia
 status: Charged
 date: 2021-01-08
@@ -9,12 +9,12 @@ age: 35
 occupation: West Viriginia Delegate
 affiliations: undefined
 jurisdiction: Federal
-image: 005.jpg
-preview: 005.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/005.jpg
+suspect: 005.jpg
+booking:
+courtroom:
+courthouse:
+quote:
 title: Derrick Evans charged on January 8, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

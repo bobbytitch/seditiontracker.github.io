@@ -1,7 +1,7 @@
 ---
 name: Patrick Montgomery
 lastName: Montgomery
-aka: 
+aka:
 residence: Colorado
 status: Charged
 date: 2021-01-17
@@ -9,11 +9,11 @@ age: 48
 occupation: Business Owner
 affiliations: undefined
 jurisdiction: Federal
-image: patrick-montgomery.jpg
-preview: patrick-montgomery.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/patrick-montgomery.jpg
+suspect: patrick-montgomery.jpg
+booking:
+courtroom:
+courthouse:
 quote: "We stormed the Senate ... opened those Chamber door for Transparency!"
 title: Patrick Montgomery charged on January 17th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

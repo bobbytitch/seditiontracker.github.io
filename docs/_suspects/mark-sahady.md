@@ -1,7 +1,7 @@
 ---
 name: Mark Sahady
 lastName: Sahady
-aka: 
+aka:
 residence: Massachusets&nbsp;
 status: Charged
 date: 2021-01-19
@@ -9,12 +9,12 @@ age: 46
 occupation: Software Engineer, U.S. Army (Former)
 affiliations: U.S. Military, Super Happy Fun America (anti-LQBTQ group)
 jurisdiction: Federal
-image: 073.jpg
-preview: 073.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/073.jpg
+suspect: 073.jpg
+booking:
+courtroom:
+courthouse:
+quote:
 title: Mark Sahady charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

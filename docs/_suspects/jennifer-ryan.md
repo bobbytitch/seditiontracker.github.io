@@ -6,14 +6,14 @@ residence: Texas
 status: Charged
 date: 2021-01-15
 age: 3
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 032.jpg
-preview: 032.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/032.jpg
+suspect: 032.jpg
+booking:
+courtroom:
+courthouse:
 quote: "Can’t face federal charges for exercising my right to freedom of speech and assembly"
 title: Jennifer Ryan charged on January 15, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

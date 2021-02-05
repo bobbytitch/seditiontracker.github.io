@@ -1,7 +1,7 @@
 ---
 name: Tam Pham
 lastName: Pham
-aka: 
+aka:
 residence: Texas
 status: Charged
 date: 2021-01-19
@@ -9,11 +9,11 @@ age: 48
 occupation: Police Officer
 affiliations: undefined
 jurisdiction: Federal
-image: 069.jpg
-preview: 069.jpg
-booking: 
+image: /images/preview/069.jpg
+suspect: 069.jpg
+booking:
 courtroom: tam-pham.jpg
-courthouse: 
+courthouse:
 quote: "I shouldn’t have done it. I was there to take pictures."
 title: Tam Pham charged on January 19, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

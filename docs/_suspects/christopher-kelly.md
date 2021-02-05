@@ -1,19 +1,19 @@
 ---
 name: Christopher Kelly
 lastName: Kelly
-aka: 
+aka:
 residence: New York
 status: Charged
 date: 2021-01-20
 age: 44
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: christopher-kelly.jpg
-preview: christopher-kelly.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/christopher-kelly.jpg
+suspect: christopher-kelly.jpg
+booking:
+courtroom:
+courthouse:
 quote: "No worries, I’ll be with ex NYPD and some proud boys"
 title: Christopher Kelly charged on January 20, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

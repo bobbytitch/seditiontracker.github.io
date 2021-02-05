@@ -1,19 +1,19 @@
 ---
 name: Henry Muntzer
 lastName: Muntzer
-aka: 
+aka:
 residence: Montana
 status: Charged
 date: 2021-01-18
 age: 52
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 100.png
-preview: 100.png
+image: /images/preview/100.png
+suspect: 100.png
 booking: henry-muntzer.jpg
-courtroom: 
-courthouse: 
+courtroom:
+courthouse:
 quote: "Here’s the video when we storm the capitol and got above the guards."
 title: Henry Muntzer charged on January 18, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

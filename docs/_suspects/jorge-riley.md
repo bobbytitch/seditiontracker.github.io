@@ -1,19 +1,19 @@
 ---
 name: Jorge Riley
 lastName: Riley
-aka: 
+aka:
 residence: California
 status: Charged
 date: 2021-01-19
 age: 42
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 097.jpg
-preview: 097.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/097.jpg
+suspect: 097.jpg
+booking:
+courtroom:
+courthouse:
 quote: "We broke windows. We went into the door. We pushed our way in."
 title: Jorge Riley charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

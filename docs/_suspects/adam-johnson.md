@@ -1,20 +1,20 @@
 ---
 name: Adam Johnson
 lastName: Johnson
-aka: 
+aka:
 residence: Florida
 status: Charged
 date: 2021-01-07
 age: 36
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: adam-johnson.jpg
-preview: adam-johnson.jpg
+image: /images/preview/adam-johnson.jpg
+suspect: adam-johnson.jpg
 booking: adam-johnson.png
-courtroom: 
+courtroom:
 courthouse: adam-johnson.jpg
-quote: 
+quote:
 title: Adam Johnson charged on January 7, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

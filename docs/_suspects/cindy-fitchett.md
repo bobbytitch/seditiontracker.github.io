@@ -9,8 +9,8 @@ age: 59
 occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 129.png
-preview: 129.png
+image: /images/preview/129.png
+suspect: 129.png
 booking: cindy-fitchett.png
 courtroom:
 courthouse:

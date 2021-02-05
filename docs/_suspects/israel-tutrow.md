@@ -9,8 +9,8 @@ age:
 occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: israel-tutrow.png
-preview: israel-tutrow.png
+image: /images/preview/israel-tutrow.png
+suspect: israel-tutrow.png
 booking:
 courtroom:
 courthouse:

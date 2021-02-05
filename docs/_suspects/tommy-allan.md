@@ -1,7 +1,7 @@
 ---
 name: Tommy Allan
 lastName: Allan
-aka: 
+aka:
 residence: California
 status: Charged
 date: 2021-01-22
@@ -9,11 +9,11 @@ age: 52
 occupation: Real Estate (Former)
 affiliations: undefined
 jurisdiction: Federal
-image: tommy-allan.png
-preview: tommy-allan.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/tommy-allan.png
+suspect: tommy-allan.png
+booking:
+courtroom:
+courthouse:
 quote: "Here [sic] my Roar you fucking communist bastards. Give me freedom or give me death."
 title: Tommy Allan charged on January 25, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

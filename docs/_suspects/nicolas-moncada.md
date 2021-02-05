@@ -1,7 +1,7 @@
 ---
 name: Nicolas Moncada
 lastName: Moncada
-aka: 
+aka:
 residence: New York
 status: Charged
 date: 2021-01-18
@@ -9,12 +9,12 @@ age: 20
 occupation: Student
 affiliations: undefined
 jurisdiction: Federal
-image: nicolas-moncada.jpg
-preview: nicolas-moncada.jpg
-booking: 
+image: /images/preview/nicolas-moncada.jpg
+suspect: nicolas-moncada.jpg
+booking:
 courtroom: nicolas-moncanda.jpg
 courthouse: nicolas-moncanda.jpg
-quote: 
+quote:
 title: Nicolas Moncada charged on January 18th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

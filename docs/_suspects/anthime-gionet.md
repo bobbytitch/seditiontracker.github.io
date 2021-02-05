@@ -6,14 +6,14 @@ residence: Arizona
 status: Charged
 date: 2021-01-16
 age: 33
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 023.png
-preview: 023.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/023.png
+suspect: 023.png
+booking:
+courtroom:
+courthouse:
 quote: "You're not allowed to shove me"
 title: Anthime Joseph Gionet charged on January 14, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

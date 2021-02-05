@@ -1,20 +1,20 @@
 ---
 name: Matthew Council
 lastName: Council
-aka: 
+aka:
 residence: Florida
 status: Charged
 date: 2021-01-14
 age: 49
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: arrest.jpg
-preview: arrest.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/arrest.jpg
+suspect: arrest.jpg
+booking:
+courtroom:
+courthouse:
+quote:
 title: Matthew Council charged on January 14th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

@@ -9,11 +9,11 @@ age: 32
 occupation: Music Teacher
 affiliations: Oath Keepers (likely), Red Elephants (likely)
 jurisdiction: Federal
-image: stephen-baker.png
-preview: stephen-baker.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/stephen-baker.png
+suspect: stephen-baker.png
+booking:
+courtroom:
+courthouse:
 quote: "I was inside for like an hour, dude. I was one of like the last 10 people in there."
 title: Stephen Baker charged on February 1st, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

@@ -1,7 +1,7 @@
 ---
 name: Hector Vargas
 lastName: Vargas
-aka: 
+aka:
 residence: New Jersey
 status: Charged
 date: 2021-01-22
@@ -9,12 +9,12 @@ age: 28
 occupation: U.S. Marines (Former)
 affiliations: undefined
 jurisdiction: Federal
-image: 102.jpg
-preview: 102.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/102.jpg
+suspect: 102.jpg
+booking:
+courtroom:
+courthouse:
+quote:
 title: Hector Vargas  charged on January 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

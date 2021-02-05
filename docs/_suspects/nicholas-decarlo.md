@@ -9,8 +9,8 @@ age: 7
 occupation:
 affiliations: Proud Boys, Murder the Media
 jurisdiction: Federal
-image: 076.png
-preview: 076.png
+image: /images/preview/076.png
+suspect: 076.png
 booking:
 courtroom:
 courthouse:

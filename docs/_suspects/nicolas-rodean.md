@@ -9,8 +9,8 @@ age: 1
 occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 014.jpg
-preview: 014.jpg
+image: /images/preview/014.jpg
+suspect: 014.jpg
 booking:
 courtroom:
 courthouse:

@@ -1,7 +1,7 @@
 ---
 name: Brandon Straka
 lastName: Straka
-aka: 
+aka:
 residence: New England
 status: Charged
 date: 2021-01-25
@@ -9,11 +9,11 @@ age: 43
 occupation: Hair Stylist (Former)
 affiliations: undefined
 jurisdiction: Federal
-image: 116.jpg
-preview: 116.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/116.jpg
+suspect: 116.jpg
+booking:
+courtroom:
+courthouse:
 quote: "Also—be embarrassed & hide if you need to- but I was there. It was not Antifa at the Capitol."
 title: Brandon Straka charged on January 25, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

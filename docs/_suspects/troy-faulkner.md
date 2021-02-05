@@ -1,7 +1,7 @@
 ---
 name: Troy Faulkner
 lastName: Faulkner
-aka: 
+aka:
 residence: Ohio
 status: Charged
 date: 2021-01-26
@@ -9,11 +9,11 @@ age: 39
 occupation: Business Owner (Faulkner Painting)
 affiliations: undefined
 jurisdiction: Federal
-image: troy-faulkner.jpg
-preview: troy-faulkner.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/troy-faulkner.jpg
+suspect: troy-faulkner.jpg
+booking:
+courtroom:
+courthouse:
 quote: "We weren’t fighting against antifa we’re fighting against the government"
 title: Troy Faulkner charged on January 26th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

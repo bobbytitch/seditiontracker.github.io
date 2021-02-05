@@ -1,20 +1,20 @@
 ---
 name: Michael Daughtry
 lastName: Daughtry
-aka: 
+aka:
 residence: Georgia
 status: Charged
 date: 2021-01-15
 age: 58
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 094.png
-preview: 094.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/094.png
+suspect: 094.png
+booking:
+courtroom:
+courthouse:
+quote:
 title: Michael Daughtry charged on January 15, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

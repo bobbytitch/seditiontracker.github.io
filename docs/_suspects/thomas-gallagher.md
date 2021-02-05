@@ -1,20 +1,20 @@
 ---
 name: Thomas Gallagher
 lastName: Gallagher
-aka: 
+aka:
 residence: New Hampshire
 status: Charged
 date: 2021-01-21
 age: 61
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: thomas-gallagher.png
-preview: thomas-gallagher.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/thomas-gallagher.png
+suspect: thomas-gallagher.png
+booking:
+courtroom:
+courthouse:
+quote:
 title: Thomas Gallagher charged on January 21st, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

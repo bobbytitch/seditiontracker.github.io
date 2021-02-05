@@ -1,20 +1,20 @@
 ---
 name: Diana Santos-Smith
 lastName: Santos-Smith
-aka: 
+aka:
 residence: Pennsylvania
 status: Charged
 date: 2021-01-29
-age: 
-occupation: 
+age:
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: diana-santos-smith.jpg
-preview: diana-santos-smith.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/diana-santos-smith.jpg
+suspect: diana-santos-smith.jpg
+booking:
+courtroom:
+courthouse:
+quote:
 title: Diana Santos-smith charged on January 29th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

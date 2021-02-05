@@ -1,20 +1,20 @@
 ---
 name: Albert Ciarpelli
 lastName: Ciarpelli
-aka: 
+aka:
 residence: New York
 status: Charged
 date: 2021-01-21
 age: 65
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 118.jpg
-preview: 118.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/118.jpg
+suspect: 118.jpg
+booking:
+courtroom:
+courthouse:
+quote:
 title: Albert Ciarpelli charged on January 21, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

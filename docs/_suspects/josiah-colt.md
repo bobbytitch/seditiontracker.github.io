@@ -1,19 +1,19 @@
 ---
 name: Josiah Colt
 lastName: Colt
-aka: 
+aka:
 residence: Idaho
 status: Indicted
 date: 2021-01-12
 age: 34
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 016.jpg
-preview: 016.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/016.jpg
+suspect: 016.jpg
+booking:
+courtroom:
+courthouse:
 quote: "I got caught up in the moment and when I saw the door to to the Chamber open, I walked in, hopped down, and sat on the chair."
 title: Josiah Colt charged on January 12, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

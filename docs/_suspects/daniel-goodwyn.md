@@ -9,8 +9,8 @@ age: 32
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-image: 034.png
-preview: 034.png
+image: /images/preview/034.png
+suspect: 034.png
 booking:
 courtroom:
 courthouse:

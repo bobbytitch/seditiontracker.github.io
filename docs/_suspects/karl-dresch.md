@@ -1,19 +1,19 @@
 ---
 name: Karl Dresch
 lastName: Dresch
-aka: 
+aka:
 residence: Michigan
 status: Indicted
 date: 2021-01-20
 age: 40
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 096.jpg
-preview: 096.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/096.jpg
+suspect: 096.jpg
+booking:
+courtroom:
+courthouse:
 quote: "Took a lil gas ... wtf I love masks now!"
 title: Karl Dresch charged on January 20, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

@@ -9,8 +9,8 @@ age:
 occupation: Business Owner ("Adult Model Management Company")
 affiliations: undefined
 jurisdiction: Federal
-image: nathaniel-degrave.jpg
-preview: nathaniel-degrave.jpg
+image: /images/preview/nathaniel-degrave.jpg
+suspect: nathaniel-degrave.jpg
 booking:
 courtroom:
 courthouse:

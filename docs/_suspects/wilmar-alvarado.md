@@ -6,14 +6,14 @@ residence: Texas
 status: Charged
 date: 2021-01-29
 age: 37
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: wilmar-alvarado.png
-preview: wilmar-alvarado.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/wilmar-alvarado.png
+suspect: wilmar-alvarado.png
+booking:
+courtroom:
+courthouse:
 quote: "I’m not part of this. I’m trying to get out."
 title: Wilmar Alvarado charged on January 29, 2021gs
 description: Click for latest case details. Suspects innocent until proven guilty.

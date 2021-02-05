@@ -1,19 +1,19 @@
 ---
 name: Peter Stager
 lastName: Stager
-aka: 
+aka:
 residence: Arkansas
 status: Charged
 date: 2021-01-14
 age: 41
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 028.jpg
-preview: 028.jpg
+image: /images/preview/028.jpg
+suspect: 028.jpg
 booking: peter-stager.jpg
 courtroom: peter-stager.jpg
-courthouse: 
+courthouse:
 quote: "Everybody in there is a treasonous traitor. Death is the only remedy for what’s in that building."
 title: Peter Stager charged on January 14, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

@@ -1,7 +1,7 @@
 ---
 name: Gabriel Garcia
 lastName: Garcia
-aka: 
+aka:
 residence: Florida
 status: Charged
 date: 2021-01-19
@@ -9,11 +9,11 @@ age: 40
 occupation: U.S. Army (Former)
 affiliations: Proud Boys
 jurisdiction: Federal
-image: 077.png
-preview: 077.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/077.png
+suspect: 077.png
+booking:
+courtroom:
+courthouse:
 quote: "Nancy come out and play!"
 title: Gabriel Garcia charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

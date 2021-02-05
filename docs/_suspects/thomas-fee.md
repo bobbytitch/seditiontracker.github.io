@@ -1,7 +1,7 @@
 ---
 name: Thomas Fee
 lastName: Fee
-aka: 
+aka:
 residence: New York
 status: Charged
 date: 2021-01-15
@@ -9,12 +9,12 @@ age: 53
 occupation: Fire Figther (Retired)
 affiliations: undefined
 jurisdiction: Federal
-image: thomas-fee.jpg
-preview: thomas-fee.jpg
-booking: 
-courtroom: 
+image: /images/preview/thomas-fee.jpg
+suspect: thomas-fee.jpg
+booking:
+courtroom:
 courthouse: thomas-fee.jpg
-quote: 
+quote:
 title: Thomas Fee charged on January 15, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

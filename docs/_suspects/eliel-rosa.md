@@ -1,20 +1,20 @@
 ---
 name: Eliel Rosa
 lastName: Rosa
-aka: 
+aka:
 residence: Texas
 status: Charged
 date: 2021-01-13
 age: 3
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 030.png
-preview: 030.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/030.png
+suspect: 030.png
+booking:
+courtroom:
+courthouse:
+quote:
 title: Eliel Rosa charged on January 13, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

@@ -1,20 +1,20 @@
 ---
 name: Joshua Hughes
 lastName: Hughes
-aka: 
+aka:
 residence: Montana
 status: Charged
 date: 2021-01-28
-age: 
-occupation: 
+age:
+occupation:
 affiliations: Proud Boys (likely)
 jurisdiction: Federal
-image: joshua-hughes.png
-preview: joshua-hughes.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/joshua-hughes.png
+suspect: joshua-hughes.png
+booking:
+courtroom:
+courthouse:
+quote:
 title: Joshua Hughes charged on January 28, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

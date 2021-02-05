@@ -1,7 +1,7 @@
 ---
 name: Gina Bisignano
 lastName: Bisignano
-aka: 
+aka:
 residence: California
 status: Indicted
 date: 2021-01-19
@@ -9,11 +9,11 @@ age: 52
 occupation: Salon Owner
 affiliations: undefined
 jurisdiction: Federal
-image: 070.jpg
-preview: 070.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/070.jpg
+suspect: 070.jpg
+booking:
+courtroom:
+courthouse:
 quote: "Everybody, we need gas masks, we need weapons."
 title: Gina Bisigano charged on January 19, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

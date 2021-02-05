@@ -1,7 +1,7 @@
 ---
 name: Michael Foy
 lastName: Foy
-aka: 
+aka:
 residence: Michigan
 status: Charged
 date: 2021-01-21
@@ -9,12 +9,12 @@ age: 8
 occupation: U.S. Marines (Former)
 affiliations: undefined
 jurisdiction: Federal
-image: 083.png
-preview: 083.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/083.png
+suspect: 083.png
+booking:
+courtroom:
+courthouse:
+quote:
 title: Michael Foy charged on January 21, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

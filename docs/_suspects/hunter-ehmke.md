@@ -1,20 +1,20 @@
 ---
 name: Hunter Ehmke
 lastName: Ehmke
-aka: 
+aka:
 residence: California
 status: Charged
 date: 2021-01-13
 age: 20
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: arrest.jpg
-preview: arrest.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/arrest.jpg
+suspect: arrest.jpg
+booking:
+courtroom:
+courthouse:
+quote:
 title: Hunter Ehmke charged on January 13th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

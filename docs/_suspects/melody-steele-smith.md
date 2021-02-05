@@ -1,19 +1,19 @@
 ---
 name: Melody Steele-Smith
 lastName: Steele-Smith
-aka: 
+aka:
 residence: Virginia
 status: Charged
 date: 2021-01-20
-age: 
-occupation: 
+age:
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: melody-stelle-smith.png
-preview: melody-stelle-smith.png
-booking: 
+image: /images/preview/melody-stelle-smith.png
+suspect: melody-stelle-smith.png
+booking:
 courtroom: melody-stelle-smith.jpg
-courthouse: 
+courthouse:
 quote: "I hope they come for me my videos will show the peace and the lies on the news."
 title: Melody Steele-Smith charged on January 20th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

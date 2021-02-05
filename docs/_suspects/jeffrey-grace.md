@@ -9,8 +9,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: jeffrey-grace.jpg
-preview: jeffrey-grace.jpg
+image: /images/preview/jeffrey-grace.jpg
+suspect: jeffrey-grace.jpg
 booking:
 courtroom:
 courthouse:

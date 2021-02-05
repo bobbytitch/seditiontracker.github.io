@@ -9,11 +9,11 @@ age: 33
 occupation: U.S. Army (Former)
 affiliations: military
 jurisdiction: Federal
-image: jeffrey-smith.jpg
-preview: jeffrey-smith.jpg
-booking: 
+image: /images/preview/jeffrey-smith.jpg
+suspect: jeffrey-smith.jpg
+booking:
 courtroom: jeffrey-smith.jpg
-courthouse: 
+courthouse:
 quote: "There is no way in hell I was going to drive 38 hours from San Diego and not walk right through the front of the capital (sic) building."
 title: Jeffrey Smith charged on January 27th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

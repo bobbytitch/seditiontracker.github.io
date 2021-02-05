@@ -9,8 +9,8 @@ age: 40
 occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 099.jpg
-preview: 099.jpg
+image: /images/preview/099.jpg
+suspect: 099.jpg
 booking:
 courtroom:
 courthouse:

@@ -1,19 +1,19 @@
 ---
 name: Leo Kelly
 lastName: Kelly
-aka: 
+aka:
 residence: Iowa
 status: Charged
 date: 2021-01-18
 age: 6
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 062.jpg
-preview: 062.jpg
+image: /images/preview/062.jpg
+suspect: 062.jpg
 booking: leo-kelly.jpg
-courtroom: 
-courthouse: 
+courtroom:
+courthouse:
 quote: "There’s enough illegal behavior ... being committed by the elected officials that, you know, what are you supposed to do?"
 title: Leo Kelly charged on January 15, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

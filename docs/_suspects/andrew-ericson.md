@@ -1,20 +1,20 @@
 ---
 name: Andrew Ericson
 lastName: Ericson
-aka: 
+aka:
 residence: Oklahoma
 status: Charged
 date: 2021-01-22
 age: 23
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 112.png
-preview: 112.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/112.png
+suspect: 112.png
+booking:
+courtroom:
+courthouse:
+quote:
 title: Andrew Ericson charged on January 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

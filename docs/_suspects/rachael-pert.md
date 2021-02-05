@@ -1,20 +1,20 @@
 ---
 name: Rachael Pert
 lastName: Pert
-aka: 
+aka:
 residence: Florida
 status: Charged
 date: 2021-01-26
 age: 40
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: rachael-pert.png
-preview: rachael-pert.png
+image: /images/preview/rachael-pert.png
+suspect: rachael-pert.png
 booking: rachael-pert.jpg
-courtroom: 
-courthouse: 
-quote: 
+courtroom:
+courthouse:
+quote:
 title: Rachael Pert charged on January 26th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

@@ -1,19 +1,19 @@
 ---
 name: Craig Bingert
 lastName: Bingert
-aka: 
+aka:
 residence: Pennsylvania
 status: Charged
 date: 2021-01-17
 age: 29
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Fyederal
-image: 060.jpg
-preview: 060.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/060.jpg
+suspect: 060.jpg
+booking:
+courtroom:
+courthouse:
 quote: "Fuck the Police."
 title: Craig Bingert charged on January 17, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

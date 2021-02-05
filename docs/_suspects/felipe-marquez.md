@@ -1,20 +1,20 @@
 ---
 name: Felipe Marquez
 lastName: Marquez
-aka: 
+aka:
 residence: Florida
 status: Charged
 date: 2021-01-19
 age: 25
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 088.png
-preview: 088.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/088.png
+suspect: 088.png
+booking:
+courtroom:
+courthouse:
+quote:
 title: Felipe Marquez charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

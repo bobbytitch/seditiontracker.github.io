@@ -1,7 +1,7 @@
 ---
 name: Christine Priola
 lastName: Priola
-aka: 
+aka:
 residence: Ohio
 status: Charged
 date: 2021-01-14
@@ -9,11 +9,11 @@ age: 49
 occupation: School Therapist
 affiliations: undefined
 jurisdiction: Federal
-image: 025.jpg
-preview: 025.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/025.jpg
+suspect: 025.jpg
+booking:
+courtroom:
+courthouse:
 quote: "I will be switching paths to expose the global evil of human trafficking and pedophilia, including in our government agencies and children’s services agencies."
 title: Christine Priola charged on January 14, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

@@ -1,20 +1,20 @@
 ---
 name: Lonnie Coffman
 lastName: Coffman
-aka: 
+aka:
 residence: Alabama
 status: Indicted
 date: 2021-01-07
 age: 70
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: lonnie-coffman.jpg
-preview: lonnie-coffman.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/lonnie-coffman.jpg
+suspect: lonnie-coffman.jpg
+booking:
+courtroom:
+courthouse:
+quote:
 title: Lonnie Coffman charged on January 7th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

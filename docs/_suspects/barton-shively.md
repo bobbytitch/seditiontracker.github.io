@@ -1,7 +1,7 @@
 ---
 name: Barton Shively
 lastName: Shively
-aka: 
+aka:
 residence: Pennsylvania
 status: Charged
 date: 2021-01-19
@@ -9,12 +9,12 @@ age: 9
 occupation: U.S. Marines (Former)
 affiliations: undefined
 jurisdiction: Federal
-image: 098.png
-preview: 098.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/098.png
+suspect: 098.png
+booking:
+courtroom:
+courthouse:
+quote:
 title: Barton Shively charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

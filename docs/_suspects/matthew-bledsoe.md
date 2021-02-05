@@ -1,19 +1,19 @@
 ---
 name: Matthew Bledsoe
 lastName: Bledsoe
-aka: 
+aka:
 residence: Tennessee
 status: Charged
 date: 2021-01-15
 age: 3
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 037.png
-preview: 037.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/037.png
+suspect: 037.png
+booking:
+courtroom:
+courthouse:
 quote: "This is our house. We pay for this shit. Where’s those pieces of shit at?"
 title: Matthew Bledsoe charged on January 15, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

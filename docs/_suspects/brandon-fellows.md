@@ -1,19 +1,19 @@
 ---
 name: Brandon Fellows
 lastName: Fellows
-aka: 
+aka:
 residence: New York
 status: Charged
 date: 2021-01-17
 age: 26
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 050.jpg
-preview: 050.jpg
+image: /images/preview/050.jpg
+suspect: 050.jpg
 booking: brandon-fellows.png
-courtroom: 
-courthouse: 
+courtroom:
+courthouse:
 quote: "I didn’t hurt anyone, I didn’t break anything. I did trespass though, I guess."
 title: Brandon Fellows charged on January 17, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

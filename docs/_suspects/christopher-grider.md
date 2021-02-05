@@ -1,7 +1,7 @@
 ---
 name: Christopher Grider
 lastName: Grider
-aka: 
+aka:
 residence: Texas
 status: Indicted
 date: 2021-01-21
@@ -9,11 +9,11 @@ age: 39
 occupation: Teacher (Former), U.S. Military (Former)
 affiliations: U.S. Military
 jurisdiction: Federal
-image: christopher-grider.png
-preview: christopher-grider.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/christopher-grider.png
+suspect: christopher-grider.png
+booking:
+courtroom:
+courthouse:
 quote: "People are going to get crushed on that other side if they don’t open that door"
 title: Christopher Grider charged on January 21st, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

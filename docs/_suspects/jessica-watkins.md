@@ -1,7 +1,7 @@
 ---
 name: Jessica Watkins
 lastName: Watkins
-aka: 
+aka:
 residence: Ohio
 status: Indicted
 date: 2021-01-17
@@ -9,11 +9,11 @@ age: 38
 occupation: Former U.S. Military (Army)
 affiliations: Oath Keepers, Ohio Regular Militia
 jurisdiction: Federal
-image: 056.jpg
-preview: 056.jpg
+image: /images/preview/056.jpg
+suspect: 056.jpg
 booking: jessica-watkins.png
-courtroom: 
-courthouse: 
+courtroom:
+courthouse:
 quote: "Me before forcing entry into the Capitol Building."
 title: Jessica Watkins charged on January 17, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

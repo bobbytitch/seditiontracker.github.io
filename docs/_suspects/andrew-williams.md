@@ -1,7 +1,7 @@
 ---
 name: Andrew Williams
 lastName: Williams
-aka: 
+aka:
 residence: Florida
 status: Charged
 date: 2021-01-12
@@ -9,12 +9,12 @@ age: 1
 occupation: Fire Fighter
 affiliations: undefined
 jurisdiction: Federal
-image: 010.jpg
-preview: 010.jpg
-booking: 
+image: /images/preview/010.jpg
+suspect: 010.jpg
+booking:
 courtroom: andrew-williams.jpg
-courthouse: 
-quote: 
+courthouse:
+quote:
 title: Andrew Williams charged on January 12, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

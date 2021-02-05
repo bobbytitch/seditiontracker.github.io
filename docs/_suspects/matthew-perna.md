@@ -1,19 +1,19 @@
 ---
 name: Matthew Perna
 lastName: Perna
-aka: 
+aka:
 residence: Pennsylvania
 status: Charged
 date: 2021-01-19
 age: 7
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 075.png
-preview: 075.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/075.png
+suspect: 075.png
+booking:
+courtroom:
+courthouse:
 quote: "I foolishly allowed myself to get drawn into the negative energy emanating from that building."
 title: Matthew Perna charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

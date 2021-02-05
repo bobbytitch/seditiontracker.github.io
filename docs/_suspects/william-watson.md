@@ -1,20 +1,20 @@
 ---
 name: William Watson
 lastName: Watson
-aka: 
+aka:
 residence: Alabama
 status: Charged
 date: 2021-01-11
 age: 23
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 007.png
-preview: 007.png
+image: /images/preview/007.png
+suspect: 007.png
 booking: william-watson.png
-courtroom: 
-courthouse: 
-quote: 
+courtroom:
+courthouse:
+quote:
 title: William Watson charged on January 11, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

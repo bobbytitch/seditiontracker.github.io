@@ -1,20 +1,20 @@
 ---
 name: Nicholas Ochs
 lastName: Ochs
-aka: 
+aka:
 residence: Hawaii
 status: Indicted
 date: 2021-01-07
 age: 34
-occupation: 
+occupation:
 affiliations: Proud Boys, Murder the Media
 jurisdiction: Federal
-image: 006.jpg
-preview: 006.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/006.jpg
+suspect: 006.jpg
+booking:
+courtroom:
+courthouse:
+quote:
 title: Nicholas Ochs charged on January 7, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

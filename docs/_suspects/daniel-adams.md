@@ -1,19 +1,19 @@
 ---
 name: Daniel Adams
 lastName: Adams
-aka: 
+aka:
 residence: Texas
 status: Charged
 date: 2021-01-16
 age: 4
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 048.png
-preview: 048.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/048.png
+suspect: 048.png
+booking:
+courtroom:
+courthouse:
 quote: "Let’s go. Are you ready to push?"
 title: Daniel Adams charged on January 16, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

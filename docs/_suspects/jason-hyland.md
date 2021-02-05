@@ -9,8 +9,8 @@ age: 37
 occupation: Real Estate Agent
 affiliations:
 jurisdiction: Federal
-image: jason-hyland.png
-preview: jason-hyland.png
+image: /images/preview/jason-hyland.png
+suspect: jason-hyland.png
 booking:
 courtroom:
 courthouse:

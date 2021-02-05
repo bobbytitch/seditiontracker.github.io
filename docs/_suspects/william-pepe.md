@@ -1,20 +1,20 @@
 ---
 name: William Pepe
 lastName: Pepe
-aka: 
+aka:
 residence: New York
 status: Charged
 date: 2021-01-12
 age: 31
-occupation: 
+occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-image: 015.jpg
-preview: 015.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/015.jpg
+suspect: 015.jpg
+booking:
+courtroom:
+courthouse:
+quote:
 title: William Pepe charged on January 12, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

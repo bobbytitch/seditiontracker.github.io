@@ -1,20 +1,20 @@
 ---
 name: Stephen Ayres
 lastName: Ayres
-aka: 
+aka:
 residence: Ohio
 status: Charged
 date: 2021-01-25
 age: 38
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 114.jpg
-preview: 114.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/114.jpg
+suspect: 114.jpg
+booking:
+courtroom:
+courthouse:
+quote:
 title: Stephen Ayres charged on January 25, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

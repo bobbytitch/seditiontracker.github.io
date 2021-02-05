@@ -1,20 +1,20 @@
 ---
 name: Kash Kelly
 lastName: Kelly
-aka: 
+aka:
 residence: Illinois
 status: Charged
 date: 2021-01-14
 age: 32
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 040.png
-preview: 040.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/040.png
+suspect: 040.png
+booking:
+courtroom:
+courthouse:
+quote:
 title: Kash Kelly charged on January 14, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

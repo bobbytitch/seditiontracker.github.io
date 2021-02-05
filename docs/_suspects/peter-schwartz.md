@@ -9,8 +9,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: pete-schwartz.jpg
-preview: pete-schwartz.jpg
+image: /images/preview/pete-schwartz.jpg
+suspect: pete-schwartz.jpg
 booking:
 courtroom:
 courthouse:

@@ -1,7 +1,7 @@
 ---
 name: Jeffrey Sabol
 lastName: Sabol
-aka: 
+aka:
 residence: New York
 status: Charged
 date: 2021-01-22
@@ -9,12 +9,12 @@ age: 51
 occupation: Geologist
 affiliations: undefined
 jurisdiction: Federal
-image: 106.jpg
-preview: 106.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/106.jpg
+suspect: 106.jpg
+booking:
+courtroom:
+courthouse:
+quote:
 title: Jeffrey Sabol charged on January 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

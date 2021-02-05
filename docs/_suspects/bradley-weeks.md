@@ -1,20 +1,20 @@
 ---
 name: Bradley Weeks
 lastName: Weeks
-aka: 
+aka:
 residence: Florida
 status: Charged
 date: 2021-01-21
 age: 43
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 092.jpg
-preview: 092.jpg
-booking: 
+image: /images/preview/092.jpg
+suspect: 092.jpg
+booking:
 courtroom: bradley-weeks.jpg
-courthouse: 
-quote: 
+courthouse:
+quote:
 title: Bradley Weeks charged on January 21, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

@@ -1,20 +1,20 @@
 ---
 name: Jason Gerding
 lastName: Gerding
-aka: 
+aka:
 residence: Illinois
 status: Charged
 date: 2021-01-28
-age: 
-occupation: 
+age:
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: jason-gerding.jpg
-preview: jason-gerding.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/jason-gerding.jpg
+suspect: jason-gerding.jpg
+booking:
+courtroom:
+courthouse:
+quote:
 title: Jason Gerding charged on January 28th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

@@ -9,8 +9,8 @@ age: 35
 occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: arrest.jpg
-preview: arrest.jpg
+image: /images/preview/arrest.jpg
+suspect: arrest.jpg
 booking:
 courtroom:
 courthouse:

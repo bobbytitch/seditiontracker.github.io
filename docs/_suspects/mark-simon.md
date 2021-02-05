@@ -1,19 +1,19 @@
 ---
 name: Mark Simon
 lastName: Simon
-aka: 
+aka:
 residence: California
 status: Charged
 date: 2021-01-28
-age: 
-occupation: 
+age:
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: mark-simon.png
-preview: mark-simon.png
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/mark-simon.png
+suspect: mark-simon.png
+booking:
+courtroom:
+courthouse:
 quote: "In the Capitol baby, yeah!"
 title: Mark Simon charged on January 28th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

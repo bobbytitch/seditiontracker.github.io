@@ -1,19 +1,19 @@
 ---
 name: Dana Winn
 lastName: Winn
-aka: 
+aka:
 residence: Florida
 status: Charged
 date: 2021-01-26
 age: 45
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: dana-winn.png
-preview: dana-winn.png
+image: /images/preview/dana-winn.png
+suspect: dana-winn.png
 booking: dana-winn.png
 courtroom: dana-winn.jpg
-courthouse: 
+courthouse:
 quote: "Got her flags, come with her flagpole, that way I can hit antifa in the head if need be"
 title: Dana Winn charged on January 26th, 2021"
 description: Click for latest case details. Suspects innocent until proven guilty.

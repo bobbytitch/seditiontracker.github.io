@@ -1,20 +1,20 @@
 ---
 name: Robert Bauer
 lastName: Bauer
-aka: 
+aka:
 residence: Kentucky
 status: Charged
 date: 2021-01-15
 age: 3
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 035.png
-preview: 035.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+image: /images/preview/035.png
+suspect: 035.png
+booking:
+courtroom:
+courthouse:
+quote:
 title: Robert Bauer charged on January 15, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

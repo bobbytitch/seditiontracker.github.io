@@ -1,19 +1,19 @@
 ---
 name: Kevin Lyons
 lastName: Lyons
-aka: 
+aka:
 residence: Illinois
 status: Charged
 date: 2021-01-13
 age: 40
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: 026.png
-preview: 026.jpg
+image: /images/preview/026.png
+suspect: 026.jpg
 booking: kevin-lyons.jpg
-courtroom: 
-courthouse: 
+courtroom:
+courthouse:
 quote: "Wow you are pretty good that was up for only an hour"
 title: Kevin Lyons charged on January 13, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

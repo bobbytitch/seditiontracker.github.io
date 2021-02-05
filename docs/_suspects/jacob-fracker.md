@@ -1,7 +1,7 @@
 ---
 name: Jacob Fracker
 lastName: Fracker
-aka: 
+aka:
 residence: Virginia
 status: Charged
 date: 2021-01-13
@@ -9,11 +9,11 @@ age: 29
 occupation: Police Officer (Former Military)
 affiliations: Rocky Mount Police Department, Law Enforcement, US Military
 jurisdiction: Federal
-image: 018.jpg
-preview: 018.jpg
-booking: 
-courtroom: 
-courthouse: 
+image: /images/preview/018.jpg
+suspect: 018.jpg
+booking:
+courtroom:
+courthouse:
 quote: "Lol to anyone who’s possibly concerned about the picture of me going around ... Sorry I hate freedom? ... Not like I did anything illegal"
 title: Jacob Fracker charged on January 13, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
