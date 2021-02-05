@@ -7,13 +7,13 @@ status: Indicted
 date: 2021-01-08
 charged: 2021-01-08
 indicted: 2021-01-11
-age: 0
+age: 33
 occupation:
 affiliations:
 jurisdiction: Federal
 image: /images/preview/003.jpg
 suspect: 003.jpg
-booking:
+booking: jacob-chansley.jpg
 courtroom: jacob-chansley.png
 courthouse:
 quote:
