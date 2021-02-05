@@ -24,13 +24,14 @@ const doVerify = () => {
     //   exitWithError(`Missing date for ${suspect.name}`);
     // }
 
-    if (fs.existsSync(suspect.image)) {
+    if (fs.existsSync(`docs/${suspect.image}`)) {
       continue;
     } else {
       // no preview found, let's try generating one
       info(`Generating preview for ${suspect.name}`)
       try {
-        execSync(`yarn suspect preview -f ${suspect.image} -s ${suspect.status}`)
+        const previewImage = suspect.image.replace("/images/preview/", "")
+        execSync(`yarn suspect preview -f ${previewImage} -s ${suspect.status}`)
         execSync(`git add docs/images/preview`)
       } catch (error) {
         exitWithError(`No preview exists for ${suspect.name}`)

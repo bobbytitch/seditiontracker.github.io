@@ -9,7 +9,7 @@ age: 40
 occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: /images/preview/026.png
+image: /images/preview/026.jpg
 suspect: 026.jpg
 booking: kevin-lyons.jpg
 courtroom:

@@ -9,7 +9,7 @@ age: 50
 occupation:
 affiliations: undefined
 jurisdiction: Federal
-image: /images/preview/041.png
+image: /images/preview/041.jpg
 suspect: 041.jpg
 booking: vaughn-gordon.jpg
 courtroom:
