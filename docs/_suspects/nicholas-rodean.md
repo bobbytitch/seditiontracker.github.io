@@ -1,5 +1,5 @@
 ---
-name: Nicolas Rodean
+name: Nicholas Rodean
 lastName: Rodean
 aka:
 residence: Maryland
@@ -16,7 +16,7 @@ booking:
 courtroom:
 courthouse:
 quote:
-title: Nicolas Rodean charged on January 13, 2021
+title: Nicholas Rodean charged on January 13, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
