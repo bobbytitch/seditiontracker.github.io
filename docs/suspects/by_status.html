@@ -5,7 +5,7 @@ image: /images/suspects.png
 description: Comprehensive listing of all suspects charged in the Jan. 6, 2021 sedition
 ---
 
-{% assign indicted = site.suspects | where_exp: "suspect", "suspect.status == 'Indicted'" %}
+{% assign indicted = site.suspects | where_exp: "suspect", "suspect.status == 'Indicted'" | sort: "indicted" | reverse %}
 
 <h2 class="table">Suspects (Indicted)</h2>
 Total Count: {{ indicted.size }}
@@ -25,7 +25,7 @@ Total Count: {{ indicted.size }}
   {% endfor %}
 </table>
 
-{% assign charged = site.suspects | where_exp: "suspect", "suspect.status == 'Charged'" %}
+{% assign charged = site.suspects | where_exp: "suspect", "suspect.status == 'Charged'" | sort: "charged" | reverse %}
 <h2 class="table">Suspects (Charged)</h2>
 Total Count: {{ charged.size }}
 
