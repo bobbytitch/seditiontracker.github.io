@@ -1,20 +1,20 @@
 ---
 name: Joshua Pruitt
 lastName: Pruitt
-aka:
-residence: Washington, D.C.
+aka: Jacked Beast
+residence: Washington, DC
 status: Indicted
 date: 2021-01-07
 age: 39
 occupation:
-affiliations:
+affiliations: Proud Boys
 jurisdiction: Federal
-image: /images/preview/arrest.jpg
-suspect: arrest-indicted.jpg
+image: /images/preview/joshua-pruitt.png
+suspect: joshua-pruitt.png
 booking:
 courtroom:
 courthouse:
-quote:
+quote: "Getting ready for these clowns on wednesday. Wrong patriot to fk with"
 title: Joshua Pruitt charged on January 7th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -26,3 +26,4 @@ published: true
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351696/download)
 - [Statement of Facts](https://www.justice.gov/opa/press-release/file/1351701/download)
 - [Indictment](https://www.justice.gov/opa/page/file/1361266/download)
+- [Proud Boy Oath (VIDEO)](https://twitter.com/BGOnTheScene/status/1327792375863898112?s=20)
