@@ -13,7 +13,7 @@ Total Count: {{ suspects.size }}
   <tr>
     <th><a href="/suspects/by_name">Name</a></th>
     <th>Residence</th>
-    <th>Status</th>
+    <th><a href="/suspects/by_status">Status</a></th>
     <th><a href="/suspects">Date</a></th>  </tr>
   {% assign suspects = site.suspects | sort: "residence" %}
   {% for suspect in suspects %}
