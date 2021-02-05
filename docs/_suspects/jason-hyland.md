@@ -2,24 +2,24 @@
 name: Jason Hyland
 lastName: Hyland
 aka:
-residence:
+residence: Texas
 status: Charged
 date: 2021-02-02
-age:
-occupation:
+age: 37
+occupation: Real Estate Agent
 affiliations:
 jurisdiction: Federal
-image: jason-hyland.jpg
-preview: jason-hyland.jpg
+image: jason-hyland.png
+preview: jason-hyland.png
 booking:
 courtroom:
 courthouse:
-quote:
+quote: "Thanks for joining me to DC to stand up for America. This will be historic — no matter the outcome"
 title: Jason Hyland charged on February 2nd, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 ---
-- [News Report]()
+- [News Report](https://www.dallasnews.com/news/crime/2021/02/04/third-north-texas-real-estate-professional-is-charged-with-storming-us-capitol-building/)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1364676/download)
