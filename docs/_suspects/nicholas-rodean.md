@@ -6,7 +6,7 @@ residence: Maryland
 status: Indicted
 date: 2021-01-13
 charged: 2021-01-13
-indicted:
+indicted: 2021-01-29
 age:
 occupation:
 affiliations:
