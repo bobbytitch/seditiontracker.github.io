@@ -13,7 +13,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/rachel-powell.jpg
 suspect: rachel-powell.jpg
-booking:
+booking: rachel-powell.jpg
 courtroom:
 courthouse:
 quote:
