@@ -19,6 +19,7 @@ export interface Suspect {
   courtroom?: string
   courthouse?: string
   raid?: string
+  perpwalk?: string
   occupation?: string
   affiliations?: string
   aka?: string
@@ -90,6 +91,10 @@ export const getSuspectByFile = (filename:string) => {
     suspect.raid = RegExp.$1;
   }
 
+  if (data.match(/perpwalk: (.*)/)) {
+    suspect.perpwalk = RegExp.$1;
+  }
+
   if (data.match(/occupation: (.*)/)) {
     suspect.occupation = RegExp.$1;
   }
@@ -106,22 +111,7 @@ export const getSuspectByFile = (filename:string) => {
     suspect.quote= RegExp.$1;
   }
 
-  cleanSuspect(suspect)
-
   return suspect
-}
-
-const cleanSuspect = (suspect: Suspect) => {
-  // set empty string when shit is not assigned
-  const fields = ["aka", "residence", "date", "charged", "indicted", "age", "occupation", "affiliation", "jurisdiction", "image", "preview", "booking", "courtroom", "courthouse", "quote", "affiliations"]
-  for (const field of fields) {
-    if (isEmpty(suspect[field])) {
-      if (Number.isInteger(suspect[field])) {
-        continue;
-      }
-      suspect[field] = ""
-    }
-  }
 }
 
 const nameValue = (stream: WriteStream, name: string, value: string) => {
@@ -135,8 +125,6 @@ const nameValue = (stream: WriteStream, name: string, value: string) => {
 export const updateSuspect = (suspect: Suspect) => {
   const fs = require('fs')
   const file = fs.createWriteStream(`docs/_suspects/${dasherizeName(suspect.name)}.md`)
-
-  cleanSuspect(suspect)
 
   file.write('---\n')
   nameValue(file, "name", suspect.name)
@@ -157,6 +145,7 @@ export const updateSuspect = (suspect: Suspect) => {
   nameValue(file, "courtroom", suspect.courtroom)
   nameValue(file, "courthouse", suspect.courthouse)
   nameValue(file, "raid", suspect.raid)
+  nameValue(file, "perpwalk", suspect.perpwalk)
   nameValue(file, "quote", suspect.quote)
   nameValue(file, "title", suspect.title)
   nameValue(file, "description", suspect.description || "Click for latest case details. Suspects innocent until proven guilty.")
