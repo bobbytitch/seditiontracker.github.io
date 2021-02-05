@@ -1,7 +1,7 @@
 ---
 name: Joshua Pruitt
 lastName: Pruitt
-aka: Jacked Beast
+aka: JackedBeast
 residence: Washington, DC
 status: Indicted
 date: 2021-01-07

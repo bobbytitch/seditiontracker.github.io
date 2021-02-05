@@ -2,7 +2,7 @@
 layout: default
 title: Suspects (by Status)
 image: /images/suspects.png
-description: Comprehensive listing of all suspects charged in the Jan. 6, 2021 sedition
+description: Complete listing of all suspects charged in the Jan. 6, 2021 sedition
 ---
 
 {% assign indicted = site.suspects | where_exp: "suspect", "suspect.status == 'Indicted'" | sort: "indicted" | reverse %}
