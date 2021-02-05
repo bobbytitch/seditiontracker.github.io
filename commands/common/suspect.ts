@@ -1,5 +1,7 @@
 import { readFile, writeFile } from "./file";
 import { isEmpty} from 'lodash';
+import { WriteStream } from "fs";
+import { fileURLToPath } from "url";
 
 export interface Suspect {
   published: boolean
@@ -10,7 +12,7 @@ export interface Suspect {
   name?: string
   lastName?: string
   links?: { [type:string]: string }
-  age?: number
+  age?: string
   image?: string
   suspect?: string
   booking?: string
@@ -61,7 +63,7 @@ export const getSuspectByFile = (filename:string) => {
   }
 
   if (data.match(/age: (\d{1,2})/)) {
-    suspect.age = parseInt(RegExp.$1)
+    suspect.age = RegExp.$1
   }
 
   if (data.match(/image: (.*)/)) {
@@ -122,6 +124,14 @@ const cleanSuspect = (suspect: Suspect) => {
   }
 }
 
+const nameValue = (stream: WriteStream, name: string, value: string) => {
+  if (isEmpty(value)) {
+    stream.write(`${name}:\n`)
+  } else {
+    stream.write(`${name}: ${value.trim()}\n`)
+  }
+}
+
 export const updateSuspect = (suspect: Suspect) => {
   const fs = require('fs')
   const file = fs.createWriteStream(`docs/_suspects/${dasherizeName(suspect.name)}.md`)
@@ -129,29 +139,29 @@ export const updateSuspect = (suspect: Suspect) => {
   cleanSuspect(suspect)
 
   file.write('---\n')
-  file.write(`name: ${suspect.name}\n`)
-  file.write(`lastName: ${suspect.lastName}\n`)
-  file.write(`aka: ${suspect.aka}\n`)
-  file.write(`residence: ${suspect.residence}\n`)
-  file.write(`status: ${suspect.status}\n`)
-  file.write(`date: ${suspect.date}\n`)
-  file.write(`charged: ${suspect.charged}\n`)
-  file.write(`indicted: ${suspect.indicted}\n`)
-  file.write(`age: ${suspect.age}\n`)
-  file.write(`occupation: ${suspect.occupation}\n`)
-  file.write(`affiliations: ${suspect.affiliations}\n`)
-  file.write(`jurisdiction: ${suspect.jurisdiction}\n`)
-  file.write(`image: ${suspect.image}\n`)
-  file.write(`suspect: ${suspect.suspect}\n`)
-  file.write(`booking: ${suspect.booking}\n`)
-  file.write(`courtroom: ${suspect.courtroom}\n`)
-  file.write(`courthouse: ${suspect.courthouse}\n`)
-  file.write(`quote: ${suspect.quote}\n`)
-  file.write(`title: ${suspect.title}\n`)
-  file.write(`description: ${suspect.description}\n`)
-  file.write(`author: seditiontrack\n`)
-  file.write(`layout: suspect\n`)
-  file.write(`published: ${suspect.published}\n`)
+  nameValue(file, "name", suspect.name)
+  nameValue(file, "lastName", suspect.lastName)
+  nameValue(file, "aka", suspect.aka)
+  nameValue(file, "residence", suspect.residence)
+  nameValue(file, "status", suspect.status)
+  nameValue(file, "date", suspect.date)
+  nameValue(file, "charged", suspect.charged)
+  nameValue(file, "indicted", suspect.indicted)
+  nameValue(file, "age", suspect.age)
+  nameValue(file, "occupation", suspect.occupation)
+  nameValue(file, "affiliations", suspect.affiliations)
+  nameValue(file, "jurisdiction", suspect.jurisdiction)
+  nameValue(file, "image", suspect.image)
+  nameValue(file, "suspect", suspect.suspect)
+  nameValue(file, "booking", suspect.booking)
+  nameValue(file, "courtroom", suspect.courtroom)
+  nameValue(file, "courthouse", suspect.courthouse)
+  nameValue(file, "quote", suspect.quote)
+  nameValue(file, "title", suspect.title)
+  nameValue(file, "description", suspect.description)
+  nameValue(file, "author", "seditiontrack")
+  nameValue(file, "layout", "suspect")
+  nameValue(file, "published", suspect.published.toString())
   file.write('---\n')
 
   for (const [type, url] of Object.entries(suspect.links)) {

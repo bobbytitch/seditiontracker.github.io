@@ -1,13 +1,12 @@
 import { Command } from "commander";
 import { info, warning } from "./common/console";
 import fs from "fs";
-import { readFile, writeFile } from "./common/file";
+import { readFile } from "./common/file";
 import axios from 'axios'
 import { HTMLElement, parse } from 'node-html-parser';
 import { capitalize, isEmpty } from 'lodash';
 import moment from 'moment';
 import { getSuspect, Suspect, updateSuspect } from "./common/suspect";
-import { exec } from "child_process";
 const { execSync } = require('child_process')
 
 const cmd = new Command();
@@ -277,7 +276,7 @@ const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, re
 
   if (isEmpty(suspect.age) && !isEmpty(age)) {
     console.log(`${suspect.name}: Age ${age}`)
-    suspect.age = parseInt(age)
+    suspect.age = age
     updateSuspect(suspect)
   }
 
@@ -305,7 +304,7 @@ const newSuspect = (firstName, lastName, dateString, links, residence?: string, 
     name: `${firstName} ${lastName}`,
     lastName,
     residence,
-    age: parseInt(age),
+    age,
     status: "Charged",
     links: {"News Report": "", ...links},
     jurisdiction: "Federal",
