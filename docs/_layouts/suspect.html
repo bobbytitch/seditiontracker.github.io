@@ -29,8 +29,10 @@ layout: default
     Affiliations: <small>{{ page.affiliations }}</small>
     <br/>
   {% endif %}
-  Charged: <small>{{ page.date | date: "%Y-%m-%d"}}</small>
-  <br/>
+  <div>Arrested/Charged: <small>{{ page.charged | date: "%Y-%m-%d"}}</small></div>
+  {% if page.indicted %}
+    <div>Indicted: <small>{{ page.indicted | date: "%Y-%m-%d"}}</small></div>
+  {% endif %}
   Jurisdiction: <small>{{ page.jurisdiction }}</small>
   <br/>
   Links:

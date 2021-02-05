@@ -5,44 +5,42 @@ image: /images/suspects.png
 description: Comprehensive listing of all suspects charged in the Jan. 6, 2021 sedition
 ---
 
-<h1 class="table">{{ page.title }}</h1>
-{% assign suspects = site.suspects | sort: "status" %}
-Total Count: {{ suspects.size }}
+{% assign indicted = site.suspects | where_exp: "suspect", "suspect.status == 'Indicted'" %}
+
+<h2 class="table">Suspects (Indicted)</h2>
+Total Count: {{ indicted.size }}
 
 <table class="suspects">
   <tr>
-    <th>Name</th>
+    <th><a href="/suspect/by_name">Name</a></th>
     <th><a href="/suspects/by_state">Residence</a></th>
-    <th>Status</th>
-    <th><a href="/suspects">Date</a></th>  </tr>
-  {% assign suspects = site.suspects | sort: "name" %}
-  {% for suspect in suspects %}
-    {% if suspect.status == "Indicted" %}
-      <tr>
-        <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
-        <td>{{ suspect.residence }}</td>
-        <td class={{ suspect.status | downcase }}>{{ suspect.status }}</td>
-        <td>{{ suspect.date | date: "%Y-%m-%d" }}</td>
-      </tr>
-    {% endif %}
+    <th><a href="/suspects">Indicted</a></th>
+  </tr>
+  {% for suspect in indicted %}
+    <tr>
+      <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
+      <td>{{ suspect.residence }}</td>
+      <td>{{ suspect.indicted | date: "%Y-%m-%d" }}</td>
+    </tr>
   {% endfor %}
 </table>
 
+{% assign charged = site.suspects | where_exp: "suspect", "suspect.status == 'Charged'" %}
+<h2 class="table">Suspects (Charged)</h2>
+Total Count: {{ charged.size }}
+
 <table class="suspects">
   <tr>
-    <th>Name</th>
+    <th><a href="/suspect/by_name">Name</a></th>
     <th><a href="/suspects/by_state">Residence</a></th>
-    <th>Status</th>
-    <th><a href="/suspects">Date</a></th>  </tr>
-  {% assign suspects = site.suspects | sort: "name" %}
-  {% for suspect in suspects %}
-    {% if suspect.status == "Charged" %}
-      <tr>
-        <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
-        <td>{{ suspect.residence }}</td>
-        <td class={{ suspect.status | downcase }}>{{ suspect.status }}</td>
-        <td>{{ suspect.date | date: "%Y-%m-%d" }}</td>
-      </tr>
-    {% endif %}
+    <th><a href="/suspects">Charged</a></th>
+  </tr>
+  {% for suspect in charged %}
+    <tr>
+      <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
+      <td>{{ suspect.residence }}</td>
+      <td>{{ suspect.charged | date: "%Y-%m-%d" }}</td>
+    </tr>
   {% endfor %}
 </table>
+

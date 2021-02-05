@@ -5,6 +5,8 @@ export interface Suspect {
   published: boolean
   status?: string
   date?: string
+  charged?: string
+  indicted?: string
   name?: string
   lastName?: string
   links?: { [type:string]: string }
@@ -37,6 +39,14 @@ export const getSuspectByFile = (filename:string) => {
 
   if (data.match(/date: (.*)/)) {
     suspect.date = data.match(/date: (.*)/)[1].trim();
+  }
+
+  if (data.match(/charged: (.*)/)) {
+    suspect.charged = data.match(/charged: (.*)/)[1].trim();
+  }
+
+  if (data.match(/indicted: (.*)/)) {
+    suspect.indicted = data.match(/indicted: (.*)/)[1].trim();
   }
 
   suspect.name = data.match(/name: (.*)/)[1];
@@ -101,7 +111,7 @@ export const getSuspectByFile = (filename:string) => {
 
 const cleanSuspect = (suspect: Suspect) => {
   // set empty string when shit is not assigned
-  const fields = ["aka", "residence", "date", "age", "occupation", "affiliation", "jurisdiction", "image", "preview", "booking", "courtroom", "courthouse", "quote", "affiliations"]
+  const fields = ["aka", "residence", "date", "charged", "indicted", "age", "occupation", "affiliation", "jurisdiction", "image", "preview", "booking", "courtroom", "courthouse", "quote", "affiliations"]
   for (const field of fields) {
     if (isEmpty(suspect[field])) {
       if (Number.isInteger(suspect[field])) {
@@ -125,6 +135,8 @@ export const updateSuspect = (suspect: Suspect) => {
   file.write(`residence: ${suspect.residence}\n`)
   file.write(`status: ${suspect.status}\n`)
   file.write(`date: ${suspect.date}\n`)
+  file.write(`charged: ${suspect.charged}\n`)
+  file.write(`indicted: ${suspect.indicted}\n`)
   file.write(`age: ${suspect.age}\n`)
   file.write(`occupation: ${suspect.occupation}\n`)
   file.write(`affiliations: ${suspect.affiliations}\n`)
