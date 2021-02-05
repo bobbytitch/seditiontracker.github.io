@@ -19,7 +19,7 @@ title: Peter Schwartz charged on February 4th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 ---
 - [News Report](https://www.post-gazette.com/news/crime-courts/2021/02/04/peter-schwartz-us-capitol-riots-arrest-uniontown-kentucky/stories/202102040169)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364696/download)
