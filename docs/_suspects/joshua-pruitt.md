@@ -2,12 +2,12 @@
 name: Joshua Pruitt
 lastName: Pruitt
 aka:
-residence: Resides in District of Columbia
+residence: Washington, D.C.
 status: Indicted
 date: 2021-01-07
 age: 39
 occupation:
-affiliations: undefined
+affiliations:
 jurisdiction: Federal
 image: /images/preview/arrest.jpg
 suspect: arrest-indicted.jpg
