@@ -3,7 +3,7 @@ name: Rachel Powell
 lastName: Powell
 aka:
 residence: Pennsylvania
-status: Arrested
+status: Charged
 date: 2021-02-04
 age:
 occupation:
@@ -16,7 +16,7 @@ courtroom:
 courthouse:
 raid: rachel-powell.jpg
 quote:
-title: Jeffrey Grace arrested on February 4th, 2021
+title: Jeffrey Grace charged on February 4th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
