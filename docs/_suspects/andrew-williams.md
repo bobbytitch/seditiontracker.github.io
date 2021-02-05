@@ -5,6 +5,8 @@ aka:
 residence: Florida
 status: Charged
 date: 2021-01-12
+charged: 2021-01-12
+indicted:
 age: 1
 occupation: Fire Fighter
 affiliations: undefined

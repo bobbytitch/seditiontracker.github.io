@@ -5,6 +5,8 @@ aka:
 residence: Illinois
 status: Charged
 date: 2021-01-14
+charged: 2021-01-14
+indicted:
 age: 32
 occupation:
 affiliations: undefined

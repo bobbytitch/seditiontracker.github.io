@@ -5,6 +5,8 @@ aka: Mateo Q Capsel
 residence: Illinois
 status: Charged
 date: 2021-01-19
+charged: 2021-01-19
+indicted:
 age: 27
 occupation:
 affiliations: undefined

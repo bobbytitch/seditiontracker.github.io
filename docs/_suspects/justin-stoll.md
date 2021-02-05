@@ -5,6 +5,8 @@ aka: Th3Real Huckleberry
 residence: Ohio
 status: Charged
 date: 2021-01-15
+charged: 2021-01-15
+indicted:
 age: 40
 occupation:
 affiliations: undefined

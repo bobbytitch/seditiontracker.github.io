@@ -5,6 +5,8 @@ aka:
 residence: Tennessee
 status: Charged
 date: 2021-01-10
+charged: 2021-01-10
+indicted:
 age: 0
 occupation:
 affiliations: undefined

@@ -1,19 +1,21 @@
 ---
 name: Terry Brown
 lastName: Brown
-aka: 
+aka:
 residence: Pennsylvania
 status: Indicted
 date: 2021-01-11
+charged: 2021-01-11
+indicted: 2021-01-15
 age: 69
 occupation: Public Safety Code Enforcement Officer (Retired)
 affiliations: undefined
 jurisdiction: Federal
 image: /images/preview/arrest.jpg
 suspect: arrest.jpg
-booking: 
-courtroom: 
-courthouse: 
+booking:
+courtroom:
+courthouse:
 quote: "So if this is what it took … to make the people stand up and listen, then to me it was worth it."
 title: Terry Brown charged on January 11th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.

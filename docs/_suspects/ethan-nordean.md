@@ -5,6 +5,8 @@ aka: Rufio Panman
 residence: Washington
 status: Charged
 date: 2021-02-03
+charged: 2021-02-03
+indicted:
 age: 30
 occupation:
 affiliations: Proud Boys

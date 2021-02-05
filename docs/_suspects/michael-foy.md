@@ -5,6 +5,8 @@ aka:
 residence: Michigan
 status: Charged
 date: 2021-01-21
+charged: 2021-01-21
+indicted:
 age: 8
 occupation: U.S. Marines (Former)
 affiliations: undefined

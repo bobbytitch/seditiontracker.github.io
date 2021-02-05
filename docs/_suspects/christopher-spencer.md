@@ -5,6 +5,8 @@ aka: Stephen Ignoramus
 residence: North Carolina
 status: Charged
 date: 2021-01-19
+charged: 2021-01-19
+indicted:
 age: 40
 occupation:
 affiliations: undefined

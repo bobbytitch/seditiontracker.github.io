@@ -5,6 +5,8 @@ aka:
 residence: New Jersey
 status: Charged
 date: 2021-01-22
+charged: 2021-01-22
+indicted:
 age: 28
 occupation: U.S. Marines (Former)
 affiliations: undefined

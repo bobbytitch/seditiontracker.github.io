@@ -5,6 +5,8 @@ aka: Tom Gionet, Baked Alaska
 residence: Arizona
 status: Charged
 date: 2021-01-16
+charged: 2021-01-16
+indicted:
 age: 33
 occupation:
 affiliations: undefined

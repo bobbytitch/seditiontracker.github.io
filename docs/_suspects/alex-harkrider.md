@@ -5,6 +5,8 @@ aka:
 residence: Texas
 status: Charged
 date: 2021-01-18
+charged: 2021-01-18
+indicted:
 age: 33
 occupation:
 affiliations: undefined

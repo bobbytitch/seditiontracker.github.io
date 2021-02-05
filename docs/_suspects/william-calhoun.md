@@ -5,6 +5,8 @@ aka:
 residence: Georgia
 status: Charged
 date: 2021-01-15
+charged: 2021-01-15
+indicted:
 age: 57
 occupation:
 affiliations: undefined

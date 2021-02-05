@@ -5,6 +5,8 @@ aka:
 residence: Maryland
 status: Charged
 date: 2021-01-13
+charged: 2021-01-13
+indicted:
 age: 1
 occupation:
 affiliations: undefined

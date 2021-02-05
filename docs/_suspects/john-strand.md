@@ -5,6 +5,8 @@ aka:
 residence: California
 status: Charged
 date: 2021-01-18
+charged: 2021-01-18
+indicted:
 age: 37
 occupation: Model
 affiliations: undefined

@@ -5,6 +5,8 @@ aka:
 residence: New Jersey
 status: Charged
 date: 2021-01-21
+charged: 2021-01-21
+indicted:
 age: 32
 occupation: Dating + Relationship Strategist
 affiliations: undefined

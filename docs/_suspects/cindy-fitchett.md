@@ -1,20 +1,22 @@
 ---
 name: Cindy Fitchett
 lastName: Fitchett
-aka: 
+aka:
 residence: Virginia
 status: Indicted
 date: 2021-01-21
+charged: 2021-01-21
+indicted: 2021-01-15
 age: 59
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
 image: /images/preview/129.png
 suspect: 129.png
 booking: cindy-fitchett.png
-courtroom: 
-courthouse: 
-quote: 
+courtroom:
+courthouse:
+quote:
 title: Cindy Fitchett charged on January 21st, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

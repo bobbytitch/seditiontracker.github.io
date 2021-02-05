@@ -5,6 +5,8 @@ aka: Stephen Ignoramus
 residence: North Carolina
 status: Charged
 date: 2021-02-01
+charged: 2021-02-01
+indicted:
 age: 32
 occupation: Music Teacher
 affiliations: Oath Keepers (likely), Red Elephants (likely)

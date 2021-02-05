@@ -5,6 +5,8 @@ aka:
 residence: Washington
 status: Charged
 date: 2021-02-04
+charged: 2021-02-04
+indicted:
 age: 61
 occupation:
 affiliations:

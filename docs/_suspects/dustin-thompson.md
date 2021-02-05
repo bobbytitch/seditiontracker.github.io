@@ -5,6 +5,8 @@ aka:
 residence: Ohio
 status: Charged
 date: 2021-01-25
+charged: 2021-01-25
+indicted:
 age: 36
 occupation:
 affiliations: undefined

@@ -5,6 +5,8 @@ aka:
 residence: Indiana
 status: Charged
 date: 2021-01-17
+charged: 2021-01-17
+indicted:
 age: 52
 occupation: Metal Guitarist (Iced Earth)
 affiliations: Oath Keepers

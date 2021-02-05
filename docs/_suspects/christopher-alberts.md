@@ -1,20 +1,22 @@
 ---
 name: Christopher Alberts
 lastName: Alberts
-aka: 
+aka:
 residence: Maryland
 status: Indicted
 date: 2021-01-07
+charged: 2021-01-07
+indicted: 2021-01-27
 age: 33
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
 image: /images/preview/arrest.jpg
 suspect: arrest.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+booking:
+courtroom:
+courthouse:
+quote:
 title: Christopher Alberts charged on January 7th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

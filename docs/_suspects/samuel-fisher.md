@@ -5,6 +5,8 @@ aka: Brad Holiday
 residence: New York
 status: Charged
 date: 2021-01-20
+charged: 2021-01-20
+indicted:
 age: 35
 occupation: "Pickup Artist"
 affiliations: undefined

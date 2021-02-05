@@ -5,6 +5,8 @@ aka:
 residence: Pennsylvania&nbsp;
 status: Charged
 date: 2021-01-30
+charged: 2021-01-30
+indicted:
 age: 37
 occupation:
 affiliations: undefined

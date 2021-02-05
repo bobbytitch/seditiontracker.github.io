@@ -5,6 +5,8 @@ aka: Ayla Wolf
 residence: New Jersey
 status: Charged
 date: 2021-01-22
+charged: 2021-01-22
+indicted:
 age: 10
 occupation:
 affiliations: New Jersey for Medical Freedom

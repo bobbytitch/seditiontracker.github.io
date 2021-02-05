@@ -5,6 +5,8 @@ aka:
 residence: New York
 status: Charged
 date: 2021-01-28
+charged: 2021-01-28
+indicted:
 age: 39
 occupation: Accountant (CPA)
 affiliations: undefined

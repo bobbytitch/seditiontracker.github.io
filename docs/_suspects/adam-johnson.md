@@ -5,6 +5,8 @@ aka:
 residence: Florida
 status: Charged
 date: 2021-01-07
+charged: 2021-01-07
+indicted:
 age: 36
 occupation:
 affiliations: undefined

@@ -5,6 +5,8 @@ aka:
 residence: Las Vegas
 status: Charged
 date: 2021-01-28
+charged: 2021-01-28
+indicted:
 age:
 occupation: Business Owner ("Adult Model Management Company")
 affiliations: undefined

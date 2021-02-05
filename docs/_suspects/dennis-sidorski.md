@@ -5,6 +5,8 @@ aka:
 residence: Virginia
 status: Charged
 date: 2021-01-20
+charged: 2021-01-20
+indicted:
 age: 46
 occupation:
 affiliations: undefined

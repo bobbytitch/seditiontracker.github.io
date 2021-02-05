@@ -5,6 +5,8 @@ aka:
 residence: Pennsylvania
 status: Charged
 date: 2021-01-29
+charged: 2021-01-29
+indicted:
 age:
 occupation: Business Owner (CrossFit)
 affiliations: undefined

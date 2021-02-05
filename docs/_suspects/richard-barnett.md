@@ -5,6 +5,8 @@ aka:
 residence: Arkansas
 status: Indicted
 date: 2021-01-08
+charged: 2021-01-08
+indicted: 2021-01-29
 age: 60
 occupation:
 affiliations: undefined

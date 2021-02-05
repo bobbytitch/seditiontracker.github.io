@@ -5,6 +5,8 @@ aka: Spaz
 residence: New York
 status: Charged
 date: 2021-01-15
+charged: 2021-01-15
+indicted:
 age: 43
 occupation:
 affiliations: Proud Boys

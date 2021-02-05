@@ -5,6 +5,8 @@ aka:
 residence: Hawaii
 status: Indicted
 date: 2021-01-07
+charged: 2021-01-07
+indicted: 2021-02-03
 age: 34
 occupation:
 affiliations: Proud Boys, Murder the Media
@@ -26,4 +28,4 @@ published: true
 - [Complaint](https://www.justice.gov/opa/page/file/1353341/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1353341/download)
 - [DOJ Press Release (Indictment)](https://www.justice.gov/usao-dc/pr/texas-man-self-proclaimed-leader-honolulu-proud-boys-now-indicted-federal-grand-jury)
-- [Indictment](/usao-dc/press-release/file/1364371/download)
+- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1364371/download)

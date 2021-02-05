@@ -5,6 +5,8 @@ aka:
 residence: Florida
 status: Charged
 date: 2021-01-19
+charged: 2021-01-19
+indicted:
 age: 40
 occupation: U.S. Army (Former)
 affiliations: Proud Boys

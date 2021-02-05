@@ -5,15 +5,17 @@ aka: Brad Rukstales
 residence: Illinois
 status: Indicted
 date: 2021-01-07
+charged: 2021-01-07
+indicted: 2021-01-15
 age: 52
 occupation: CEO
 affiliations: undefined
 jurisdiction: Federal
 image: /images/preview/027.jpg
 suspect: 027.jpg
-booking: 
-courtroom: 
-courthouse: 
+booking:
+courtroom:
+courthouse:
 quote: "I was in the wrong place at the wrong time and I regret my part in that."
 title: Bradley Rukstales charged on January 7, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

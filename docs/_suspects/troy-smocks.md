@@ -5,6 +5,8 @@ aka: ColonelTPerez
 residence: Texas
 status: Charged
 date: 2021-01-15
+charged: 2021-01-15
+indicted:
 age: 58
 occupation:
 affiliations: undefined

@@ -5,6 +5,8 @@ aka:
 residence: New England
 status: Charged
 date: 2021-01-25
+charged: 2021-01-25
+indicted:
 age: 43
 occupation: Hair Stylist (Former)
 affiliations: undefined

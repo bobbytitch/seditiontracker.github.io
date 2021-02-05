@@ -1,20 +1,22 @@
 ---
 name: Rasha Abual-Ragheb
 lastName: Abual-Ragheb
-aka: 
+aka:
 residence: New Jersey
 status: Indicted
 date: 2021-01-19
+charged: 2021-01-19
+indicted: 2021-01-28
 age: 40
-occupation: 
+occupation:
 affiliations: Three Percenter, American Patriots 3%
 jurisdiction: Federal
 image: /images/preview/119.png
 suspect: 119.png
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+booking:
+courtroom:
+courthouse:
+quote:
 title: Rash Abual-Ragheb charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

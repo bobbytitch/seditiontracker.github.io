@@ -5,6 +5,8 @@ aka:
 residence: Montana
 status: Charged
 date: 2021-01-18
+charged: 2021-01-18
+indicted:
 age: 52
 occupation:
 affiliations: undefined

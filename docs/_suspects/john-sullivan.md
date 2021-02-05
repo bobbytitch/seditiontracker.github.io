@@ -5,6 +5,8 @@ aka:
 residence: Utah
 status: Indicted
 date: 2021-01-13
+charged: 2021-01-13
+indicted: 2021-02-03
 age: 26
 occupation:
 affiliations: undefined

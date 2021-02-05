@@ -5,6 +5,8 @@ aka:
 residence: New York
 status: Charged
 date: 2021-01-21
+charged: 2021-01-21
+indicted:
 age: 65
 occupation:
 affiliations: undefined

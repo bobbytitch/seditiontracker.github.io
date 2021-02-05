@@ -5,6 +5,8 @@ aka:
 residence: Texas
 status: Charged
 date: 2021-01-09
+charged: 2021-01-09
+indicted:
 age: 0
 occupation:
 affiliations: undefined

@@ -5,6 +5,8 @@ aka:
 residence: New York
 status: Charged
 date: 2021-01-12
+charged: 2021-01-12
+indicted:
 age: 31
 occupation:
 affiliations: Proud Boys

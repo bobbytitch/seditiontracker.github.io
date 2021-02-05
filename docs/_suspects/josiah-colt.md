@@ -5,6 +5,8 @@ aka:
 residence: Idaho
 status: Indicted
 date: 2021-01-12
+charged: 2021-01-12
+indicted: 2021-02-03
 age: 34
 occupation:
 affiliations: undefined

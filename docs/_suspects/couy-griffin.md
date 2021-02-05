@@ -5,6 +5,8 @@ aka:
 residence: New Mexico
 status: Charged
 date: 2021-01-17
+charged: 2021-01-17
+indicted:
 age: 5
 occupation: County Commissioner
 affiliations: Cowboys for Trump

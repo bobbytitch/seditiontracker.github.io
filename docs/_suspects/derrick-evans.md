@@ -5,6 +5,8 @@ aka:
 residence: West Virginia
 status: Charged
 date: 2021-01-08
+charged: 2021-01-08
+indicted:
 age: 35
 occupation: West Viriginia Delegate
 affiliations: undefined

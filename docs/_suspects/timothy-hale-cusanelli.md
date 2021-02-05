@@ -5,6 +5,8 @@ aka: Based Hermes
 residence: New Jersey
 status: Indicted
 date: 2021-01-17
+charged: 2021-01-17
+indicted: 2021-01-29
 age: 30
 occupation: U.S. Army Reserves, U.S. Navy Contractor
 affiliations: U.S. Military

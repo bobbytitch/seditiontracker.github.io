@@ -5,6 +5,8 @@ aka:
 residence: Colorado
 status: Charged
 date: 2021-01-08
+charged: 2021-01-08
+indicted:
 age: 53
 occupation: Business Owner
 affiliations: undefined

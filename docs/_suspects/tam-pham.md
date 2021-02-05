@@ -5,6 +5,8 @@ aka:
 residence: Texas
 status: Charged
 date: 2021-01-19
+charged: 2021-01-19
+indicted:
 age: 48
 occupation: Police Officer
 affiliations: undefined

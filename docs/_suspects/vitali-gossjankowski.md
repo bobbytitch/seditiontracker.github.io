@@ -5,6 +5,8 @@ aka:
 residence: Washington, DC
 status: Charged
 date: 2021-01-14
+charged: 2021-01-14
+indicted:
 age: 8
 occupation: Student
 affiliations: Gallaudet University

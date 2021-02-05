@@ -5,6 +5,8 @@ aka:
 residence: Missouri
 status: Charged
 date: 2021-01-15
+charged: 2021-01-15
+indicted:
 age: 20
 occupation:
 affiliations: undefined

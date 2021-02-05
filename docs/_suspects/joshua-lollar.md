@@ -5,6 +5,8 @@ aka:
 residence: Texas
 status: Charged
 date: 2021-01-15
+charged: 2021-01-15
+indicted:
 age: 39
 occupation: U.S. Army (Former)
 affiliations: U.S. Military

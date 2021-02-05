@@ -5,6 +5,8 @@ aka: Juan Bibiano
 residence: Tennessee
 status: Charged
 date: 2021-01-16
+charged: 2021-01-16
+indicted:
 age: 25
 occupation:
 affiliations: undefined

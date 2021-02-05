@@ -5,6 +5,8 @@ aka:
 residence: California
 status: Charged
 date: 2021-01-19
+charged: 2021-01-19
+indicted:
 age: 53
 occupation: Home Designer
 affiliations: undefined

@@ -5,6 +5,8 @@ aka:
 residence: Wisconsin
 status: Charged
 date: 2021-01-12
+charged: 2021-01-12
+indicted:
 age: 52
 occupation:
 affiliations: undefined

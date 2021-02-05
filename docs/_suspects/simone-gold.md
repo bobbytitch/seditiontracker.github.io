@@ -5,6 +5,8 @@ aka:
 residence: California
 status: Charged
 date: 2021-01-18
+charged: 2021-01-18
+indicted:
 age: 55
 occupation: Founder of America’s Frontline Doctors (COVID disinformation)
 affiliations: undefined

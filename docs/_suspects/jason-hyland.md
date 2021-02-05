@@ -5,6 +5,8 @@ aka:
 residence: Texas
 status: Charged
 date: 2021-02-02
+charged: 2021-02-02
+indicted:
 age: 37
 occupation: Real Estate Agent
 affiliations:

@@ -5,6 +5,8 @@ aka:
 residence: New York
 status: Charged
 date: 2021-01-22
+charged: 2021-01-22
+indicted:
 age: 51
 occupation: Geologist
 affiliations: undefined

@@ -5,6 +5,8 @@ aka:
 residence: Ohio
 status: Charged
 date: 2021-01-26
+charged: 2021-01-26
+indicted:
 age: 39
 occupation: Business Owner (Faulkner Painting)
 affiliations: undefined

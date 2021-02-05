@@ -5,6 +5,8 @@ aka:
 residence: Massachusetts
 status: Charged
 date: 2021-01-19
+charged: 2021-01-19
+indicted:
 age: 59
 occupation:
 affiliations: Super Happy Fun America (anti-LQBTQ group)

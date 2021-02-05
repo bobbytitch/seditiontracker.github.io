@@ -5,6 +5,8 @@ aka: Jake Angeli, Q Shaman
 residence: Arizona
 status: Indicted
 date: 2021-01-08
+charged: 2021-01-08
+indicted: 2021-01-11
 age: 0
 occupation:
 affiliations: undefined

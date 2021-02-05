@@ -5,6 +5,8 @@ aka:
 residence: Maryland
 status: Charged
 date: 2021-01-26
+charged: 2021-01-26
+indicted:
 age: 22
 occupation:
 affiliations: Proud Boys

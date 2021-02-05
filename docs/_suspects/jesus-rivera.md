@@ -5,6 +5,8 @@ aka: JD Rivera, Jesus Delmora Rivera
 residence: Florida
 status: Charged
 date: 2021-01-20
+charged: 2021-01-20
+indicted:
 age: 37
 occupation: U.S. Marines (Former)
 affiliations: We the People 1776

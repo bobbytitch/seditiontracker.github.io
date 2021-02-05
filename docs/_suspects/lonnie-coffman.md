@@ -5,6 +5,8 @@ aka:
 residence: Alabama
 status: Indicted
 date: 2021-01-07
+charged: 2021-01-07
+indicted: 2021-01-11
 age: 70
 occupation:
 affiliations: undefined

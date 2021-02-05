@@ -5,6 +5,8 @@ aka:
 residence: Ohio
 status: Indicted
 date: 2021-01-17
+charged: 2021-01-17
+indicted: 2021-01-27
 age: 50
 occupation: Former U.S. Military (Marines)
 affiliations: Oath Keepers, Ohio Regular Militia

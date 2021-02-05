@@ -5,6 +5,8 @@ aka:
 residence: Kentucky
 status: Charged
 date: 2021-02-01
+charged: 2021-02-01
+indicted:
 age: 25
 occupation:
 affiliations: undefined

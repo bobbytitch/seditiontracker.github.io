@@ -5,6 +5,8 @@ aka: Jacked Beast
 residence: Washington, DC
 status: Indicted
 date: 2021-01-07
+charged: 2021-01-07
+indicted:
 age: 39
 occupation:
 affiliations: Proud Boys

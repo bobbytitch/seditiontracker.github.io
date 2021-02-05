@@ -5,6 +5,8 @@ aka: Jake Lang
 residence: Washington
 status: Indicted
 date: 2021-01-16
+charged: 2021-01-16
+indicted: 2021-01-29
 age: 25
 occupation:
 affiliations: undefined

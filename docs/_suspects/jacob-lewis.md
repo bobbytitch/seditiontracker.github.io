@@ -5,6 +5,8 @@ aka:
 residence: California
 status: Charged
 date: 2021-01-27
+charged: 2021-01-27
+indicted:
 age: 37
 occupation: Gym Owner
 affiliations: undefined

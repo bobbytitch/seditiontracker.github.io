@@ -5,6 +5,8 @@ aka: Jenna Ryan
 residence: Texas
 status: Charged
 date: 2021-01-15
+charged: 2021-01-15
+indicted:
 age: 3
 occupation:
 affiliations: undefined

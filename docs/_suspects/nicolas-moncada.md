@@ -5,6 +5,8 @@ aka:
 residence: New York
 status: Charged
 date: 2021-01-18
+charged: 2021-01-18
+indicted:
 age: 20
 occupation: Student
 affiliations: undefined

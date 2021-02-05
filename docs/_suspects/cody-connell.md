@@ -5,6 +5,8 @@ aka:
 residence: Louisiana
 status: Charged
 date: 2021-01-16
+charged: 2021-01-16
+indicted:
 age: 27
 occupation:
 affiliations: undefined

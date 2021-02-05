@@ -5,6 +5,8 @@ aka:
 residence: Alabama
 status: Charged
 date: 2021-01-14
+charged: 2021-01-14
+indicted:
 age: 44
 occupation: Business Owner (Lawn Service)
 affiliations: undefined

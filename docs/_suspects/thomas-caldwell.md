@@ -5,6 +5,8 @@ aka:
 residence: Virginia
 status: Indicted
 date: 2021-01-19
+charged: 2021-01-19
+indicted: 2021-01-27
 age: 66
 occupation: Navy (retired)
 affiliations: Oath Keepers

@@ -5,6 +5,8 @@ aka:
 residence: Oklahoma
 status: Charged
 date: 2021-01-22
+charged: 2021-01-22
+indicted:
 age: 23
 occupation:
 affiliations: undefined

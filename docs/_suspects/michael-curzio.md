@@ -1,20 +1,22 @@
 ---
 name: Michael Curzio
 lastName: Curzio
-aka: 
+aka:
 residence: Florida
 status: Indicted
 date: 2021-01-14
+charged: 2021-01-14
+indicted: 2021-01-15
 age: 35
-occupation: 
+occupation:
 affiliations: undefined
 jurisdiction: Federal
 image: /images/preview/arrest.jpg
 suspect: arrest.jpg
-booking: 
-courtroom: 
-courthouse: 
-quote: 
+booking:
+courtroom:
+courthouse:
+quote:
 title: Michael Curzio charged on January 14th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

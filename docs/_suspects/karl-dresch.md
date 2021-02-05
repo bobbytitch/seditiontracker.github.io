@@ -5,6 +5,8 @@ aka:
 residence: Michigan
 status: Indicted
 date: 2021-01-20
+charged: 2021-01-20
+indicted: 2021-02-03
 age: 40
 occupation:
 affiliations: undefined
