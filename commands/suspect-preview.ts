@@ -21,7 +21,7 @@ const generatePreview = (previewImage, status) => {
   }
   })(status)
 
-  execSync(`convert docs/images/cropped/${previewImage} -strokewidth 3 -fill red -draw "rectangle 40,10 ${width},50" -fill white -strokewidth 3 -fill white -stroke black -strokewidth 10 -pointsize 32 -font Courier-Bold -draw "text 45,40 '${status}'" -stroke none -draw "text 45,40 '${status}'" docs/images/preview/${previewImage}`, {
+  execSync(`convert docs/images/cropped${previewImage} -strokewidth 3 -fill red -draw "rectangle 40,10 ${width},50" -fill white -strokewidth 3 -fill white -stroke black -strokewidth 10 -pointsize 32 -font Courier-Bold -draw "text 45,40 '${status}'" -stroke none -draw "text 45,40 '${status}'" docs/images/preview/${previewImage}`, {
     stdio: 'inherit'
   })
 }
