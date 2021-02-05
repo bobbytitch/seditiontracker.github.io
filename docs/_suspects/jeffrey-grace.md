@@ -2,15 +2,15 @@
 name: Jeffrey Grace
 lastName: Grace
 aka:
-residence:
+residence: Washington
 status: Charged
 date: 2021-02-04
 age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/jeffrey-grace.jpg
-suspect: jeffrey-grace.jpg
+image: /images/preview/jeffrey-grace.png
+suspect: jeffrey-grace.png
 booking:
 courtroom:
 courthouse:
