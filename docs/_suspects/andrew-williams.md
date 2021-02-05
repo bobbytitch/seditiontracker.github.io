@@ -15,7 +15,7 @@ image: /images/preview/010.jpg
 suspect: 010.jpg
 booking:
 courtroom: andrew-williams.jpg
-courthouse:
+courthouse: andrew-williams.jpg
 quote:
 title: Andrew Williams charged on January 12, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

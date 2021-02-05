@@ -7,7 +7,7 @@ status: Charged
 date: 2021-01-17
 charged: 2021-01-17
 indicted:
-age: 5
+age:
 occupation: County Commissioner
 affiliations: Cowboys for Trump
 jurisdiction: Federal
@@ -16,6 +16,7 @@ suspect: 054.jpg
 booking:
 courtroom:
 courthouse:
+perpwalk: couy-griffin.png
 quote: "I didn't break anything. I didn't assault anybody."
 title: Couy Griffin charged on January 17, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.

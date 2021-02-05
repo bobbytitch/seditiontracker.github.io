@@ -33,8 +33,21 @@ layout: default
   {% if page.indicted %}
     <div>Indicted: <small>{{ page.indicted | date: "%Y-%m-%d"}}</small></div>
   {% endif %}
-  Jurisdiction: <small>{{ page.jurisdiction }}</small>
-  <br/>
+  <div>Jurisdiction: <small>{{ page.jurisdiction }}</small></div>
+  {% if page.charges %}
+    <div>Charges:</div>
+    <ul>
+      {% for charge in page.charges %}
+        <small>
+          <li class="charges">
+            <a href="{{charge.link}}">
+              {{ charge.name }}
+            </a>
+          </li>
+        </small>
+      {% endfor %}
+    </ul>
+  {% endif %}
   Links:
   <br/>
   <small>
@@ -48,30 +61,30 @@ layout: default
       "{{ page.quote }}"
     </div>
   {% endif %}
+
+  {% if page.booking %}
+    <div class="image-label">Mug Shot:</div>
+    <img class="mugshot" src="/images/booking/{{page.booking}}">
+  {% endif %}
+
+  {% if page.perpwalk %}
+    <div class="image-label">Perp Walk:</div>
+    <img class="mugshot" src="/images/perpwalk/{{page.perpwalk}}">
+  {% endif %}
+
+  {% if page.raid %}
+    <div class="image-label">FBI Raid/Arrest:</div>
+    <img class="mugshot" src="/images/raid/{{page.raid}}">
+  {% endif %}
+
+  {% if page.courtroom %}
+    <div class="image-label">Courtroom Appearnce:</div>
+    <img class="mugshot" src="/images/courtroom/{{page.courtroom}}">
+  {% endif %}
+
+  {% if page.courthouse %}
+    <div class="image-label">Courthouse Appearance:</div>
+    <img class="mugshot" src="/images/courthouse/{{page.courthouse}}">
+  {% endif %}
 </div>
-
-{% if page.booking %}
-  <img class="mugshot" src="/images/booking/{{page.booking}}">
-{% endif %}
-
-{% if page.perpwalk %}
-  <img class="mugshot" src="/images/raid/{{page.raid}}">
-{% endif %}
-
-{% if page.raid %}
-  <img class="mugshot" src="/images/raid/{{page.raid}}">
-{% endif %}
-
-{% if page.courtroom %}
-  <img class="mugshot" src="/images/courtroom/{{page.courtroom}}">
-{% endif %}
-
-{% if page.courthouse %}
-  <img class="mugshot" src="/images/courthouse/{{page.courthouse}}">
-{% endif %}
-
-{% if page.after %}
-  <img class="mugshot" src="/images/after/{{page.after}}">
-{% endif %}
-
 
