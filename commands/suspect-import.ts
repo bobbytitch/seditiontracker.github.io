@@ -311,7 +311,6 @@ const newSuspect = (firstName, lastName, dateString, links, residence?: string, 
     image: `/images/preview/${dasherizeName(firstName, lastName)}.jpg`,
     suspect: `${dasherizeName(firstName, lastName)}.jpg`,
     title: `${firstName} ${lastName} charged on [longDate]`,
-    description: "Click for latest case details. Suspects innocent until proven guilty.",
     published: false
   }
 

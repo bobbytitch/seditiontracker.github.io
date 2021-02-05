@@ -20,6 +20,12 @@ const doVerify = () => {
       continue;
     }
 
+    if (!suspect.charged) {
+      suspect.charged = suspect.date
+      updateSuspect(suspect)
+      execSync(`git add docs/_suspects/${filename}`)
+    }
+
     // if (suspect.date == "[date]" || isEmpty(suspect.date) || suspect.data.match(/title: .*\[longDate]/)) {
     //   exitWithError(`Missing date for ${suspect.name}`);
     // }
