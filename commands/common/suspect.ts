@@ -1,6 +1,5 @@
-import { readFile, writeFile } from "./file";
+import { readFile, writeLines } from "./file";
 import { isEmpty} from 'lodash';
-import { WriteStream } from "fs";
 import fm from 'front-matter';
 
 interface Charge {
@@ -165,9 +164,9 @@ export const updateSuspect = (suspect: Suspect) => {
   lines.push("charges:");
   if (suspect.charges) {
     for (const [code, charge] of Object.entries(suspect.charges)) {
-      lines.push(` - name: ${charge.name}\n`)
-      lines.push(`   code: ${charge.code}\n`)
-      lines.push(`   link: ${charge.link}\n`)
+      lines.push(` - name: ${charge.name}`)
+      lines.push(`   code: ${charge.code}`)
+      lines.push(`   link: ${charge.link}`)
     }
   }
   lines.push('---')
@@ -176,7 +175,7 @@ export const updateSuspect = (suspect: Suspect) => {
     lines.push(`- [${type}](${url})`)
   }
 
-  writeFile(`docs/_suspects/${dasherizeName(suspect.name)}.md`, lines.join("\n"))
+  writeLines(`docs/_suspects/${dasherizeName(suspect.name)}.md`, lines)
 }
 
 export const getSuspect = (firstName: string, lastName: string) => {

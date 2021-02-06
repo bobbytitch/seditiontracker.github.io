@@ -13,3 +13,10 @@ export const readJson = (filename: string) => {
   return JSON.parse(readFile(filename));
 };
 
+export const writeLines = (filename: string, lines: string[]) => {
+  const cleanLines = lines.map( (line) => {
+    return line.replace(": undefined", ":")
+  })
+
+  writeFile(filename, cleanLines.join("\n") + "\n")
+}

@@ -1,25 +1,25 @@
 ---
 name: Paul Westover
 lastName: Westover
-aka: undefined
+aka:
 residence: Missouri
 status: Charged
 date: 2021-02-04
 charged: 2021-02-04
-indicted: undefined
+indicted:
 age: 52
-occupation: undefined
-affiliations: undefined
+occupation:
+affiliations:
 jurisdiction: Federal
 image: /images/preview/paul-westover.jpg
 suspect: paul-westover.jpg
-booking: undefined
-courtroom: undefined
-courthouse: undefined
-raid: undefined
-perpwalk: undefined
-quote: undefined
-title: undefined
+booking:
+courtroom:
+courthouse:
+raid:
+perpwalk:
+quote:
+title: Paul Westover charged on February 4, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
