@@ -1,7 +1,6 @@
 import { Command } from "commander";
 import { info, warning } from "./common/console";
 import fs from "fs";
-import { readFile } from "./common/file";
 import axios from 'axios'
 import { HTMLElement, parse } from 'node-html-parser';
 import { capitalize, isEmpty } from 'lodash';
@@ -145,11 +144,6 @@ const getFileName = (firstName: string, lastName: string): string => {
 
 const getDashedName = (firstName: string, lastName: string): string => {
   return `${firstName} ${lastName}`.replace(/\s/g, "-").toLowerCase();
-}
-
-const getSuspectData = (firstName: string, lastName: string): string => {
-  const fileName = getFileName(firstName, lastName);
-  return readFile(fileName)
 }
 
 const falsePositives = (site: string) => {
