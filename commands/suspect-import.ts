@@ -6,7 +6,7 @@ import axios from 'axios'
 import { HTMLElement, parse } from 'node-html-parser';
 import { capitalize, isEmpty } from 'lodash';
 import moment from 'moment';
-import { getSuspect, Suspect, updateSuspect } from "./common/suspect";
+import { getSuspect, getSuspectByFile, Suspect, updateSuspect } from "./common/suspect";
 const { execSync } = require('child_process')
 
 const cmd = new Command();
@@ -25,13 +25,9 @@ const getNameSet = (): Set<string> => {
   const nameSet:Set<string> = new Set();
 
   for (const suspectFile of suspectFiles) {
-    const data = readFile(`./docs/_suspects/${suspectFile}`)
-
-    const name = data.match(/name:\s(.*)\n/)[1];
-    const firstName = name.split(" ")[0];
-    const lastName = name.split(" ").slice(1).join(" ");
-
-    nameSet.add(dasherizeName(firstName, lastName));
+    const suspect = getSuspectByFile(suspectFile)
+    const firstName = suspect.name.split(" ")[0];
+    nameSet.add(dasherizeName(firstName, suspect.lastName));
   }
 
   return nameSet;

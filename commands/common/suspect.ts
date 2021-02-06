@@ -172,10 +172,12 @@ export const updateSuspect = (suspect: Suspect) => {
   nameValue(file, "layout", "suspect")
   nameValue(file, "published", suspect.published.toString())
   file.write("charges:\n");
-  for (const [code, charge] of Object.entries(suspect.charges)) {
-    file.write(` - name: ${charge.name}\n`)
-    file.write(`   code: ${charge.code}\n`)
-    file.write(`   link: ${charge.link}\n`)
+  if (suspect.charges) {
+    for (const [code, charge] of Object.entries(suspect.charges)) {
+      file.write(` - name: ${charge.name}\n`)
+      file.write(`   code: ${charge.code}\n`)
+      file.write(`   link: ${charge.link}\n`)
+    }
   }
   file.write('---\n')
 
