@@ -34,6 +34,9 @@ collections:
   suspects:
     sort_by: date
     output: true
+  wanted:
+    sort_by: id
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

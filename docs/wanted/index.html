@@ -1,0 +1,14 @@
+---
+layout: default
+title: Wanted by the FBI
+image: /images/wanted.png
+description: Complete listing of all individuals being sought by the FBI
+---
+
+<h1 class="table">{{ page.title }}</h1>
+{% assign wanted = site.wanted | reverse %}
+Total Count: {{ wanted.size }}
+
+{% for person in wanted %}
+  <div>id: {{ person.number }}</div>
+{% endfor %}

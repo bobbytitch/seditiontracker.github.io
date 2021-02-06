@@ -5,7 +5,8 @@ import axios from 'axios'
 import { HTMLElement, parse } from 'node-html-parser';
 import { capitalize, isEmpty } from 'lodash';
 import moment from 'moment';
-import { getSuspect, getSuspectByFile, Suspect, updateSuspect } from "./common/suspect";
+import { getSuspect, getSuspectByFile, Suspect, updateSuspect} from "./common/suspect";
+import { updateWanted, Wanted } from "./common/wanted"
 const { execSync } = require('child_process')
 
 const cmd = new Command();
@@ -14,9 +15,10 @@ cmd.parse(process.argv);
 const importSuspects = async() => {
   info("Reading list of current suspects");
 
-  await importDoj(getNameSet());
-  await importGw(getNameSet());
-  await importUSA(getNameSet());
+  // await importDoj(getNameSet());
+  // await importGw(getNameSet());
+  // await importUSA(getNameSet());
+  await importFBI()
 }
 
 const getNameSet = (): Set<string> => {
@@ -30,6 +32,44 @@ const getNameSet = (): Set<string> => {
   }
 
   return nameSet;
+}
+
+const importFBI = async () => {
+  info("Importing wanted list from FBI site");
+  const wantedList: { [id: string]: Wanted } = {}
+  const html = await axios.get("https://www.fbi.gov/wanted/capitol-violence");
+  const root = parse(html.data);
+
+  const images:HTMLElement[] = root.querySelectorAll("img");
+
+  for (const image of images) {
+    const alt = image.attributes["alt"]
+    if (alt && alt.match("Photograph")) {
+      // skip the photos with multiple suspects
+      if (/.*and.*/.test(alt)) { continue }
+      const match = alt.match(/Photograph\s*\#(\d{1,3})\s*-?\s*(AFO|AOM)?\s*([A-Z])?/)
+
+      const number = match[1]
+      const url = image.attributes["src"]
+      const imageData = match[3] ? { url, variant: match[3] } : { url }
+
+      if (wantedList[number]) {
+        wantedList[number].images.push(imageData)
+      } else {
+        console.log(`Wanted: ${number}`)
+        wantedList[number] = {
+          number,
+          category: match[2],
+          arrested: alt.match("Arrested") ? true : false,
+          images: [imageData]
+        }
+      }
+    }
+  }
+
+  for (const [, wanted] of Object.entries(wantedList)) {
+    updateWanted(wanted);
+  }
 }
 
 const importUSA = async (nameSet: Set<string>) => {
