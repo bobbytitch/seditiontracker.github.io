@@ -1,24 +1,24 @@
 ---
 name: Nicholas Rodean
 lastName: Rodean
-aka:
+aka: undefined
 residence: Maryland
 status: Indicted
 date: 2021-01-13
 charged: 2021-01-13
 indicted: 2021-01-29
-age:
-occupation:
-affiliations:
+age: 26
+occupation: undefined
+affiliations: undefined
 jurisdiction: Federal
 image: /images/preview/014.jpg
 suspect: 014.jpg
-booking:
-courtroom:
-courthouse:
-raid:
-perpwalk:
-quote:
+booking: undefined
+courtroom: undefined
+courthouse: undefined
+raid: undefined
+perpwalk: undefined
+quote: undefined
 title: Nicholas Rodean charged on January 13, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack

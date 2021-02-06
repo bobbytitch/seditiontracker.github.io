@@ -158,10 +158,8 @@ const falsePositives = (site: string) => {
   switch(site) {
     case "USA":
       set.add("Ryan");
-      set.add("Ochs");
       set.add("Ianni");
       set.add("Jensen");
-      set.add("Rodean");
       set.add("Madden");
       set.add("Capsel");
       set.add("Courtwright");
@@ -171,6 +169,7 @@ const falsePositives = (site: string) => {
     case "GW":
       set.add("Calhoun Jr.");
       set.add("Bentacur");
+      set.add("Brownsburg")
       set.add("Capsel");
       set.add("Courtwright");
       set.add("DeCarlo");
@@ -178,7 +177,6 @@ const falsePositives = (site: string) => {
       set.add("Fichett");
       set.add("Madden");
       set.add("Phipps");
-      set.add("Rodean");
       set.add("Sidorsky");
       set.add("Sparks");
       set.add("Spencer");

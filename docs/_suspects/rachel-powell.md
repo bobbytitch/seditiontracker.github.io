@@ -1,24 +1,24 @@
 ---
 name: Rachel Powell
 lastName: Powell
-aka:
+aka: undefined
 residence: Pennsylvania
 status: Charged
 date: 2021-02-04
 charged: 2021-02-04
-indicted:
-age:
-occupation:
-affiliations:
+indicted: undefined
+age: 40
+occupation: undefined
+affiliations: undefined
 jurisdiction: Federal
 image: /images/preview/rachel-powell.jpg
 suspect: rachel-powell.jpg
 booking: rachel-powell.jpg
-courtroom:
-courthouse:
-raid:
-perpwalk:
-quote:
+courtroom: undefined
+courthouse: undefined
+raid: undefined
+perpwalk: undefined
+quote: undefined
 title: Jeffrey Grace charged on February 4th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
