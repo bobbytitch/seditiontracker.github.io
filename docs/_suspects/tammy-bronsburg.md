@@ -23,7 +23,7 @@ title: Tammy Bronsburg charged on February 4, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://www.northcentralpa.com/news/two-lycoming-county-individuals-charged-with-breaking-into-u-s-capitol/article_266b3682-67c5-11eb-a73d-9336a612db11.html)

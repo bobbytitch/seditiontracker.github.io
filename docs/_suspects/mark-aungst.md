@@ -23,7 +23,7 @@ title: Mark Aungst charged on February 4, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://www.pennlive.com/news/2021/02/lycoming-county-man-woman-charged-with-breaking-into-the-us-capitol-during-riot.html)
