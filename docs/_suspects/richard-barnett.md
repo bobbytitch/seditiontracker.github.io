@@ -16,7 +16,7 @@ suspect: 020.jpg
 booking: richard-barnett.jpg
 courtroom:
 courthouse:
-raid:
+raid: richard-barnett.jpg
 perpwalk:
 quote: "I wrote her a nasty note"
 title: Richard Barnett charged on January 8, 2021

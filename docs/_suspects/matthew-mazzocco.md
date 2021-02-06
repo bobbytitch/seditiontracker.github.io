@@ -16,7 +16,7 @@ suspect: 079.png
 booking:
 courtroom:
 courthouse:
-raid:
+raid: matt-mazzocco.png
 perpwalk:
 quote: "We’re probably all going to get in trouble"
 title: Matthew Mazzocco charged on January 17, 2021

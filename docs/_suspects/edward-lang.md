@@ -16,7 +16,7 @@ suspect: 051.jpg
 booking:
 courtroom:
 courthouse:
-raid:
+raid: edward-lang.png
 perpwalk:
 quote: "I was the leader of Liberty today. Arrest me. You are on the wrong side of history"
 title: Edward Lang charged on January 16, 2021

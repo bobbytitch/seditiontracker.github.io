@@ -16,7 +16,7 @@ suspect: 070.jpg
 booking:
 courtroom:
 courthouse:
-raid:
+raid: gina-bisignano.jpg
 perpwalk:
 quote: "Everybody, we need gas masks, we need weapons."
 title: Gina Bisigano charged on January 19, 2021

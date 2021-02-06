@@ -16,7 +16,7 @@ suspect: 025.jpg
 booking:
 courtroom:
 courthouse:
-raid:
+raid: christine-priola.jpg
 perpwalk:
 quote: "I will be switching paths to expose the global evil of human trafficking and pedophilia, including in our government agencies and children’s services agencies."
 title: Christine Priola charged on January 14, 2021

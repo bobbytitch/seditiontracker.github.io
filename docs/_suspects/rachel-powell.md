@@ -16,7 +16,7 @@ suspect: rachel-powell.jpg
 booking: rachel-powell.jpg
 courtroom:
 courthouse:
-raid:
+raid: rachel-powell.jpg
 perpwalk:
 quote:
 title: Jeffrey Grace charged on February 4th, 2021

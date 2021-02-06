@@ -16,7 +16,7 @@ suspect: 098.png
 booking:
 courtroom:
 courthouse:
-raid:
+raid: barton-shively.jpg
 perpwalk:
 quote:
 title: Barton Shively charged on January 19, 2021

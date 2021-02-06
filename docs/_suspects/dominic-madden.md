@@ -16,7 +16,7 @@ suspect: 105.png
 booking:
 courtroom:
 courthouse:
-raid:
+raid: dominic-madden.jpg
 perpwalk:
 quote:
 title: Dominic Madden charged on January 22, 2021

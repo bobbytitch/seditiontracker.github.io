@@ -16,7 +16,7 @@ suspect: lonnie-coffman.jpg
 booking:
 courtroom:
 courthouse:
-raid:
+raid: lonnie-coffman.jpg
 perpwalk:
 quote:
 title: Lonnie Coffman charged on January 7th, 2021
