@@ -133,59 +133,50 @@ const getCharges = (data: string) => {
   return charges;
 }
 
-const nameValue = (stream: WriteStream, name: string, value: string) => {
-  if (isEmpty(value)) {
-    stream.write(`${name}:\n`)
-  } else {
-    stream.write(`${name}: ${value.trim()}\n`)
-  }
-}
-
 export const updateSuspect = (suspect: Suspect) => {
-  const fs = require('fs')
-  const file = fs.createWriteStream(`docs/_suspects/${dasherizeName(suspect.name)}.md`)
+  const lines: string[] = []
 
-  file.write('---\n')
-  nameValue(file, "name", suspect.name)
-  nameValue(file, "lastName", suspect.lastName)
-  nameValue(file, "aka", suspect.aka)
-  nameValue(file, "residence", suspect.residence)
-  nameValue(file, "status", suspect.status)
-  nameValue(file, "date", suspect.date)
-  nameValue(file, "charged", suspect.charged)
-  nameValue(file, "indicted", suspect.indicted)
-  nameValue(file, "age", suspect.age)
-  nameValue(file, "occupation", suspect.occupation)
-  nameValue(file, "affiliations", suspect.affiliations)
-  nameValue(file, "jurisdiction", suspect.jurisdiction || "Federal")
-  nameValue(file, "image", suspect.image)
-  nameValue(file, "suspect", suspect.suspect)
-  nameValue(file, "booking", suspect.booking)
-  nameValue(file, "courtroom", suspect.courtroom)
-  nameValue(file, "courthouse", suspect.courthouse)
-  nameValue(file, "raid", suspect.raid)
-  nameValue(file, "perpwalk", suspect.perpwalk)
-  nameValue(file, "quote", suspect.quote)
-  nameValue(file, "title", suspect.title)
-  nameValue(file, "description", suspect.description || "Click for latest case details. Suspects innocent until proven guilty.")
-  nameValue(file, "author", "seditiontrack")
-  nameValue(file, "layout", "suspect")
-  nameValue(file, "published", suspect.published.toString())
-  file.write("charges:\n");
+  lines.push('---')
+  lines.push(`name: ${suspect.name}`)
+  lines.push(`lastName: ${suspect.lastName}`)
+  lines.push(`aka: ${suspect.aka}`)
+  lines.push(`residence: ${suspect.residence}`)
+  lines.push(`status: ${suspect.status}`)
+  lines.push(`date: ${suspect.date}`)
+  lines.push(`charged: ${suspect.charged}`)
+  lines.push(`indicted: ${suspect.indicted}`)
+  lines.push(`age: ${suspect.age}`)
+  lines.push(`occupation: ${suspect.occupation}`)
+  lines.push(`affiliations: ${suspect.affiliations}`)
+  lines.push(`jurisdiction: ${suspect.jurisdiction || "Federal"}`)
+  lines.push(`image: ${suspect.image}`)
+  lines.push(`suspect: ${suspect.suspect}`)
+  lines.push(`booking: ${suspect.booking}`)
+  lines.push(`courtroom: ${suspect.courtroom}`)
+  lines.push(`courthouse: ${suspect.courthouse}`)
+  lines.push(`raid: ${suspect.raid}`)
+  lines.push(`perpwalk: ${suspect.perpwalk}`)
+  lines.push(`quote: ${suspect.quote}`)
+  lines.push(`title: ${suspect.title}`)
+  lines.push(`description: ${suspect.description || "Click for latest case details. Suspects innocent until proven guilty."}`)
+  lines.push(`author: ${"seditiontrack"}`)
+  lines.push(`layout: ${"suspect"}`)
+  lines.push(`published: ${suspect.published.toString()}`)
+  lines.push("charges:");
   if (suspect.charges) {
     for (const [code, charge] of Object.entries(suspect.charges)) {
-      file.write(` - name: ${charge.name}\n`)
-      file.write(`   code: ${charge.code}\n`)
-      file.write(`   link: ${charge.link}\n`)
+      lines.push(` - name: ${charge.name}\n`)
+      lines.push(`   code: ${charge.code}\n`)
+      lines.push(`   link: ${charge.link}\n`)
     }
   }
-  file.write('---\n')
+  lines.push('---')
 
   for (const [type, url] of Object.entries(suspect.links)) {
-    file.write(`- [${type}](${url})\n`)
+    lines.push(`- [${type}](${url})`)
   }
 
-  file.end()
+  writeFile(`docs/_suspects/${dasherizeName(suspect.name)}.md`, lines.join("\n"))
 }
 
 export const getSuspect = (firstName: string, lastName: string) => {
