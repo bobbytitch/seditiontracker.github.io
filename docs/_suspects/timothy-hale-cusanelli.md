@@ -16,12 +16,15 @@ suspect: timothy-hale-cusanelli.jpg
 booking:
 courtroom: timothy-hale-cusanelli.jpg
 courthouse:
+raid:
+perpwalk:
 quote: "Trust the plan, major announcement soon."
 title: Timothy Hale-Cusanelli charged on January 17th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [NewsReport](https://www.app.com/story/news/crime/2021/01/17/timothy-louis-hale-cusanelli-colts-neck-man-military-contractor-capitol-pro-trump-mob/4199037001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356061/download)

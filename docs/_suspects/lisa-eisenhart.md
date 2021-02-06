@@ -16,12 +16,15 @@ suspect: 046.jpg
 booking: lisa-eisenhart.png
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "We’re going straight to federal prison if we go in there with weapons."
 title: Lisa Eisenhart charged on January 16, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.wsbtv.com/news/local/georgia-woman-arrested-after-being-caught-us-capitol-surveillance-video-with-zip-ties/JEYL42TAJFCX5LRZKYHGVY5F3U/)
 - [DOJ Twitter](https://twitter.com/USAO_MDTN/status/1350555131494989827?s=20)

@@ -16,12 +16,15 @@ suspect: 002.jpg
 booking: larry-rendall-brock.jpg
 courtroom: larry-brock.jpg
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Larry Rendall Brock charged on January 9, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.nbcdfw.com/news/local/fbi-arrests-grapevine-man-photographed-in-tactical-gear-on-us-senate-floor/2524718/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-men-charged-connection-events-us-capitol)

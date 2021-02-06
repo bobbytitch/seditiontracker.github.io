@@ -7,7 +7,8 @@ status: Charged
 date: 2021-01-19
 charged: 2021-01-19
 indicted:
-age:occupation:
+age:
+occupation:
 affiliations:
 jurisdiction: Federal
 image: /images/preview/075.png
@@ -15,12 +16,15 @@ suspect: 075.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "I foolishly allowed myself to get drawn into the negative energy emanating from that building."
 title: Matthew Perna charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.post-gazette.com/news/crime-courts/2021/01/19/Western-Pennsylvania-charged-US-Capitol-riot-insurrection-matthew-perna-jorden-mink/stories/202101190125)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356831/download)

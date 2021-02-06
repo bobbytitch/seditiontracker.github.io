@@ -16,12 +16,15 @@ suspect: adam-johnson.jpg
 booking: adam-johnson.png
 courtroom:
 courthouse: adam-johnson.jpg
+raid:
+perpwalk:
 quote:
 title: Adam Johnson charged on January 7, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Johnson%20Information.pdf)

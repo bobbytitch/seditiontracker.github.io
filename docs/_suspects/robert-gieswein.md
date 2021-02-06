@@ -16,12 +16,15 @@ suspect: 058.png
 booking: robert-gieswein.jpg
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Robert Gieswein charged on January 16, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.denverpost.com/2021/01/18/colorado-us-capitol-riot-robert-gieswein/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360831/download)

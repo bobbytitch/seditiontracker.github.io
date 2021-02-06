@@ -16,12 +16,15 @@ suspect: 141.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "At the protest in D.C., I went inside the capitol building and got teargassed"
 title: Andrew Wrigley charged on January 15th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Article](https://www.post-gazette.com/news/crime-courts/2021/01/18/Pennsylvania-man-arrested-capitol-riot-Andrew-Wrigley/stories/202101180061)
 - [Complaint](https://www.justice.gov/opa/page/file/1355911/download)

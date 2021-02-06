@@ -16,12 +16,15 @@ suspect: 071.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "I do regret being there"
 title: Simone Gold charged on January 18, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://losangeles.cbslocal.com/2021/01/19/beverly-hills-salon-owner-gina-bisignano-2-others-arrested-for-capitol-riots/)
 - [Self Incrimination (Interview)](https://www.washingtonpost.com/investigations/simone-gold-capitol-riot-coronavirus/2021/01/12/d1d39e84-545f-11eb-a817-e5e7f8a406d6_story.html)

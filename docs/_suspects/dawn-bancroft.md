@@ -16,12 +16,15 @@ suspect: dawn-bancroft.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "We were looking for Nancy to shoot her in the friggin’ brain but we didn’t find her."
 title: Dawn Bancroft charged on January 29th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [NewsReport](https://www.mcall.com/news/police/mc-nws-pennsylvania-women-charged-in-capitol-siege-20210130-zsgjdrfdibgpboyuatcphtlaxq-story.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1362581/download)

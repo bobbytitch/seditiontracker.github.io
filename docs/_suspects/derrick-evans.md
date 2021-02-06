@@ -16,6 +16,7 @@ suspect: 005.jpg
 booking:
 courtroom:
 courthouse:
+raid:
 perpwalk: derek-evans.jpg
 quote:
 title: Derrick Evans charged on January 8, 2021
@@ -23,6 +24,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://apnews.com/article/donald-trump-legislature-crime-west-virginia-electoral-college-b883a7667add0cb54f01ce7ffaa73536)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)

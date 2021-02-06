@@ -16,12 +16,15 @@ suspect: christopher-ortiz.jpg
 booking:
 courtroom: christopher-ortiz.jpg
 courthouse: christopher-ortiz.jpg
+raid:
+perpwalk:
 quote: "[I'd] storm the Capitol for you any day"
 title: Christopher Ortiz charged on January 27th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [NewsReport](https://nypost.com/2021/01/27/instagram-dm-leads-to-capitol-rioters-arrest/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361296/download)

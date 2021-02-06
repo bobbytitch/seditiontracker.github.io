@@ -16,12 +16,15 @@ suspect: 031.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "Let’s burn this shit down."
 title: John Sullivan charged on January 13, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.politico.com/news/2021/01/14/liberal-activist-charged-capitol-riot-459553)
 - [Complaint](https://www.justice.gov/opa/page/file/1354781/download)

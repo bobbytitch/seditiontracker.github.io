@@ -16,12 +16,15 @@ suspect: ethan-nordean.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "If you feel bad for the police, you are part of the problem."
 title: Ethan Nordean charged on February 3rd, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [NewsReport](https://nytimes.com/live/2021/02/03/us/biden-administration#federal-officials-arrested-another-leader-of-the-proud-boys-ethan-nordean-in-the-capitol-riot-investigation)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1364196/download)

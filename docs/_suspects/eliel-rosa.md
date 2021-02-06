@@ -16,12 +16,15 @@ suspect: 030.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Eliel Rosa charged on January 13, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.kiiitv.com/article/news/local/jenny-cudd-fbi-arrested/513-fb4ff454-3bf0-4648-8983-660ec8f2601e)
 - [Statement of Facts](https://www.scribd.com/document/490745903/Jenny-Cudd-and-Eliel-Rosa-Statement-of-Facts)

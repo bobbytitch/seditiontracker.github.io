@@ -16,12 +16,15 @@ suspect: 056.jpg
 booking: jessica-watkins.png
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "Me before forcing entry into the Capitol Building."
 title: Jessica Watkins charged on January 17, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.whio.com/news/local/2-arrested-by-feds-possibly-linked-riot-washington-dc/TBMLXSMEQ5HGDNQW4KCWJGAD6A)
 - [FBI Raid](https://www.whio.com/news/local/fbi-surrounds-champaign-county-apartment-connection-dc-riots-man-says/6XNF3MMRJBDYFFZXBHLICKY2OE/)

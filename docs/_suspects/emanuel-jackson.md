@@ -16,12 +16,15 @@ suspect: 066.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Emanuel Jackson charged on January 18, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.nytimes.com/2021/01/18/us/riley-june-williams-emmanuel-jackson.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357096/download)

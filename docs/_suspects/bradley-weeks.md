@@ -16,12 +16,15 @@ suspect: 092.jpg
 booking:
 courtroom: bradley-weeks.jpg
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Bradley Weeks charged on January 21, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.firstcoastnews.com/article/news/crime/jacksonville-man-arrested-charged-in-deadly-capitol-riot/77-c247b5a6-100b-462c-a035-3c458106725d)
 - [FBI Statement](https://news.wjct.org/post/baker-county-man-arrested-charged-connection-siege-us-capitol)

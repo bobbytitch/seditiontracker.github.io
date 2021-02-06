@@ -16,12 +16,15 @@ suspect: christina-gerding.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "Quincy made it inside."
 title: Christina Gerding charged on January 28th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [NewsReport](https://khqa.com/news/local/justice-department-arrests-quincy-couple-in-connection-to-us-capitol-raid)
 - [Complaint](https://www.justice.gov/opa/page/file/1361586/download)

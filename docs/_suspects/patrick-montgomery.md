@@ -16,12 +16,15 @@ suspect: patrick-montgomery.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "We stormed the Senate ... opened those Chamber door for Transparency!"
 title: Patrick Montgomery charged on January 17th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.denverpost.com/2021/01/19/us-capitol-riot-colorado-arrest-patrick-montgomery/)
 - [Complaint](https://www.justice.gov/opa/page/file/1357711/download)

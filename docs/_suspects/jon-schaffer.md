@@ -16,12 +16,15 @@ suspect: 059.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "We’re not going to merge into some globalist, communist system, it will not happen. There will be a lot of bloodshed if it comes down to that, trust me."
 title: Jon Schaffer charged on January 17, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://variety.com/2021/music/news/metal-guitarist-john-schaffer-surrenders-fbi-capitol-siege-1234887239/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIIndianapolis/status/1350971493891661829?s=20)

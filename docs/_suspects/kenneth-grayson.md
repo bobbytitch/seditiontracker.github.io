@@ -16,12 +16,15 @@ suspect: kenneth-grayson.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "I left one unconscious so I did my little part and got the fuck out before I got arrested"
 title: Kenneth Grayson charged on January 26th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.post-gazette.com/news/crime-courts/2021/01/26/Bridgeville-kenneth-grayson-charged-connection-Capitol-riot-insurrection/stories/202101260151)
 - [Complaint](https://www.justice.gov/opa/page/file/1360506/download)

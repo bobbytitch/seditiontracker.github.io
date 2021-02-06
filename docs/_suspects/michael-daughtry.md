@@ -16,12 +16,15 @@ suspect: 094.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Michael Daughtry charged on January 15, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.walb.com/2021/01/19/pelham-man-charged-capitol-incident/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356031/download)

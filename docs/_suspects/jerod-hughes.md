@@ -16,12 +16,15 @@ suspect: jerod-hughes.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Jerod Hughes charged on January 28, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [NewsReport](https://www.thedailybeast.com/montana-brothers-who-accosted-lone-black-cop-eugene-goodman-during-capitol-riots-are-arrested)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1364151/download)

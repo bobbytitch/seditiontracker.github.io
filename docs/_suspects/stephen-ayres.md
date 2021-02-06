@@ -16,12 +16,15 @@ suspect: 114.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Stephen Ayres charged on January 25, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.wfmj.com/story/43229774/warren-man-arrested-by-fbi-after-involvement-in-us-capitol-riots)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360721/download)

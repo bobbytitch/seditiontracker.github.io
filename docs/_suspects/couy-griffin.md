@@ -16,6 +16,7 @@ suspect: 054.jpg
 booking:
 courtroom:
 courthouse:
+raid:
 perpwalk: couy-griffin.png
 quote: "I didn't break anything. I didn't assault anybody."
 title: Couy Griffin charged on January 17, 2021
@@ -23,6 +24,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.thedailybeast.com/cowboys-for-trump-leader-couy-griffin-arrested-by-fbi-for-capitol-riot-threat-to-bring-guns-to-inauguration?via=twitter_page)
 - [Perp Walk (Image)](/images/after/couy-griffin.png)

@@ -16,12 +16,15 @@ suspect: wilmar-alvarado.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "I’m not part of this. I’m trying to get out."
 title: Wilmar Alvarado charged on January 29, 2021gs
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [NewsReport](https://www.houstonchronicle.com/news/houston-texas/crime/article/houston-man-arrested-fbi-capitol-riot-15908343.php)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Wilmar%20Alvarado%20Criminal%20Complaint%20and%20Affidavit.pdf)

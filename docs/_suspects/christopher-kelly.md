@@ -16,12 +16,15 @@ suspect: christopher-kelly.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "No worries, I’ll be with ex NYPD and some proud boys"
 title: Christopher Kelly charged on January 20, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [NewsReport](https://www.nydailynews.com/new-york/ny-retired-nypd-brother-capitol-riot-charges-20210121-qnobfub6n5d6vexmco7jhktxem-story.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1362961/download)

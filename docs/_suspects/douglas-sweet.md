@@ -16,12 +16,15 @@ suspect: douglas-sweet.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "Trump asked all the patriots to show up, so I did."
 title: Douglas Sweet charged on January 21st, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.wtkr.com/news/mathews-co-man-arrested-during-capitol-riot-trump-asked-all-the-patriots-to-show-up-so-i-did)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)

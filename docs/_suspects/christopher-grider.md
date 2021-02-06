@@ -16,12 +16,15 @@ suspect: christopher-grider.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "People are going to get crushed on that other side if they don’t open that door"
 title: Christopher Grider charged on January 21st, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [NewsReport](https://www.kwtx.com/2021/01/28/magistrate-denies-new-hearing-for-local-businessman-charged-in-us-capitol-riot/)
 - [Complaint](https://www.justice.gov/file/1358251/download)

@@ -16,12 +16,15 @@ suspect: 110.png
 booking: garrett-miller.jpg
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "Nah we stormed it"
 title: Garret Miller charged on January 20, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.nbcnewyork.com/news/local/texas-man-charged-in-capitol-riot-made-online-threat-to-assassinate-aoc/2845503/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359541/download)

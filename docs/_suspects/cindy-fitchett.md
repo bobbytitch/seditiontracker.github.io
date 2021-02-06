@@ -16,12 +16,15 @@ suspect: 129.png
 booking: cindy-fitchett.png
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Cindy Fitchett charged on January 21st, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.wtvr.com/news/local-news/cindy-fitchett-mathews-virginia-woman-arraigned-on-capitol-riot-charges-pleads-not-guilty)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)

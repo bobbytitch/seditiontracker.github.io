@@ -16,12 +16,15 @@ suspect: 113.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Matthew Caspel charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [Complaint](https://www.justice.gov/file/1360776/download)
 - [Statement of Facts](https://www.justice.gov/file/1360776/download)

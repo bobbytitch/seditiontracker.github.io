@@ -17,12 +17,14 @@ booking:
 courtroom:
 courthouse:
 raid: josiah-colt.png
+perpwalk:
 quote: "I got caught up in the moment and when I saw the door to to the Chamber open, I walked in, hopped down, and sat on the chair."
 title: Josiah Colt charged on January 12, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://wgntv.com/news/josiah-colt-man-seen-hanging-from-senate-balcony-turns-himself-in/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)

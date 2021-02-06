@@ -16,12 +16,15 @@ suspect: 099.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "Where’s Nancy’s office?"
 title: Christopher Spencer charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.wsoctv.com/news/local/fbi-makes-first-arrest-nc-resident-involved-us-capitol-riot/C4KA2XRFZRHYZKUU2VT65O54UU/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356986/download)

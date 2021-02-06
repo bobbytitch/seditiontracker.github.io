@@ -16,11 +16,14 @@ suspect: eric-torrens.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Eric Torrens charged on January 27, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Eric%20Chase%20Torrens%20Statement%20of%20Facts.pdf)

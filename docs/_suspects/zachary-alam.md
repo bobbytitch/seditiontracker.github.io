@@ -16,12 +16,15 @@ suspect: zachary-alam.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "Fuck the blue!"
 title: Zachary Alam charged on January 30th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.thedailybeast.com/rioter-charged-for-giving-capitol-cop-a-concussion-feds)
 - [Complaint](https://www.justice.gov/opa/page/file/1362956/download)

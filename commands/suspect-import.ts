@@ -17,7 +17,7 @@ const importSuspects = async() => {
 
   await importDoj(getNameSet());
   await importGw(getNameSet());
-  // await importUSA(getNameSet());
+  await importUSA(getNameSet());
 }
 
 const getNameSet = (): Set<string> => {

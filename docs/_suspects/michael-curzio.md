@@ -16,12 +16,15 @@ suspect: arrest.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Michael Curzio charged on January 14th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://wjno.iheart.com/featured/florida-news/content/2021-01-08-accused-florida-dc-rioter-has-no-regrets/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)

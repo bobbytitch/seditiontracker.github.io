@@ -16,12 +16,15 @@ suspect: joshua-pruitt.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "Getting ready for these clowns on wednesday. Wrong patriot to fk with"
 title: Joshua Pruitt charged on January 7th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.npr.org/sections/insurrection-at-the-capitol/2021/01/08/954940681/man-who-posed-for-photos-sitting-at-desk-in-pelosis-office-has-been-arrested)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)

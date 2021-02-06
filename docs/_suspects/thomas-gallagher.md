@@ -16,12 +16,15 @@ suspect: thomas-gallagher.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Thomas Gallagher charged on January 21st, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [NewsReport](https://boston.cbslocal.com/2021/01/14/thomas-gallagher-bridgewater-new-hampshire-charged-arrested-us-capitol-riot/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)

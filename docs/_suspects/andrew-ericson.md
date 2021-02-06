@@ -16,12 +16,15 @@ suspect: 112.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Andrew Ericson charged on January 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://tulsaworld.com/news/local/oklahoma-man-faces-charges-in-connection-with-capitol-riot/article_1afe3f28-5d08-11eb-ad02-77c1bc298fa5.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359591/download)

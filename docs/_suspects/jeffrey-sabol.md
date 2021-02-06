@@ -16,12 +16,15 @@ suspect: 106.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Jeffrey Sabol charged on January 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.cnbc.com/2021/01/22/capitol-riots-man-admits-dragging-cop-to-be-beaten-by-flag-pole.html)
 - [FBI Statement (Twitter)](https://twitter.com/NewYorkFBI/status/1352658310269382656?s=20)

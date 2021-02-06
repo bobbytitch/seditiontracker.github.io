@@ -16,12 +16,15 @@ suspect: 013.jpg
 booking: robert-keith-packer.webp
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Robert Keith Packer charged on January 13, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.cbsnews.com/news/camp-auschwitz-shirt-robert-packer-arrested-virginia/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)

@@ -16,12 +16,15 @@ suspect: 065.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "Can't wait to tell my grandkids I was here!"
 title: Gracyn Courtright charged on January 16, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.thedailybeast.com/latest-round-of-capitol-riot-arrests-outed-themselves-on-social-media)
 - [Complaint](https://www.courtlistener.com/recap/gov.uscourts.dcd.226140/gov.uscourts.dcd.226140.1.1.pdf?fbclid=IwAR3-9Irq5mTP7Byu1S7TYTAzPr0yHYf1q9x5jEu_9EcltQfOaBb7DsjvJHI)

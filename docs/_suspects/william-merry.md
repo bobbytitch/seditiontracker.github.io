@@ -24,6 +24,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: false
+charges:
 ---
 - [News Report](https://www.stltoday.com/news/local/crime-and-courts/st-louis-county-man-accused-of-role-in-capitol-riot-released-from-jail/article_6b5119e8-6368-5621-bfe0-8da222eb185c.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/William%20Merry%20Statement%20of%20Facts.pdf)

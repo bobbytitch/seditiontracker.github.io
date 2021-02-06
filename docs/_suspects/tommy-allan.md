@@ -16,12 +16,15 @@ suspect: tommy-allan.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "Here [sic] my Roar you fucking communist bastards. Give me freedom or give me death."
 title: Tommy Allan charged on January 25, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.sacbee.com/news/local/article248703410.html)
 - [Complaint](https://www.justice.gov/file/1360801/download)

@@ -16,12 +16,15 @@ suspect: arrest.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Hunter Ehmke charged on January 13th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.sandiegotrends.com/2021/01/15/california-man-hunter-ehmke-arrested-in-siege-of-capitol/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/california-man-arrested-and-charged-federal-charges-following-events-united-states)

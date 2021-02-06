@@ -16,12 +16,15 @@ suspect: 021.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Robert Sanford charged on January 14, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.wsj.com/livecoverage/trump-impeachment-house-biden/card/jjabJi3k3h0KAkxYDoWY)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/retired-pennsylvania-fire-fighter-arrested-and-criminally-charged-actions-us-capitol)

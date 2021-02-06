@@ -16,12 +16,15 @@ suspect: rachel-powell.jpg
 booking: rachel-powell.jpg
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Jeffrey Grace charged on February 4th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Story](https://www.seattletimes.com/seattle-news/crime/clark-county-man-charged-with-entering-capitol-during-siege/)
 - [FBI Search (VIDEO)](https://www.wpxi.com/news/top-stories/local-woman-wanted-role-violence-us-capitol-custody-source-say/CDOTG3JKHRGQXMZW4GOVFKOJHQ/)

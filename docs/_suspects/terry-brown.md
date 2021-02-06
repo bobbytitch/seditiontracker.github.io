@@ -16,12 +16,15 @@ suspect: arrest.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "So if this is what it took … to make the people stand up and listen, then to me it was worth it."
 title: Terry Brown charged on January 11th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [NewsReport](https://www.ldnews.com/story/news/2021/01/07/lebanon-county-arrested-during-capitol-siege-has-no-regrets-trump-supporters-election-washington/6588911002/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)

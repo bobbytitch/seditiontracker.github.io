@@ -7,7 +7,8 @@ status: Charged
 date: 2021-01-21
 charged: 2021-01-21
 indicted:
-age:occupation: U.S. Marines (Former)
+age:
+occupation: U.S. Marines (Former)
 affiliations:
 jurisdiction: Federal
 image: /images/preview/083.png
@@ -15,12 +16,15 @@ suspect: 083.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Michael Foy charged on January 21, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.wxyz.com/news-democracy-under-fire/westland-man-arrested-for-allegedly-assaulting-police-officer-with-hockey-stick-at-capitol-riot)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357476/download)

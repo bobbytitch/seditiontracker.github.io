@@ -16,12 +16,15 @@ suspect: cleveland-meredith.png
 booking: cleveland-meredith.png
 courtroom: cleveland-meredith.png
 courthouse:
+raid:
+perpwalk:
 quote: "Thinking about heading over to Pelosi CUNT’s speech and putting a bullet in her noggin on Live TV [purple devil emoji]."
 title: Cleveland Meredith charged on January 8th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.11alive.com/article/news/nation-world/atlanta-area-man-arrested-capitol-riots/85-5a25b7ac-2f66-4580-8a46-d11a15a0e5e0)
 - [Complaint](https://www.justice.gov/opa/page/file/1353306/download)

@@ -16,12 +16,15 @@ suspect: andrew-hatley.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "It has come to my attention that there was someone who looks like me at the Capitol."
 title: Andrew Hatley charged on January 19th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://abcnews4.com/news/local/fbi-sc-man-suspected-of-attending-capitol-protest-taking-picture-with-calhoun-statue)
 - [Complaint](https://www.justice.gov/file/1360781/download)

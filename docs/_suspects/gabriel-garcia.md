@@ -16,12 +16,15 @@ suspect: 077.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "Nancy come out and play!"
 title: Gabriel Garcia charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.miamiherald.com/news/local/crime/article248608940.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356776/download)

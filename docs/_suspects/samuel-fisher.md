@@ -17,12 +17,14 @@ booking:
 courtroom:
 courthouse:
 raid: samuel-fisher.jpg
+perpwalk:
 quote: "It’s time to bring the pain upon them."
 title: Samuel Fisher  charged on January 20, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.thedailybeast.com/samuel-fisher-conspiracy-addled-nyc-pickup-artist-arrested-in-capitol-riots)
 - [Perp Walk](https://worldnewsera.com/news/coronavirus/2-more-local-arrests-connected-to-insurrection-at-u-s-capitol/)

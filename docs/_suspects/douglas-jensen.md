@@ -16,12 +16,15 @@ suspect: 009.jpg
 booking: douglas-jensen.png
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Douglas Jensen charged on January 9, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.desmoinesregister.com/story/news/2021/01/09/fbi-arrests-des-moines-man-who-us-capitol-riot-booked-into-polk-county-jail-washington-dc/6607953002/)
 - [Self Incrimination](https://heavy.com/news/doug-jensen/)

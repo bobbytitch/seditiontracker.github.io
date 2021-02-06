@@ -16,12 +16,15 @@ suspect: 003.jpg
 booking: jacob-chansley.jpg
 courtroom: jacob-chansley.png
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Jacob Anthony Chansley charged on January 8, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)
 - [News Report](https://www.azcentral.com/story/news/local/arizona-breaking/2021/01/11/jake-angeli-arizona-seen-us-capitol-raid-fur-hat-horns-federal-court-hearing/6625619002/)

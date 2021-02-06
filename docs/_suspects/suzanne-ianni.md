@@ -16,12 +16,15 @@ suspect: 074.jpg
 booking:
 courtroom:
 courthouse: suzanne-ianni.jpg
+raid:
+perpwalk:
 quote:
 title: Suzanne Ianni charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-massachusetts-residents-charged-connection-capitol-breach)
 - [News Report](https://www.bostonherald.com/2021/01/19/boston-straight-pride-parade-organizer-mark-sahady-natick-politician-sue-ianni-arrested-for-us-capitol-siege/)

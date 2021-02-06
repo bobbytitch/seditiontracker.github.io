@@ -16,12 +16,15 @@ suspect: john-lolos.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: John Lolos charged on January 9th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [NewsReport](https://nypost.com/2021/01/26/accused-capitol-rioter-idd-after-getting-kicked-off-plane/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Lolos%20Statement%20of%20Facts.pdf)

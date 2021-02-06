@@ -16,12 +16,15 @@ suspect: 120.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Matthew Miller charged on January 25, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.wbaltv.com/article/fbi-charge-matthew-miller-cooksville-us-capitol-riot/35312595)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360201/download)

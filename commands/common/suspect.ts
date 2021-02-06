@@ -1,7 +1,13 @@
 import { readFile, writeFile } from "./file";
 import { isEmpty} from 'lodash';
 import { WriteStream } from "fs";
-import { fileURLToPath } from "url";
+import fm from 'front-matter';
+
+interface Charge {
+  code: string
+  name: string
+  link: string
+}
 
 export interface Suspect {
   published: boolean
@@ -12,6 +18,7 @@ export interface Suspect {
   name?: string
   lastName?: string
   links?: { [type:string]: string }
+  charges?: {[code:string]: Charge }
   age?: string
   image?: string
   suspect?: string
@@ -54,6 +61,7 @@ export const getSuspectByFile = (filename:string) => {
 
   suspect.name = data.match(/name: (.*)/)[1];
   suspect.links = getLinks(data.split("---")[2].trim());
+  suspect.charges = getCharges(data);
   suspect.lastName = suspect.name.split(" ").slice(1).join(" ");
   suspect.description = data.match(/description: (.*)/)[1];
   suspect.title = data.match(/title: (.*)/)[1];
@@ -114,6 +122,17 @@ export const getSuspectByFile = (filename:string) => {
   return suspect
 }
 
+const getCharges = (data: string) => {
+  const charges: {[code:string]: Charge } = {}
+  const content = fm(data)
+  if (content.attributes["charges"]) {
+    for (const charge of content.attributes["charges"]) {
+      charges[charge.code] = charge
+    }
+  }
+  return charges;
+}
+
 const nameValue = (stream: WriteStream, name: string, value: string) => {
   if (isEmpty(value)) {
     stream.write(`${name}:\n`)
@@ -152,6 +171,12 @@ export const updateSuspect = (suspect: Suspect) => {
   nameValue(file, "author", "seditiontrack")
   nameValue(file, "layout", "suspect")
   nameValue(file, "published", suspect.published.toString())
+  file.write("charges:\n");
+  for (const [code, charge] of Object.entries(suspect.charges)) {
+    file.write(` - name: ${charge.name}\n`)
+    file.write(`   code: ${charge.code}\n`)
+    file.write(`   link: ${charge.link}\n`)
+  }
   file.write('---\n')
 
   for (const [type, url] of Object.entries(suspect.links)) {

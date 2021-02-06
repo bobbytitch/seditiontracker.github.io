@@ -16,12 +16,15 @@ suspect: 033.jpg
 booking: dominic-pezzola.jpg
 courtroom: dominic-pezzola.png
 courthouse:
+raid:
+perpwalk:
 quote: "Victory smoke in the Capitol, boys. This is fucking awesome. I knew we could take this motherfucker over [if we] just tried hard enough."
 title: Dominic Pezzola charged on January 15, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.vice.com/en/article/epdmva/a-proud-boy-in-disguise-helped-lead-the-insurrection-at-the-capitol)
 - [VIDEO](https://twitter.com/BGOnTheScene/status/1346904244008456193)

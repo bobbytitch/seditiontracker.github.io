@@ -24,6 +24,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://baltimore.cbslocal.com/2021/01/13/maryland-man-nicholas-rodean-who-went-into-us-capitol-during-riots-wearing-work-badge-arrested-on-federal-charges/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)

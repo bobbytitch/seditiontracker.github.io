@@ -16,12 +16,15 @@ suspect: 060.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "Fuck the Police."
 title: Craig Bingert charged on January 17, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.mcall.com/news/pennsylvania/capitol-ideas/mc-nws-pa-slatington-man-craig-bingert-arrest-capitol-riots-20210118-zit2jmr6wjarri4gegtaqq5ray-story.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356991/download)

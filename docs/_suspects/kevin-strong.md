@@ -16,12 +16,15 @@ suspect: 103.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Kevin Strong charged on January 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.huffpost.com/entry/qanon-faa-employee-capitol-insurrection_n_600b2881c5b6d64153abaf3d)
 - [Complaint](https://www.justice.gov/opa/page/file/1359586/download)

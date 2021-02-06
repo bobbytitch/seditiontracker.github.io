@@ -16,12 +16,15 @@ suspect: 023.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "You're not allowed to shove me"
 title: Anthime Joseph Gionet charged on January 14, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://apnews.com/article/joe-biden-donald-trump-capitol-siege-alaska-crime-6666c735165a19a6ee019e412235bd8d)
 - [Self Incrimination](https://twitter.com/Cleavon_MD/status/1348194351172603906?s=20)

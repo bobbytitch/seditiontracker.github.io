@@ -16,12 +16,15 @@ suspect: nicolas-moncada.jpg
 booking:
 courtroom: nicolas-moncanda.jpg
 courthouse: nicolas-moncanda.jpg
+raid:
+perpwalk:
 quote:
 title: Nicolas Moncada charged on January 18th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [NewsReport](https://nypost.com/2021/01/18/staten-island-man-arrested-for-role-in-capitol-riot/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361471/download)

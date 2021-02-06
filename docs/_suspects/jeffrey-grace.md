@@ -16,12 +16,15 @@ suspect: jeffrey-grace.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Jeffrey Grace charged on February 4th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Story](https://www.seattletimes.com/seattle-news/crime/clark-county-man-charged-with-entering-capitol-during-siege/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364691/download)

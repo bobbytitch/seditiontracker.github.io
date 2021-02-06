@@ -16,12 +16,15 @@ suspect: 012.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "It could have been me, but she went in first"
 title: Thomas Baranyi charged on January 12, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://apnews.com/article/capitol-siege-shootings-new-jersey-c9bcea4917ebe6c07d6e2f45286c5d8a)
 - [Self Incrimination](https://twitter.com/shaunking/status/1347257804244082695?s=20)

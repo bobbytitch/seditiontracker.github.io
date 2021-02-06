@@ -16,12 +16,15 @@ suspect: 061.jpg
 booking: bryan-betancur.jpg
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Bryan Betancur charged on January 17, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://baltimore.cbslocal.com/2021/01/18/maryland-man-bryan-betancur-arrested-after-gps-monitor-places-him-at-us-capitol-during-riots-prosecutors-say/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355926/download)

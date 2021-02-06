@@ -16,12 +16,15 @@ suspect: 020.jpg
 booking: richard-barnett.jpg
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "I wrote her a nasty note"
 title: Richard Barnett charged on January 8, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://apnews.com/article/donald-trump-arkansas-arrests-little-rock-theft-4837d9bae7988943f126f7a0f3782619)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/man-arrested-illegally-entering-office-speaker-house)

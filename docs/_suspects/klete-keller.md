@@ -16,12 +16,15 @@ suspect: 044.png
 booking: klete-keller.jpg
 courtroom: klete-keller.jpg
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Klete Keller charged on January 13, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://people.com/sports/klete-keller-friends-ex-wife-react-participation-capitol-riots/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1354311/download)

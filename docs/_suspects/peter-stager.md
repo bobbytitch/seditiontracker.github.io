@@ -16,12 +16,15 @@ suspect: 028.jpg
 booking: peter-stager.jpg
 courtroom: peter-stager.jpg
 courthouse:
+raid:
+perpwalk:
 quote: "Everybody in there is a treasonous traitor. Death is the only remedy for what’s in that building."
 title: Peter Stager charged on January 14, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.wsj.com/livecoverage/trump-impeachment-house-biden/card/BeFqRm1wpv2SEpH3SSLQ)
 - [Self Incrimination [VIDEO]](https://www.youtube.com/watch?v=SVhLKKTUhIg&feature=youtu.be)

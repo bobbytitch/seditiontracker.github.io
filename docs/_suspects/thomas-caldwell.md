@@ -16,12 +16,15 @@ suspect: 066.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "We need to do this at the local level. Let's storm the capitol in Ohio. Tell me when!"
 title: Thomas Caldwell charged on January 19, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.washingtonpost.com/local/legal-issues/conspiracy-oath-keeper-arrest-capitol-riot/2021/01/19/fb84877a-5a4f-11eb-8bcf-3877871c819d_story.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1356331/download)

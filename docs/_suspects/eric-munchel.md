@@ -16,12 +16,15 @@ suspect: 001.jpg
 booking: eric-munchel.jpg
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "Probably the last time I’ll be able to enter the building with armor and ... fucking weapons."
 title: Eric Munchel charged on January 10, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://fox17.com/news/local/suspected-tennessee-man-who-stormed-the-us-capitol-arrested)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-men-charged-connection-events-us-capitol)

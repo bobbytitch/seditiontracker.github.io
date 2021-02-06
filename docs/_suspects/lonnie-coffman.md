@@ -16,12 +16,15 @@ suspect: lonnie-coffman.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Lonnie Coffman charged on January 7th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.montgomeryadvertiser.com/story/news/crime/2021/01/27/feds-seize-items-lonnie-coffman-falkville-home-capitol-riot-case/4281963001/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)

@@ -16,12 +16,15 @@ suspect: 080.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "Taking this back by force now, no more bs"
 title: Patrick McCaughey charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/connecticut-man-charged-assaulting-officer-during-us-capitol-breach)
 - [News Report](https://www.cnbc.com/2021/01/20/connecticut-man-arrested-for-crushin.html)

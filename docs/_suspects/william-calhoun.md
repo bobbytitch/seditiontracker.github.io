@@ -16,12 +16,15 @@ suspect: 107.jpg
 booking:
 courtroom: william-calhoun.png
 courthouse:
+raid:
+perpwalk:
 quote: "We physically took control of the Capitol Building in a hand to hand hostile takeover."
 title: William Calhoun charged on January 15, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.11alive.com/article/news/crime/trials/mccall-calhoun-probable-cause-dc-riots/85-b805cef5-82f0-4b22-aa63-d9ca62d6472d)
 - [Complaint](https://www.justice.gov/opa/page/file/1356041/download)

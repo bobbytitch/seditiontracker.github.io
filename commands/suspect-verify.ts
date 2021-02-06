@@ -4,7 +4,7 @@ import fs from "fs";
 import { readFile } from "./common/file";
 import { getSuspectByFile, updateSuspect } from "./common/suspect";
 const { execSync } = require('child_process')
-import { isEmpty } from "lodash";
+import { isEmpty, update } from "lodash";
 
 const verify = new Command()
 verify.parse(process.argv);

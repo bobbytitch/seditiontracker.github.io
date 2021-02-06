@@ -16,12 +16,15 @@ suspect: troy-williams.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "We were a part of something, there’s cops here, they tried to stop us, they are not letting us in, but not fighting us"
 title: Troy Williams charged on February 1st, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [NewsReport](https://www.wbko.com/2021/02/02/2-kentucky-men-charged-with-entering-capitol-during-riot/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dalton%20Crase%20and%20Troy%20Williams%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)

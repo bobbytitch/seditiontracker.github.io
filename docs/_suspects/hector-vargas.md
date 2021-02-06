@@ -16,12 +16,15 @@ suspect: 102.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Hector Vargas  charged on January 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [Incriminating Evidence](https://jcitytimes.com/hector-vargas-from-unsung-hero-to-insurrectionist/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Hector%20Vargas%20Statement%20of%20Facts.pdf)

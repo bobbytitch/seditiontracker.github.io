@@ -16,12 +16,15 @@ suspect: 135.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Anthony Mariotto charged on January 22nd, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://floridadailypost.com/fort-pierce-man-faces-capitol-riot-charges-posting-images/)
 - [Complaint](https://www.justice.gov/opa/page/file/1359631/download)

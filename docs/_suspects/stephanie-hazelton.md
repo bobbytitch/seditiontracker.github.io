@@ -16,12 +16,15 @@ suspect: 101.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "We need more men!"
 title: Stephanie Hazelton charged on January 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.inquirer.com/news/new-jersey/stephanie-hazelton-capitol-insurrection-medford-new-jersey-rioters-20210122.html?utm_source=t.co&cid=Philly.com+Twitter&utm_campaign=Philly.com+Twitter+Account&utm_medium=social)
 - [Incriminating Evidence (VIDEO)](https://www.inquirer.com/news/new-jersey/stephanie-hazelton-ayla-wolf-south-jersey-us-capitol-riot-anti-vax-20210119.html)

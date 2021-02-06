@@ -16,12 +16,15 @@ suspect: troy-smocks.png
 booking: troy-smocks.jpg
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "We will come in numbers that no standing army or police agency can match."
 title: Troy Smocks charged on January 15, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://dfw.cbslocal.com/2021/01/19/capitol-rioter-dallas-troy-smocks-plans-return-dc-inauguration-day/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/texas-man-arrested-and-charged-making-threats-regarding-events-us-capitol)

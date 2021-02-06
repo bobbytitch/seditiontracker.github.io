@@ -16,12 +16,15 @@ suspect: jacob-lewis.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Jacob Lewis charged on January 27th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [NewsReport](https://www.washingtonpost.com/nation/2021/01/29/jacob-lewis-capitol-riot-gym/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361031/download)

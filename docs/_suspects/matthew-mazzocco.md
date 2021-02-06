@@ -16,12 +16,15 @@ suspect: 079.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "We’re probably all going to get in trouble"
 title: Matthew Mazzocco charged on January 17, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.expressnews.com/news/local/article/San-Antonio-suspect-in-CapitolMazzocco-texas-15882523.php)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356786/download)

@@ -16,10 +16,13 @@ suspect: 090.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Dennis Sidorski charged on January 20, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---

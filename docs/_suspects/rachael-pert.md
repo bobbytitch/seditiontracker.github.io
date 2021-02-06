@@ -16,12 +16,15 @@ suspect: rachael-pert.png
 booking: rachael-pert.jpg
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Rachael Pert charged on January 26th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [NewsReport](https://www.thedailybeast.com/florida-couple-rachael-pert-and-dana-joe-winn-charged-in-capitol-riots)
 - [Complaint](https://www.justice.gov/opa/page/file/1360796/download)

@@ -16,12 +16,15 @@ suspect: 068.jpg
 booking: alex-harkrider.jpg
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Alex Harkrider charged on January 18, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://ksla.com/2021/01/19/east-texans-accused-taking-part-us-capitol-siege-charged-with-federal-crimes/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356246/download)

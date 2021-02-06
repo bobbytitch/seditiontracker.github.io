@@ -16,12 +16,15 @@ suspect: 076.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "Maybe I smoked some cigarettes, maybe I spat on a riot officer. Maybe I didn't"
 title: Nicholas DeCarlo charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [Self Incrimination](https://www.latimes.com/world-nation/story/2021-01-13/some-who-stormed-the-capitol-insist-what-i-did-was-journalism)
 - [Complaint](https://www.justice.gov/opa/page/file/1360496/download)

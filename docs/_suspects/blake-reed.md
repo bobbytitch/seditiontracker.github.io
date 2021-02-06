@@ -16,12 +16,15 @@ suspect: 052.jpg
 booking: blake-reed.jpg
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "We The People took the Capitol!"
 title: Blake Reed charged on January 17, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.tennessean.com/story/news/crime/2021/01/17/nashville-man-blake-austin-reed-charged-fbi-capitol-riot/4196605001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355936/download)

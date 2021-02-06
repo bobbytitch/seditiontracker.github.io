@@ -17,12 +17,14 @@ booking:
 courtroom:
 courthouse:
 raid:
+perpwalk:
 quote:
 title: Barton Shively charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.fox43.com/article/news/local/central-pennsylvania-man-arrested-for-role-in-riot-at-us-capitol/521-578d8b83-fed6-4768-95a5-29526f1ebe90)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357006/download)

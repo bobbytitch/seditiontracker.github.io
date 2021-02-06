@@ -16,12 +16,15 @@ suspect: 069.jpg
 booking:
 courtroom: tam-pham.jpg
 courthouse:
+raid:
+perpwalk:
 quote: "I shouldn’t have done it. I was there to take pictures."
 title: Tam Pham charged on January 19, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://abc13.com/houston-protest-inauguration-protests-hpd-officer-tamp-pham-at-us-capitol-safety-plan/9655587/)
 - [Houston Police Statement (Twitter)](https://twitter.com/ArtAcevedo/status/1349759930832662528?s=20)

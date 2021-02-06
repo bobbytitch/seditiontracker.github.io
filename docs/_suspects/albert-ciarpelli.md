@@ -16,12 +16,15 @@ suspect: 118.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Albert Ciarpelli charged on January 21, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.syracuse.com/crime/2021/01/syracuse-man-charged-in-dc-riots-called-time-inside-the-capitol-a-little-adventure.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1353446/download)

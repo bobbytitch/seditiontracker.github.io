@@ -16,12 +16,15 @@ suspect: arrest.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Christopher Alberts charged on January 7th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.baltimoresun.com/news/crime/bs-md-cr-marylanders-arrested-at-capitol-20210107-nd4fjzvmifdxflacbby4mxmyqu-story.html)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)

@@ -16,12 +16,15 @@ suspect: 008.jpg
 booking: aaron-mostofsky.png
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Aaron Mostofsky charged on January 11, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://www.nbcnewyork.com/news/local/brooklyn-judges-son-arrested-for-participating-in-capitol-riots-source-says/2826102/?_osource=db_npd_nbc_wnbc_twt_shr)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353206/download)

@@ -16,12 +16,15 @@ suspect: 019.jpg
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "If you are too much of a coward to risk arrest, being fired, and actual gunfire to secure your rights, you have no words to speak I value."
 title: Thomas Robertson charged on January 13, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://roanoke.com/news/local/2-rocky-mount-police-officers-who-were-in-capitol-during-riot-face-federal-charges/article_756e0a1a-55c9-11eb-aac5-23258d074867.html)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-duty-virginia-police-officers-charged-federal-court-following-events-us-capitol)

@@ -16,12 +16,15 @@ suspect: 104.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "What Patriots do? We fuckin' disarm them and then we storm fuckin' the Capitol"
 title: Scott Fairlamb  charged on January 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://abc7ny.com/local-dc-riot-arrests-nyc-sanitation-worker-arrested/9900913/)
 - [Complaint](https://www.justice.gov/opa/page/file/1359221/download)

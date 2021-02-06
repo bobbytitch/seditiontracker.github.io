@@ -16,12 +16,15 @@ suspect: 017.png
 booking:
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote:
 title: Kevin Loftus charged on January 12, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://wqow.com/2021/01/12/what-we-know-about-kevin-loftus-man-charged-for-connection-to-capitol-riot/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)

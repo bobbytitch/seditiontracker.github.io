@@ -24,6 +24,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: false
+charges:
 ---
 - [News Report](http://postalnews.com/blog/2021/01/09/nh-letter-carrier-who-chugged-wine-amid-deadly-capitol-riot-says-he-has-no-regrets/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jason%20Riddle%20Statement%20of%20Facts.pdf)

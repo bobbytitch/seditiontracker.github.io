@@ -16,12 +16,15 @@ suspect: 050.jpg
 booking: brandon-fellows.png
 courtroom:
 courthouse:
+raid:
+perpwalk:
 quote: "I didn’t hurt anyone, I didn’t break anything. I did trespass though, I guess."
 title: Brandon Fellows charged on January 17, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
+charges:
 ---
 - [News Report](https://dailygazette.com/2021/01/17/feds-schenectady-man-charged-in-capital-insurrection/)
 - [Statement of Facts](/opa/page/file/1355906/download)
