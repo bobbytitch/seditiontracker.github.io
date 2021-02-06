@@ -15,7 +15,7 @@ image: /images/preview/011.jpg
 suspect: 011.jpg
 booking:
 courtroom:
-courthouse:
+courthouse: jenny-cudd.jpg
 raid:
 perpwalk:
 quote: "I walked through an open door into the Capitol along with several hundred other people"

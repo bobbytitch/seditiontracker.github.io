@@ -11,9 +11,9 @@ age: 26
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/031.png
-suspect: 031.png
-booking:
+image: /images/preview/john-sullivan.jpg
+suspect: john-sullivan.jpg
+booking: john-sullivan.webp
 courtroom:
 courthouse:
 raid:
