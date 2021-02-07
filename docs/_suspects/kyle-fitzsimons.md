@@ -42,3 +42,4 @@ charges:
 - [Statement of Facts](https://htv-prod-media.s3.amazonaws.com/files/fitzsimons-criminal-complaint-1612477067.pdf)
 - [Self Incrimination (Interview)](https://www.therochestervoice.com/west-lebanon-man-recounts-the-hope-then-terror-he-encountered-on-jan-6-cms-15693)
 - [Racist Speech (Video)](https://twitter.com/nathanTbernard/status/1357746924535877633?s=20)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/maine-man-charged-federal-court-assaulting-and-impeding-law-enforcement-officers-during)
