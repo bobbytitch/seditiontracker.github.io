@@ -16,14 +16,14 @@ suspect: paul-westover.jpg
 booking:
 courtroom:
 courthouse:
-raid:
+raid: paul-westover.jpg
 perpwalk:
 quote:
 title: Paul Westover charged on February 4, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Story](https://www.stltoday.com/news/local/crime-and-courts/st-louis-county-man-accused-of-role-in-capitol-riot-released-from-jail/article_6b5119e8-6368-5621-bfe0-8da222eb185c.html)

@@ -15,7 +15,7 @@ image: /images/preview/william-merry.png
 suspect: william-merry.png
 booking:
 courtroom:
-courthouse:
+courthouse: william-merry.jpg
 raid:
 perpwalk:
 quote:
