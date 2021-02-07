@@ -1,12 +1,7 @@
 import { readFile, writeLines } from "./file";
-import { isEmpty} from 'lodash';
+import { Charge } from "./charge";
+import { defaultsDeep, isEmpty} from 'lodash';
 import fm from 'front-matter';
-
-interface Charge {
-  code: string
-  name: string
-  link: string
-}
 
 export interface Suspect {
   published: boolean
@@ -187,7 +182,6 @@ const dasherizeName = (name: string) => {
   return name.replace(/\s/g, "-").toLowerCase();
 }
 
-
 const getLinks = (data: string) => {
   const links = {}
   for (const link of data.split("- ")) {
@@ -198,4 +192,17 @@ const getLinks = (data: string) => {
     links[name] = url
   }
   return links
+}
+
+/**
+ * Gets suspect filename based on DOJ style name entry
+ * Ex. WILLIAMS, Troy Dylan
+ * @param name
+ */
+export const convertDojName = (name: string) => {
+  const names = name.replace("Jr.", "").split(",").map((name) => { return name.trim()})
+  const lastName = names[0].toLowerCase()
+  const firstName = names[1].split(" ")[0].toLowerCase()
+
+  return dasherizeName(`${firstName} ${lastName}`)
 }
