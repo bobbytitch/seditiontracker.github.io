@@ -47,10 +47,14 @@ const newSuspect = async() => {
   ]
 
   const result = await inquirer.prompt(questions)
+  const name = `${result.firstName} ${result.lastName}`
   const dashedName = `${result.firstName}-${result.lastName}`.toLowerCase()
+  const date = Date.parse(`2021-${result.date}T05:00`);
+  const options = { year: 'numeric', month: 'long', day: 'numeric' };
+  const dateFormat = new Intl.DateTimeFormat('en-US', options).format(date)
 
   updateSuspect({
-    name: `${result.firstName} ${result.lastName}`,
+    name,
     lastName: result.lastName,
     residence: result.residence,
     age: result.age,
@@ -62,6 +66,7 @@ const newSuspect = async() => {
     links: {
       "News Story": result.story
     },
+    title: `${name} arrested on ${dateFormat}`,
     published: result.arrested ? true : false
   })
 }
