@@ -3,10 +3,10 @@ name: Melody Steele-Smith
 lastName: Steele-Smith
 aka:
 residence: Virginia
-status: Charged
+status: Indicted
 date: 2021-01-20
 charged: 2021-01-20
-indicted:
+indicted: 2021-02-03
 age:
 occupation:
 affiliations:
@@ -28,3 +28,4 @@ charges:
 ---
 - [Complaint](https://www.justice.gov/file/1360206/download)
 - [Statement of Facts](https://www.justice.gov/file/1360206/download)
+- [Indictment](https://assets.documentcloud.org/documents/20471979/steele-smith.pdf)
