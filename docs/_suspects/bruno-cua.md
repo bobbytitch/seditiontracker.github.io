@@ -18,7 +18,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: "Yes, for everyone asking I stormed the capital [sic]"
+quote: "They can steal an election, but we can’t sit in their chairs?"
 title: Bruno Cua arrested on February 5, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

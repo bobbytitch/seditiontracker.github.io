@@ -8,8 +8,8 @@ date: 2021-01-28
 charged: 2021-01-28
 indicted:
 age:
-occupation:
-affiliations:
+occupation: U.S. Military (former)
+affiliations: military
 jurisdiction: Federal
 image: /images/preview/john-andries.jpg
 suspect: john-andries.jpg
