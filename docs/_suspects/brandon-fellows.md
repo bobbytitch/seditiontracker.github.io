@@ -3,10 +3,10 @@ name: Brandon Fellows
 lastName: Fellows
 aka:
 residence: New York
-status: Charged
+status: Indicted
 date: 2021-01-17
 charged: 2021-01-17
-indicted:
+indicted: 2021-02-05
 age: 26
 occupation:
 affiliations:
@@ -30,3 +30,4 @@ charges:
 - [Statement of Facts](/opa/page/file/1355906/download)
 - [Complaint](/opa/page/file/1355901/download)
 - [Self Incrimination](https://www.bloomberg.com/news/articles/2021-01-12/-no-regrets-a-capitol-rioter-tells-his-story-from-inside)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365396/download)

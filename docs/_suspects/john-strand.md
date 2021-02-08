@@ -3,10 +3,10 @@ name: John Strand
 lastName: Strand
 aka:
 residence: California
-status: Charged
+status: Indicted
 date: 2021-01-18
 charged: 2021-01-18
-indicted:
+indicted: 2021-02-05
 age: 37
 occupation: Model
 affiliations:
@@ -30,3 +30,4 @@ charges:
 - [FBI Statement (Twitter)](https://twitter.com/FBILosAngeles/status/1351604985210040326?s=20)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356546/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356551/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365386/download)
