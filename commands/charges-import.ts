@@ -1,18 +1,58 @@
 import { Command } from "commander";
 import { info, warning } from "./common/console";
-import { ChargeEntry, getChargeData } from "./common/charge"
+import { ChargeEntry, getChargeMap, getChargeData } from "./common/charge"
 import { getSuspectByFile, updateSuspect } from "./common/suspect"
 import { isEmpty, update } from "lodash"
 import { convertDojName, getSuspect } from "./common/suspect";
 
-const cmd = new Command().requiredOption("-f, --file <file>", "CSV file to use for import");
+const cmd = new Command().requiredOption("-f, --file <file>", "CSV file to use for import").option("-m, --map", "Build charge map");
 cmd.parse(process.argv);
 
-const importCharges = async() => {
-  info("Reading list of charges");
+const buildChargeMap = async() => {
+  info("Building charge map");
+  const map = {}
 
+  for (const entry of await getCharges()) {
+    for (const charge of entry.charges) {
+      map[charge.code] = map[charge.code] || charge
+    }
+  }
+
+  const codes = Object.keys(map).sort()
+
+  const sortedMap = {}
+  for (const code of codes) {
+    sortedMap[code] = map[code]
+  }
+  console.log(sortedMap)
+}
+
+const importCharges = async() => {
+  info("Importing list of charges");
+
+  for (const entry of await getCharges()) {
+    const filename = convertDojName(entry.name) + ".md"
+
+    try {
+      const suspect = getSuspectByFile(filename)
+      if (!suspect) {
+        continue
+      } else {
+        for (const charge of entry.charges) {
+          suspect.charges[charge.code] = charge
+        }
+        updateSuspect(suspect)
+      }
+    } catch (ex) {
+      warning(`Unable to load suspect with filename: ${filename}  `)
+    }
+  }
+}
+
+const getCharges = async() => {
   const sheet = getChargeData(cmd.file)
   const rowSet = new Set()
+  const chargeEntries = []
 
   for (const [key, value] of Object.entries(sheet)) {
     if (key == "!ref") { continue }
@@ -58,6 +98,11 @@ const importCharges = async() => {
             link: `https://www.law.cornell.edu/uscode/text/${title.trim()}/${section.trim()}`
           })
         } else {
+          // since the full regex did not work, try getting just the code
+          if (charge.match(/(\d* USC \d*.*)-/)) {
+            console.log(`looking up by code: ${RegExp.$1}`)
+            console.log(`result: ${getChargeMap()[RegExp.$1]}`)
+          }
           warning(`Unable to read charges for ${entry.name}`)
           console.log(charge)
           entry.charges = []
@@ -67,24 +112,15 @@ const importCharges = async() => {
     }
 
     if (entry.charges.length > 0) {
-      const filename = convertDojName(entry.name) + ".md"
-
-      try {
-        const suspect = getSuspectByFile(filename)
-        if (!suspect) {
-          continue
-        } else {
-          for (const charge of entry.charges) {
-            suspect.charges[charge.code] = charge
-          }
-          updateSuspect(suspect)
-        }
-      } catch (ex) {
-        warning(`Unable to load suspect with filename: ${filename}  `)
-      }
+      chargeEntries.push(entry)
     }
   }
+
+  return chargeEntries
 }
 
-
-importCharges();
+if (cmd.map) {
+  buildChargeMap();
+} else {
+  importCharges();
+}

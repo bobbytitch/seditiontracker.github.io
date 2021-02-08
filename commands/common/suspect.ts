@@ -200,6 +200,20 @@ const getLinks = (data: string) => {
  * @param name
  */
 export const convertDojName = (name: string) => {
+  // the @seditiondata spreadsheet has some of the old misspelled names
+  name = name.replace("COURTWRIGHT", "COURTRIGHT")
+  name = name.replace("Mathew", "Matthew")
+  name = name.replace("FICHETT", "FITCHETT")
+  name = name.replace("Christoper", "Christopher")
+  name = name.replace("GUNDERSON", "GUNDERSEN")
+  name = name.replace("Dominick", "Dominic")
+  name = name.replace("Christpher", "Christopher")
+  name = name.replace("PEPE, Williams", "PEPE, William")
+  name = name.replace("RODEAN, Nicolas", "RODEAN, Nicholas")
+  name = name.replace("SHIVLEY", "SHIVELY")
+  name = name.replace("Nathan", "Nathaniel")
+  name = name.replace("MCCAUGHEY III", "MCCAUGHEY")
+
   const names = name.replace("Jr.", "").split(",").map((name) => { return name.trim()})
   const lastName = names[0].toLowerCase()
   const firstName = names[1].split(" ")[0].toLowerCase()
