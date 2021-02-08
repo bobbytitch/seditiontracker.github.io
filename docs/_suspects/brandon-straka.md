@@ -13,7 +13,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/116.jpg
 suspect: 116.jpg
-booking:
+booking: brandon-straka.jpg
 courtroom:
 courthouse:
 raid:

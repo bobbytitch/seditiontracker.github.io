@@ -13,7 +13,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/064.jpg
 suspect: 064.jpg
-booking:
+booking: michael-sparks.jpg
 courtroom:
 courthouse:
 raid:

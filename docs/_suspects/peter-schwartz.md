@@ -13,7 +13,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/peter-schwartz.png
 suspect: peter-schwartz.png
-booking:
+booking: peter-schwartz.jpg
 courtroom:
 courthouse:
 raid:
