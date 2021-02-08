@@ -4,8 +4,8 @@ lastName: Spencer
 aka:
 residence: North Carolina
 status: Charged
-date:
-charged:
+date: 2021-02-05
+charged: 2021-02-05
 indicted:
 age: 37
 occupation:

@@ -15,6 +15,10 @@ const doVerify = () => {
   for (const filename of suspects) {
     const suspect = getSuspectByFile(filename);
 
+    if (suspect.date == "[date]" || isEmpty(suspect.date) || suspect.title.match(/title: .*\[longDate]/)) {
+      exitWithError(`Missing date for ${suspect.name}`);
+    }
+
     // ignore unpublished suspects
     if (!suspect.published) {
       continue;
@@ -25,10 +29,6 @@ const doVerify = () => {
       updateSuspect(suspect)
       execSync(`git add docs/_suspects/${filename}`)
     }
-
-    // if (suspect.date == "[date]" || isEmpty(suspect.date) || suspect.data.match(/title: .*\[longDate]/)) {
-    //   exitWithError(`Missing date for ${suspect.name}`);
-    // }
 
     if (fs.existsSync(`docs/${suspect.image}`)) {
       continue;
