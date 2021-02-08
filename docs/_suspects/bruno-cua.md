@@ -11,14 +11,14 @@ age: 18
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/bruno-cua.jpg
-suspect: bruno-cua.jpg
+image: /images/preview/bruno-cua.png
+suspect: bruno-cua.png
 booking:
 courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: "Yes, for everyone asking I stormed the capital [sic]"
 title: Bruno Cua arrested on February 5, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -28,3 +28,4 @@ charges:
 ---
 - [News Story](https://www.ajc.com/news/metro-atlanta-teen-charged-in-us-capitol-attack/U7EPRZANXVBFPB7KRW7EQ3VRIE/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIAtlanta/status/1358082973623533571?s=20)
+- [Statement of Facts](https://assets.documentcloud.org/documents/20475133/bruno_cua.pdf)
