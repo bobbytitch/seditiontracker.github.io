@@ -131,6 +131,7 @@ const cleanCode = (code: string) => {
   code = code.replace(/\), \(/, ")(")
   code = code.replace(/, \(/, "(")
   code = code.replace(",", "")
+  code = code.replace("18 USC 1512()(2)", "18 USC 1512(c)(2)") // Hack for Spaz until that's fixed
   return code
 }
 

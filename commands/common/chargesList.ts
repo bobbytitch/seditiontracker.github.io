@@ -29,11 +29,6 @@ export const allCharges = {
     "name": "Obstruction of State or local law enforcement",
     "link": "https://www.law.cornell.edu/uscode/text/18/1511"
   },
-  "18 USC 1512()(2)": {
-    "code": "18 USC 1512()(2)",
-    "name": "Obstructing or impeding any official proceeding",
-    "link": "https://www.law.cornell.edu/uscode/text/18/1512"
-  },
   "18 USC 1512(a)(2)(C)": {
     "code": "18 USC 1512(a)(2)(C)",
     "name": "Obstruction of justice",
