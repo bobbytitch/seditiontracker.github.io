@@ -11,8 +11,8 @@ age: 66
 occupation: Navy (retired)
 affiliations: Oath Keepers, military
 jurisdiction: Federal
-image: /images/preview/066.png
-suspect: 066.png
+image: /images/preview/thomas-caldwell.png
+suspect: thomas-caldwell.png
 booking:
 courtroom:
 courthouse:

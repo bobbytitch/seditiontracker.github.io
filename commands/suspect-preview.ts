@@ -7,6 +7,7 @@ const { execSync } = require('child_process')
 const preview = new Command()
   .option("-f, --file <file>", "cropped file to use for preview")
   .option("-s, --status <status>", "status of suspect", "CHARGED")
+  .option("--delete", "delete existing preview file")
 
 preview.parse(process.argv);
 
@@ -27,15 +28,23 @@ const generatePreview = (previewImage, status) => {
 }
 
 const doPreview = () => {
-  const suspects = fs.readdirSync('./docs/_suspects');
-
-  info("creating preview images");
-
   if (preview.file) {
-    const status = preview.status.toUpperCase() || "CHARGED"
-    generatePreview(preview.file, status);
+    if (preview.delete) {
+      info("deleting preview image")
+      console.log(`rm -rf ./docs/images/preview/${preview.file}`)
+      execSync(`rm -rf ./docs/images/preview/${preview.file}`)
+      execSync(`rm -rf ./docs/images/suspect/${preview.file}`)
+      execSync(`rm -rf ./docs/images/cropped/${preview.file}`)
+    } else {
+      info("generating preview image")
+      const status = preview.status.toUpperCase() || "CHARGED"
+      generatePreview(preview.file, status);
+    }
   } else {
-    for (const suspect of suspects) {
+    const suspects = fs.readdirSync('./docs/_suspects');
+    info("creating preview images");
+
+      for (const suspect of suspects) {
       console.log(suspect)
       const data = readFile(`./docs/_suspects/${suspect}`)
       const status = data.match(/.*status:(.*)\n/)[1].trim().toUpperCase();
