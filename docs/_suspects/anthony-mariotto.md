@@ -3,7 +3,7 @@ name: Anthony Mariotto
 lastName: Mariotto
 aka:
 residence: Florida
-status: Charged
+status: Indicted
 date: 2021-01-22
 charged: 2021-01-22
 indicted:
@@ -29,3 +29,4 @@ charges:
 - [News Report](https://floridadailypost.com/fort-pierce-man-faces-capitol-riot-charges-posting-images/)
 - [Complaint](https://www.justice.gov/opa/page/file/1359631/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359631/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365781/download)
