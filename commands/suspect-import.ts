@@ -138,14 +138,6 @@ const importDoj = async (nameSet: Set<string>) => {
   }
 }
 
-const getFileName = (firstName: string, lastName: string): string => {
-  return `./docs/_suspects/${getDashedName(firstName, lastName)}.md`
-}
-
-const getDashedName = (firstName: string, lastName: string): string => {
-  return `${firstName} ${lastName}`.replace(/\s/g, "-").toLowerCase();
-}
-
 const falsePositives = (site: string) => {
   const set:Set<string> = new Set();
 
