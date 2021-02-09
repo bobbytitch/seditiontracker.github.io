@@ -6,7 +6,7 @@ residence: New Mexico
 status: Indicted
 date: 2021-01-17
 charged: 2021-01-17
-indicted:
+indicted: 2021-02-08
 age:
 occupation: County Commissioner
 affiliations: Cowboys for Trump
@@ -34,4 +34,4 @@ charges:
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/new-mexico-county-commissioner-charged-breaching-us-capitol)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355981/download)
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Couy%20Griffin%20Government%20Memorandum%20in%20Support%20of%20Pretrial%20Detention.pdf)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365786/download)
+- [Indictment](https://www.jus  tice.gov/usao-dc/case-multi-defendant/file/1365786/download)

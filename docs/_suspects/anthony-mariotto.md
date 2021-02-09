@@ -6,8 +6,8 @@ residence: Florida
 status: Indicted
 date: 2021-01-22
 charged: 2021-01-22
-indicted:
-age: 13
+indicted: 2021-02-08
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
