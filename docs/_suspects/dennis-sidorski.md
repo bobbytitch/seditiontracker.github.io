@@ -26,3 +26,4 @@ layout: suspect
 published: true
 charges:
 ---
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dennis%20Sidorski%20Statement%20of%20Facts.pdf)

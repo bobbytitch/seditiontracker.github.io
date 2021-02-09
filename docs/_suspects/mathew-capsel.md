@@ -1,5 +1,5 @@
 ---
-name: Matthew Capsel
+name: Mathew Capsel
 lastName: Capsel
 aka: Mateo Q Capsel
 residence: Illinois
@@ -19,7 +19,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Matthew Caspel charged on January 19, 2021
+title: Mathew Capsel charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
