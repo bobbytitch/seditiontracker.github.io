@@ -89,13 +89,19 @@ const getCharges = async() => {
 
       const charges = chargeCell.split("\n")
 
-      for (const charge of charges) {
-        const chargesRegEx = new RegExp(/((\d*) USC ((\d*)(\(.*)?))\s(-|–|\s{1,2})(.*)/)
+      for (let charge of charges) {
+        charge = charge.replace("–", "-").replace("§", "")
+        // ignore state charges
+        if (/\d{1,2} DC.*/.test(charge)) {
+          continue
+        }
+
+        const chargesRegEx = new RegExp(/((\d{2})\s*USC\s*(\d{1,4})).*-(.*)/)
 
         if (chargesRegEx.test(charge)) {
-          const [,code, title,, section,,, name] = charge.match(chargesRegEx)
+          const [,code, title, section, name] = charge.match(chargesRegEx)
           entry.charges.push({
-            code: cleanCode(code),
+            code: code.trim(),
             name: name.trim(),
             link: `https://www.law.cornell.edu/uscode/text/${title.trim()}/${section.trim()}`
           })
@@ -119,20 +125,6 @@ const getCharges = async() => {
   }
 
   return chargeEntries
-}
-
-/**
- * Data from this site entered by humans so it's not always in a
- * consistent format
- * @param code
- */
-const cleanCode = (code: string) => {
-  code = code.trim()
-  code = code.replace(/\), \(/, ")(")
-  code = code.replace(/, \(/, "(")
-  code = code.replace(",", "")
-  code = code.replace("18 USC 1512()(2)", "18 USC 1512(c)(2)") // Hack for Spaz until that's fixed
-  return code
 }
 
 if (cmd.map) {
