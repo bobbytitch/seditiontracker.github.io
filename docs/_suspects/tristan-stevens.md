@@ -11,8 +11,8 @@ age: 25
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/chandler-stevens.jpg
-suspect: chandler-stevens.jpg
+image: /images/preview/tristan-stevens.jpg
+suspect: tristan-stevens.jpg
 booking:
 courtroom:
 courthouse:
@@ -27,5 +27,5 @@ published: false
 charges:
 ---
 - [News Story](https://weartv.com/news/local/fbi-25-year-old-pensacola-man-arrested-for-role-in-us-capitol-attack)
-- [FBI Statement (TWitter)](https://twitter.com/FBIJacksonville/status/1357823899505934336?s=20)
+- [FBI Statement (Twitter)](https://twitter.com/FBIJacksonville/status/1357823899505934336?s=20)
 - [Complaint](https://beta.documentcloud.org/documents/20474032-stevens)
