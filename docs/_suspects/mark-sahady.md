@@ -2,7 +2,7 @@
 name: Mark Sahady
 lastName: Sahady
 aka:
-residence: Massachusets;
+residence: Massachusetts
 status: Charged
 date: 2021-01-19
 charged: 2021-01-19

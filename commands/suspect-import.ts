@@ -96,7 +96,7 @@ const importGw = async (nameSet: Set<string>) => {
       const [lastName, rest] = nameText.split(",").map( (chunk:string) => chunk.trim().replace("&nbsp;", ""));
 
       const firstName = rest.split(" ")[0];
-      const residence = entry.innerText.match(/State: (.*)/)[1].replace("Unknown", "");
+      const residence = entry.innerText.match(/State: (.*)/)[1].replace("Unknown", "").replace("&nbsp;", "").replace("Massachusets", "Massachusetts");
 
       if (falsePositives("GW").has(lastName)) {
         continue;
@@ -168,7 +168,6 @@ const falsePositives = (site: string) => {
       set.add("Courtwright");
       set.add("DeCarlo");
       set.add("DeGrave");
-      set.add("Fichett");
       set.add("Madden");
       set.add("Phipps");
       set.add("Sidorsky");
