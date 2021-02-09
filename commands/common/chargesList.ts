@@ -1,9 +1,4 @@
 export const allCharges = {
-  "18 USC  1752": {
-    "code": "18 USC  1752",
-    "name": "Unlawful entry on restricted building or grounds",
-    "link": "https://www.law.cornell.edu/uscode/text/18/1752"
-  },
   "18 USC 111": {
     "code": "18 USC 111",
     "name": "Assaulting, resisting, or impeding certain officers or employees",
@@ -63,11 +58,6 @@ export const allCharges = {
     "code": "26 USC 5861",
     "name": "Possession of an unregistered firearm",
     "link": "https://www.law.cornell.edu/uscode/text/26/5861"
-  },
-  "40 USC  5104": {
-    "code": "40 USC  5104",
-    "name": "Violent entry or disorderly conduct on Capitol grounds",
-    "link": "https://www.law.cornell.edu/uscode/text/40/5104"
   },
   "40 USC 5104": {
     "code": "40 USC 5104",

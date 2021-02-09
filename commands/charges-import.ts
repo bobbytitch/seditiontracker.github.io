@@ -1,10 +1,11 @@
 import { Command } from "commander";
 import { writeFile } from "./common/file"
 import { info, warning } from "./common/console";
-import { ChargeEntry, getChargeData } from "./common/charge"
+import { ChargeEntry, getChargeData, lookupCode } from "./common/charge"
 import { getSuspectByFile, updateSuspect } from "./common/suspect"
 import { isEmpty, update } from "lodash"
 import { convertDojName, getSuspect } from "./common/suspect";
+import { lookup } from "dns";
 
 const cmd = new Command().requiredOption("-f, --file <file>", "CSV file to use for import").option("-m, --map", "Build charge map");
 cmd.parse(process.argv);
@@ -96,14 +97,25 @@ const getCharges = async() => {
           continue
         }
 
-        const chargesRegEx = new RegExp(/((\d{2})\s*USC\s*(\d{1,4})).*-(.*)/)
+        const chargesRegEx = new RegExp(/((\d{2})\s*USC\s*(\d{1,4}))/)
 
         if (chargesRegEx.test(charge)) {
-          const [,code, title, section, name] = charge.match(chargesRegEx)
+          let [,code, title, section, name] = charge.match(chargesRegEx)
+
+          code = scrub(code)
+          section = scrub(section)
+          title = scrub(title)
+
+          name = name || lookupCode(code)
+          if(!name) {
+            warning(`no name for ${code}`)
+          }
+          name = scrub(name)
+
           entry.charges.push({
-            code: code.trim(),
-            name: name.trim(),
-            link: `https://www.law.cornell.edu/uscode/text/${title.trim()}/${section.trim()}`
+            code,
+            name,
+            link: `https://www.law.cornell.edu/uscode/text/${title}/${section}`
           })
         } else {
           // // since the full regex did not work, try getting just the code
@@ -125,6 +137,10 @@ const getCharges = async() => {
   }
 
   return chargeEntries
+}
+
+const scrub = (input) => {
+  return input.replace("  ", " ").trim()
 }
 
 if (cmd.map) {
