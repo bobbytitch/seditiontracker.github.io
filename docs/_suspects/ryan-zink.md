@@ -13,7 +13,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/ryan-zink.jpg
 suspect: ryan-zink.jpg
-booking:
+booking: ryan-zink.jpg
 courtroom:
 courthouse:
 raid:
@@ -27,3 +27,4 @@ published: true
 charges:
 ---
 - [News Report](https://www.lubbockonline.com/story/news/crime/2021/02/04/lubbock-man-accused-participating-capitol-riots/4399609001/)
+- [Statement of Facts](https://graytv-my.sharepoint.com/personal/michael_duff_gray_tv/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmichael%5Fduff%5Fgray%5Ftv%2FDocuments%2FShared%20with%20Everyone%2FStatement%20of%20fact%2Epdf&parent=%2Fpersonal%2Fmichael%5Fduff%5Fgray%5Ftv%2FDocuments%2FShared%20with%20Everyone&originalPath=aHR0cHM6Ly9ncmF5dHYtbXkuc2hhcmVwb2ludC5jb20vOmI6L2cvcGVyc29uYWwvbWljaGFlbF9kdWZmX2dyYXlfdHYvRVkyZVhSVTg1WnhObEVOQk1aYWlSR2tCbk5pbWdqYTNPT1hjT0RHU2FCaVRhQT9ydGltZT1ZcHlMblRUTjJFZw)
