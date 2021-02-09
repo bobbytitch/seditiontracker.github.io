@@ -9,7 +9,7 @@ charged: 2021-01-19
 indicted: 2021-01-27
 age: 66
 occupation: Navy (retired)
-affiliations: Oath Keepers
+affiliations: Oath Keepers, military
 jurisdiction: Federal
 image: /images/preview/066.png
 suspect: 066.png
@@ -31,3 +31,4 @@ charges:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360991/download)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/three-individuals-affiliated-oath-keepers-indicted-federal-court-conspiracy-obstruct)
 - [Indictment](https://www.justice.gov/file/1361066/download)
+- [Self Incrimination (Video)](https://www.youtube.com/watch?t=148&v=L5hksM_R59M&feature=youtu.be)

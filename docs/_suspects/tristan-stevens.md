@@ -28,3 +28,4 @@ charges:
 ---
 - [News Story](https://weartv.com/news/local/fbi-25-year-old-pensacola-man-arrested-for-role-in-us-capitol-attack)
 - [FBI Statement (TWitter)](https://twitter.com/FBIJacksonville/status/1357823899505934336?s=20)
+- [Complaint](https://beta.documentcloud.org/documents/20474032-stevens)
