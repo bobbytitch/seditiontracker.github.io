@@ -23,7 +23,7 @@ title: Virginia Spencer charged on February 2, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/nc-woman-turns-self-over-to-fbi-for-alleged-role-in-us-capitol-riot-a-month-after-husbands-arrest/ar-BB1dvNB2?ocid=st)

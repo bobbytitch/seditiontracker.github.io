@@ -13,7 +13,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/tristan-stevens.jpg
 suspect: tristan-stevens.jpg
-booking:
+booking: tristan-stevens.jpg
 courtroom:
 courthouse:
 raid:
@@ -23,7 +23,7 @@ title: Tristan Stevens arrested on February 5, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Story](https://weartv.com/news/local/fbi-25-year-old-pensacola-man-arrested-for-role-in-us-capitol-attack)
