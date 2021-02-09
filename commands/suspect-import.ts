@@ -155,7 +155,6 @@ const falsePositives = (site: string) => {
       set.add("Ianni");
       set.add("Jensen");
       set.add("Madden");
-      set.add("Capsel");
       set.add("Courtwright");
       set.add("Blair"); // state charges
       set.add("Moore"); // state charges
@@ -163,18 +162,13 @@ const falsePositives = (site: string) => {
     case "GW":
       set.add("Calhoun Jr.");
       set.add("Bentacur");
-      set.add("Brownsburg")
-      set.add("Capsel");
       set.add("Courtwright");
       set.add("DeCarlo");
       set.add("DeGrave");
-      set.add("Madden");
       set.add("Phipps");
-      set.add("Sidorsky");
       set.add("Sparks");
       set.add("Spencer");
       set.add("Mazzocco");
-      set.add("Griffin");
       set.add("McCaughey III");
       set.add("Curzio");
       break;

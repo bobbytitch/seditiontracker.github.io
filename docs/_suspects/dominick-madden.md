@@ -1,5 +1,5 @@
 ---
-name: Dominic Madden
+name: Dominick Madden
 lastName: Madden
 aka:
 residence: New York
