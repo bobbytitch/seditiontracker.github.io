@@ -173,9 +173,8 @@ const falsePositives = (site: string) => {
       set.add("Curzio");
       break;
     case "DOJ":
-      set.add("CALHOUN Jr.");
-      set.add("MCCAUGHEY III");
-      set.add("MISH Jr.");
+      set.add("Capsel");
+      set.add("Madden");
       break;
   }
 
