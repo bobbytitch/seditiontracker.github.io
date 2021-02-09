@@ -222,6 +222,8 @@ const linkType = (description: string) => {
       case /^tatement of Facts/.test(description):
         // ignore messed up GW links
         return null;
+      case /Information/.test(description):
+        return "DOJ Press Release"
       default:
         warning(`unknown link type: ${description}`)
         return "DOJ Press Release"

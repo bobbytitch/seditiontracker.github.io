@@ -2,7 +2,7 @@
 name: Benjamin Torre
 lastName: Torre
 aka:
-residence:
+residence: Georgia
 status: Charged
 date: 2021-02-02
 charged: 2021-02-02
