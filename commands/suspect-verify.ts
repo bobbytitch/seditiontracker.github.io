@@ -24,6 +24,12 @@ const doVerify = () => {
       continue;
     }
 
+    if (suspect.status == "Indicted" && !suspect.indicted) {
+      if (!suspect.name.includes("Pruitt")) {
+        exitWithError(`Missing indictment date for ${suspect.name}`);
+      }
+    }
+
     if (!suspect.charged) {
       suspect.charged = suspect.date
       updateSuspect(suspect)
