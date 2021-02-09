@@ -1,6 +1,7 @@
 import { Command } from "commander";
+import { writeFile } from "./common/file"
 import { info, warning } from "./common/console";
-import { ChargeEntry, getChargeMap, getChargeData } from "./common/charge"
+import { ChargeEntry, getChargeData } from "./common/charge"
 import { getSuspectByFile, updateSuspect } from "./common/suspect"
 import { isEmpty, update } from "lodash"
 import { convertDojName, getSuspect } from "./common/suspect";
@@ -24,7 +25,8 @@ const buildChargeMap = async() => {
   for (const code of codes) {
     sortedMap[code] = map[code]
   }
-  console.log(sortedMap)
+
+  writeFile("commands/common/chargesList.ts", `export const allCharges = ${JSON.stringify(sortedMap, null, 2)}`)
 }
 
 const importCharges = async() => {
@@ -93,16 +95,16 @@ const getCharges = async() => {
         if (chargesRegEx.test(charge)) {
           const [,code, title,, section,,, name] = charge.match(chargesRegEx)
           entry.charges.push({
-            code: code.trim(),
+            code: cleanCode(code),
             name: name.trim(),
             link: `https://www.law.cornell.edu/uscode/text/${title.trim()}/${section.trim()}`
           })
         } else {
-          // since the full regex did not work, try getting just the code
-          if (charge.match(/(\d* USC \d*.*)-/)) {
-            console.log(`looking up by code: ${RegExp.$1}`)
-            console.log(`result: ${getChargeMap()[RegExp.$1]}`)
-          }
+          // // since the full regex did not work, try getting just the code
+          // if (charge.match(/(\d* USC \d*.*)-/)) {
+          //   console.log(`looking up by code: ${RegExp.$1}`)
+          //   console.log(`result: ${getChargeMap()[RegExp.$1]}`)
+          // }
           warning(`Unable to read charges for ${entry.name}`)
           console.log(charge)
           entry.charges = []
@@ -117,6 +119,19 @@ const getCharges = async() => {
   }
 
   return chargeEntries
+}
+
+/**
+ * Data from this site entered by humans so it's not always in a
+ * consistent format
+ * @param code
+ */
+const cleanCode = (code: string) => {
+  code = code.trim()
+  code = code.replace(/\), \(/, ")(")
+  code = code.replace(/, \(/, "(")
+  code = code.replace(",", "")
+  return code
 }
 
 if (cmd.map) {
