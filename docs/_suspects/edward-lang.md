@@ -11,8 +11,8 @@ age: 25
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/051.jpg
-suspect: 051.jpg
+image: /images/preview/edward-lang.png
+suspect: edward-lang.png
 booking:
 courtroom:
 courthouse:
