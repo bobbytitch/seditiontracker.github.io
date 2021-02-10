@@ -12,7 +12,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 image: /images/preview/041.jpg
-suspect: 041.jpg
+suspect: 041.png
 booking: vaughn-gordon.jpg
 courtroom:
 courthouse:
