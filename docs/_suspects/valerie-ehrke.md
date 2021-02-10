@@ -3,7 +3,7 @@ name: Valerie Ehrke
 lastName: Ehrke
 aka:
 residence: California
-status: Charged
+status: Indicted
 date: 2021-01-19
 charged: 2021-01-19
 indicted:
@@ -29,3 +29,4 @@ charges:
 - [NewsReport](https://sacramento.cbslocal.com/2021/01/20/fbi-arrest-jorge-riley-valerie-ehrke-capitol/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356641/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356646/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366076/download)

@@ -3,10 +3,10 @@ name: Ronald Sandlin
 lastName: Sandlin
 aka:
 residence: Tennessee
-status: Charged
+status: Indicted
 date: 2021-01-28
 charged: 2021-01-28
-indicted:
+indicted: 2021-02-05
 age:
 occupation:
 affiliations:
@@ -18,7 +18,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: "We are not terrorists. We occupied and for the most part left that place relatively put together all things considered"
+quote: 'We are not terrorists. We occupied and for the most part left that place relatively put together all things considered'
 title: Ronald Sandlin charged on January 28th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -26,7 +26,9 @@ layout: suspect
 published: true
 charges:
 ---
+
 - [NewsReport](https://wreg.com/news/fbi-says-social-media-posts-link-man-charged-in-capitol-riot-to-memphis/)
 - [Complaint](https://www.justice.gov/opa/page/file/1362396/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362396/download)
 - [Self Incrimination (VIDEO)](https://twitter.com/angelmercedes/status/1347959031080624128?s=20)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366141/download)

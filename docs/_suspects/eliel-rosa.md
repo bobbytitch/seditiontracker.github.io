@@ -3,10 +3,10 @@ name: Eliel Rosa
 lastName: Rosa
 aka:
 residence: Texas
-status: Charged
+status: Indicted
 date: 2021-01-13
 charged: 2021-01-13
-indicted:
+indicted: 2021-02-03
 age: 53
 occupation:
 affiliations:
@@ -26,6 +26,8 @@ layout: suspect
 published: true
 charges:
 ---
+
 - [News Report](https://www.kiiitv.com/article/news/local/jenny-cudd-fbi-arrested/513-fb4ff454-3bf0-4648-8983-660ec8f2601e)
 - [Statement of Facts](https://www.scribd.com/document/490745903/Jenny-Cudd-and-Eliel-Rosa-Statement-of-Facts)
 - [Complaint](https://www.justice.gov/opa/page/file/1353431/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366061/download)

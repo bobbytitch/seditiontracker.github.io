@@ -3,10 +3,10 @@ name: Michael Stepakoff
 lastName: Stepakoff
 aka:
 residence: Florida
-status: Charged
+status: Indicted
 date: 2021-01-29
 charged: 2021-01-29
-indicted:
+indicted: 2021-02-09
 age: 55
 occupation: Messianic Rabbi
 affiliations: Temple New Jerusalem
@@ -26,6 +26,8 @@ layout: suspect
 published: true
 charges:
 ---
+
 - [NewsReport](https://www.wfla.com/news/pinellas-county/palm-harbor-rabbi-arrested-accused-of-storming-us-capitol-on-jan-6/)
 - [Complaint](https://www.justice.gov/opa/page/file/1362386/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362386/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366131/download)
