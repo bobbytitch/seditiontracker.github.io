@@ -19,7 +19,7 @@ courthouse:
 raid: james-rahm.jpg
 perpwalk:
 quote:
-title: James Rahm arrested on [longDate]
+title: James Rahm arrested on February 5, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect

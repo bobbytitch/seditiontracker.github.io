@@ -23,8 +23,7 @@ title: Eduardo Gonzalez charged on January 31, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
-- [News Report]()
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Eduardo%20Nicolas%20Alvear%20Gonzalez-Statement%20of%20Facts.pdf)

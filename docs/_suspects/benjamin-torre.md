@@ -23,7 +23,7 @@ title: Benjamin Torre charged on February 9th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://www.cbs46.com/news/dawsonville-23-year-old-arrested-in-connection-to-capitol-hill-violence/article_2ccc63f2-6b08-11eb-9aef-0f13cbd239eb.html)

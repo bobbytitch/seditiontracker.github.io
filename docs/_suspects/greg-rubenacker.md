@@ -23,7 +23,7 @@ title: Greg Rubenacker charged on January 27, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://www.washingtontimes.com/news/2021/feb/9/greg-rubenacker-new-yorker-arrested-in-capitol-rio/)
