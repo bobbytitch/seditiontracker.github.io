@@ -13,7 +13,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/026.jpg
 suspect: 026.jpg
-booking: kevin-lyons.jpg
+booking: kevin-lyons.png
 courtroom:
 courthouse:
 raid:
