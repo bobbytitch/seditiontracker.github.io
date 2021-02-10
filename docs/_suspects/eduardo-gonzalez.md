@@ -1,7 +1,7 @@
 ---
 name: Eduardo Gonzalez
 lastName: Gonzalez
-aka:
+aka: Lion Nick, Capitol Rotunda Doobie Smoker
 residence: California
 status: Charged
 date: 2021-01-31
@@ -11,15 +11,15 @@ age: 32
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/eduardo-gonzalez.jpg
-suspect: eduardo-gonzalez.jpg
+image: /images/preview/eduardo-gonzalez.png
+suspect: eduardo-gonzalez.png
 booking:
 courtroom:
 courthouse:
 raid:
 perpwalk:
 quote:
-title: Eduardo Gonzalez charged on [longDate]
+title: Eduardo Gonzalez charged on January 31, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect

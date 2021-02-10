@@ -7,24 +7,24 @@ status: Charged
 date: 2021-01-27
 charged: 2021-01-27
 indicted:
-age:
-occupation:
+age: 25
+occupation: DJ
 affiliations:
 jurisdiction: Federal
-image: /images/preview/greg-rubenacker.jpg
-suspect: greg-rubenacker.jpg
+image: /images/preview/greg-rubenacker.png
+suspect: greg-rubenacker.png
 booking:
 courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
-title: Greg Rubenacker charged on [longDate]
+quote: "Smoke out the Capitol, baby"
+title: Greg Rubenacker charged on January 27, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: false
 charges:
 ---
-- [News Report]()
+- [News Report](https://www.washingtontimes.com/news/2021/feb/9/greg-rubenacker-new-yorker-arrested-in-capitol-rio/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Greg%20Rubenacker%20Statement%20of%20Facts.pdf)
