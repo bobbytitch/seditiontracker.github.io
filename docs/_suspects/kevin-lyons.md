@@ -12,8 +12,8 @@ occupation:
 affiliations:
 jurisdiction: Federal
 image: /images/preview/026.jpg
-suspect: 026.jpg
-booking: kevin-lyons.png
+suspect: 026.png
+booking: kevin-lyons.jpg
 courtroom:
 courthouse:
 raid:
