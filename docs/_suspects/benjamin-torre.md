@@ -7,7 +7,7 @@ status: Charged
 date: 2021-02-02
 charged: 2021-02-02
 indicted:
-age:
+age: 23
 occupation:
 affiliations:
 jurisdiction: Federal

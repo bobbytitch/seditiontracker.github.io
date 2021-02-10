@@ -7,7 +7,7 @@ status: Charged
 date: 2021-02-05
 charged: 2021-02-05
 indicted:
-age:
+age: 32
 occupation: Letter Carrier, Corrections Officer (Former)
 affiliations: U.S military, Federal Government
 jurisdiction: Federal

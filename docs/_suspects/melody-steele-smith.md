@@ -13,7 +13,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/melody-stelle-smith.png
 suspect: melody-stelle-smith.png
-booking:
+booking: melody-stelle-smith.jpg
 courtroom: melody-stelle-smith.jpg
 courthouse:
 raid:

@@ -7,7 +7,7 @@ status: Charged
 date: 2021-01-28
 charged: 2021-01-28
 indicted:
-age:
+age: 35
 occupation: U.S. Military (former)
 affiliations: military
 jurisdiction: Federal
