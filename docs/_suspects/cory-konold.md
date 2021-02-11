@@ -11,8 +11,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/cory-konold.jpg
-suspect: cory-konold.jpg
+image: /images/preview/cory-konold.png
+suspect: cory-konold.png
 booking:
 courtroom:
 courthouse:
