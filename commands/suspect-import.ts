@@ -91,6 +91,10 @@ const importGw = async (nameSet: Set<string>) => {
     const entries: HTMLElement[] = div.querySelectorAll("p");
 
     for (const entry of entries) {
+      if (entry.innerText == "&nbsp;") {
+        continue
+      }
+
       const nameText = (entry.querySelector("strong") || entry.querySelector("em") || entry.querySelector("font")).innerText
 
       const [lastName, rest] = nameText.split(",").map( (chunk:string) => chunk.trim().replace("&nbsp;", ""));
