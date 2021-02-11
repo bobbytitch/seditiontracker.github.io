@@ -20,3 +20,13 @@ export const writeLines = (filename: string, lines: string[]) => {
 
   writeFile(filename, cleanLines.join("\n") + "\n")
 }
+
+export const splitCSV = (line:string) => {
+  var matches = line.match(/(\s*"[^"]+"\s*|\s*[^,]+|,)(?=,|$)/g);
+  for (var n = 0; n < matches.length; ++n) {
+      matches[n] = matches[n].trim();
+      if (matches[n] == ',') matches[n] = '';
+  }
+  if (line[0] == ',') matches.unshift("");
+  return matches;
+}

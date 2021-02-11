@@ -1,0 +1,150 @@
+import { Command } from "commander";
+import { writeFile } from "./common/file"
+import { info, warning } from "./common/console";
+import { ChargeEntry, getChargeData, lookupCode } from "./common/charge"
+import { getSuspectByFile, updateSuspect } from "./common/suspect"
+import { isEmpty, update } from "lodash"
+import { convertDojName, getSuspect } from "./common/suspect";
+import { lookup } from "dns";
+
+const cmd = new Command().requiredOption("-f, --file <file>", "CSV file to use for import").option("-m, --map", "Build charge map");
+cmd.parse(process.argv);
+
+const buildChargeMap = async() => {
+  info("Building charge map");
+  const map = {}
+
+  for (const entry of await getCharges()) {
+    for (const charge of entry.charges) {
+      map[charge.code] = map[charge.code] || charge
+    }
+  }
+
+  const codes = Object.keys(map).sort()
+
+  const sortedMap = {}
+  for (const code of codes) {
+    sortedMap[code] = map[code]
+  }
+
+  writeFile("commands/common/chargesList.ts", `export const allCharges = ${JSON.stringify(sortedMap, null, 2)}`)
+}
+
+const importCharges = async() => {
+  info("Importing list of charges");
+
+  for (const entry of await getCharges()) {
+    const filename = convertDojName(entry.name) + ".md"
+
+    try {
+      const suspect = getSuspectByFile(filename)
+      if (!suspect) {
+        continue
+      } else {
+        for (const charge of entry.charges) {
+          suspect.charges[charge.code] = charge
+        }
+        updateSuspect(suspect)
+      }
+    } catch (ex) {
+      warning(`Unable to load suspect with filename: ${filename}  `)
+    }
+  }
+}
+
+const getCharges = async() => {
+  const sheet = getChargeData(cmd.file)
+  const rowSet = new Set()
+  const chargeEntries = []
+
+  for (const [key, value] of Object.entries(sheet)) {
+    if (key == "!ref") { continue }
+    const [,col, row] = key.match(/([A-Z]*)(\d*)/)
+
+    if (row == "1") {
+      continue
+    }
+
+    rowSet.add(row)
+  }
+
+  for (const row of rowSet) {
+
+    const entry:ChargeEntry = {
+      name: sheet[`T${row}`]["v"].trim(),
+      dojNumber: sheet[`U${row}`] ? sheet[`U${row}`]["v"].trim() : "",
+      military: sheet[`Z${row}`] ? sheet[`Z${row}`]["v"].trim() : "",
+      police: sheet[`AA${row}`] ? sheet[`AA${row}`]["v"].trim() : "",
+      charges: []
+    }
+
+    if (sheet[`AB${row}`]) {
+      const chargeCell = sheet[`AB${row}`]["v"]
+      if (isEmpty(chargeCell)) {
+        continue;
+      }
+      if (!/\S*,/.test(entry.name)) {
+        warning(`Name is not in LASTNAME, First format: ${entry.name}`)
+        continue;
+      }
+
+      const charges = chargeCell.split("\n")
+
+      for (let charge of charges) {
+        charge = charge.replace("–", "-").replace("§", "")
+        // ignore state charges
+        if (/\d{1,2} DC.*/.test(charge)) {
+          continue
+        }
+
+        const chargesRegEx = new RegExp(/((\d{2})\s*USC\s*(\d{1,4}))/)
+
+        if (chargesRegEx.test(charge)) {
+          let [,code, title, section, name] = charge.match(chargesRegEx)
+
+          code = scrub(code)
+          section = scrub(section)
+          title = scrub(title)
+
+          name = name || lookupCode(code)
+          if(!name) {
+            warning(`no name for ${code}`)
+          }
+          name = scrub(name)
+
+          entry.charges.push({
+            code,
+            name,
+            link: `https://www.law.cornell.edu/uscode/text/${title}/${section}`
+          })
+        } else {
+          // // since the full regex did not work, try getting just the code
+          // if (charge.match(/(\d* USC \d*.*)-/)) {
+          //   console.log(`looking up by code: ${RegExp.$1}`)
+          //   console.log(`result: ${getChargeMap()[RegExp.$1]}`)
+          // }
+          warning(`Unable to read charges for ${entry.name}`)
+          console.log(charge)
+          entry.charges = []
+          break
+        }
+      }
+    }
+
+    if (entry.charges.length > 0) {
+      chargeEntries.push(entry)
+    }
+  }
+
+  return chargeEntries
+}
+
+const scrub = (input) => {
+  return input.replace("  ", " ").trim()
+}
+
+if (cmd.map) {
+  buildChargeMap();
+} else {
+  importCharges();
+}
