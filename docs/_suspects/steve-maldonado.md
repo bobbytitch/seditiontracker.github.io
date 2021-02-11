@@ -2,7 +2,7 @@
 name: Steve Maldonado
 lastName: Maldonado
 aka: Emilio Maldonado
-residence:
+residence: Florida
 status: Charged
 date: 2021-02-08
 charged: 2021-02-08
@@ -26,6 +26,5 @@ layout: suspect
 published: false
 charges:
 ---
-
 - [News Report]()
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366186/download)
