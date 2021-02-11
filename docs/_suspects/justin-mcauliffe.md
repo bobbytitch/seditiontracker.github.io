@@ -25,6 +25,9 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
+ - name: Unlawful entry on restricted building or grounds
+   code: 18 USC 1752
+   link: https://www.law.cornell.edu/uscode/text/18/1752
 ---
 - [NewsReport](https://nypost.com/2021/01/28/cpa-justin-mcauliffe-busted-for-role-in-deadly-capitol-riot/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361466/download)

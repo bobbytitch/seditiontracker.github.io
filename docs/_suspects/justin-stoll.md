@@ -25,6 +25,12 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
+ - name: Transmitting a threat in interstate commerce
+   code: 18 USC 875
+   link: https://www.law.cornell.edu/uscode/text/18/875
+ - name: Obstruction of an official proceeding
+   code: 18 USC 1512
+   link: https://www.law.cornell.edu/uscode/text/18/1512
 ---
 - [News Report](https://www.whio.com/news/local/local-man-charged-connection-capitol-riots/ZAUSFUSX3RBJPOKRQH3VAIFD2I/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Justin%20Stoll%20Affidavit%20in%20Support%20of%20Criminal%20Complaint%20and%20Arrest%20Warrant.pdf)

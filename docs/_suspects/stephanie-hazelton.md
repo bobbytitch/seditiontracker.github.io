@@ -25,6 +25,18 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
+ - name: Civil disorder
+   code: 18 USC 231
+   link: https://www.law.cornell.edu/uscode/text/18/231
+ - name: Aiding and abetting (2 counts)
+   code: 18 USC 2
+   link: https://www.law.cornell.edu/uscode/text/18/2
+ - name: Unlawful entry on restricted building or grounds
+   code: 18 USC 1752
+   link: https://www.law.cornell.edu/uscode/text/18/1752
+ - name: Violent entry or disorderly conduct on Capitol grounds
+   code: 40 USC 5104
+   link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
 - [News Report](https://www.inquirer.com/news/new-jersey/stephanie-hazelton-capitol-insurrection-medford-new-jersey-rioters-20210122.html?utm_source=t.co&cid=Philly.com+Twitter&utm_campaign=Philly.com+Twitter+Account&utm_medium=social)
 - [Incriminating Evidence (VIDEO)](https://www.inquirer.com/news/new-jersey/stephanie-hazelton-ayla-wolf-south-jersey-us-capitol-riot-anti-vax-20210119.html)

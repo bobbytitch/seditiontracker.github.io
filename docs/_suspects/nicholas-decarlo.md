@@ -25,6 +25,24 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
+ - name: Conspiracy
+   code: 18 USC 371
+   link: https://www.law.cornell.edu/uscode/text/18/371
+ - name: Obstruction of an official proceeding
+   code: 18 USC 1512
+   link: https://www.law.cornell.edu/uscode/text/18/1512
+ - name: Destruction of government property
+   code: 18 USC 1361
+   link: https://www.law.cornell.edu/uscode/text/18/1361
+ - name: Theft of government property
+   code: 18 USC 641
+   link: https://www.law.cornell.edu/uscode/text/18/641
+ - name: Unlawful entry on restricted building or grounds
+   code: 18 USC 1752
+   link: https://www.law.cornell.edu/uscode/text/18/1752
+ - name: Aiding and abetting (2 counts)
+   code: 18 USC 2
+   link: https://www.law.cornell.edu/uscode/text/18/2
 ---
 - [Self Incrimination](https://www.latimes.com/world-nation/story/2021-01-13/some-who-stormed-the-capitol-insist-what-i-did-was-journalism)
 - [Complaint](https://www.justice.gov/opa/page/file/1360496/download)

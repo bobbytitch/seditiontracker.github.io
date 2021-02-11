@@ -25,6 +25,15 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
+ - name: Obstruction of an official proceeding
+   code: 18 USC 1512
+   link: https://www.law.cornell.edu/uscode/text/18/1512
+ - name: Unlawful entry on restricted building or grounds
+   code: 18 USC 1752
+   link: https://www.law.cornell.edu/uscode/text/18/1752
+ - name: Violent entry or disorderly conduct on Capitol grounds
+   code: 40 USC 5104
+   link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
 - [Complaint](https://www.justice.gov/file/1360206/download)
 - [Statement of Facts](https://www.justice.gov/file/1360206/download)

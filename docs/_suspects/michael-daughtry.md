@@ -25,6 +25,9 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
+ - name: Unlawful entry on restricted building or grounds
+   code: 18 USC 1752
+   link: https://www.law.cornell.edu/uscode/text/18/1752
 ---
 - [News Report](https://www.walb.com/2021/01/19/pelham-man-charged-capitol-incident/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356031/download)

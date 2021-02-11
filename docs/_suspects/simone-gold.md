@@ -25,6 +25,15 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
+ - name: Obstruction of an official proceeding
+   code: 18 USC 1512
+   link: https://www.law.cornell.edu/uscode/text/18/1512
+ - name: Unlawful entry on restricted building or grounds
+   code: 18 USC 1752
+   link: https://www.law.cornell.edu/uscode/text/18/1752
+ - name: Violent entry or disorderly conduct on Capitol grounds
+   code: 40 USC 5104
+   link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
 - [News Report](https://losangeles.cbslocal.com/2021/01/19/beverly-hills-salon-owner-gina-bisignano-2-others-arrested-for-capitol-riots/)
 - [Self Incrimination (Interview)](https://www.washingtonpost.com/investigations/simone-gold-capitol-riot-coronavirus/2021/01/12/d1d39e84-545f-11eb-a817-e5e7f8a406d6_story.html)

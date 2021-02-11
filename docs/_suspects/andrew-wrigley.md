@@ -25,6 +25,12 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
+ - name: Unlawful entry on restricted building or grounds
+   code: 18 USC 1752
+   link: https://www.law.cornell.edu/uscode/text/18/1752
+ - name: Violent entry or disorderly conduct on Capitol grounds
+   code: 40 USC 5104
+   link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
 - [News Article](https://www.post-gazette.com/news/crime-courts/2021/01/18/Pennsylvania-man-arrested-capitol-riot-Andrew-Wrigley/stories/202101180061)
 - [Complaint](https://www.justice.gov/opa/page/file/1355911/download)

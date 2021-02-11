@@ -25,6 +25,9 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
+ - name: Transmitting a threat in interstate commerce
+   code: 18 USC 875
+   link: https://www.law.cornell.edu/uscode/text/18/875
 ---
 - [News Report](https://dfw.cbslocal.com/2021/01/19/capitol-rioter-dallas-troy-smocks-plans-return-dc-inauguration-day/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/texas-man-arrested-and-charged-making-threats-regarding-events-us-capitol)

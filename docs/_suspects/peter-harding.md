@@ -25,6 +25,12 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
+ - name: Unlawful entry on restricted building or grounds
+   code: 18 USC 1752
+   link: https://www.law.cornell.edu/uscode/text/18/1752
+ - name: Violent entry or disorderly conduct on Capitol grounds
+   code: 40 USC 5104
+   link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
 - [News Report](https://www.wgrz.com/article/news/local/cheektowaga-man-wanted-by-fbi-taken-into-custody/71-27ec6dc4-ca4c-429f-b0ae-742493622365)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1354111/download)

@@ -25,6 +25,9 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
+ - name: Civil disorder
+   code: 18 USC 231
+   link: https://www.law.cornell.edu/uscode/text/18/231
 ---
 - [News Report](https://www.mcall.com/news/pennsylvania/capitol-ideas/mc-nws-pa-slatington-man-craig-bingert-arrest-capitol-riots-20210118-zit2jmr6wjarri4gegtaqq5ray-story.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356991/download)
