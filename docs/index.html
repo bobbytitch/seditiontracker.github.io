@@ -11,7 +11,7 @@ preview: sedition-cover.jpg
 
 <h2 class="listing">Most Recent Suspects</h2>
 
-{% assign suspects = site.suspects | reverse %} {% for suspect in suspects limit: 10 %}
+{% assign suspects = site.suspects | reverse %} {% for suspect in suspects limit: 15 %}
 <h3>
   <div class="details-link">
     <a href="{{suspect.url}}">{{ suspect.name }}</a>
