@@ -9,7 +9,7 @@ charged: 2021-02-11
 indicted:
 age:
 occupation:
-affiliations:
+affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/cory-konold.png
 suspect: cory-konold.png
