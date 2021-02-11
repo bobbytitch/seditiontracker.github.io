@@ -21,12 +21,16 @@ const buildChargeMap = async() => {
 
   const codes = Object.keys(map).sort()
 
-  const sortedMap = {}
+  let yaml = ""
+
   for (const code of codes) {
-    sortedMap[code] = map[code]
+    const entry = map[code]
+    yaml += `- name: ${entry.name}\n`
+    yaml += `  code: ${entry.code}\n`
+    yaml += `  link: ${entry.link}\n`
   }
 
-  writeFile("commands/common/chargesList.ts", `export const allCharges = ${JSON.stringify(sortedMap, null, 2)}`)
+  writeFile("commands/common/chargesList.yml", yaml)
 }
 
 const importCharges = async() => {
