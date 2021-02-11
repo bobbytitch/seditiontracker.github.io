@@ -115,7 +115,7 @@ const importGw = async (nameSet: Set<string>) => {
 const importDoj = async (nameSet: Set<string>) => {
   info("Importing suspects from DOJ site");
 
-  const html = await axios.get("https://www.justice.gov/opa/investigations-regarding-violence-capitol");
+  const html = await axios.get("https://www.justice.gov/usao-dc/capitol-breach-cases");
 
   const root = parse(html.data);
   const tbody = root.querySelector("tbody");
