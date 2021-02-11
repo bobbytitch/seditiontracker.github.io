@@ -11,8 +11,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/christopher-kuehne.jpg
-suspect: christopher-kuehne.jpg
+image: /images/preview/christopher-kuehne.png
+suspect: christopher-kuehne.png
 booking:
 courtroom:
 courthouse:
@@ -23,7 +23,7 @@ title: Christopher Kuehne charged on February 11th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 
