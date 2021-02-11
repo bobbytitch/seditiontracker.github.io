@@ -2,7 +2,7 @@
 name: Christopher Kuehne
 lastName: Kuehne
 aka:
-residence:
+residence: Kansas
 status: Charged
 date: 2021-02-11
 charged: 2021-02-11
@@ -13,7 +13,7 @@ affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/christopher-kuehne.png
 suspect: christopher-kuehne.png
-booking:
+booking: christopher-kuehne.png
 courtroom:
 courthouse:
 raid:

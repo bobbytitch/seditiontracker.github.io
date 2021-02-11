@@ -2,7 +2,7 @@
 name: William Chrestman
 lastName: Chrestman
 aka:
-residence:
+residence: Kansas
 status: Charged
 date: 2021-02-11
 charged: 2021-02-11
@@ -13,7 +13,7 @@ affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/william-chrestman.png
 suspect: william-chrestman.png
-booking:
+booking: william-chrestman.png
 courtroom:
 courthouse:
 raid:

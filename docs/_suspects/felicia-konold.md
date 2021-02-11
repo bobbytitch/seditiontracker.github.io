@@ -2,7 +2,7 @@
 name: Felicia Konold
 lastName: Konold
 aka:
-residence:
+residence: Arizona
 status: Charged
 date: 2021-02-11
 charged: 2021-02-11
@@ -18,7 +18,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'I never could have imagined having that much of an influence on the events that unfolded today'
 title: Felicia Konold charged on February 11th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

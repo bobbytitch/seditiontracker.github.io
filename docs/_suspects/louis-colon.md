@@ -2,7 +2,7 @@
 name: Louis Colon
 lastName: Colon
 aka:
-residence:
+residence: Missouri
 status: Charged
 date: 2021-02-11
 charged: 2021-02-11
