@@ -3,9 +3,8 @@ import { writeFile } from "./common/file"
 import { info, warning } from "./common/console";
 import { ChargeEntry, getChargeData, lookupCode } from "./common/charge"
 import { getSuspectByFile, updateSuspect } from "./common/suspect"
-import { isEmpty, update } from "lodash"
-import { convertDojName, getSuspect } from "./common/suspect";
-import { lookup } from "dns";
+import { isEmpty } from "lodash"
+import { convertDojName } from "./common/suspect";
 
 const cmd = new Command().requiredOption("-f, --file <file>", "CSV file to use for import").option("-m, --map", "Build charge map");
 cmd.parse(process.argv);

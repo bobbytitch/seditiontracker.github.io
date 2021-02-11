@@ -4,6 +4,7 @@ import { error } from "./common/console";
 
 const suspect = new Command()
   .command("import", "import charges from CSV")
+  .command("missing", "list suspects that are missing charges")
 suspect.parse(process.argv);
 
 const subCmd = head(suspect.args);
