@@ -11,8 +11,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/louis-colon.jpg
-suspect: louis-colon.jpg
+image: /images/preview/louis-colon.png
+suspect: louis-colon.png
 booking:
 courtroom:
 courthouse:
@@ -23,7 +23,7 @@ title: Louis Colon charged on February 11th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 
