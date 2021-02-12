@@ -2,7 +2,7 @@
 name: Adam Honeycutt
 lastName: Honeycutt
 aka:
-residence:
+residence: Florida
 status: Charged
 date: 2021-02-11
 charged:
