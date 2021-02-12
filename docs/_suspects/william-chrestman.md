@@ -7,7 +7,7 @@ status: Charged
 date: 2021-02-11
 charged: 2021-02-11
 indicted:
-age:
+age: 47
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
