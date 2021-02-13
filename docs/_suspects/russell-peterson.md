@@ -2,12 +2,12 @@
 name: Russell Peterson
 lastName: Peterson
 aka:
-residence:
+residence: Pending
 status: Charged
 date: 2021-02-12
 charged:
 indicted:
-age:
+age: 34
 occupation:
 affiliations:
 jurisdiction: Federal

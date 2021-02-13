@@ -1,25 +1,25 @@
 ---
-name: Taylor Johnatakis
-lastName: Johnatakis
+name: Michael Pope
+lastName: Pope
 aka:
-residence: Washington
+residence: Idaho
 status: Charged
-date: 2021-02-11
+date:
 charged:
 indicted:
-age: 37
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/taylor-johnatakis.jpg
-suspect: taylor-johnatakis.jpg
+image: /images/preview/michael-pope.jpg
+suspect: michael-pope.jpg
 booking:
 courtroom:
 courthouse:
 raid:
 perpwalk:
 quote:
-title: Taylor Johnatakis charged on February 11th, 2021
+title: Michael Pope charged on [longDate]
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -27,4 +27,3 @@ published: false
 charges:
 ---
 - [News Report]()
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366951/download)
