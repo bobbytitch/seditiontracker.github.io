@@ -3,7 +3,7 @@ name: Taylor Johnatakis
 lastName: Johnatakis
 aka:
 residence: Washington
-status: Charged
+status: Indicted
 date: 2021-02-11
 charged:
 indicted:
@@ -26,5 +26,6 @@ layout: suspect
 published: false
 charges:
 ---
+
 - [News Report]()
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366951/download)
