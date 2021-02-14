@@ -121,11 +121,6 @@ const getCharges = async() => {
             link: `https://www.law.cornell.edu/uscode/text/${title}/${section}`
           })
         } else {
-          // // since the full regex did not work, try getting just the code
-          // if (charge.match(/(\d* USC \d*.*)-/)) {
-          //   console.log(`looking up by code: ${RegExp.$1}`)
-          //   console.log(`result: ${getChargeMap()[RegExp.$1]}`)
-          // }
           warning(`Unable to read charges for ${entry.name}`)
           console.log(charge)
           entry.charges = []
