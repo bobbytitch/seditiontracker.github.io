@@ -154,6 +154,7 @@ const falsePositives = (site: string) => {
       set.add("Courtwright");
       set.add("Blair"); // state charges
       set.add("Moore"); // state charges
+      set.add("Kuehn");
       break;
     case "GW":
       set.add("Calhoun Jr.");
@@ -171,6 +172,7 @@ const falsePositives = (site: string) => {
     case "DOJ":
       set.add("Capsel");
       set.add("Madden");
+      set.add("Alvear");
       break;
   }
 
@@ -228,6 +230,8 @@ const linkType = (description: string) => {
         return null;
       case /Information/.test(description):
         return "DOJ Press Release"
+      case /Motion for Pretrial Detention/.test(description):
+        return "Motion for Pretrial Detention"
       default:
         warning(`unknown link type: ${description}`)
         return "DOJ Press Release"
