@@ -23,7 +23,8 @@ title: William Pope charged on February 12, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
+
 - [News Report](https://www.komu.com/news/midmissourinews/update-kansas-man-arrested-in-relation-to-u-s-capitol-riot-two-missouri-men-also/article_a3e6bfa4-6d66-11eb-a9e0-f36f0598f077.html)
