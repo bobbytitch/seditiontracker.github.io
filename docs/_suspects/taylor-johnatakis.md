@@ -27,5 +27,5 @@ published: false
 charges:
 ---
 
-- [News Report]()
+- [News Report](https://www.kxly.com/fourth-washington-resident-charged-in-us-capitol-breach/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366951/download)
