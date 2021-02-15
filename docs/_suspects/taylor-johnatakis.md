@@ -4,9 +4,9 @@ lastName: Johnatakis
 aka:
 residence: Washington
 status: Indicted
-date: 2021-02-11
-charged:
-indicted:
+date: 2021-02-12
+charged: 2021-02-12
+indicted: 2021-02-12
 age: 37
 occupation:
 affiliations:
@@ -19,13 +19,27 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Taylor Johnatakis charged on February 11th, 2021
+title: Taylor Johnatakis charged on February 12th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: false
 charges:
+- name: Obstruction of an official proceeding
+  code: 18 USC 1512
+  link: https://www.law.cornell.edu/uscode/text/18/1512
+- name: Assaulting, resisting, or impeding certain officers or employees
+  code: 18 USC 111
+  link: https://www.law.cornell.edu/uscode/text/18/111
+- name: Civil disorder
+  code: 18 USC 231
+  link: https://www.law.cornell.edu/uscode/text/18/231
+- name: Unlawful entry on restricted building or grounds
+  code: 18 USC 1752
+  link: https://www.law.cornell.edu/uscode/text/18/1752
+- name: Violent entry or disorderly conduct on Capitol grounds
+  code: 40 USC 5104
+  link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
-
-- [News Report](https://www.kxly.com/fourth-washington-resident-charged-in-us-capitol-breach/)
+- [News Report](https://www.seattletimes.com/seattle-news/fourth-washington-state-resident-charged-in-us-capitol-breach/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366951/download)
