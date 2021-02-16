@@ -1,0 +1,30 @@
+---
+name: Joseph Barnes
+lastName: Barnes
+aka:
+residence: Texas
+status: Charged
+date: 2021-02-10
+charged: 2021-02-10
+indicted:
+age:
+occupation:
+affiliations:
+jurisdiction: Federal
+image: /images/preview/joseph-barnes.jpg
+suspect: joseph-barnes.jpg
+booking:
+courtroom:
+courthouse:
+raid:
+perpwalk:
+quote:
+title: Joseph Barnes charged on February 10, 2021
+description: Click for latest case details. Suspects innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: false
+charges:
+---
+
+- [News Report]()
