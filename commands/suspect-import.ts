@@ -155,6 +155,7 @@ const falsePositives = (site: string) => {
       set.add("Blair"); // state charges
       set.add("Moore"); // state charges
       set.add("Kuehn");
+      set.add("Sr.");
       break;
     case "GW":
       set.add("Calhoun Jr.");
