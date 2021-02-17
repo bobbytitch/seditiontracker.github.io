@@ -23,7 +23,8 @@ title: Daniel Caldwell arrested on February 10, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
+
 - [News Story](https://dentonrc.com/news/denton-county-man-allegedly-assaulted-officer-at-capitol-riot/article_bdf358b0-4e47-5d72-bf9a-11887f779425.html)

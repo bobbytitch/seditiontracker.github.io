@@ -18,12 +18,12 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'This is our house! This is our country! This is our country!'
 title: Joseph Barnes charged on February 10, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 
