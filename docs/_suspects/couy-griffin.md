@@ -38,3 +38,4 @@ charges:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355981/download)
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Couy%20Griffin%20Government%20Memorandum%20in%20Support%20of%20Pretrial%20Detention.pdf)
 - [Indictment](https://www.jus  tice.gov/usao-dc/case-multi-defendant/file/1365786/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cuoy%20Griffin%20Information.pdf)

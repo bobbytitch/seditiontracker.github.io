@@ -40,3 +40,4 @@ charges:
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351716/download)
 - [Statement of Facts](https://www.justice.gov/opa/press-release/file/1351721/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364786/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Fichett%20et%20al%20Information_0.pdf)

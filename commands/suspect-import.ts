@@ -97,7 +97,7 @@ const importGw = async (nameSet: Set<string>) => {
 
       const nameText = (entry.querySelector("strong") || entry.querySelector("em") || entry.querySelector("font")).innerText
 
-      const [lastName, rest] = nameText.split(",").map( (chunk:string) => chunk.trim().replace("&nbsp;", "").replace("IV", ""));
+      const [lastName, rest] = nameText.split(",").map( (chunk:string) => chunk.trim().replace("&nbsp;", "").replace(" IV", ""));
 
       const firstName = rest.split(" ")[0];
       const residence = entry.innerText.match(/State: (.*)/)[1].replace("Unknown", "").replace("&nbsp;", "").replace("Massachusets", "Massachusetts");
@@ -231,7 +231,7 @@ const linkType = (description: string) => {
         // ignore messed up GW links
         return null;
       case /Information/.test(description):
-        return "DOJ Press Release"
+        return "Information"
       case /Motion for Pretrial Detention/.test(description):
         return "Motion for Pretrial Detention"
       default:
