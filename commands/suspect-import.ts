@@ -97,7 +97,7 @@ const importGw = async (nameSet: Set<string>) => {
 
       const nameText = (entry.querySelector("strong") || entry.querySelector("em") || entry.querySelector("font")).innerText
 
-      const [lastName, rest] = nameText.split(",").map( (chunk:string) => chunk.trim().replace("&nbsp;", ""));
+      const [lastName, rest] = nameText.split(",").map( (chunk:string) => chunk.trim().replace("&nbsp;", "").replace("IV", ""));
 
       const firstName = rest.split(" ")[0];
       const residence = entry.innerText.match(/State: (.*)/)[1].replace("Unknown", "").replace("&nbsp;", "").replace("Massachusets", "Massachusetts");

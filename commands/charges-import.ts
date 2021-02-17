@@ -94,6 +94,7 @@ const getCharges = async() => {
       const charges = chargeCell.split("\n")
 
       for (let charge of charges) {
+        console.log({charge})
         charge = charge.replace("–", "-").replace("§", "")
         // ignore state charges
         if (/\d{1,2} DC.*/.test(charge)) {
