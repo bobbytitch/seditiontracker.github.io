@@ -14,7 +14,7 @@ jurisdiction: Federal
 image: /images/preview/bruno-cua.png
 suspect: bruno-cua.png
 booking:
-courtroom: bruno-cua.png
+courtroom: bruno-cua.jpg
 courthouse:
 raid:
 perpwalk:
