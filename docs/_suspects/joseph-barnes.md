@@ -7,8 +7,8 @@ status: Charged
 date: 2021-02-10
 charged: 2021-02-10
 indicted:
-age:
-occupation:
+age: 34
+occupation: Real Estate Agent
 affiliations:
 jurisdiction: Federal
 image: /images/preview/joseph-barnes.jpg
@@ -27,4 +27,4 @@ published: false
 charges:
 ---
 
-- [News Report]()
+- [News Report](https://www.kxan.com/news/local/austin/fbi-arrests-austin-real-estate-agent-accused-of-participating-in-u-s-capitol-riots/)
