@@ -37,3 +37,4 @@ charges:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355731/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356466/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364756/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20Baranyi%20Information.pdf)

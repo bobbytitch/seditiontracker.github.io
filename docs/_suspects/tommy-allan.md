@@ -45,3 +45,4 @@ charges:
 - [Complaint](https://www.justice.gov/file/1360801/download)
 - [Statement of Facts](https://www.justice.gov/file/1360801/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366031/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Tommy%20Frederick%20Allan%20Information.pdf)
