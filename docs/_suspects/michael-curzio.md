@@ -13,7 +13,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/arrest.jpg
 suspect: arrest.jpg
-booking:
+booking: michael-curzio.jpg
 courtroom:
 courthouse:
 raid:
