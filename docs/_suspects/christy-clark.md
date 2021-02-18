@@ -33,5 +33,4 @@ charges:
     link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
 
-- [News Report]()
 - [Statement of Facts](https://www.courtlistener.com/recap/gov.uscourts.dcd.227241/gov.uscourts.dcd.227241.1.1.pdf)

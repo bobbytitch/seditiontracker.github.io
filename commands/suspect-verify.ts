@@ -24,6 +24,12 @@ const doVerify = () => {
       continue;
     }
 
+    // make sure there are no empty links
+    const suspectText = readFile(`./docs/_suspects/${filename}`)
+    if (suspect.published && /- \[.*]\(\)/.test(suspectText)) {
+      exitWithError(`Empty link for ${suspect.name}`)
+    }
+
     if (suspect.status == "Indicted" && !suspect.indicted) {
       if (!suspect.name.includes("Pruitt") &&  !suspect.name.includes("Ehrke") && !suspect.name.includes("Loftus")) {
         exitWithError(`Missing indictment date for ${suspect.name}`);
