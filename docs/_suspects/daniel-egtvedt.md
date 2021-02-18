@@ -27,5 +27,5 @@ published: true
 charges:
 ---
 
-- [News Report](https://www.independent.co.uk/news/world/americas/capitol-riot-court-police-trump-b1803809.html)
+- [News Report](https://www.thedailybeast.com/daniel-egtvedt-rioter-who-boasted-of-gop-ties-was-an-absolute-nightmare-for-capitol-cops-doj-alleges)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daniel%20Dean%20Egtvedt%20Criminal%20Complaint.pdf)
