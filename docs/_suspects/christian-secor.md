@@ -23,7 +23,7 @@ title: Christian Secor charged on February 16, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 
