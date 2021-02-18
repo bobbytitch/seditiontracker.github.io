@@ -1,31 +1,31 @@
 ---
-name: Glenn Croy
-lastName: Croy
-aka: Wes Croy
-residence: Colorado
+name: Terry Lindsey
+lastName: Lindsey
+aka:
+residence: Ohio
 status: Charged
-date: 2021-02-17
-charged: 2021-02-17
+date: 2021-02-16
+charged: 2021-02-16
 indicted:
-age: 55
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/glenn-croy.png
-suspect: glenn-croy.png
+image: /images/preview/terry-lindsey.jpg
+suspect: terry-lindsey.jpg
 booking:
 courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'I was there'
-title: Glenn Croy arrested on February 17, 2021
+quote:
+title: Terry Lindsey charged on [longDate]
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: true
+published: false
 charges:
 ---
 
-- [News Story](https://denver.cbslocal.com/2021/02/17/glenn-wes-lee-croy-capitol-riot/)
+- [News Report]()
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Croy%20Arrest%20Warrant%20and%20Croy%20and%20Lindsey%20Complaint%20and%20Statement%20of%20Facts.pdf)
