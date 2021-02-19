@@ -3,10 +3,10 @@ name: Bennie Parker
 lastName: Parker
 aka:
 residence: Ohio
-status: Charged
+status: Indicted
 date: 2021-02-18
 charged: 2021-02-18
-indicted:
+indicted: 2021-02-19
 age: 70
 occupation:
 affiliations: Oath Keepers, Ohio Regular Militia
@@ -30,3 +30,5 @@ charges:
 - [News Story](https://www.dispatch.com/story/news/politics/state/2021/02/19/capitol-arrests-warren-county-couple-charged-jan-6-insurrection/4500408001/)
 - [Complaint](https://htv-prod-media.s3.amazonaws.com/files/morrow-couple-1613747755.pdf)
 - [Statement of Facts](https://htv-prod-media.s3.amazonaws.com/files/morrow-couple-1613747755.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369071/download)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/six-individuals-affiliated-oath-keepers-indicted-federal-grand-jury-conspiracy-obstruct)
