@@ -19,7 +19,7 @@ courthouse:
 raid: rachel-powell.jpg
 perpwalk:
 quote:
-title: Jeffrey Grace charged on February 4th, 2021
+title: Rachel Powell charged on February 4th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
