@@ -9,7 +9,7 @@ charged: 2021-02-18
 indicted:
 age: 70
 occupation:
-affiliations:
+affiliations: Oath Keepers, Ohio Regular Militia
 jurisdiction: Federal
 image: /images/preview/bennie-parker.png
 suspect: bennie-parker.png

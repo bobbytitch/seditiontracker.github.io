@@ -9,7 +9,7 @@ charged: 2021-02-18
 indicted:
 age: 60
 occupation:
-affiliations:
+affiliations: Oath Keepers, Ohio Regular Militia
 jurisdiction: Federal
 image: /images/preview/sandra-parker.png
 suspect: sandra-parker.png
