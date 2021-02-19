@@ -36,3 +36,4 @@ charges:
 - [Complaint](https://www.justice.gov/opa/page/file/1356641/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356646/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366076/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Valerie%20Ehrke%20Information.pdf)

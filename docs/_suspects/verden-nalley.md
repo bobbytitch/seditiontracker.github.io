@@ -23,7 +23,7 @@ title: Verden Nalley charged on February 17, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 

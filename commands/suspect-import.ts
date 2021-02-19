@@ -106,7 +106,7 @@ const importGw = async (nameSet: Set<string>) => {
         continue;
       }
 
-      const links = getLinks(entry)
+      const links = getLinks(entry, "", lastName)
       addData(nameSet, firstName, lastName, null, links, residence)
     }
   }
@@ -182,11 +182,11 @@ const falsePositives = (site: string) => {
   return set
 }
 
-const getLinks = (element: HTMLElement, prefix = "") => {
+const getLinks = (element: HTMLElement, prefix = "", lastName?:string) => {
   const links = {}
   const anchors = element.querySelectorAll("a");
   for (const anchor of anchors) {
-    const type = linkType(anchor.rawText);
+    const type = linkType(anchor.rawText, lastName);
     if (type) {
       links[type] = `${prefix}${anchor.attributes.href}`
     }
@@ -195,7 +195,7 @@ const getLinks = (element: HTMLElement, prefix = "") => {
   return links
 }
 
-const linkType = (description: string) => {
+const linkType = (description: string, lastName?: string) => {
     description = description.replace("&nbsp;", " ");
 
     switch(true) {
@@ -236,7 +236,7 @@ const linkType = (description: string) => {
       case /Motion for Pretrial Detention/.test(description):
         return "Motion for Pretrial Detention"
       default:
-        warning(`unknown link type: ${description}`)
+        warning(`unknown link type for ${lastName}: ${description}`)
         return "DOJ Press Release"
     }
 }

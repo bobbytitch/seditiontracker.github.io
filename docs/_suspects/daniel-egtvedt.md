@@ -7,7 +7,7 @@ status: Charged
 date: 2021-02-09
 charged: 2021-02-09
 indicted:
-age:
+age: 57
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -26,6 +26,5 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.thedailybeast.com/daniel-egtvedt-rioter-who-boasted-of-gop-ties-was-an-absolute-nightmare-for-capitol-cops-doj-alleges)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daniel%20Dean%20Egtvedt%20Criminal%20Complaint.pdf)
