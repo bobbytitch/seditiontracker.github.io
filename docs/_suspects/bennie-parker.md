@@ -18,7 +18,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'So can I bring my gun?'
 title: Bennie Parker arrested on February 18, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
