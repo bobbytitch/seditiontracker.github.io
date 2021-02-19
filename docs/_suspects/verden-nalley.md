@@ -4,9 +4,9 @@ lastName: Nalley
 aka:
 residence: Georgia
 status: Indicted
-date: 2021-02-17
-charged: 2021-02-16
-indicted: 2021-02-17
+date: 2021-02-12
+charged: 2021-02-12
+indicted: 2021-02-12
 age: 49
 occupation:
 affiliations:
