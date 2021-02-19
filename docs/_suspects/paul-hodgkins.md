@@ -11,15 +11,15 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/paul-hodgkins.jpg
-suspect: paul-hodgkins.jpg
+image: /images/preview/paul-hodgkins.png
+suspect: paul-hodgkins.png
 booking:
 courtroom:
 courthouse:
 raid:
 perpwalk:
 quote:
-title: Paul Hodgkins charged on [longDate]
+title: Paul Hodgkins charged on February 9, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
