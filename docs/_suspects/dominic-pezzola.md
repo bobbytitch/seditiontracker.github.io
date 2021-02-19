@@ -8,8 +8,8 @@ date: 2021-01-15
 charged: 2021-01-15
 indicted:
 age: 43
-occupation:
-affiliations: Proud Boys
+occupation: Former Military (Marines)
+affiliations: Proud Boys, USMC, U.S. Military
 jurisdiction: Federal
 image: /images/preview/033.jpg
 suspect: 033.jpg
@@ -18,7 +18,7 @@ courtroom: dominic-pezzola.png
 courthouse:
 raid:
 perpwalk:
-quote: "Victory smoke in the Capitol, boys. This is fucking awesome. I knew we could take this motherfucker over [if we] just tried hard enough."
+quote: 'Victory smoke in the Capitol, boys. This is fucking awesome. I knew we could take this motherfucker over [if we] just tried hard enough.'
 title: Dominic Pezzola charged on January 15, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
@@ -53,3 +53,4 @@ charges:
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/rochester-new-york-man-arrested-and-charged-destroying-property-and-obstruction)
 - [Complaint](https://www.justice.gov/opa/page/file/1355181/download)
 - [Indictment](https://www.justice.gov/opa/page/file/1362646/download)
+- [Defense Motion for Modification of Bond](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dominic%20Pezzola%20Defense%20Motion%20for%20Modification%20of%20Bond%20to%20Place%20Defendant%20on%20Conditional%20Release%20Pending%20Trial.pdf)
