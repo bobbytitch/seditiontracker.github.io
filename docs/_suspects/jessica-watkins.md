@@ -18,26 +18,27 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: "Me before forcing entry into the Capitol Building."
+quote: "I wouldn't worry about them coming after us."
 title: Jessica Watkins charged on January 17, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
 charges:
- - name: Conspiracy
-   code: 18 USC 371
-   link: https://www.law.cornell.edu/uscode/text/18/371
- - name: Obstruction of an official proceeding
-   code: 18 USC 1512
-   link: https://www.law.cornell.edu/uscode/text/18/1512
- - name: Destruction of government property
-   code: 18 USC 1361
-   link: https://www.law.cornell.edu/uscode/text/18/1361
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
+  - name: Conspiracy
+    code: 18 USC 371
+    link: https://www.law.cornell.edu/uscode/text/18/371
+  - name: Obstruction of an official proceeding
+    code: 18 USC 1512
+    link: https://www.law.cornell.edu/uscode/text/18/1512
+  - name: Destruction of government property
+    code: 18 USC 1361
+    link: https://www.law.cornell.edu/uscode/text/18/1361
+  - name: Unlawful entry on restricted building or grounds
+    code: 18 USC 1752
+    link: https://www.law.cornell.edu/uscode/text/18/1752
 ---
+
 - [News Report](https://www.whio.com/news/local/2-arrested-by-feds-possibly-linked-riot-washington-dc/TBMLXSMEQ5HGDNQW4KCWJGAD6A)
 - [FBI Raid](https://www.whio.com/news/local/fbi-surrounds-champaign-county-apartment-connection-dc-riots-man-says/6XNF3MMRJBDYFFZXBHLICKY2OE/)
 - [Self Incrimination (Audio)](https://www.wnycstudios.org/podcasts/otm/segments/zello-tapes-walkie-talkie-app-used-during-insurrection-on-the-media)
